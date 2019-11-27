@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/list_unit_scroll_container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:id="@+id/list_unit_linear_container"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TableRow
+            android:id="@+id/row_x"
+            android:layout_width="match_parent"
+            android:layout_height="72dp">
+
+            <ImageView
+                android:id="@+id/unit_x_img"
+                android:layout_width="72dp"
+                android:layout_height="72dp"
+                android:contentDescription="Sample image"
+                android:src="@mipmap/colors" />
+
+            <Space
+                android:id="@+id/small_space_x"
+                android:layout_width="16dp"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:id="@+id/unit_x_txt"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:text="Unit X Name" />
+
+            <TextView
+                android:id="@+id/unit_x_description_txt"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Sample Description" />
+
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/row_y"
+            android:layout_width="match_parent"
+            android:layout_height="72dp">
+
+            <ImageView
+                android:id="@+id/unit_x_img2"
+                android:layout_width="72dp"
+                android:layout_height="72dp"
+                android:contentDescription="Sample image"
+                android:src="@mipmap/duck" />
+
+            <Space
+                android:layout_width="16dp"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:id="@+id/unit_x_txt2"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:text="Unit X Name" />
+
+            <TextView
+                android:id="@+id/unit_x_description_txt2"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Sample Description" />
+        </TableRow>
+    </LinearLayout>
+</ScrollView>

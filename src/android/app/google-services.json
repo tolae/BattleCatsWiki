@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "150237855651",
+    "firebase_url": "https://bcatwiki.firebaseio.com",
+    "project_id": "bcatwiki",
+    "storage_bucket": "bcatwiki.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150237855651:android:247ed67770de4a17",
+        "android_client_info": {
+          "package_name": "com.spitfirex2.battlecatsmasterwiki"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "150237855651-ld9f9bg31chrpmmagn4mffcsvgcnf3oa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.spitfirex2.battlecatsmasterwiki",
+            "certificate_hash": "37f198a9b53b41c3d6951898854d0e6b55625999"
+          }
+        },
+        {
+          "client_id": "150237855651-mbhu6jq60jtdtecfngqjkk8t8noc8vm5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsH5FwRn5fpgsUnQE71LsYmo-7-muZhAA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "150237855651-mbhu6jq60jtdtecfngqjkk8t8noc8vm5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

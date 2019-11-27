@@ -1,0 +1,2363 @@
+
+ネコ (Cat) - No.001-1
+Stats:
+	health: 4,200
+	knockback: 3
+	attack rate (frames): 37
+	attack rate (seconds): 1.23秒
+	attack power: 335
+	movement speed: 10
+	attack animation (frames): 8
+	attack animation (seconds): 0.27秒
+	range: 140
+	respawn time (frames): 60
+	respawn time (seconds): 2.00秒
+	attack type: 単体
+	cost: 75
+Took 0.000839 seconds
+
+タンクネコ (Tank Cat) - No.002-1
+Stats:
+	health: 16,800
+	knockback: 1
+	attack rate (frames): 67
+	attack rate (seconds): 2.23秒
+	attack power: 85
+	movement speed: 8
+	attack animation (frames): 8
+	attack animation (seconds): 0.27秒
+	range: 110
+	respawn time (frames): 60
+	respawn time (seconds): 2.00秒
+	attack type: 範囲
+	cost: 150
+Took 0.000745 seconds
+
+バトルネコ (Axe Cat) - No.003-1
+Stats:
+	health: 8,400
+	knockback: 3
+	attack rate (frames): 27
+	attack rate (seconds): 0.90秒
+	attack power: 1,050
+	movement speed: 12
+	attack animation (frames): 8
+	attack animation (seconds): 0.27秒
+	range: 150
+	respawn time (frames): 60
+	respawn time (seconds): 2.00秒
+	attack type: 単体
+	cost: 300
+Took 0.000782 seconds
+
+キモネコ (Gross Cat) - No.004-1
+Stats:
+	health: 16,800
+	knockback: 3
+	attack rate (frames): 127
+	attack rate (seconds): 4.23秒
+	attack power: 4,200
+	movement speed: 10
+	attack animation (frames): 8
+	attack animation (seconds): 0.27秒
+	range: 350
+	respawn time (frames): 76
+	respawn time (seconds): 2.53秒
+	attack type: 単体
+	cost: 600
+Took 0.000674 seconds
+
+ウシネコ (Cow Cat) - No.005-1
+Stats:
+	health: 21,000
+	knockback: 5
+	attack rate (frames): 10
+	attack rate (seconds): 0.33秒
+	attack power: 545
+	movement speed: 30
+	attack animation (frames): 6
+	attack animation (seconds): 0.20秒
+	range: 140
+	respawn time (frames): 60
+	respawn time (seconds): 2.00秒
+	attack type: 単体
+	cost: 750
+Took 0.000735 seconds
+
+ネコノトリ (Bird Cat) - No.006-1
+Stats:
+	health: 12,600
+	knockback: 4
+	attack rate (frames): 49
+	attack rate (seconds): 1.63秒
+	attack power: 5,880
+	movement speed: 10
+	attack animation (frames): 10
+	attack animation (seconds): 0.33秒
+	range: 170
+	respawn time (frames): 60
+	respawn time (seconds): 2.00秒
+	attack type: 範囲
+	cost: 975
+Took 0.000724 seconds
+
+ネコフィッシュ (Fish Cat) - No.007-1
+Stats:
+	health: 29,400
+	knockback: 3
+	attack rate (frames): 53
+	attack rate (seconds): 1.77秒
+	attack power: 7,560
+	movement speed: 10
+	attack animation (frames): 10
+	attack animation (seconds): 0.33秒
+	range: 150
+	respawn time (frames): 136
+	respawn time (seconds): 4.53秒
+	attack type: 単体
+	cost: 1,200
+Took 0.000695 seconds
+
+ネコトカゲ (Lizard Cat) - No.008-1
+Stats:
+	health: 33,600
+	knockback: 3
+	attack rate (frames): 129
+	attack rate (seconds): 4.30秒
+	attack power: 14,700
+	movement speed: 10
+	attack animation (frames): 10
+	attack animation (seconds): 0.33秒
+	range: 400
+	respawn time (frames): 316
+	respawn time (seconds): 10.53秒
+	attack type: 単体
+	cost: 1,500
+Took 0.000689 seconds
+
+巨神ネコ (Titan Cat) - No.009-1
+Stats:
+	health: 42,000
+	knockback: 1
+	attack rate (frames): 67
+	attack rate (seconds): 2.23秒
+	attack power: 11,760
+	movement speed: 8
+	attack animation (frames): 18
+	attack animation (seconds): 0.60秒
+	range: 150
+	respawn time (frames): 556
+	respawn time (seconds): 18.53秒
+	attack type: 範囲
+	cost: 1,950
+Took 0.000669 seconds
+
+ネコ女優 (Actress Cat) - No.010-1
+Stats:
+	health: 6,800
+	knockback: 3
+	attack rate (frames): 126
+	attack rate (seconds): 4.20秒
+	attack power: 1,700
+	movement speed: 10
+	attack animation (frames): 7
+	attack animation (seconds): 0.23秒
+	range: 350
+	respawn time (frames): 76
+	respawn time (seconds): 2.53秒
+	attack type: 範囲
+	cost: 900
+Took 0.000689 seconds
+
+カンフーにゃんこ (Kung Fu Cat) - No.011-1
+Stats:
+	health: 15,300
+	knockback: 1
+	attack rate (frames): 210
+	attack rate (seconds): 7.00秒
+	attack power: 18,700
+	movement speed: 9
+	attack animation (frames): 11
+	attack animation (seconds): 0.37秒
+	range: 300
+	respawn time (frames): 606
+	respawn time (seconds): 20.20秒
+	attack type: 範囲
+	cost: 2,250
+Took 0.000726 seconds
+
+Mr. (Mr.) - No.012-1
+Stats:
+	health: 8,500
+	knockback: 5
+	attack rate (frames): 18
+	attack rate (seconds): 0.60秒
+	attack power: 595
+	movement speed: 31
+	attack animation (frames): 2
+	attack animation (seconds): 0.07秒
+	range: 140
+	respawn time (frames): 226
+	respawn time (seconds): 7.53秒
+	attack type: 範囲
+	cost: 825
+Took 0.000774 seconds
+
+猫縛り (Bondage Cat) - No.013-1
+Stats:
+	health: 11,900
+	knockback: 1
+	attack rate (frames): 45
+	attack rate (seconds): 1.50秒
+	attack power: 1,700
+	movement speed: 5
+	attack animation (frames): 6
+	attack animation (seconds): 0.20秒
+	range: 120
+	respawn time (frames): 186
+	respawn time (seconds): 6.20秒
+	attack type: 単体
+	cost: 1,035
+Took 0.000736 seconds
+
+女王猫 (Dom Cat) - No.014-1
+Stats:
+	health: 11,900
+	knockback: 1
+	attack rate (frames): 45
+	attack rate (seconds): 1.50秒
+	attack power: 2,241
+	movement speed: 5
+	attack animation (frames): 6
+	attack animation (seconds): 0.20秒
+	range: 210
+	respawn time (frames): 186
+	respawn time (seconds): 6.20秒
+	attack type: 単体
+	cost: 1,440
+Took 0.000691 seconds
+
+ネコの箱詰め (Cats in a Box) - No.015-1
+Stats:
+	health: 13,600
+	knockback: 3
+	attack rate (frames): 101
+	attack rate (seconds): 3.37秒
+	attack power: 5,100
+	movement speed: 35
+	attack animation (frames): 8
+	attack animation (seconds): 0.27秒
+	range: 140
+	respawn time (frames): 206
+	respawn time (seconds): 6.87秒
+	attack type: 範囲
+	cost: 1,125
+Took 0.000714 seconds
+
+ネコパンツ (Panties Cat) - No.016-1
+Stats:
+	health: 6,800
+	knockback: 3
+	attack rate (frames): 125
+	attack rate (seconds): 4.17秒
+	attack power: 1,700
+	movement speed: 10
+	attack animation (frames): 6
+	attack animation (seconds): 0.20秒
+	range: 350
+	respawn time (frames): 76
+	respawn time (seconds): 2.53秒
+	attack type: 単体
+	cost: 525
+Took 0.000672 seconds
+
+もねこ (Moneko) - No.017-1
+Stats:
+	health: 10,200
+	knockback: 4
+	attack rate (frames): 127
+	attack rate (seconds): 4.23秒
+	attack power: 6,800
+	movement speed: 5
+	attack animation (frames): 28
+	attack animation (seconds): 0.93秒
+	range: 160
+	respawn time (frames): 1744
+	respawn time (seconds): 58.13秒
+	attack type: 単体
+	cost: 148
+Took 0.000665 seconds
+
+ネコリンリン (Tricycle Cat) - No.018-1
+Stats:
+	health: 6,800
+	knockback: 4
+	attack rate (frames): 59
+	attack rate (seconds): 1.97秒
+	attack power: 3,060
+	movement speed: 10
+	attack animation (frames): 20
+	attack animation (seconds): 0.67秒
+	range: 170
+	respawn time (frames): 60
+	respawn time (seconds): 2.00秒
+	attack type: 範囲
+	cost: 1,050
+Took 0.000653 seconds
+
+ネコ忍者 (Ninja Cat) - No.019-1
+Stats:
+	health: 4,080
+	knockback: 3
+	attack rate (frames): 21
+	attack rate (seconds): 0.70秒
+	attack power: 474
+	movement speed: 13
+	attack animation (frames): 6
+	attack animation (seconds): 0.20秒
+	range: 150
+	respawn time (frames): 60
+	respawn time (seconds): 2.00秒
+	attack type: 単体
+	cost: 300
+Took 0.000703 seconds
+
+ネコゾンビ (Zombie Cat) - No.020-1
+Stats:
+	health: 11,900
+	knockback: 3
+	attack rate (frames): 59
+	attack rate (seconds): 1.97秒
+	attack power: 3,400
+	movement speed: 8
+	attack animation (frames): 16
+	attack animation (seconds): 0.53秒
+	range: 150
+	respawn time (frames): 146
+	respawn time (seconds): 4.87秒
+	attack type: 単体
+	cost: 1,125
+Took 0.000653 seconds
+
+ネコざむらい (Samurai Cat) - No.021-1
+Stats:
+	health: 9,180
+	knockback: 3
+	attack rate (frames): 57
+	attack rate (seconds): 1.90秒
+	attack power: 2,210
+	movement speed: 7
+	attack animation (frames): 18
+	attack animation (seconds): 0.60秒
+	range: 150
+	respawn time (frames): 60
+	respawn time (seconds): 2.00秒
+	attack type: 単体
+	cost: 525
+Took 0.000681 seconds
+
+スモウネコ (Sumo Cat) - No.022-1
+Stats:
+	health: 10,200
+	knockback: 1
+	attack rate (frames): 34
+	attack rate (seconds): 1.13秒
+	attack power: 150
+	movement speed: 8
+	attack animation (frames): 12
+	attack animation (seconds): 0.40秒
+	range: 110
+	respawn time (frames): 60
+	respawn time (seconds): 2.00秒
+	attack type: 範囲
+	cost: 300
+Took 0.000736 seconds
+
+ネコフィーバー (Boogie Cat) - No.023-1
+Stats:
+	health: 3,400
+	knockback: 3
+	attack rate (frames): 43
+	attack rate (seconds): 1.43秒
+	attack power: 340
+	movement speed: 6
+	attack animation (frames): 14
+	attack animation (seconds): 0.47秒
+	range: 140
+	respawn time (frames): 60
+	respawn time (seconds): 2.00秒
+	attack type: 単体
+	cost: 75
+Took 0.000752 seconds
+
+ネコスカート (Skirt Cat) - No.024-1
+Stats:
+	health: 6,800
+	knockback: 3
+	attack rate (frames): 125
+	attack rate (seconds): 4.17秒
+	attack power: 1,700
+	movement speed: 10
+	attack animation (frames): 6
+	attack animation (seconds): 0.20秒
+	range: 350
+	respawn time (frames): 76
+	respawn time (seconds): 2.53秒
+	attack type: 単体
+	cost: 525
+Took 0.000689 seconds
+
+ネコヴァルキリー (Valkyrie Cat) - No.025-1
+Stats:
+	health: 23,800
+	knockback: 2
+	attack rate (frames): 129
+	attack rate (seconds): 4.30秒
+	attack power: 8,500
+	movement speed: 20
+	attack animation (frames): 20
+	attack animation (seconds): 0.67秒
+	range: 350
+	respawn time (frames): 1946
+	respawn time (seconds): 64.87秒
+	attack type: 範囲
+	cost: 3,000
+Took 0.000623 seconds
+
+ネコムート (Bahamut Cat) - No.026-1
+Stats:
+	health: 25,500
+	knockback: 3
+	attack rate (frames): 600
+	attack rate (seconds): 20.00秒
+	attack power: 85,000
+	movement speed: 6
+	attack animation (frames): 121
+	attack animation (seconds): 4.03秒
+	range: 450
+	respawn time (frames): 4546
+	respawn time (seconds): 151.53秒
+	attack type: 範囲
+	cost: 4,500
+Took 0.000777 seconds
+
+ケリ姫 (Kerihime) - No.027-1
+Stats:
+	health: 10,200
+	knockback: 1
+	attack rate (frames): 241
+	attack rate (seconds): 8.03秒
+	attack power: 6,800
+	movement speed: 35
+	attack animation (frames): 4
+	attack animation (seconds): 0.13秒
+	range: 140
+	respawn time (frames): 546
+	respawn time (seconds): 18.20秒
+	attack type: 単体
+	cost: 675
+Took 0.000757 seconds
+
+ネコひめ (Cat Princess) - No.028-1
+Stats:
+	health: 10,200
+	knockback: 1
+	attack rate (frames): 161
+	attack rate (seconds): 5.37秒
+	attack power: 7,650
+	movement speed: 35
+	attack animation (frames): 2
+	attack animation (seconds): 0.07秒
+	range: 140
+	respawn time (frames): 446
+	respawn time (seconds): 14.87秒
+	attack type: 単体
+	cost: 675
+Took 0.000727 seconds
+
+ネコカプセル (Capsule Cat (A)) - No.029-1
+Stats:
+	health: 17
+	knockback: 1
+	attack rate (frames): 222
+	attack rate (seconds): 7.40秒
+	attack power: 5,100
+	movement speed: 70
+	attack animation (frames): 2
+	attack animation (seconds): 0.07秒
+	range: 140
+	respawn time (frames): 346
+	respawn time (seconds): 11.53秒
+	attack type: 単体
+	cost: 666
+Took 0.000750 seconds
+
+マスクオブネコ (Masked Cat) - No.030-1
+Stats:
+	health: 1,700
+	knockback: 3
+	attack rate (frames): 37
+	attack rate (seconds): 1.23秒
+	attack power: 135
+	movement speed: 10
+	attack animation (frames): 8
+	attack animation (seconds): 0.27秒
+	range: 140
+	respawn time (frames): 60
+	respawn time (seconds): 2.00秒
+	attack type: 単体
+	cost: 75
+Took 0.000672 seconds
+
+ネコぼさつ (Bodhisattva Cat) - No.031-1
+Stats:
+	health: 16,320
+	knockback: 2
+	attack rate (frames): 74
+	attack rate (seconds): 2.47秒
+	attack power: 5,015
+	movement speed: 7
+	attack animation (frames): 45
+	attack animation (seconds): 1.50秒
+	range: 270
+	respawn time (frames): 1186
+	respawn time (seconds): 39.53秒
+	attack type: 範囲
+	cost: 1,650
+Took 0.000657 seconds
+
+ネコ番長 (Delinquent Cat) - No.032-1
+Stats:
+	health: 17,000
+	knockback: 3
+	attack rate (frames): 97
+	attack rate (seconds): 3.23秒
+	attack power: 7,395
+	movement speed: 8
+	attack animation (frames): 18
+	attack animation (seconds): 0.60秒
+	range: 250
+	respawn time (frames): 1466
+	respawn time (seconds): 48.87秒
+	attack type: 範囲
+	cost: 1,500
+Took 0.000645 seconds
+
+ネコザイル (Hip Hop Cat) - No.033-1
+Stats:
+	health: 12,750
+	knockback: 5
+	attack rate (frames): 195
+	attack rate (seconds): 6.50秒
+	attack power: 12,750
+	movement speed: 11
+	attack animation (frames): 36
+	attack animation (seconds): 1.20秒
+	range: 220
+	respawn time (frames): 386
+	respawn time (seconds): 12.87秒
+	attack type: 単体
+	cost: 675
+Took 0.000672 seconds
+
+ねこタツ (Kotatsu Cat) - No.034-1
+Stats:
+	health: 20,400
+	knockback: 1
+	attack rate (frames): 51
+	attack rate (seconds): 1.70秒
+	attack power: 1,700
+	movement speed: 10
+	attack animation (frames): 42
+	attack animation (seconds): 1.40秒
+	range: 130
+	respawn time (frames): 306
+	respawn time (seconds): 10.20秒
+	attack type: 単体
+	cost: 720
+Took 0.000674 seconds
+
+ネコルガ (Nekoluga) - No.035-1
+Stats:
+	health: 8,500
+	knockback: 5
+	attack rate (frames): 82
+	attack rate (seconds): 2.73秒
+	attack power: 2,550
+	movement speed: 4
+	attack animation (frames): 13
+	attack animation (seconds): 0.43秒
+	range: 140
+	respawn time (frames): 746
+	respawn time (seconds): 24.87秒
+	attack type: 単体
+	cost: 4,500
+Took 0.000778 seconds
+
+オタネコ (Nerd Cat) - No.036-1
+Stats:
+	health: 3,400
+	knockback: 1
+	attack rate (frames): 241
+	attack rate (seconds): 8.03秒
+	attack power: 5,100
+	movement speed: 4
+	attack animation (frames): 72
+	attack animation (seconds): 2.40秒
+	range: 1,200
+	respawn time (frames): 4746
+	respawn time (seconds): 158.20秒
+	attack type: 単体
+	cost: 3,750
+Took 0.000774 seconds
+
+ネコスイマー (Swimmer Cat) - No.037-1
+Stats:
+	health: 12,750
+	knockback: 4
+	attack rate (frames): 121
+	attack rate (seconds): 4.03秒
+	attack power: 7,480
+	movement speed: 25
+	attack animation (frames): 21
+	attack animation (seconds): 0.70秒
+	range: 185
+	respawn time (frames): 306
+	respawn time (seconds): 10.20秒
+	attack type: 単体
+	cost: 675
+Took 0.000663 seconds
+
+ネコホッピング (Pogo Cat) - No.038-1
+Stats:
+	health: 5,100
+	knockback: 3
+	attack rate (frames): 49
+	attack rate (seconds): 1.63秒
+	attack power: 1,105
+	movement speed: 10
+	attack animation (frames): 16
+	attack animation (seconds): 0.53秒
+	range: 150
+	respawn time (frames): 60
+	respawn time (seconds): 2.00秒
+	attack type: 単体
+	cost: 360
+Took 0.000652 seconds
+
+ネコ車輪 (Wheel Cat) - No.039-1
+Stats:
+	health: 10,200
+	knockback: 2
+	attack rate (frames): 68
+	attack rate (seconds): 2.27秒
+	attack power: 3,740
+	movement speed: 9
+	attack animation (frames): 29
+	attack animation (seconds): 0.97秒
+	range: 170
+	respawn time (frames): 346
+	respawn time (seconds): 11.53秒
+	attack type: 範囲
+	cost: 1,050
+Took 0.000655 seconds
+
+ネコリンゴ (Apple Cat) - No.040-1
+Stats:
+	health: 15,300
+	knockback: 3
+	attack rate (frames): 96
+	attack rate (seconds): 3.20秒
+	attack power: 3,230
+	movement speed: 12
+	attack animation (frames): 6
+	attack animation (seconds): 0.20秒
+	range: 180
+	respawn time (frames): 386
+	respawn time (seconds): 12.87秒
+	attack type: 単体
+	cost: 825
+Took 0.000700 seconds
+
+ネコバスたぶ (Bath Cat) - No.041-1
+Stats:
+	health: 6,800
+	knockback: 3
+	attack rate (frames): 194
+	attack rate (seconds): 6.47秒
+	attack power: 6,800
+	movement speed: 9
+	attack animation (frames): 35
+	attack animation (seconds): 1.17秒
+	range: 400
+	respawn time (frames): 946
+	respawn time (seconds): 31.53秒
+	attack type: 単体
+	cost: 750
+Took 0.000684 seconds
+
+ネコエステ (Salon Cat) - No.042-1
+Stats:
+	health: 8,160
+	knockback: 3
+	attack rate (frames): 126
+	attack rate (seconds): 4.20秒
+	attack power: 3,060
+	movement speed: 10
+	attack animation (frames): 7
+	attack animation (seconds): 0.23秒
+	range: 350
+	respawn time (frames): 76
+	respawn time (seconds): 2.53秒
+	attack type: 範囲
+	cost: 900
+Took 0.000670 seconds
+
+ネコアイス (Ice Cat) - No.043-1
+Stats:
+	health: 23,800
+	knockback: 3
+	attack rate (frames): 183
+	attack rate (seconds): 6.10秒
+	attack power: 15,300
+	movement speed: 8
+	attack animation (frames): 54
+	attack animation (seconds): 1.80秒
+	range: 325
+	respawn time (frames): 1746
+	respawn time (seconds): 58.20秒
+	attack type: 範囲
+	cost: 3,300
+Took 0.000657 seconds
+
+ネコマシン (Cat Machine) - No.044-1
+Stats:
+	health: 81,600
+	knockback: 1
+	attack rate (frames): 367
+	attack rate (seconds): 12.23秒
+	attack power: 59,500
+	movement speed: 9
+	attack animation (frames): 168
+	attack animation (seconds): 5.60秒
+	range: 140
+	respawn time (frames): 1946
+	respawn time (seconds): 64.87秒
+	attack type: 範囲
+	cost: 3,600
+Took 0.000730 seconds
+
+鬼にゃんま (Lesser Demon Cat) - No.045-1
+Stats:
+	health: 37,400
+	knockback: 3
+	attack rate (frames): 68
+	attack rate (seconds): 2.27秒
+	attack power: 28,050
+	movement speed: 12
+	attack animation (frames): 28
+	attack animation (seconds): 0.93秒
+	range: 180
+	respawn time (frames): 856
+	respawn time (seconds): 28.53秒
+	attack type: 単体
+	cost: 3,000
+Took 0.000685 seconds
+
+芸者ねこ (Maiko Cat) - No.046-1
+Stats:
+	health: 1,700
+	knockback: 3
+	attack rate (frames): 37
+	attack rate (seconds): 1.23秒
+	attack power: 135
+	movement speed: 10
+	attack animation (frames): 8
+	attack animation (seconds): 0.27秒
+	range: 140
+	respawn time (frames): 60
+	respawn time (seconds): 2.00秒
+	attack type: 単体
+	cost: 75
+Took 0.000673 seconds
+
+ねこジュラ (Jurassic Cat) - No.047-1
+Stats:
+	health: 9,690
+	knockback: 3
+	attack rate (frames): 31
+	attack rate (seconds): 1.03秒
+	attack power: 1,240
+	movement speed: 12
+	attack animation (frames): 16
+	attack animation (seconds): 0.53秒
+	range: 150
+	respawn time (frames): 226
+	respawn time (seconds): 7.53秒
+	attack type: 単体
+	cost: 525
+Took 0.000648 seconds
+
+ねこファイター (Viking Cat) - No.048-1
+Stats:
+	health: 11,305
+	knockback: 3
+	attack rate (frames): 25
+	attack rate (seconds): 0.83秒
+	attack power: 1,360
+	movement speed: 11
+	attack animation (frames): 16
+	attack animation (seconds): 0.53秒
+	range: 140
+	respawn time (frames): 126
+	respawn time (seconds): 4.20秒
+	attack type: 単体
+	cost: 525
+Took 0.000646 seconds
+
+ねこ海賊 (Pirate Cat) - No.049-1
+Stats:
+	health: 5,185
+	knockback: 3
+	attack rate (frames): 45
+	attack rate (seconds): 1.50秒
+	attack power: 560
+	movement speed: 8
+	attack animation (frames): 10
+	attack animation (seconds): 0.33秒
+	range: 270
+	respawn time (frames): 186
+	respawn time (seconds): 6.20秒
+	attack type: 単体
+	cost: 510
+Took 0.000675 seconds
+
+ねこ泥棒 (Thief Cat) - No.050-1
+Stats:
+	health: 7,855
+	knockback: 3
+	attack rate (frames): 30
+	attack rate (seconds): 1.00秒
+	attack power: 917
+	movement speed: 13
+	attack animation (frames): 15
+	attack animation (seconds): 0.50秒
+	range: 170
+	respawn time (frames): 166
+	respawn time (seconds): 5.53秒
+	attack type: 単体
+	cost: 495
+Took 0.000731 seconds
+
+ねこ僧侶 (Bishop Cat) - No.051-1
+Stats:
+	health: 6,460
+	knockback: 3
+	attack rate (frames): 29
+	attack rate (seconds): 0.97秒
+	attack power: 630
+	movement speed: 10
+	attack animation (frames): 8
+	attack animation (seconds): 0.27秒
+	range: 200
+	respawn time (frames): 126
+	respawn time (seconds): 4.20秒
+	attack type: 単体
+	cost: 495
+Took 0.000721 seconds
+
+ねこ占い師 (Fortune Teller Cat) - No.052-1
+Stats:
+	health: 5,525
+	knockback: 3
+	attack rate (frames): 40
+	attack rate (seconds): 1.33秒
+	attack power: 612
+	movement speed: 9
+	attack animation (frames): 11
+	attack animation (seconds): 0.37秒
+	range: 240
+	respawn time (frames): 166
+	respawn time (seconds): 5.53秒
+	attack type: 単体
+	cost: 510
+Took 0.000677 seconds
+
+ネコシャーマン (Shaman Cat) - No.053-1
+Stats:
+	health: 5,372
+	knockback: 3
+	attack rate (frames): 54
+	attack rate (seconds): 1.80秒
+	attack power: 765
+	movement speed: 10
+	attack animation (frames): 23
+	attack animation (seconds): 0.77秒
+	range: 250
+	respawn time (frames): 186
+	respawn time (seconds): 6.20秒
+	attack type: 単体
+	cost: 510
+Took 0.000632 seconds
+
+エヴァンジェリスト (Evangelist Cat) - No.054-1
+Stats:
+	health: 3,400
+	knockback: 1
+	attack rate (frames): 1140
+	attack rate (seconds): 38.00秒
+	attack power: 1,020
+	movement speed: 18
+	attack animation (frames): 341
+	attack animation (seconds): 11.37秒
+	range: 1,000
+	respawn time (frames): 9746
+	respawn time (seconds): 324.87秒
+	attack type: 範囲
+	cost: 499
+Took 0.000673 seconds
+
+10式戦車 (Type 10) - No.055-1
+Stats:
+	health: 12,955
+	knockback: 4
+	attack rate (frames): 31
+	attack rate (seconds): 1.03秒
+	attack power: 3,910
+	movement speed: 6
+	attack animation (frames): 6
+	attack animation (seconds): 0.20秒
+	range: 140
+	respawn time (frames): 926
+	respawn time (seconds): 30.87秒
+	attack type: 範囲
+	cost: 1,413
+Took 0.000728 seconds
+
+ネコ魔女 (Witch Cat) - No.056-1
+Stats:
+	health: 6,460
+	knockback: 3
+	attack rate (frames): 43
+	attack rate (seconds): 1.43秒
+	attack power: 630
+	movement speed: 10
+	attack animation (frames): 22
+	attack animation (seconds): 0.73秒
+	range: 200
+	respawn time (frames): 126
+	respawn time (seconds): 4.20秒
+	attack type: 単体
+	cost: 495
+Took 0.000671 seconds
+
+ネコアーチャー (Archer Cat) - No.057-1
+Stats:
+	health: 3,060
+	knockback: 3
+	attack rate (frames): 72
+	attack rate (seconds): 2.40秒
+	attack power: 1,665
+	movement speed: 10
+	attack animation (frames): 43
+	attack animation (seconds): 1.43秒
+	range: 340
+	respawn time (frames): 346
+	respawn time (seconds): 11.53秒
+	attack type: 単体
+	cost: 1,230
+Took 0.000652 seconds
+
+ネコシュバリエ (Marauder Cat) - No.058-1
+Stats:
+	health: 22,100
+	knockback: 3
+	attack rate (frames): 150
+	attack rate (seconds): 5.00秒
+	attack power: 3,400
+	movement speed: 7
+	attack animation (frames): 31
+	attack animation (seconds): 1.03秒
+	range: 195
+	respawn time (frames): 1446
+	respawn time (seconds): 48.20秒
+	attack type: 単体
+	cost: 2,250
+Took 0.000695 seconds
+
+ネコ魔剣士 (Swordsman Cat) - No.059-1
+Stats:
+	health: 9,350
+	knockback: 3
+	attack rate (frames): 33
+	attack rate (seconds): 1.10秒
+	attack power: 1,700
+	movement speed: 11
+	attack animation (frames): 8
+	attack animation (seconds): 0.27秒
+	range: 155
+	respawn time (frames): 146
+	respawn time (seconds): 4.87秒
+	attack type: 単体
+	cost: 630
+Took 0.000674 seconds
+
+ねこベビー (Baby Cat) - No.060-1
+Stats:
+	health: 68,000
+	knockback: 2
+	attack rate (frames): 299
+	attack rate (seconds): 9.97秒
+	attack power: 37,400
+	movement speed: 9
+	attack animation (frames): 60
+	attack animation (seconds): 2.00秒
+	range: 140
+	respawn time (frames): 1546
+	respawn time (seconds): 51.53秒
+	attack type: 範囲
+	cost: 3,150
+Took 0.000735 seconds
+
+ネコブ・ロンズ (Bronze Cat) - No.061-1
+Stats:
+	health: 10,200
+	knockback: 2
+	attack rate (frames): 51
+	attack rate (seconds): 1.70秒
+	attack power: 1,665
+	movement speed: 8
+	attack animation (frames): 12
+	attack animation (seconds): 0.40秒
+	range: 160
+	respawn time (frames): 312
+	respawn time (seconds): 10.40秒
+	attack type: 範囲
+	cost: 630
+Took 0.000692 seconds
+
+ねこ寿司 (Sushi Cat) - No.062-1
+Stats:
+	health: 25,500
+	knockback: 2
+	attack rate (frames): 71
+	attack rate (seconds): 2.37秒
+	attack power: 1,360
+	movement speed: 16
+	attack animation (frames): 12
+	attack animation (seconds): 0.40秒
+	range: 130
+	respawn time (frames): 306
+	respawn time (seconds): 10.20秒
+	attack type: 範囲
+	cost: 1,425
+Took 0.000678 seconds
+
+ネコポン (Capsule Cat (B)) - No.063-1
+Stats:
+	health: 7,650
+	knockback: 1
+	attack rate (frames): 68
+	attack rate (seconds): 2.27秒
+	attack power: 170
+	movement speed: 8
+	attack animation (frames): 9
+	attack animation (seconds): 0.30秒
+	range: 110
+	respawn time (frames): 60
+	respawn time (seconds): 2.00秒
+	attack type: 範囲
+	cost: 150
+Took 0.000689 seconds
+
+ネコ運動会 (Sports Day Cat) - No.064-1
+Stats:
+	health: 11,900
+	knockback: 4
+	attack rate (frames): 37
+	attack rate (seconds): 1.23秒
+	attack power: 442
+	movement speed: 10
+	attack animation (frames): 8
+	attack animation (seconds): 0.27秒
+	range: 110
+	respawn time (frames): 60
+	respawn time (seconds): 2.00秒
+	attack type: 範囲
+	cost: 375
+Took 0.000742 seconds
+
+剣士 (Swordsman) - No.065-1
+Stats:
+	health: 4,760
+	knockback: 3
+	attack rate (frames): 136
+	attack rate (seconds): 4.53秒
+	attack power: 680
+	movement speed: 6
+	attack animation (frames): 27
+	attack animation (seconds): 0.90秒
+	range: 170
+	respawn time (frames): 126
+	respawn time (seconds): 4.20秒
+	attack type: 単体
+	cost: 240
+Took 0.000628 seconds
+
+ウシ姫 (Cow Princess) - No.066-1
+Stats:
+	health: 8,500
+	knockback: 5
+	attack rate (frames): 10
+	attack rate (seconds): 0.33秒
+	attack power: 510
+	movement speed: 30
+	attack animation (frames): 6
+	attack animation (seconds): 0.20秒
+	range: 161
+	respawn time (frames): 60
+	respawn time (seconds): 2.00秒
+	attack type: 単体
+	cost: 750
+Took 0.000702 seconds
+
+KHM48 (KHM48) - No.067-1
+Stats:
+	health: 6,800
+	knockback: 2
+	attack rate (frames): 205
+	attack rate (seconds): 6.83秒
+	attack power: 3,060
+	movement speed: 6
+	attack animation (frames): 26
+	attack animation (seconds): 0.87秒
+	range: 380
+	respawn time (frames): 1526
+	respawn time (seconds): 50.87秒
+	attack type: 範囲
+	cost: 2,100
+Took 0.000667 seconds
+
+チビガウ (Chibigau) - No.068-1
+Stats:
+	health: 10,200
+	knockback: 1
+	attack rate (frames): 115
+	attack rate (seconds): 3.83秒
+	attack power: 3,400
+	movement speed: 8
+	attack animation (frames): 56
+	attack animation (seconds): 1.87秒
+	range: 110
+	respawn time (frames): 76
+	respawn time (seconds): 2.53秒
+	attack type: 単体
+	cost: 300
+Took 0.000650 seconds
+
+執行者 (Enforcer) - No.069-1
+Stats:
+	health: 6,800
+	knockback: 3
+	attack rate (frames): 184
+	attack rate (seconds): 6.13秒
+	attack power: 3,400
+	movement speed: 7
+	attack animation (frames): 25
+	attack animation (seconds): 0.83秒
+	range: 360
+	respawn time (frames): 946
+	respawn time (seconds): 31.53秒
+	attack type: 範囲
+	cost: 750
+Took 0.000678 seconds
+
+眠れるケリの美女 (Sleeping Beauty) - No.070-1
+Stats:
+	health: 17,000
+	knockback: 1
+	attack rate (frames): 61
+	attack rate (seconds): 2.03秒
+	attack power: 4,760
+	movement speed: 6
+	attack animation (frames): 12
+	attack animation (seconds): 0.40秒
+	range: 160
+	respawn time (frames): 556
+	respawn time (seconds): 18.53秒
+	attack type: 範囲
+	cost: 1,950
+Took 0.000746 seconds
+
+ネコリーマン (Salaryman Cat) - No.071-1
+Stats:
+	health: 11,900
+	knockback: 1
+	attack rate (frames): 111
+	attack rate (seconds): 3.70秒
+	attack power: 2,720
+	movement speed: 8
+	attack animation (frames): 22
+	attack animation (seconds): 0.73秒
+	range: 210
+	respawn time (frames): 186
+	respawn time (seconds): 6.20秒
+	attack type: 単体
+	cost: 1,366
+Took 0.000626 seconds
+
+真田幸村 (Sanada Yukimura) - No.072-1
+Stats:
+	health: 14,450
+	knockback: 5
+	attack rate (frames): 137
+	attack rate (seconds): 4.57秒
+	attack power: 14,025
+	movement speed: 65
+	attack animation (frames): 1
+	attack animation (seconds): 0.03秒
+	range: 170
+	respawn time (frames): 1546
+	respawn time (seconds): 51.53秒
+	attack type: 範囲
+	cost: 3,075
+Took 0.000697 seconds
+
+前田慶次 (Maeda Keiji) - No.073-1
+Stats:
+	health: 25,500
+	knockback: 2
+	attack rate (frames): 190
+	attack rate (seconds): 6.33秒
+	attack power: 11,050
+	movement speed: 8
+	attack animation (frames): 11
+	attack animation (seconds): 0.37秒
+	range: 250
+	respawn time (frames): 2046
+	respawn time (seconds): 68.20秒
+	attack type: 範囲
+	cost: 3,585
+Took 0.000697 seconds
+
+織田信長 (Oda Nobunaga) - No.074-1
+Stats:
+	health: 16,150
+	knockback: 1
+	attack rate (frames): 111
+	attack rate (seconds): 3.70秒
+	attack power: 7,650
+	movement speed: 7
+	attack animation (frames): 82
+	attack animation (seconds): 2.73秒
+	range: 410
+	respawn time (frames): 2646
+	respawn time (seconds): 88.20秒
+	attack type: 範囲
+	cost: 4,350
+Took 0.000760 seconds
+
+トナカイフィッシュ (Reindeer Fish Cat) - No.075-1
+Stats:
+	health: 15,300
+	knockback: 3
+	attack rate (frames): 51
+	attack rate (seconds): 1.70秒
+	attack power: 3,332
+	movement speed: 10
+	attack animation (frames): 8
+	attack animation (seconds): 0.27秒
+	range: 150
+	respawn time (frames): 156
+	respawn time (seconds): 5.20秒
+	attack type: 単体
+	cost: 1,215
+Took 0.000817 seconds
+
+風神のウィンディ (Windy) - No.076-1
+Stats:
+	health: 13,600
+	knockback: 6
+	attack rate (frames): 408
+	attack rate (seconds): 13.60秒
+	attack power: 21,335
+	movement speed: 6
+	attack animation (frames): 81
+	attack animation (seconds): 2.70秒
+	range: 420
+	respawn time (frames): 3078
+	respawn time (seconds): 102.60秒
+	attack type: 範囲
+	cost: 4,425
+Took 0.000741 seconds
+
+雷神のサンディア (Thundia) - No.077-1
+Stats:
+	health: 13,600
+	knockback: 5
+	attack rate (frames): 397
+	attack rate (seconds): 13.23秒
+	attack power: 21,335
+	movement speed: 5
+	attack animation (frames): 90
+	attack animation (seconds): 3.00秒
+	range: 410
+	respawn time (frames): 3190
+	respawn time (seconds): 106.33秒
+	attack type: 範囲
+	cost: 4,410
+Took 0.000771 seconds
+
+ドロイド (Droid Cat) - No.078-1
+Stats:
+	health: 8,550
+	knockback: 2
+	attack rate (frames): 251
+	attack rate (seconds): 8.37秒
+	attack power: 1,020
+	movement speed: 5
+	attack animation (frames): 8
+	attack animation (seconds): 0.27秒
+	range: 110
+	respawn time (frames): 646
+	respawn time (seconds): 21.53秒
+	attack type: 範囲
+	cost: 150
+Took 0.000762 seconds
+
+ネコと宇宙 (Space Cat) - No.079-1
+Stats:
+	health: 3,060
+	knockback: 3
+	attack rate (frames): 61
+	attack rate (seconds): 2.03秒
+	attack power: 1,207
+	movement speed: 10
+	attack animation (frames): 30
+	attack animation (seconds): 1.00秒
+	range: 340
+	respawn time (frames): 346
+	respawn time (seconds): 11.53秒
+	attack type: 単体
+	cost: 630
+Took 0.000634 seconds
+
+にゃんこ成人 (Adult Cat) - No.080-1
+Stats:
+	health: 9,350
+	knockback: 2
+	attack rate (frames): 141
+	attack rate (seconds): 4.70秒
+	attack power: 5,950
+	movement speed: 5
+	attack animation (frames): 22
+	attack animation (seconds): 0.73秒
+	range: 120
+	respawn time (frames): 186
+	respawn time (seconds): 6.20秒
+	attack type: 単体
+	cost: 1,035
+Took 0.000687 seconds
+
+吾輩は鬼である (Evil Cat) - No.081-1
+Stats:
+	health: 11,882
+	knockback: 3
+	attack rate (frames): 59
+	attack rate (seconds): 1.97秒
+	attack power: 3,400
+	movement speed: 8
+	attack animation (frames): 16
+	attack animation (seconds): 0.53秒
+	range: 150
+	respawn time (frames): 146
+	respawn time (seconds): 4.87秒
+	attack type: 単体
+	cost: 1,125
+Took 0.000701 seconds
+
+ひなにゃんこ (Doll Cats) - No.082-1
+Stats:
+	health: 5,100
+	knockback: 4
+	attack rate (frames): 80
+	attack rate (seconds): 2.67秒
+	attack power: 2,840
+	movement speed: 10
+	attack animation (frames): 51
+	attack animation (seconds): 1.70秒
+	range: 190
+	respawn time (frames): 60
+	respawn time (seconds): 2.00秒
+	attack type: 範囲
+	cost: 975
+Took 0.000649 seconds
+
+ネコ忍者～青～ (Blue Shinobi) - No.083-1
+Stats:
+	health: 4,335
+	knockback: 3
+	attack rate (frames): 21
+	attack rate (seconds): 0.70秒
+	attack power: 510
+	movement speed: 13
+	attack animation (frames): 6
+	attack animation (seconds): 0.20秒
+	range: 154
+	respawn time (frames): 60
+	respawn time (seconds): 2.00秒
+	attack type: 単体
+	cost: 300
+Took 0.000731 seconds
+
+地龍ソドム (Sodom) - No.084-1
+Stats:
+	health: 101,150
+	knockback: 2
+	attack rate (frames): 414
+	attack rate (seconds): 13.80秒
+	attack power: 73,865
+	movement speed: 3
+	attack animation (frames): 65
+	attack animation (seconds): 2.17秒
+	range: 390
+	respawn time (frames): 3946
+	respawn time (seconds): 131.53秒
+	attack type: 範囲
+	cost: 6,450
+Took 0.000694 seconds
+
+聖龍メギドラ (Megidora) - No.085-1
+Stats:
+	health: 64,600
+	knockback: 3
+	attack rate (frames): 144
+	attack rate (seconds): 4.80秒
+	attack power: 25,465
+	movement speed: 15
+	attack animation (frames): 55
+	attack animation (seconds): 1.83秒
+	range: 410
+	respawn time (frames): 4546
+	respawn time (seconds): 151.53秒
+	attack type: 範囲
+	cost: 5,700
+Took 0.000669 seconds
+
+竜騎士バルス (Vars) - No.086-1
+Stats:
+	health: 61,200
+	knockback: 3
+	attack rate (frames): 162
+	attack rate (seconds): 5.40秒
+	attack power: 23,765
+	movement speed: 9
+	attack animation (frames): 43
+	attack animation (seconds): 1.43秒
+	range: 445
+	respawn time (frames): 4346
+	respawn time (seconds): 144.87秒
+	attack type: 範囲
+	cost: 5,610
+Took 0.000675 seconds
+
+神龍かむくら (Kamukura) - No.087-1
+Stats:
+	health: 68,000
+	knockback: 3
+	attack rate (frames): 283
+	attack rate (seconds): 9.43秒
+	attack power: 42,227
+	movement speed: 5
+	attack animation (frames): 60
+	attack animation (seconds): 2.00秒
+	range: 450
+	respawn time (frames): 4546
+	respawn time (seconds): 151.53秒
+	attack type: 範囲
+	cost: 6,150
+Took 0.000767 seconds
+
+竜戦機ライデン (Raiden) - No.088-1
+Stats:
+	health: 51,000
+	knockback: 3
+	attack rate (frames): 129
+	attack rate (seconds): 4.30秒
+	attack power: 25,755
+	movement speed: 12
+	attack animation (frames): 40
+	attack animation (seconds): 1.33秒
+	range: 385
+	respawn time (frames): 3706
+	respawn time (seconds): 123.53秒
+	attack type: 範囲
+	cost: 4,920
+Took 0.000605 seconds
+
+ネコなわとび (Rope Jump Cat) - No.089-1
+Stats:
+	health: 5,100
+	knockback: 3
+	attack rate (frames): 38
+	attack rate (seconds): 1.27秒
+	attack power: 1,105
+	movement speed: 10
+	attack animation (frames): 9
+	attack animation (seconds): 0.30秒
+	range: 170
+	respawn time (frames): 60
+	respawn time (seconds): 2.00秒
+	attack type: 単体
+	cost: 360
+Took 0.000778 seconds
+
+ニムエ (Nimue) - No.090-1
+Stats:
+	health: 13,565
+	knockback: 5
+	attack rate (frames): 406
+	attack rate (seconds): 13.53秒
+	attack power: 21,130
+	movement speed: 5
+	attack animation (frames): 63
+	attack animation (seconds): 2.10秒
+	range: 408
+	respawn time (frames): 3190
+	respawn time (seconds): 106.33秒
+	attack type: 範囲
+	cost: 4,335
+Took 0.000738 seconds
+
+猿王 (Monkey King) - No.091-1
+Stats:
+	health: 37,060
+	knockback: 3
+	attack rate (frames): 67
+	attack rate (seconds): 2.23秒
+	attack power: 27,880
+	movement speed: 12
+	attack animation (frames): 30
+	attack animation (seconds): 1.00秒
+	range: 177
+	respawn time (frames): 856
+	respawn time (seconds): 28.53秒
+	attack type: 単体
+	cost: 2,985
+Took 0.000636 seconds
+
+狂乱のネコ (Crazed Cat) - No.092-1
+Stats:
+	health: 5,220
+	knockback: 3
+	attack rate (frames): 37
+	attack rate (seconds): 1.23秒
+	attack power: 405
+	movement speed: 20
+	attack animation (frames): 8
+	attack animation (seconds): 0.27秒
+	range: 140
+	respawn time (frames): 60
+	respawn time (seconds): 2.00秒
+	attack type: 単体
+	cost: 75
+Took 0.000696 seconds
+
+狂乱のタンクネコ (Crazed Tank Cat) - No.093-1
+Stats:
+	health: 15,660
+	knockback: 1
+	attack rate (frames): 67
+	attack rate (seconds): 2.23秒
+	attack power: 102
+	movement speed: 16
+	attack animation (frames): 8
+	attack animation (seconds): 0.27秒
+	range: 110
+	respawn time (frames): 60
+	respawn time (seconds): 2.00秒
+	attack type: 範囲
+	cost: 150
+Took 0.000672 seconds
+
+狂乱のバトルネコ (Crazed Axe Cat) - No.094-1
+Stats:
+	health: 10,440
+	knockback: 3
+	attack rate (frames): 27
+	attack rate (seconds): 0.90秒
+	attack power: 1,885
+	movement speed: 12
+	attack animation (frames): 8
+	attack animation (seconds): 0.27秒
+	range: 150
+	respawn time (frames): 60
+	respawn time (seconds): 2.00秒
+	attack type: 単体
+	cost: 300
+Took 0.000690 seconds
+
+狂乱のキモネコ (Crazed Gross Cat) - No.095-1
+Stats:
+	health: 20,880
+	knockback: 3
+	attack rate (frames): 125
+	attack rate (seconds): 4.17秒
+	attack power: 5,220
+	movement speed: 10
+	attack animation (frames): 6
+	attack animation (seconds): 0.20秒
+	range: 350
+	respawn time (frames): 874
+	respawn time (seconds): 29.13秒
+	attack type: 単体
+	cost: 600
+Took 0.000693 seconds
+
+狂乱のウシネコ (Crazed Cow Cat) - No.096-1
+Stats:
+	health: 26,100
+	knockback: 5
+	attack rate (frames): 10
+	attack rate (seconds): 0.33秒
+	attack power: 682
+	movement speed: 50
+	attack animation (frames): 6
+	attack animation (seconds): 0.20秒
+	range: 140
+	respawn time (frames): 136
+	respawn time (seconds): 4.53秒
+	attack type: 範囲
+	cost: 750
+Took 0.000746 seconds
+
+狂乱のネコノトリ (Crazed Bird Cat) - No.097-1
+Stats:
+	health: 15,660
+	knockback: 4
+	attack rate (frames): 49
+	attack rate (seconds): 1.63秒
+	attack power: 6,960
+	movement speed: 10
+	attack animation (frames): 10
+	attack animation (seconds): 0.33秒
+	range: 205
+	respawn time (frames): 116
+	respawn time (seconds): 3.87秒
+	attack type: 範囲
+	cost: 975
+Took 0.000689 seconds
+
+狂乱のネコフィッシュ (Crazed Fish Cat) - No.098-1
+Stats:
+	health: 36,540
+	knockback: 3
+	attack rate (frames): 53
+	attack rate (seconds): 1.77秒
+	attack power: 9,395
+	movement speed: 13
+	attack animation (frames): 10
+	attack animation (seconds): 0.33秒
+	range: 150
+	respawn time (frames): 256
+	respawn time (seconds): 8.53秒
+	attack type: 単体
+	cost: 735
+Took 0.000720 seconds
+
+狂乱のネコトカゲ (Crazed Lizard Cat) - No.099-1
+Stats:
+	health: 23,490
+	knockback: 3
+	attack rate (frames): 127
+	attack rate (seconds): 4.23秒
+	attack power: 10,440
+	movement speed: 10
+	attack animation (frames): 8
+	attack animation (seconds): 0.27秒
+	range: 400
+	respawn time (frames): 516
+	respawn time (seconds): 17.20秒
+	attack type: 単体
+	cost: 1,500
+Took 0.000752 seconds
+
+狂乱の巨神ネコ (Crazed Titan Cat) - No.100-1
+Stats:
+	health: 52,200
+	knockback: 1
+	attack rate (frames): 81
+	attack rate (seconds): 2.70秒
+	attack power: 17,167
+	movement speed: 11
+	attack animation (frames): 47
+	attack animation (seconds): 1.57秒
+	range: 150
+	respawn time (frames): 676
+	respawn time (seconds): 22.53秒
+	attack type: 範囲
+	cost: 1,950
+Took 0.000649 seconds
+
+ネコ乙女 (Maiden Cat) - No.101-1
+Stats:
+	health: 16,897
+	knockback: 1
+	attack rate (frames): 69
+	attack rate (seconds): 2.30秒
+	attack power: 4,710
+	movement speed: 9
+	attack animation (frames): 18
+	attack animation (seconds): 0.60秒
+	range: 152
+	respawn time (frames): 606
+	respawn time (seconds): 20.20秒
+	attack type: 範囲
+	cost: 1,935
+Took 0.000652 seconds
+
+弱酸性エル (Clone Elle) - No.102-1
+Stats:
+	health: 3,400
+	knockback: 5
+	attack rate (frames): 87
+	attack rate (seconds): 2.90秒
+	attack power: 832
+	movement speed: 12
+	attack animation (frames): 36
+	attack animation (seconds): 1.20秒
+	range: 150
+	respawn time (frames): 142
+	respawn time (seconds): 4.73秒
+	attack type: 範囲
+	cost: 300
+Took 0.000608 seconds
+
+レッドマローン (Red Marron) - No.103-1
+Stats:
+	health: 1,700
+	knockback: 4
+	attack rate (frames): 37
+	attack rate (seconds): 1.23秒
+	attack power: 135
+	movement speed: 10
+	attack animation (frames): 18
+	attack animation (seconds): 0.60秒
+	range: 140
+	respawn time (frames): 60
+	respawn time (seconds): 2.00秒
+	attack type: 単体
+	cost: 75
+Took 0.000664 seconds
+
+歌謡にゃんこ (Singer Cat) - No.104-1
+Stats:
+	health: 1,700
+	knockback: 1
+	attack rate (frames): 37
+	attack rate (seconds): 1.23秒
+	attack power: 135
+	movement speed: 10
+	attack animation (frames): 8
+	attack animation (seconds): 0.27秒
+	range: 140
+	respawn time (frames): 60
+	respawn time (seconds): 2.00秒
+	attack type: 単体
+	cost: 105
+Took 0.000699 seconds
+
+マジでコイしてる (Koi Cat) - No.105-1
+Stats:
+	health: 6,970
+	knockback: 3
+	attack rate (frames): 127
+	attack rate (seconds): 4.23秒
+	attack power: 1,700
+	movement speed: 10
+	attack animation (frames): 8
+	attack animation (seconds): 0.27秒
+	range: 350
+	respawn time (frames): 96
+	respawn time (seconds): 3.20秒
+	attack type: 単体
+	cost: 615
+Took 0.000677 seconds
+
+猿帝のクウ (Kuu) - No.106-1
+Stats:
+	health: 23,800
+	knockback: 5
+	attack rate (frames): 539
+	attack rate (seconds): 17.97秒
+	attack power: 39,780
+	movement speed: 13
+	attack animation (frames): 60
+	attack animation (seconds): 2.00秒
+	range: 380
+	respawn time (frames): 3946
+	respawn time (seconds): 131.53秒
+	attack type: 範囲
+	cost: 4,200
+Took 0.000748 seconds
+
+召し豚のカイ (Kai) - No.107-1
+Stats:
+	health: 73,100
+	knockback: 2
+	attack rate (frames): 315
+	attack rate (seconds): 10.50秒
+	attack power: 52,870
+	movement speed: 8
+	attack animation (frames): 76
+	attack animation (seconds): 2.53秒
+	range: 175
+	respawn time (frames): 2146
+	respawn time (seconds): 71.53秒
+	attack type: 範囲
+	cost: 3,990
+Took 0.000767 seconds
+
+宝杖のカッパーマイン (Coppermine) - No.108-1
+Stats:
+	health: 21,590
+	knockback: 3
+	attack rate (frames): 189
+	attack rate (seconds): 6.30秒
+	attack power: 18,020
+	movement speed: 7
+	attack animation (frames): 100
+	attack animation (seconds): 3.33秒
+	range: 335
+	respawn time (frames): 1986
+	respawn time (seconds): 66.20秒
+	attack type: 範囲
+	cost: 3,720
+Took 0.000691 seconds
+
+にゃんこ3兄弟 (Cat Bros) - No.109-1
+Stats:
+	health: 5,440
+	knockback: 4
+	attack rate (frames): 91
+	attack rate (seconds): 3.03秒
+	attack power: 4,470
+	movement speed: 10
+	attack animation (frames): 32
+	attack animation (seconds): 1.07秒
+	range: 170
+	respawn time (frames): 60
+	respawn time (seconds): 2.00秒
+	attack type: 範囲
+	cost: 1,020
+Took 0.000645 seconds
+
+マダム・ザ・花嫁 (Madam Bride) - No.110-1
+Stats:
+	health: 19,380
+	knockback: 1
+	attack rate (frames): 34
+	attack rate (seconds): 1.13秒
+	attack power: 306
+	movement speed: 8
+	attack animation (frames): 12
+	attack animation (seconds): 0.40秒
+	range: 110
+	respawn time (frames): 226
+	respawn time (seconds): 7.53秒
+	attack type: 範囲
+	cost: 600
+Took 0.000691 seconds
+
+セレス (Seresu) - No.111-1
+Stats:
+	health: 6,665
+	knockback: 3
+	attack rate (frames): 65
+	attack rate (seconds): 2.17秒
+	attack power: 800
+	movement speed: 9
+	attack animation (frames): 26
+	attack animation (seconds): 0.87秒
+	range: 200
+	respawn time (frames): 126
+	respawn time (seconds): 4.20秒
+	attack type: 単体
+	cost: 435
+Took 0.000690 seconds
+
+ノノ (Nono) - No.112-1
+Stats:
+	health: 10,845
+	knockback: 1
+	attack rate (frames): 111
+	attack rate (seconds): 3.70秒
+	attack power: 510
+	movement speed: 11
+	attack animation (frames): 22
+	attack animation (seconds): 0.73秒
+	range: 190
+	respawn time (frames): 76
+	respawn time (seconds): 2.53秒
+	attack type: 単体
+	cost: 315
+Took 0.000628 seconds
+
+オルガ (Oruga) - No.113-1
+Stats:
+	health: 4,590
+	knockback: 3
+	attack rate (frames): 45
+	attack rate (seconds): 1.50秒
+	attack power: 407
+	movement speed: 9
+	attack animation (frames): 20
+	attack animation (seconds): 0.67秒
+	range: 265
+	respawn time (frames): 186
+	respawn time (seconds): 6.20秒
+	attack type: 単体
+	cost: 480
+Took 0.000618 seconds
+
+ノルン (Norun) - No.114-1
+Stats:
+	health: 8,160
+	knockback: 3
+	attack rate (frames): 93
+	attack rate (seconds): 3.10秒
+	attack power: 3,315
+	movement speed: 10
+	attack animation (frames): 30
+	attack animation (seconds): 1.00秒
+	range: 155
+	respawn time (frames): 146
+	respawn time (seconds): 4.87秒
+	attack type: 単体
+	cost: 645
+Took 0.000656 seconds
+
+よいち (Yoichi) - No.115-1
+Stats:
+	health: 3,315
+	knockback: 4
+	attack rate (frames): 73
+	attack rate (seconds): 2.43秒
+	attack power: 1,665
+	movement speed: 9
+	attack animation (frames): 34
+	attack animation (seconds): 1.13秒
+	range: 340
+	respawn time (frames): 346
+	respawn time (seconds): 11.53秒
+	attack type: 単体
+	cost: 1,110
+Took 0.000607 seconds
+
+セラム (Seramu) - No.116-1
+Stats:
+	health: 5,185
+	knockback: 6
+	attack rate (frames): 106
+	attack rate (seconds): 3.53秒
+	attack power: 2,040
+	movement speed: 16
+	attack animation (frames): 17
+	attack animation (seconds): 0.57秒
+	range: 250
+	respawn time (frames): 186
+	respawn time (seconds): 6.20秒
+	attack type: 単体
+	cost: 510
+Took 0.000584 seconds
+
+フウ (Fuu (EN: Satsuki)) - No.117-1
+Stats:
+	health: 5,015
+	knockback: 3
+	attack rate (frames): 63
+	attack rate (seconds): 2.10秒
+	attack power: 815
+	movement speed: 10
+	attack animation (frames): 31
+	attack animation (seconds): 1.03秒
+	range: 244
+	respawn time (frames): 186
+	respawn time (seconds): 6.20秒
+	attack type: 単体
+	cost: 450
+Took 0.000608 seconds
+
+アウラ (Aura) - No.118-1
+Stats:
+	health: 16,320
+	knockback: 2
+	attack rate (frames): 111
+	attack rate (seconds): 3.70秒
+	attack power: 7,140
+	movement speed: 7
+	attack animation (frames): 46
+	attack animation (seconds): 1.53秒
+	range: 280
+	respawn time (frames): 1186
+	respawn time (seconds): 39.53秒
+	attack type: 範囲
+	cost: 1,680
+Took 0.000632 seconds
+
+レイ (Rei) - No.119-1
+Stats:
+	health: 23,800
+	knockback: 3
+	attack rate (frames): 63
+	attack rate (seconds): 2.10秒
+	attack power: 6,970
+	movement speed: 14
+	attack animation (frames): 24
+	attack animation (seconds): 0.80秒
+	range: 194
+	respawn time (frames): 1466
+	respawn time (seconds): 48.87秒
+	attack type: 範囲
+	cost: 1,545
+Took 0.000627 seconds
+
+ワイバーン (Wyburn) - No.120-1
+Stats:
+	health: 21,250
+	knockback: 3
+	attack rate (frames): 121
+	attack rate (seconds): 4.03秒
+	attack power: 18,190
+	movement speed: 8
+	attack animation (frames): 55
+	attack animation (seconds): 1.83秒
+	range: 370
+	respawn time (frames): 2846
+	respawn time (seconds): 94.87秒
+	attack type: 範囲
+	cost: 4,470
+Took 0.000636 seconds
+
+癒術士 (Magical Healer) - No.121-1
+Stats:
+	health: 3,060
+	knockback: 3
+	attack rate (frames): 139
+	attack rate (seconds): 4.63秒
+	attack power: 17
+	movement speed: 11
+	attack animation (frames): 20
+	attack animation (seconds): 0.67秒
+	range: 160
+	respawn time (frames): 1706
+	respawn time (seconds): 56.87秒
+	attack type: 単体
+	cost: 300
+Took 0.000632 seconds
+
+メルク (Merc) - No.122-1
+Stats:
+	health: 1,700
+	knockback: 2
+	attack rate (frames): 201
+	attack rate (seconds): 6.70秒
+	attack power: 1,445
+	movement speed: 34
+	attack animation (frames): 1
+	attack animation (seconds): 0.03秒
+	range: 155
+	respawn time (frames): 926
+	respawn time (seconds): 30.87秒
+	attack type: 単体
+	cost: 570
+Took 0.000745 seconds
+
+女王様の休日 (Vacation Queen) - No.123-1
+Stats:
+	health: 11,882
+	knockback: 2
+	attack rate (frames): 197
+	attack rate (seconds): 6.57秒
+	attack power: 9,860
+	movement speed: 6
+	attack animation (frames): 78
+	attack animation (seconds): 2.60秒
+	range: 220
+	respawn time (frames): 186
+	respawn time (seconds): 6.20秒
+	attack type: 単体
+	cost: 1,440
+Took 0.000699 seconds
+
+マメマメにゃんこ (Bean Cats) - No.124-1
+Stats:
+	health: 4,335
+	knockback: 3
+	attack rate (frames): 99
+	attack rate (seconds): 3.30秒
+	attack power: 935
+	movement speed: 8
+	attack animation (frames): 40
+	attack animation (seconds): 1.33秒
+	range: 230
+	respawn time (frames): 294
+	respawn time (seconds): 9.80秒
+	attack type: 単体
+	cost: 495
+Took 0.000664 seconds
+
+伊達政宗 (Date Masamune) - No.125-1
+Stats:
+	health: 23,800
+	knockback: 3
+	attack rate (frames): 106
+	attack rate (seconds): 3.53秒
+	attack power: 11,492
+	movement speed: 16
+	attack animation (frames): 47
+	attack animation (seconds): 1.57秒
+	range: 395
+	respawn time (frames): 3706
+	respawn time (seconds): 123.53秒
+	attack type: 範囲
+	cost: 4,200
+Took 0.000627 seconds
+
+武田信玄 (Takeda Shingen) - No.126-1
+Stats:
+	health: 66,300
+	knockback: 2
+	attack rate (frames): 229
+	attack rate (seconds): 7.63秒
+	attack power: 44,200
+	movement speed: 7
+	attack animation (frames): 110
+	attack animation (seconds): 3.67秒
+	range: 440
+	respawn time (frames): 4846
+	respawn time (seconds): 161.53秒
+	attack type: 範囲
+	cost: 5,985
+Took 0.000776 seconds
+
+カラクリにゃんこ (Clockwork Cat) - No.127-1
+Stats:
+	health: 7,565
+	knockback: 4
+	attack rate (frames): 60
+	attack rate (seconds): 2.00秒
+	attack power: 917
+	movement speed: 24
+	attack animation (frames): 1
+	attack animation (seconds): 0.03秒
+	range: 200
+	respawn time (frames): 322
+	respawn time (seconds): 10.73秒
+	attack type: 単体
+	cost: 495
+Took 0.000737 seconds
+
+ネコフラワー (Flower Cat) - No.128-1
+Stats:
+	health: 2,550
+	knockback: 5
+	attack rate (frames): 83
+	attack rate (seconds): 2.77秒
+	attack power: 340
+	movement speed: 16
+	attack animation (frames): 12
+	attack animation (seconds): 0.40秒
+	range: 240
+	respawn time (frames): 186
+	respawn time (seconds): 6.20秒
+	attack type: 単体
+	cost: 510
+Took 0.000677 seconds
+
+うらめしにゃん (Vengeful Cat) - No.129-1
+Stats:
+	health: 6,630
+	knockback: 3
+	attack rate (frames): 233
+	attack rate (seconds): 7.77秒
+	attack power: 1,665
+	movement speed: 10
+	attack animation (frames): 54
+	attack animation (seconds): 1.80秒
+	range: 350
+	respawn time (frames): 106
+	respawn time (seconds): 3.53秒
+	attack type: 範囲
+	cost: 825
+Took 0.000659 seconds
+
+金ネコ (Gold Cat) - No.130-1
+Stats:
+	health: 1,700
+	knockback: 3
+	attack rate (frames): 37
+	attack rate (seconds): 1.23秒
+	attack power: 135
+	movement speed: 10
+	attack animation (frames): 8
+	attack animation (seconds): 0.27秒
+	range: 140
+	respawn time (frames): 60
+	respawn time (seconds): 2.00秒
+	attack type: 単体
+	cost: 75
+Took 0.000751 seconds
+
+ウルフとウルルン (Ururun Wolf) - No.131-1
+Stats:
+	health: 23,800
+	knockback: 4
+	attack rate (frames): 107
+	attack rate (seconds): 3.57秒
+	attack power: 15,300
+	movement speed: 8
+	attack animation (frames): 68
+	attack animation (seconds): 2.27秒
+	range: 440
+	respawn time (frames): 4846
+	respawn time (seconds): 161.53秒
+	attack type: 範囲
+	cost: 4,950
+Took 0.000731 seconds
+
+ねねこ (Neneko) - No.132-1
+Stats:
+	health: 8,500
+	knockback: 3
+	attack rate (frames): 127
+	attack rate (seconds): 4.23秒
+	attack power: 1,700
+	movement speed: 5
+	attack animation (frames): 28
+	attack animation (seconds): 0.93秒
+	range: 310
+	respawn time (frames): 1744
+	respawn time (seconds): 58.13秒
+	attack type: 単体
+	cost: 148
+Took 0.000676 seconds
+
+カンフーにゃんこG (Kung Fu Cat X) - No.133-1
+Stats:
+	health: 16,982
+	knockback: 1
+	attack rate (frames): 210
+	attack rate (seconds): 7.00秒
+	attack power: 21,760
+	movement speed: 8
+	attack animation (frames): 11
+	attack animation (seconds): 0.37秒
+	range: 300
+	respawn time (frames): 606
+	respawn time (seconds): 20.20秒
+	attack type: 単体
+	cost: 2,340
+Took 0.000726 seconds
+
+ヒカキン (Hikakin) - No.134-1
+Stats:
+	health: 8,500
+	knockback: 3
+	attack rate (frames): 127
+	attack rate (seconds): 4.23秒
+	attack power: 2,550
+	movement speed: 10
+	attack animation (frames): 8
+	attack animation (seconds): 0.27秒
+	range: 350
+	respawn time (frames): 226
+	respawn time (seconds): 7.53秒
+	attack type: 範囲
+	cost: 666
+Took 0.000844 seconds
+
+うらしまタロウ (Urashima Taro) - No.135-1
+Stats:
+	health: 13,090
+	knockback: 3
+	attack rate (frames): 70
+	attack rate (seconds): 2.33秒
+	attack power: 5,440
+	movement speed: 5
+	attack animation (frames): 11
+	attack animation (seconds): 0.37秒
+	range: 330
+	respawn time (frames): 266
+	respawn time (seconds): 8.87秒
+	attack type: 範囲
+	cost: 1,170
+Took 0.000693 seconds
+
+ツルの恩返し (The Grateful Crane) - No.136-1
+Stats:
+	health: 9,435
+	knockback: 3
+	attack rate (frames): 24
+	attack rate (seconds): 0.80秒
+	attack power: 4,080
+	movement speed: 4
+	attack animation (frames): 5
+	attack animation (seconds): 0.17秒
+	range: 200
+	respawn time (frames): 206
+	respawn time (seconds): 6.87秒
+	attack type: 範囲
+	cost: 832
+Took 0.000759 seconds
+
+ももたろう (Momotaro) - No.137-1
+Stats:
+	health: 12,240
+	knockback: 3
+	attack rate (frames): 79
+	attack rate (seconds): 2.63秒
+	attack power: 5,202
+	movement speed: 10
+	attack animation (frames): 20
+	attack animation (seconds): 0.67秒
+	range: 280
+	respawn time (frames): 146
+	respawn time (seconds): 4.87秒
+	attack type: 範囲
+	cost: 900
+Took 0.000745 seconds
+
+かさじぞう (Kasa Jizo) - No.138-1
+Stats:
+	health: 15,300
+	knockback: 3
+	attack rate (frames): 98
+	attack rate (seconds): 3.27秒
+	attack power: 6,800
+	movement speed: 14
+	attack animation (frames): 19
+	attack animation (seconds): 0.63秒
+	range: 320
+	respawn time (frames): 126
+	respawn time (seconds): 4.20秒
+	attack type: 範囲
+	cost: 750
+Took 0.000657 seconds
+
+かぐやひめ (Princess Kaguya) - No.139-1
+Stats:
+	health: 7,650
+	knockback: 3
+	attack rate (frames): 45
+	attack rate (seconds): 1.50秒
+	attack power: 4,250
+	movement speed: 8
+	attack animation (frames): 6
+	attack animation (seconds): 0.20秒
+	range: 280
+	respawn time (frames): 226
+	respawn time (seconds): 7.53秒
+	attack type: 範囲
+	cost: 600
+Took 0.000751 seconds
