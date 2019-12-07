@@ -8,6 +8,7 @@ import android.view.View;
 import android.widget.Button;
 
 import com.spitfirex2.battlecatsmasterwiki.activities.ListUnitActivity;
+import com.spitfirex2.battlecatsmasterwiki.database.FirebaseDB;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -26,5 +27,7 @@ public class MainActivity extends AppCompatActivity {
                 MainActivity.this.startActivity(intent);
             }
         });
+
+        FirebaseDB firebaseDB = new FirebaseDB();
     }
 }

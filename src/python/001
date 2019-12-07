@@ -1,0 +1,24 @@
+Jap Name: ネコ
+En Name: Cat
+Unit #: 001
+Desc: 安価で生産できる基本キャラ
+Combos: 	にゃんこ軍団 - ['001', '002', '003', '004', '005']
+	ネコの前で見せる笑顔 - ['001', '108']
+	ブラック＆ホワイト - ['320', '001']
+	庶民と金持ち - ['001', '130']
+Stats:
+Normal
+	health - 4,200
+	knockback - 3
+	attackRateF - 37
+	attackRateS - 1.23秒
+	attackPower - 335
+	movementSpeed - 10
+	attackAnimF - 8
+	attackAnimS - 0.27秒
+	range - 140
+	respawnTimeF - 60
+	respawnTimeS - 2.00秒
+	attackType - 単体
+	cost - 75Evolved
+True

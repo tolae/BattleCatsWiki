@@ -7,8 +7,8 @@ import androidx.viewpager.widget.ViewPager;
 
 import com.google.android.material.tabs.TabLayout;
 import com.spitfirex2.battlecatsmasterwiki.R;
-import com.spitfirex2.battlecatsmasterwiki.database.Unit;
-import com.spitfirex2.battlecatsmasterwiki.fragments.UnitFragmentAdapter;
+import com.spitfirex2.battlecatsmasterwiki.database.unit.Unit;
+import com.spitfirex2.battlecatsmasterwiki.fragments.Adapters.UnitFragmentAdapter;
 
 public class SpecUnitActivity extends AppCompatActivity {
     @Override

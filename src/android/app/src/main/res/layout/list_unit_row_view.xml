@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/list_unit_linear_container"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <TableRow
+        android:id="@+id/row"
+        android:layout_width="match_parent"
+        android:layout_height="72dp">
+
+        <ImageView
+            android:id="@+id/unit_img"
+            android:layout_width="72dp"
+            android:layout_height="72dp"
+            android:contentDescription="Sample image"
+            android:src="@mipmap/colors" />
+
+        <Space
+            android:id="@+id/small_space"
+            android:layout_width="16dp"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/unit_txt"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="Unit X Name" />
+
+        <TextView
+            android:id="@+id/unit_description_txt"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Sample Description" />
+
+    </TableRow>
+
+</LinearLayout>

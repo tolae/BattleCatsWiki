@@ -8,18 +8,18 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:150237855651:android:247ed67770de4a17",
+        "mobilesdk_app_id": "1:150237855651:android:c1fd0f50d80efd9a53e416",
         "android_client_info": {
           "package_name": "com.spitfirex2.battlecatsmasterwiki"
         }
       },
       "oauth_client": [
         {
-          "client_id": "150237855651-ld9f9bg31chrpmmagn4mffcsvgcnf3oa.apps.googleusercontent.com",
+          "client_id": "150237855651-stuge4vcuaciki07opqevaf0l34ugdbb.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "com.spitfirex2.battlecatsmasterwiki",
-            "certificate_hash": "37f198a9b53b41c3d6951898854d0e6b55625999"
+            "certificate_hash": "48d6278a12d7edfe49cfd389fe25a7e60778738f"
           }
         },
         {

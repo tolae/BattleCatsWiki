@@ -16,7 +16,8 @@ import androidx.annotation.Nullable;
 import androidx.fragment.app.Fragment;
 
 import com.spitfirex2.battlecatsmasterwiki.R;
-import com.spitfirex2.battlecatsmasterwiki.database.Unit;
+import com.spitfirex2.battlecatsmasterwiki.database.unit.Unit;
+import com.spitfirex2.battlecatsmasterwiki.database.unit.UnitStats;
 
 public class UnitFragment extends Fragment {
 
@@ -73,7 +74,7 @@ public class UnitFragment extends Fragment {
     }
 
     private void update(View layout) {
-        Unit.UnitStats stat = unit.getUnitStats(this.level);
+        UnitStats stat = unit.getUnitStats(this.level);
         TextView cost = layout.findViewById(R.id.unit_cost);
 
         cost.setText(String.valueOf(stat.cost));
