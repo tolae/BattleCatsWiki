@@ -26,103 +26,167 @@ UNIT_COMBO_SPLIT = "<hr class=\"line\"/>"
 UNIT_COMBO_NAME_REGEX = re.compile(r"<font class=\"H\">(\D+)</font>")
 UNIT_COMBO_UNIT_REGEX = re.compile(r"<a href=\"(\d+).html\">")
 
-class UnitDB(object):
-	def __init__(self):
-		self.jpName = []
-		self.enName = []
-		self.unitNumber = ""
-		self.description = []
-		self.combos = ({}, {}, {})
-		self.stats = ({}, {}, {})
+class UnitDetailsDB(object):
+	def __init__(self, form):
+		self.form = form
+		self.jpName = ""
+		self.enName = ""
+		self.version = ""
+		self.description = ""
+		self.combos = {}
+		self.stats = {}
 
 	@property
 	def full_name(self):
-		return "{jpName} ({enName}) - {number}".format(
+		return "{jpName} ({enName})".format(
 			jpName=self.jpName,
 			enName=self.enName,
-			number=self.unitNumber
 		)
 
 	def __str__(self):
-		stringfy = textwrap.dedent(
+		return textwrap.dedent(
 			"""\
+			Version: {version}
 			Jap Name: {jpName}
 			En Name: {enName}
-			Unit #: {unitNumber}
 			Desc: {description}
 			Combos: {combos}
-			Stats:
+			Stats: {stats}
 			"""
 		).format(
+			version = self.version,
 			jpName = self.jpName,
 			enName = self.enName,
-			unitNumber = self.unitNumber,
 			description = self.description,
-			combos = self._stringify_dict(self.combos)
+			combos = self._stringify_dict(self.combos),
+			stats = self._stringify_dict(self.stats)
 		)
-		stringfy += "Normal\n" + self._stringify_dict(self.stats[0])
-		stringfy += "Evolved\n" + self._stringify_dict(self.stats[1])
-		stringfy += "True\n" + self._stringify_dict(self.stats[2])
-		return stringfy
 
 	def _stringify_dict(self, stat):
 		return "\n".join(list("\t{key} - {value}".format(key=key, value=value) for key, value in stat.items()))
 
-def parse_cat_unit_raw(raw_data, unit):
-	try:
-		if n == 10:
-			match = NUMBER_FORM_REGEX.search(raw_data[0].text)
-			unit.unitNumber = match.group("number")
-			unit.jpName = raw_data[1].text
-			unit.enName = list(list(eng_table.children)[5 + ((int(unit.unitNumber) - 1) * 2)].children)[3].text.strip()
-			unit.version = raw_data[2].text
-		elif n == 12:
-			unit.rarity = raw_data[0].a.text
-			unit.img = raw_data[1].img.attrs['src']
-			unit.stats[0]['health'] = MASSAGE(list(raw_data[3].children)[0])
-			unit.stats[0]['knockback'] = MASSAGE(raw_data[5])
-			unit.stats[0]['attackRateF'] = MASSAGE(raw_data[7])
-			unit.stats[0]['attackRateS'] = MASSAGE(raw_data[8])
-		elif n == 13:
-			unit.stats[0]['attackPower'] = MASSAGE(raw_data[1])
-			unit.stats[0]['movementSpeed'] = MASSAGE(raw_data[3])
-			unit.stats[0]['attackAnimF'] = MASSAGE(raw_data[5])
-			unit.stats[0]['attackAnimS'] = MASSAGE(raw_data[6])
-		elif n == 14:
-			unit.stats[0]['range'] = MASSAGE(raw_data[5])
-			unit.stats[0]['respawnTimeF'] = MASSAGE(raw_data[7])
-			unit.stats[0]['respawnTimeS'] = MASSAGE(raw_data[8])
-		elif n == 15:
-			unit.stats[0]['attackType'] = MASSAGE(raw_data[3])
-			unit.stats[0]['cost'] = MASSAGE(raw_data[5])
-		elif n == 16:
-			# TODO: Special abilities
-			pass
-		elif n == 17:
-			unit.description = MASSAGE(raw_data[1])
-		elif n == 18:
-			# TODO: Obtain condition
-			pass
-		elif n == 19:
-			for combo in str(raw_data[1]).split(UNIT_COMBO_SPLIT):
-				name = UNIT_COMBO_NAME_REGEX.search(combo)
-				if name == None:
-					continue
-				name = name.group(1)
-				unit_list = UNIT_COMBO_UNIT_REGEX.findall(combo)
-				unit.combos[name] = unit_list
-		elif n == 23: # Evolved Form
-			match = NUMBER_FORM_REGEX.search(raw_data[0].text)
-			unit.unitNumber = match.group("number")
-			unit.jpName = raw_data[1].text
-			unit.enName = list(list(eng_table.children)[5 + ((int(unit.unitNumber) - 1) * 2)].children)[3].text.strip()
-			unit.version = raw_data[2].text
 
+class UnitDB(object):
+	def __init__(self):
+		self.unitNumber = ""
+		self._unitDetails = {
+			"Normal": UnitDetailsDB("Normal"),
+			"Evolved": UnitDetailsDB("Evolved"),
+			"True": UnitDetailsDB("True")
+		}
+
+	def __getitem__(self, item):
+		return self._unitDetails[item]
+
+	def __str__(self):
+		return textwrap.dedent(
+"""\
+{number}\n
+Normal:\n{normal}\n
+Evolved:\n{evolved}\n
+True:\n{true}\n
+""".format(
+				number=self.unitNumber,
+				normal=self._unitDetails["Normal"],
+				evolved=self._unitDetails["Evolved"],
+				true=self._unitDetails["True"]
+			)
+		)
+
+got_a_form = 0
+saved_n = -1
+def parse_cat_unit_raw(raw_data, unit):
+	global got_a_form, saved_n
+	try:
+		try:
+			match = NUMBER_FORM_REGEX.search(raw_data[0].text)
+		except IndexError:
+			match = None
+
+		if match is not None:
+			unit.unitNumber = match.group("number")
+			got_a_form = int(match.group("form"))
+			saved_n = n
+
+		if got_a_form is 1:
+			_parse_form(raw_data, unit, "Normal", saved_n)
+		elif got_a_form is 2:
+			_parse_form(raw_data, unit, "Evolved", saved_n)
+		elif got_a_form is 3:
+			_parse_form(raw_data, unit, "True", saved_n)
+
+	except IndexError as ie:
+		print("Data not available for {}. Skipping".format(_get_data_from_row(n)))
 	except Exception as e:
 		print("Error parsing unit at row {}".format(n))
 		print(raw_data)
 		traceback.print_tb(e.__traceback__)
 		print(e)
+
+def _parse_form(raw_data, unit, form, saved_n):
+	if n == saved_n:
+		unit[form].jpName = raw_data[1].text
+		if form == "Normal":
+			unit[form].enName = list(list(eng_table.children)[5 + ((int(unit.unitNumber) - 1) * 2)].children)[3].text.strip()
+		elif form == "Evolved":
+			unit[form].enName = list(list(eng_table.children)[5 + ((int(unit.unitNumber) - 1) * 2)].children)[4].text.split('/')[0].strip()
+		elif form == "True":
+			unit[form].enName = list(list(eng_table.children)[5 + ((int(unit.unitNumber) - 1) * 2)].children)[4].text.split('/')[1].strip()
+		else:
+			unit[form].enName = "No En Name Available"
+		unit[form].version = raw_data[2].text
+	elif n == saved_n + 2:
+		unit[form].rarity = raw_data[0].a.text
+		unit[form].img = raw_data[1].img.attrs['src']
+		unit[form].stats['health'] = MASSAGE(list(raw_data[3].children)[0])
+		unit[form].stats['knockback'] = MASSAGE(raw_data[5])
+		unit[form].stats['attackRateF'] = MASSAGE(raw_data[7])
+		unit[form].stats['attackRateS'] = MASSAGE(raw_data[8])
+	elif n == saved_n + 3:
+		unit[form].stats['attackPower'] = MASSAGE(raw_data[1])
+		unit[form].stats['movementSpeed'] = MASSAGE(raw_data[3])
+		unit[form].stats['attackAnimF'] = MASSAGE(raw_data[5])
+		unit[form].stats['attackAnimS'] = MASSAGE(raw_data[6])
+	elif n == saved_n + 4:
+		unit[form].stats['range'] = MASSAGE(raw_data[5])
+		unit[form].stats['respawnTimeF'] = MASSAGE(raw_data[7])
+		unit[form].stats['respawnTimeS'] = MASSAGE(raw_data[8])
+	elif n == saved_n + 5:
+		unit[form].stats['attackType'] = MASSAGE(raw_data[3])
+		unit[form].stats['cost'] = MASSAGE(raw_data[5])
+	elif n == saved_n + 6:
+		# TODO: Special abilities
+		pass
+	elif n == saved_n + 7:
+		unit[form].description = MASSAGE(raw_data[1])
+	elif n == saved_n + 8:
+		# TODO: Obtain condition
+		pass
+	elif n == saved_n + 9:
+		for combo in str(raw_data[1]).split(UNIT_COMBO_SPLIT):
+			name = UNIT_COMBO_NAME_REGEX.search(combo)
+			if name == None:
+				continue
+			name = name.group(1)
+			unit_list = UNIT_COMBO_UNIT_REGEX.findall(combo)
+			unit[form].combos[name] = unit_list
+
+def _get_data_from_row(n):
+	global saved_n
+	if n == saved_n:
+		return "unit name and version"
+	elif n >= saved_n + 2 and n <= saved_n + 5:
+		return "unit stat row"
+	elif n == saved_n + 6:
+		return "special abilities"
+	elif n == saved_n + 7:
+		return "description"
+	elif n == saved_n + 8:
+		return "obtain condition"
+	elif n == saved_n + 9:
+		return "combos"
+	else:
+		return "ERROR - INVALID N"
 
 def url_to_soup(url, check=False):
 	soup_url = requests.get(url)
@@ -146,7 +210,7 @@ if __name__ == "__main__":
 	try:
 		unit_arr = []
 
-		for i in range(1, 2):
+		for i in range(1, 10):
 			unit = UnitDB()
 			scipa_soup = url_to_soup(SCIPA_DB_CAT_UNIT(i))
 			eng_soup = url_to_soup(ENG_WIKI_CAT_NAMES)
@@ -161,7 +225,7 @@ if __name__ == "__main__":
 			print("Took %f seconds" % (time.time() - start))
 			unit_arr.append(unit)
 
-			with open(unit.unitNumber, "w") as f:
+			with open(unit.unitNumber + ".cat", "w") as f:
 				f.write(unit.__str__())
 		# upload()
 		print("Done! Total cat processed: %d" % len(unit_arr))
