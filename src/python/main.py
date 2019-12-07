@@ -195,16 +195,22 @@ def url_to_soup(url, check=False):
 	return BeautifulSoup(soup_url.text, "lxml")
 
 def upload():
-	cred = credentials.Certificate("/home/etola/Projects/Personal/BattleCatsWiki/bcatwiki-firebase-adminsdk-h34ri-5c1974ed8d.json")
+	cred = credentials.Certificate("/home/etola/Projects/Personal/BattleCatsWiki/bcatwiki-firebase-adminsdk-qqxi6-3601769fe8.json")
 	firebase_admin.initialize_app(cred, {
 		'databaseURL': "https://bcatwiki.firebaseio.com/"
 	})
 
 	mFiredb = db.reference("cat_units")
 
+	def _upload_form(db_ref, form):
+		unit_db_ref_form = db_ref.child( form )
+		unit_db_ref_form.set( unit[form].__dict__ )
+
 	for unit in unit_arr:
 		unit_db_ref = mFiredb.child( unit.unitNumber )
-		unit_db_ref.set( unit.__dict__ )
+		_upload_form(unit_db_ref, "Normal")
+		_upload_form(unit_db_ref, "Evolved")
+		_upload_form(unit_db_ref, "True")
 
 if __name__ == "__main__":
 	try:
@@ -227,7 +233,7 @@ if __name__ == "__main__":
 
 			with open(unit.unitNumber + ".cat", "w") as f:
 				f.write(unit.__str__())
-		# upload()
+		upload()
 		print("Done! Total cat processed: %d" % len(unit_arr))
 	except KeyboardInterrupt:
 		pass
