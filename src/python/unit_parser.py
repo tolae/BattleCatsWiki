@@ -43,6 +43,8 @@ def parse_cat_unit(unit_num):
 	with open(unit.unitNumber + ".cat", "w") as f:
 		f.write(unit.__str__())
 
+	return unit
+
 def _parse_cat_unit_raw(raw_data, eng_table, unit, row):
 	global got_a_form, saved_n
 	try:

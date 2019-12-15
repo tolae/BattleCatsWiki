@@ -7,7 +7,7 @@ from firebase_admin import db
 
 from unit_parser import parse_cat_unit
 
-def upload():
+def upload(unit_arr):
 	cred = credentials.Certificate("/home/etola/Projects/Personal/BattleCatsWiki/bcatwiki-firebase-adminsdk-qqxi6-3601769fe8.json")
 	firebase_admin.initialize_app(cred, {
 		'databaseURL': "https://bcatwiki.firebaseio.com/"
@@ -27,12 +27,12 @@ def upload():
 
 if __name__ == "__main__":
 	try:
-		unit_arr = []
 		start_time = time.time()
 		pools = Pool(processes=cpu_count())
-		pools.map(parse_cat_unit, range(1, 540))
+		unit_arr = list(filter(None, pools.map(parse_cat_unit, range(1, 540))))
 
-		# upload()
+		print(unit_arr)
+		# upload(unit_arr)
 		print("Done! Total cat processed: %d in %.03f" % (len(unit_arr), time.time() - start_time))
 	except KeyboardInterrupt:
 		pass
