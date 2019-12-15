@@ -5,7 +5,7 @@ from bs4 import BeautifulSoup
 
 import traceback
 
-from unit import UnitDB, UnitDetailsDB
+from unit import UnitDB, UnitDetailsDB, ICON_TO_ABILITY_MAP
 
 SCIPA_DB_BASE = "https://battlecats-db.com/"
 SCIPA_DB_CAT_UNIT = lambda unit_id: SCIPA_DB_BASE + "unit/%03d.html" % unit_id
@@ -20,6 +20,8 @@ NUMBER_FORM_REGEX = re.compile(r"No.(?P<number>(\d+))-(?P<form>(\d))")
 UNIT_COMBO_SPLIT = "<hr class=\"line\"/>"
 UNIT_COMBO_NAME_REGEX = re.compile(r"<font class=\"H\">(\D+)</font>")
 UNIT_COMBO_UNIT_REGEX = re.compile(r"<a href=\"(\d+).html\">")
+
+UNIT_ABIL_ICON_REGEX = re.compile(r"<img class=\"icon_s\" src=\"https://battlecats-db.imgs-server.com/icon_s_(?P<ability>\d+).png\"/>")
 
 got_a_form = 0
 saved_n = -1
@@ -106,8 +108,14 @@ def _parse_form(raw_data, eng_table, unit, row, form):
 		unit[form].stats['attackType'] = MASSAGE(raw_data[3])
 		unit[form].stats['cost'] = MASSAGE(raw_data[5])
 	elif row == saved_n + 6:
-		# TODO: Special abilities
-		pass
+		try:
+			for icon_num in UNIT_ABIL_ICON_REGEX.findall(str(raw_data[1])):
+				ability = ICON_TO_ABILITY_MAP[int(icon_num)]
+				if ability:
+					unit[form].abilities.append(int(icon_num))
+		except KeyError:
+			print("Unit #{}-{}: Ability {} not in DB".format(unit.unitNumber, form, icon_num))
+			raise IndexError
 	elif row == saved_n + 7:
 		unit[form].description = MASSAGE(raw_data[1])
 	elif row == saved_n + 8:
