@@ -12,6 +12,8 @@ import firebase_admin
 from firebase_admin import credentials
 from firebase_admin import db
 
+from unit import UnitDB, UnitDetailsDB
+
 SCIPA_DB_BASE = "https://battlecats-db.com/"
 SCIPA_DB_CAT_UNIT = lambda unit_id: SCIPA_DB_BASE + "unit/%03d.html" % unit_id
 
@@ -25,73 +27,6 @@ NUMBER_FORM_REGEX = re.compile(r"No.(?P<number>(\d+))-(?P<form>(\d))")
 UNIT_COMBO_SPLIT = "<hr class=\"line\"/>"
 UNIT_COMBO_NAME_REGEX = re.compile(r"<font class=\"H\">(\D+)</font>")
 UNIT_COMBO_UNIT_REGEX = re.compile(r"<a href=\"(\d+).html\">")
-
-class UnitDetailsDB(object):
-	def __init__(self, form):
-		self.form = form
-		self.jpName = ""
-		self.enName = ""
-		self.version = ""
-		self.description = ""
-		self.combos = {}
-		self.stats = {}
-
-	@property
-	def full_name(self):
-		return "{jpName} ({enName})".format(
-			jpName=self.jpName,
-			enName=self.enName,
-		)
-
-	def __str__(self):
-		return textwrap.dedent(
-			"""\
-			Version: {version}
-			Jap Name: {jpName}
-			En Name: {enName}
-			Desc: {description}
-			Combos: {combos}
-			Stats: {stats}
-			"""
-		).format(
-			version = self.version,
-			jpName = self.jpName,
-			enName = self.enName,
-			description = self.description,
-			combos = self._stringify_dict(self.combos),
-			stats = self._stringify_dict(self.stats)
-		)
-
-	def _stringify_dict(self, stat):
-		return "\n".join(list("\t{key} - {value}".format(key=key, value=value) for key, value in stat.items()))
-
-
-class UnitDB(object):
-	def __init__(self):
-		self.unitNumber = ""
-		self._unitDetails = {
-			"Normal": UnitDetailsDB("Normal"),
-			"Evolved": UnitDetailsDB("Evolved"),
-			"True": UnitDetailsDB("True")
-		}
-
-	def __getitem__(self, item):
-		return self._unitDetails[item]
-
-	def __str__(self):
-		return textwrap.dedent(
-"""\
-{number}\n
-Normal:\n{normal}\n
-Evolved:\n{evolved}\n
-True:\n{true}\n
-""".format(
-				number=self.unitNumber,
-				normal=self._unitDetails["Normal"],
-				evolved=self._unitDetails["Evolved"],
-				true=self._unitDetails["True"]
-			)
-		)
 
 got_a_form = 0
 saved_n = -1
@@ -116,7 +51,7 @@ def parse_cat_unit_raw(raw_data, unit):
 			_parse_form(raw_data, unit, "True", saved_n)
 
 	except IndexError as ie:
-		print("Data not available for {}. Skipping".format(_get_data_from_row(n)))
+		print("{} not avaliable for unit #{}-{}. Skipping".format(_get_data_from_row(n), unit.unitNumber, got_a_form))
 	except Exception as e:
 		print("Error parsing unit at row {}".format(n))
 		print(raw_data)
@@ -215,11 +150,17 @@ def upload():
 if __name__ == "__main__":
 	try:
 		unit_arr = []
-
-		for i in range(1, 10):
+		start_time = time.time()
+		for i in range (1, 540):
+			print("Processing unit %03d" % i)
 			unit = UnitDB()
 			scipa_soup = url_to_soup(SCIPA_DB_CAT_UNIT(i))
 			eng_soup = url_to_soup(ENG_WIKI_CAT_NAMES)
+
+			if scipa_soup is None:
+				print("Skipping unit %03d" % i)
+				continue
+
 			scipa_table = scipa_soup.find('table')
 			eng_table = eng_soup.find('table')
 
@@ -228,12 +169,15 @@ if __name__ == "__main__":
 				raw_data = list(scipa_data.children)
 				parse_cat_unit_raw(raw_data, unit)
 
-			print("Took %f seconds" % (time.time() - start))
 			unit_arr.append(unit)
 
 			with open(unit.unitNumber + ".cat", "w") as f:
 				f.write(unit.__str__())
-		upload()
-		print("Done! Total cat processed: %d" % len(unit_arr))
+
+		# upload()
+		print("Done! Total cat processed: %d in %.03f" % (len(unit_arr), time.time() - start_time))
 	except KeyboardInterrupt:
 		pass
+	except Exception:
+		print("Soup! {}".format(scipa_soup))
+		print("Table! {}".formt(scipa_table))
