@@ -115,18 +115,18 @@ def _parse_form(raw_data, eng_table, unit, row, form):
 			for icon_num in icon_arr:
 				ability = ICON_TO_ABILITY_MAP[int(icon_num)]
 				if ability:
-					unit[form].abilities[1].append(int(icon_num))
+					unit[form].abilities["abilities"].append(int(icon_num))
 
 			if "all" in targ_arr and "metal" in targ_arr and "white" not in targ_arr:
-				unit[form].abilities[0].append("All (w/o Metal)")
+				unit[form].abilities["target"].append("All (w/o Metal)")
 			elif "all" in targ_arr and "metal" not in targ_arr and "white" in targ_arr:
-				unit[form].abilities[0].append("All (w/o White)")
+				unit[form].abilities["target"].append("All (w/o White)")
 			elif "all" in targ_arr and "metal" not in targ_arr and "white" not in targ_arr:
-				unit[form].abilities[0].append("All (w/o Metal/White)")
+				unit[form].abilities["target"].append("All (w/o Metal/White)")
 			else:
 				for target in targ_arr:
 					if target:
-						unit[form].abilities[0].append(target.capitalize())
+						unit[form].abilities["target"].append(target.capitalize())
 		except KeyError:
 			print("Unit #{}-{}: Ability {} not in DB".format(unit.unitNumber, form, icon_num))
 			raise IndexError

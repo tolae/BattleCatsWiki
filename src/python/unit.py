@@ -46,9 +46,12 @@ class UnitDetailsDB(object):
 		self.enName = ""
 		self.version = ""
 		self.description = ""
-		self.abilities = ([], [])
 		self.combos = {}
 		self.stats = {}
+		self.abilities = {
+			"target": [],
+			"abilities": []
+		}
 
 	@property
 	def full_name(self):
@@ -78,8 +81,8 @@ class UnitDetailsDB(object):
 			jpName = self.jpName,
 			enName = self.enName,
 			description = self.description,
-			target = ",".join(self.abilities[0]) if self.abilities[0] else "None",
-			abilities = ",".join([ ICON_TO_ABILITY_MAP[ability] for ability in self.abilities[1] ]),
+			target = ",".join(self.abilities["target"]) if self.abilities["target"] else "None",
+			abilities = ",".join([ ICON_TO_ABILITY_MAP[ability] for ability in self.abilities["abilities"] ]),
 			combos = self._stringify_dict(self.combos),
 			stats = self._stringify_dict(self.stats)
 		)
