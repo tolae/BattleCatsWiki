@@ -22,6 +22,7 @@ UNIT_COMBO_NAME_REGEX = re.compile(r"<font class=\"H\">(\D+)</font>")
 UNIT_COMBO_UNIT_REGEX = re.compile(r"<a href=\"(\d+).html\">")
 
 UNIT_ABIL_ICON_REGEX = re.compile(r"<img class=\"icon_s\" src=\"https://battlecats-db.imgs-server.com/icon_s_(?P<ability>\d+).png\"/>")
+UNIT_ABIL_TARG_REGEX = re.compile(r"<a href=\"../enemy/atr_(?P<attribute>\w+).html\">")
 
 got_a_form = 0
 saved_n = -1
@@ -109,10 +110,23 @@ def _parse_form(raw_data, eng_table, unit, row, form):
 		unit[form].stats['cost'] = MASSAGE(raw_data[5])
 	elif row == saved_n + 6:
 		try:
-			for icon_num in UNIT_ABIL_ICON_REGEX.findall(str(raw_data[1])):
+			icon_arr = UNIT_ABIL_ICON_REGEX.findall(str(raw_data[1]))
+			targ_arr = UNIT_ABIL_TARG_REGEX.findall(str(raw_data[1]))
+			for icon_num in icon_arr:
 				ability = ICON_TO_ABILITY_MAP[int(icon_num)]
 				if ability:
-					unit[form].abilities.append(int(icon_num))
+					unit[form].abilities[1].append(int(icon_num))
+
+			if "all" in targ_arr and "metal" in targ_arr and "white" not in targ_arr:
+				unit[form].abilities[0].append("All (w/o Metal)")
+			elif "all" in targ_arr and "metal" not in targ_arr and "white" in targ_arr:
+				unit[form].abilities[0].append("All (w/o White)")
+			elif "all" in targ_arr and "metal" not in targ_arr and "white" not in targ_arr:
+				unit[form].abilities[0].append("All (w/o Metal/White)")
+			else:
+				for target in targ_arr:
+					if target:
+						unit[form].abilities[0].append(target.capitalize())
 		except KeyError:
 			print("Unit #{}-{}: Ability {} not in DB".format(unit.unitNumber, form, icon_num))
 			raise IndexError

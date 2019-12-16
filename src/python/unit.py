@@ -1,6 +1,7 @@
 import textwrap
 
 ICON_TO_ABILITY_MAP = {
+	# Effects
 	1: "Weaken",
 	2: "Freeze",
 	3: "Slow",
@@ -11,6 +12,7 @@ ICON_TO_ABILITY_MAP = {
 	8: "Massive Damage",
 	9: "Insane Damage",
 	10: "Knockback",
+	# Abilities
 	12: "Strengthen",
 	13: "Survive",
 	14: "Base Destroyer",
@@ -44,7 +46,7 @@ class UnitDetailsDB(object):
 		self.enName = ""
 		self.version = ""
 		self.description = ""
-		self.abilities = []
+		self.abilities = ([], [])
 		self.combos = {}
 		self.stats = {}
 
@@ -67,7 +69,7 @@ class UnitDetailsDB(object):
 			Jap Name: {jpName}
 			En Name: {enName}
 			Desc: {description}
-			Abilities: {abilities}
+			Abilities: {target}:{abilities}
 			Combos: {combos}
 			Stats: {stats}
 			"""
@@ -76,7 +78,8 @@ class UnitDetailsDB(object):
 			jpName = self.jpName,
 			enName = self.enName,
 			description = self.description,
-			abilities = ",".join([ ICON_TO_ABILITY_MAP[ability] for ability in self.abilities ]),
+			target = ",".join(self.abilities[0]) if self.abilities[0] else "None",
+			abilities = ",".join([ ICON_TO_ABILITY_MAP[ability] for ability in self.abilities[1] ]),
 			combos = self._stringify_dict(self.combos),
 			stats = self._stringify_dict(self.stats)
 		)
