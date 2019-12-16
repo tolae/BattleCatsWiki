@@ -24,6 +24,12 @@ UNIT_COMBO_UNIT_REGEX = re.compile(r"<a href=\"(\d+).html\">")
 UNIT_ABIL_ICON_REGEX = re.compile(r"<img class=\"icon_s\" src=\"https://battlecats-db.imgs-server.com/icon_s_(?P<ability>\d+).png\"/>")
 UNIT_ABIL_TARG_REGEX = re.compile(r"<a href=\"../enemy/atr_(?P<attribute>\w+).html\">")
 
+SINGLE_ATTACK = "単体"
+AREA_ATTACK = "範囲"
+
+VERSION_STRIP = "追加"
+ATTACK_RATE_STRIP = "秒"
+
 got_a_form = 0
 saved_n = -1
 def parse_cat_unit(unit_num):
@@ -43,7 +49,7 @@ def parse_cat_unit(unit_num):
 		raw_data = list(scipa_data.children)
 		_parse_cat_unit_raw(raw_data, eng_table, unit, n)
 
-	with open(unit.unitNumber + ".cat", "w") as f:
+	with open(unit.unitNumber + ".cat", "w", encoding="utf8") as f:
 		f.write(unit.__str__())
 
 	return unit
@@ -88,25 +94,26 @@ def _parse_form(raw_data, eng_table, unit, row, form):
 			unit[form].enName = list(list(eng_table.children)[5 + ((int(unit.unitNumber) - 1) * 2)].children)[4].text.split('/')[1].strip()
 		else:
 			unit[form].enName = "No En Name Available"
-		unit[form].version = raw_data[2].text
+		unit[form].version = raw_data[2].text.strip(VERSION_STRIP)
 	elif row == saved_n + 2:
 		unit[form].rarity = raw_data[0].a.text
 		unit[form].img = raw_data[1].img.attrs['src']
 		unit[form].stats['health'] = MASSAGE(list(raw_data[3].children)[0])
 		unit[form].stats['knockback'] = MASSAGE(raw_data[5])
 		unit[form].stats['attackRateF'] = MASSAGE(raw_data[7])
-		unit[form].stats['attackRateS'] = MASSAGE(raw_data[8])
+		unit[form].stats['attackRateS'] = MASSAGE(raw_data[8]).strip(ATTACK_RATE_STRIP)
 	elif row == saved_n + 3:
 		unit[form].stats['attackPower'] = MASSAGE(raw_data[1])
 		unit[form].stats['movementSpeed'] = MASSAGE(raw_data[3])
 		unit[form].stats['attackAnimF'] = MASSAGE(raw_data[5])
-		unit[form].stats['attackAnimS'] = MASSAGE(raw_data[6])
+		unit[form].stats['attackAnimS'] = MASSAGE(raw_data[6]).strip(ATTACK_RATE_STRIP)
 	elif row == saved_n + 4:
 		unit[form].stats['range'] = MASSAGE(raw_data[5])
 		unit[form].stats['respawnTimeF'] = MASSAGE(raw_data[7])
-		unit[form].stats['respawnTimeS'] = MASSAGE(raw_data[8])
+		unit[form].stats['respawnTimeS'] = MASSAGE(raw_data[8]).strip(ATTACK_RATE_STRIP)
 	elif row == saved_n + 5:
 		unit[form].stats['attackType'] = MASSAGE(raw_data[3])
+		unit[form].stats['attackType'] += "(Single Attack)" if MASSAGE(raw_data[3]) == SINGLE_ATTACK else "(Area Attack)"
 		unit[form].stats['cost'] = MASSAGE(raw_data[5])
 	elif row == saved_n + 6:
 		try:
