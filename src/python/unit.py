@@ -40,12 +40,19 @@ ICON_TO_ABILITY_MAP = {
 }
 
 class UnitDetailsDB(object):
+	"""Holds details on a cat unit of a particular form."""
 	def __init__(self, form):
+		"""Constructor for a particular cat unit's form.
+
+		Arguments:
+			form {string} -- The form of this particular cat unit.
+		"""
 		self.form = form
 		self.jpName = ""
 		self.enName = ""
 		self.version = ""
-		self.description = ""
+		self.jpDescription = ""
+		self.enDescription = ""
 		self.combos = {}
 		self.stats = {}
 		self.abilities = {
@@ -55,12 +62,23 @@ class UnitDetailsDB(object):
 
 	@property
 	def full_name(self):
+		"""Concats the cat unit's English and Japanese name.
+
+		Returns:
+			string -- A string containing both the English and Japanese name of
+			the cat unit.
+		"""
 		return "{jpName} ({enName})".format(
 			jpName=self.jpName,
 			enName=self.enName,
 		)
 
 	def __len__(self):
+		"""A cat unit is considered 'None' or empty if it doesn't have a name.
+
+		Returns:
+			integer -- 0 for empty, 1 otherwise.
+		"""
 		if self.jpName == "":
 			return 0
 		return 1
@@ -71,7 +89,8 @@ class UnitDetailsDB(object):
 			Version: {version}
 			Jap Name: {jpName}
 			En Name: {enName}
-			Desc: {description}
+			Jp Desc: {jpDesc}
+			En Desc: {enDesc}
 			Abilities: {target}:{abilities}
 			Combos: {combos}
 			Stats: {stats}
@@ -80,19 +99,31 @@ class UnitDetailsDB(object):
 			version = self.version,
 			jpName = self.jpName,
 			enName = self.enName,
-			description = self.description,
+			jpDesc = self.jpDescription,
+			enDesc = self.enDescription,
 			target = ",".join(self.abilities["target"]) if self.abilities["target"] else "None",
 			abilities = ",".join([ ICON_TO_ABILITY_MAP[ability] for ability in self.abilities["abilities"] ]),
-			combos = self._stringify_dict(self.combos),
-			stats = self._stringify_dict(self.stats)
+			combos = UnitDetailsDB._stringify_dict(self.combos),
+			stats = UnitDetailsDB._stringify_dict(self.stats)
 		)
 
-	def _stringify_dict(self, stat):
-		return "\n".join(list("\t{key} - {value}".format(key=key, value=value) for key, value in stat.items()))
+	@staticmethod
+	def _stringify_dict(d):
+		"""Helper function to create a pretty version of internal dictionaries.
+
+		Arguments:
+			d {dictionary} -- The dictionary to make pretty.
+
+		Returns:
+			[string] -- A pretty string frm the dictionary.
+		"""
+		return "\n".join(list("\t{key} - {value}".format(key=key, value=value) for key, value in d.items()))
 
 
 class UnitDB(object):
+	"""Holds details of a particular cat unit."""
 	def __init__(self):
+		"""Constructor for a particular cat."""
 		self.unitNumber = ""
 		self._unitDetails = {
 			"Normal": UnitDetailsDB("Normal"),

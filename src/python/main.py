@@ -8,6 +8,11 @@ from firebase_admin import db
 from unit_parser import parse_cat_unit
 
 def upload(unit_arr):
+	"""Uploads a unit array to Firebase.
+
+	Arguments:
+		unit_arr {list} -- A unit list.
+	"""
 	cred = credentials.Certificate("/home/etola/Projects/Personal/BattleCatsWiki/bcatwiki-firebase-adminsdk-qqxi6-3601769fe8.json")
 	firebase_admin.initialize_app(cred, {
 		'databaseURL': "https://bcatwiki.firebaseio.com/"

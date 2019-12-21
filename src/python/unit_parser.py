@@ -33,6 +33,14 @@ ATTACK_RATE_STRIP = "秒"
 got_a_form = 0
 saved_n = -1
 def parse_cat_unit(unit_num):
+	"""Parses a particular cat unit.
+
+	Arguments:
+		unit_num {integer} -- The cat unit number to process.
+
+	Returns:
+		UnitDB -- A fully qualified cat UnitDB.
+	"""
 	print("Processing unit %03d" % unit_num)
 	unit = UnitDB()
 	scipa_soup = _url_to_soup(SCIPA_DB_CAT_UNIT(unit_num))
@@ -55,6 +63,14 @@ def parse_cat_unit(unit_num):
 	return unit
 
 def _parse_cat_unit_raw(raw_data, eng_table, unit, row):
+	"""Helper method to begin filling the UnitDB.
+
+	Arguments:
+		raw_data {bs4.BeautifulSoup} -- A table containing the cat unit data from SPICA.
+		eng_table {bs4.BeautifulSoup} -- A table containing the cat unit data from BattleCatsWiki.
+		unit {UnitDB} -- A reference to cat UnitDB object.
+		row {integer} -- The current row to parse.
+	"""
 	global got_a_form, saved_n
 	try:
 		try:
@@ -75,7 +91,7 @@ def _parse_cat_unit_raw(raw_data, eng_table, unit, row):
 			_parse_form(raw_data, eng_table, unit, row, "True")
 
 	except IndexError as ie:
-		print("{} not avaliable for unit #{}-{}. Skipping".format(_get_data_from_row(row), unit.unitNumber, got_a_form))
+		print("{} not avaliable for unit #{}-{}. Skipping".format(_get_error_from_row(row), unit.unitNumber, got_a_form))
 	except Exception as e:
 		print("Error parsing unit at row {}".format(row))
 		print(raw_data)
@@ -83,75 +99,194 @@ def _parse_cat_unit_raw(raw_data, eng_table, unit, row):
 		print(e)
 
 def _parse_form(raw_data, eng_table, unit, row, form):
+	"""Fills the cat UnitDB with data for a particular form.
+
+	Arguments:
+		raw_data {bs4.BeautifulSoup} -- A table containing the cat unit data from SPICA.
+		eng_table {bs4.BeautifulSoup} -- A table containing the cat unit data from BattleCatsWiki.
+		unit {UnitDB} -- A reference to cat UnitDB object.
+		row {integer} -- The current row to parse.
+		form {string} -- A key detailing which form to fill.
+	"""
 	global saved_n
 	if row == saved_n:
-		unit[form].jpName = raw_data[1].text
-		if form == "Normal":
-			unit[form].enName = list(list(eng_table.children)[5 + ((int(unit.unitNumber) - 1) * 2)].children)[3].text.strip()
-		elif form == "Evolved":
-			unit[form].enName = list(list(eng_table.children)[5 + ((int(unit.unitNumber) - 1) * 2)].children)[4].text.split('/')[0].strip()
-		elif form == "True":
-			unit[form].enName = list(list(eng_table.children)[5 + ((int(unit.unitNumber) - 1) * 2)].children)[4].text.split('/')[1].strip()
-		else:
-			unit[form].enName = "No En Name Available"
-		unit[form].version = raw_data[2].text.strip(VERSION_STRIP)
+		_parse_cat_unit_name_and_version(raw_data, eng_table, unit, form)
 	elif row == saved_n + 2:
-		unit[form].rarity = raw_data[0].a.text
-		unit[form].img = raw_data[1].img.attrs['src']
-		unit[form].stats['health'] = MASSAGE(list(raw_data[3].children)[0])
-		unit[form].stats['knockback'] = MASSAGE(raw_data[5])
-		unit[form].stats['attackRateF'] = MASSAGE(raw_data[7])
-		unit[form].stats['attackRateS'] = MASSAGE(raw_data[8]).strip(ATTACK_RATE_STRIP)
+		_parse_cat_unit_stats_1(raw_data, eng_table, unit, form)
 	elif row == saved_n + 3:
-		unit[form].stats['attackPower'] = MASSAGE(raw_data[1])
-		unit[form].stats['movementSpeed'] = MASSAGE(raw_data[3])
-		unit[form].stats['attackAnimF'] = MASSAGE(raw_data[5])
-		unit[form].stats['attackAnimS'] = MASSAGE(raw_data[6]).strip(ATTACK_RATE_STRIP)
+		_parse_cat_unit_stats_2(raw_data, eng_table, unit, form)
 	elif row == saved_n + 4:
-		unit[form].stats['range'] = MASSAGE(raw_data[5])
-		unit[form].stats['respawnTimeF'] = MASSAGE(raw_data[7])
-		unit[form].stats['respawnTimeS'] = MASSAGE(raw_data[8]).strip(ATTACK_RATE_STRIP)
+		_parse_cat_unit_stats_3(raw_data, eng_table, unit, form)
 	elif row == saved_n + 5:
-		unit[form].stats['attackType'] = MASSAGE(raw_data[3])
-		unit[form].stats['attackType'] += "(Single Attack)" if MASSAGE(raw_data[3]) == SINGLE_ATTACK else "(Area Attack)"
-		unit[form].stats['cost'] = MASSAGE(raw_data[5])
+		_parse_cat_unit_stats_4(raw_data, eng_table, unit, form)
 	elif row == saved_n + 6:
-		try:
-			icon_arr = UNIT_ABIL_ICON_REGEX.findall(str(raw_data[1]))
-			targ_arr = UNIT_ABIL_TARG_REGEX.findall(str(raw_data[1]))
-			for icon_num in icon_arr:
-				ability = ICON_TO_ABILITY_MAP[int(icon_num)]
-				if ability:
-					unit[form].abilities["abilities"].append(int(icon_num))
-
-			if "all" in targ_arr and "metal" in targ_arr and "white" not in targ_arr:
-				unit[form].abilities["target"].append("All (w/o Metal)")
-			elif "all" in targ_arr and "metal" not in targ_arr and "white" in targ_arr:
-				unit[form].abilities["target"].append("All (w/o White)")
-			elif "all" in targ_arr and "metal" not in targ_arr and "white" not in targ_arr:
-				unit[form].abilities["target"].append("All (w/o Metal/White)")
-			else:
-				for target in targ_arr:
-					if target:
-						unit[form].abilities["target"].append(target.capitalize())
-		except KeyError:
-			print("Unit #{}-{}: Ability {} not in DB".format(unit.unitNumber, form, icon_num))
-			raise IndexError
+		_parse_cat_unit_abilities(raw_data, eng_table, unit, form)
 	elif row == saved_n + 7:
-		unit[form].description = MASSAGE(raw_data[1])
+		_parse_cat_unit_description(raw_data, eng_table, unit, form)
 	elif row == saved_n + 8:
-		# TODO: Obtain condition
-		pass
+		_parse_cat_unit_obtain_condition(raw_data, eng_table, unit, form)
 	elif row == saved_n + 9:
-		for combo in str(raw_data[1]).split(UNIT_COMBO_SPLIT):
-			name = UNIT_COMBO_NAME_REGEX.search(combo)
-			if name == None:
-				continue
-			name = name.group(1)
-			unit_list = UNIT_COMBO_UNIT_REGEX.findall(combo)
-			unit[form].combos[name] = unit_list
+		_parse_cat_unit_combos(raw_data, eng_table, unit, form)
 
-def _get_data_from_row(row):
+def _parse_cat_unit_name_and_version(raw_data, eng_table, unit, form):
+	"""Parses a cat UnitDB name and version.
+
+	Arguments:
+		raw_data {bs4.BeautifulSoup} -- A table containing the cat unit data from SPICA.
+		eng_table {bs4.BeautifulSoup} -- A table containing the cat unit data from BattleCatsWiki.
+		unit {UnitDB} -- A reference to cat UnitDB object.
+		form {string} -- A key detailing which form to fill.
+	"""
+	unit[form].jpName = raw_data[1].text
+	if form == "Normal":
+		unit[form].enName = list(list(eng_table.children)[5 + ((int(unit.unitNumber) - 1) * 2)].children)[3].text.strip()
+	elif form == "Evolved":
+		unit[form].enName = list(list(eng_table.children)[5 + ((int(unit.unitNumber) - 1) * 2)].children)[4].text.split('/')[0].strip()
+	elif form == "True":
+		unit[form].enName = list(list(eng_table.children)[5 + ((int(unit.unitNumber) - 1) * 2)].children)[4].text.split('/')[1].strip()
+	else:
+		unit[form].enName = "No En Name Available"
+	unit[form].version = raw_data[2].text.strip(VERSION_STRIP)
+
+def _parse_cat_unit_stats_1(raw_data, eng_table, unit, form):
+	"""Parses a cat UnitDB health, knockback count, and attack rates.
+
+	Arguments:
+		raw_data {bs4.BeautifulSoup} -- A table containing the cat unit data from SPICA.
+		eng_table {bs4.BeautifulSoup} -- A table containing the cat unit data from BattleCatsWiki.
+		unit {UnitDB} -- A reference to cat UnitDB object.
+		form {string} -- A key detailing which form to fill.
+	"""
+	unit[form].rarity = raw_data[0].a.text
+	unit[form].img = raw_data[1].img.attrs['src']
+	unit[form].stats['health'] = MASSAGE(list(raw_data[3].childUren)[0])
+	unit[form].stats['knockback'] = MASSAGE(raw_data[5])
+	unit[form].stats['attackRateF'] = MASSAGE(raw_data[7])
+	unit[form].stats['attackRateS'] = MASSAGE(raw_data[8]).strip(ATTACK_RATE_STRIP)
+
+def _parse_cat_unit_stats_2(raw_data, eng_table, unit, form):
+	"""Parses a cat UnitDB attack power, movement speed, and attack animation time.
+
+	Arguments:
+		raw_data {bs4.BeautifulSoup} -- A table containing the cat unit data from SPICA.
+		eng_table {bs4.BeautifulSoup} -- A table containing the cat unit data from BattleCatsWiki.
+		unit {UnitDB} -- A reference to cat UnitDB object.
+		form {string} -- A key detailing which form to fill.
+	"""
+	unit[form].stats['attackPower'] = MASSAGE(raw_data[1])
+	unit[form].stats['movementSpeed'] = MASSAGE(raw_data[3])
+	unit[form].stats['attackAnimF'] = MASSAGE(raw_data[5])
+	unit[form].stats['attackAnimS'] = MASSAGE(raw_data[6]).strip(ATTACK_RATE_STRIP)
+
+def _parse_cat_unit_stats_3(raw_data, eng_table, unit, form):
+	"""Parses a cat UnitDB range and respawn times.
+
+	Arguments:
+		raw_data {bs4.BeautifulSoup} -- A table containing the cat unit data from SPICA.
+		eng_table {bs4.BeautifulSoup} -- A table containing the cat unit data from BattleCatsWiki.
+		unit {UnitDB} -- A reference to cat UnitDB object.
+		form {string} -- A key detailing which form to fill.
+	"""
+	unit[form].stats['range'] = MASSAGE(raw_data[5])
+	unit[form].stats['respawnTimeF'] = MASSAGE(raw_data[7])
+	unit[form].stats['respawnTimeS'] = MASSAGE(raw_data[8]).strip(ATTACK_RATE_STRIP)
+
+def _parse_cat_unit_stats_4(raw_data, eng_table, unit, form):
+	"""Parses a cat UnitDB attack type and cost.
+
+	Arguments:
+		raw_data {bs4.BeautifulSoup} -- A table containing the cat unit data from SPICA.
+		eng_table {bs4.BeautifulSoup} -- A table containing the cat unit data from BattleCatsWiki.
+		unit {UnitDB} -- A reference to cat UnitDB object.
+		form {string} -- A key detailing which form to fill.
+	"""
+	unit[form].stats['attackType'] = MASSAGE(raw_data[3])
+	unit[form].stats['attackType'] += "(Single Attack)" if MASSAGE(raw_data[3]) == SINGLE_ATTACK else "(Area Attack)"
+	unit[form].stats['cost'] = MASSAGE(raw_data[5])
+
+def _parse_cat_unit_abilities(raw_data, eng_table, unit, form):
+	"""Parses a cat UnitDB abilities.
+
+	Arguments:
+		raw_data {bs4.BeautifulSoup} -- A table containing the cat unit data from SPICA.
+		eng_table {bs4.BeautifulSoup} -- A table containing the cat unit data from BattleCatsWiki.
+		unit {UnitDB} -- A reference to cat UnitDB object.
+		form {string} -- A key detailing which form to fill.
+
+	Raises:
+		IndexError: Raised when an unregistered ability is requested.
+	"""
+	try:
+		icon_arr = UNIT_ABIL_ICON_REGEX.findall(str(raw_data[1]))
+		targ_arr = UNIT_ABIL_TARG_REGEX.findall(str(raw_data[1]))
+		for icon_num in icon_arr:
+			ability = ICON_TO_ABILITY_MAP[int(icon_num)]
+			if ability:
+				unit[form].abilities["abilities"].append(int(icon_num))
+
+		if "all" in targ_arr and "metal" in targ_arr and "white" not in targ_arr:
+			unit[form].abilities["target"].append("All (w/o Metal)")
+		elif "all" in targ_arr and "metal" not in targ_arr and "white" in targ_arr:
+			unit[form].abilities["target"].append("All (w/o White)")
+		elif "all" in targ_arr and "metal" not in targ_arr and "white" not in targ_arr:
+			unit[form].abilities["target"].append("All (w/o Metal/White)")
+		else:
+			for target in targ_arr:
+				if target:
+					unit[form].abilities["target"].append(target.capitalize())
+	except KeyError:
+		print("Unit #{}-{}: Ability {} not in DB".format(unit.unitNumber, form, icon_num))
+		raise IndexError
+
+def _parse_cat_unit_description(raw_data, eng_table, unit, form):
+	"""Parses a cat UnitDB descriptions. TODO: Parse for english descriptions.
+
+	Arguments:
+		raw_data {bs4.BeautifulSoup} -- A table containing the cat unit data from SPICA.
+		eng_table {bs4.BeautifulSoup} -- A table containing the cat unit data from BattleCatsWiki.
+		unit {UnitDB} -- A reference to cat UnitDB object.
+		form {string} -- A key detailing which form to fill.
+	"""
+	unit[form].description = MASSAGE(raw_data[1])
+
+def _parse_cat_unit_obtain_condition(raw_data, eng_table, unit, form):
+	"""Parses a cat UnitDB various obtain conditions.
+
+	Arguments:
+		raw_data {bs4.BeautifulSoup} -- A table containing the cat unit data from SPICA.
+		eng_table {bs4.BeautifulSoup} -- A table containing the cat unit data from BattleCatsWiki.
+		unit {UnitDB} -- A reference to cat UnitDB object.
+		form {string} -- A key detailing which form to fill.
+	"""
+	# TODO: Obtain condition
+	pass
+
+def _parse_cat_unit_combos(raw_data, eng_table, unit, form):
+	"""Parses a cat UnitDB combo list.
+
+	Arguments:
+		raw_data {bs4.BeautifulSoup} -- A table containing the cat unit data from SPICA.
+		eng_table {bs4.BeautifulSoup} -- A table containing the cat unit data from BattleCatsWiki.
+		unit {UnitDB} -- A reference to cat UnitDB object.
+		form {string} -- A key detailing which form to fill.
+	"""
+	for combo in str(raw_data[1]).split(UNIT_COMBO_SPLIT):
+		name = UNIT_COMBO_NAME_REGEX.search(combo)
+		if name == None:
+			continue
+		name = name.group(1)
+		unit_list = UNIT_COMBO_UNIT_REGEX.findall(combo)
+		unit[form].combos[name] = unit_list
+
+def _get_error_from_row(row):
+	"""Helper method for when a particular row throws an error.
+
+	Arguments:
+		row {integer} -- The current row count.
+
+	Returns:
+		string -- A brief description of the error.
+	"""
 	global saved_n
 	if row == saved_n:
 		return "unit name and version"
@@ -169,6 +304,17 @@ def _get_data_from_row(row):
 		return "ERROR - INVALID ROW"
 
 def _url_to_soup(url, check=False):
+	"""Converts a url to a BeautifulSoup object.
+
+	Arguments:
+		url {string} -- The URL to connect to.
+
+	Keyword Arguments:
+		check {bool} -- Checks if the page was successfully connected to or not.
+		(default: {False})
+	Returns:
+		BeautifulSoup -- A bs4.BeautifulSoup object.
+	"""
 	soup_url = requests.get(url)
 	if soup_url.url != url: # Page is not the requested page.
 		return None
