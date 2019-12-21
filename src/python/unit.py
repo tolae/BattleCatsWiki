@@ -79,9 +79,7 @@ class UnitDetailsDB(object):
 		Returns:
 			integer -- 0 for empty, 1 otherwise.
 		"""
-		if self.jpName == "":
-			return 0
-		return 1
+		return self.jpName != ""
 
 	def __str__(self):
 		return textwrap.dedent(
@@ -133,6 +131,9 @@ class UnitDB(object):
 
 	def __getitem__(self, item):
 		return self._unitDetails[item]
+
+	def __len__(self):
+		return self.unitNumber != ""
 
 	def __str__(self):
 		return textwrap.dedent(
