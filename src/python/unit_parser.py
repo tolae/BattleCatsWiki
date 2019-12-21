@@ -159,7 +159,7 @@ def _parse_cat_unit_stats_1(raw_data, eng_table, unit, form):
 	"""
 	unit[form].rarity = raw_data[0].a.text
 	unit[form].img = raw_data[1].img.attrs['src']
-	unit[form].stats['health'] = MASSAGE(list(raw_data[3].childUren)[0])
+	unit[form].stats['health'] = _get_base_stat(unit.unitNumber, MASSAGE(list(raw_data[3].children)[0]))
 	unit[form].stats['knockback'] = MASSAGE(raw_data[5])
 	unit[form].stats['attackRateF'] = MASSAGE(raw_data[7])
 	unit[form].stats['attackRateS'] = MASSAGE(raw_data[8]).strip(ATTACK_RATE_STRIP)
@@ -173,7 +173,7 @@ def _parse_cat_unit_stats_2(raw_data, eng_table, unit, form):
 		unit {UnitDB} -- A reference to cat UnitDB object.
 		form {string} -- A key detailing which form to fill.
 	"""
-	unit[form].stats['attackPower'] = MASSAGE(raw_data[1])
+	unit[form].stats['attackPower'] = _get_base_stat(unit.unitNumber, MASSAGE(raw_data[1]))
 	unit[form].stats['movementSpeed'] = MASSAGE(raw_data[3])
 	unit[form].stats['attackAnimF'] = MASSAGE(raw_data[5])
 	unit[form].stats['attackAnimS'] = MASSAGE(raw_data[6]).strip(ATTACK_RATE_STRIP)
@@ -277,6 +277,24 @@ def _parse_cat_unit_combos(raw_data, eng_table, unit, form):
 		name = name.group(1)
 		unit_list = UNIT_COMBO_UNIT_REGEX.findall(combo)
 		unit[form].combos[name] = unit_list
+
+def _get_base_stat(unit_number, health_lv):
+	"""Helper method to get base stat from SPICA's default database level.
+
+	Arguments:
+		unit_number {string} -- The unit number of the cat.
+		health_lv {string} -- A string number (may be ',' separated).
+
+	Returns:
+		float -- The base stat.
+	"""
+	health_lv = float(health_lv.replace(',', ''))
+	if int(unit_number) in range(1, 10):
+		return "%.3f" % (health_lv / 16.8)
+	elif int(unit_number) in range(92, 101):
+		return "%.3f" % (health_lv / 5.8)
+	else:
+		return "%.3f" % (health_lv / 6.8)
 
 def _get_error_from_row(row):
 	"""Helper method for when a particular row throws an error.
