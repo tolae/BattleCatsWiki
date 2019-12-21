@@ -44,8 +44,8 @@ def parse_cat_unit(unit_num):
 	"""
 	print("Processing unit %03d" % unit_num)
 	unit = UnitDB()
-	scipa_soup = _url_to_soup(SCIPA_DB_CAT_UNIT(unit_num))
-	eng_soup = _url_to_soup(ENG_WIKI_CAT_NAMES)
+	scipa_soup = _url_to_soup(SCIPA_DB_CAT_UNIT(unit_num), check=True)
+	eng_soup = _url_to_soup(ENG_WIKI_CAT_NAMES, check=True)
 
 	if scipa_soup is None:
 		print("Skipping unit %03d" % unit_num)
@@ -54,11 +54,25 @@ def parse_cat_unit(unit_num):
 	scipa_table = scipa_soup.find('table')
 	eng_table = eng_soup.find('table')
 
+	if scipa_table is None or eng_table is None:
+		print("Skipping unit %03d" % unit_num)
+
 	for n, scipa_data in enumerate(scipa_table.children):
 		raw_data = list(scipa_data.children)
 		_parse_cat_unit_raw(raw_data, eng_table, unit, n)
 
-	_parse_cat_unit_en_description(raw_data, eng_table, unit)
+	if len(unit) == 0:
+		print("Skipping unit %03d" % unit_num)
+		return
+
+	try:
+		_parse_cat_unit_en_description(eng_table, unit)
+	except IndexError as ie:
+		print("{} not avaliable for unit #{}. Skipping".format("Description", unit.unitNumber))
+	except Exception as e:
+		print("Error parsing unit #%03d." % unit_num)
+		traceback.print_tb(e.__traceback__)
+		print(e)
 
 	with open(unit.unitNumber + ".cat", "w", encoding="utf8") as f:
 		f.write(unit.__str__())
@@ -252,15 +266,20 @@ def _parse_cat_unit_jp_description(raw_data, eng_table, unit, form):
 	"""
 	unit[form].jpDescription = MASSAGE(raw_data[1])
 
-def _parse_cat_unit_en_description(raw_data, eng_table, unit):
+def _parse_cat_unit_en_description(eng_table, unit):
 	"""Parses a cat UnitDB english descriptions.
 
 	Arguments:
-		raw_data {bs4.BeautifulSoup} -- A table containing the cat unit data from SPICA.
 		eng_table {bs4.BeautifulSoup} -- A table containing the cat unit data from BattleCatsWiki.
 		unit {UnitDB} -- A reference to cat UnitDB object.
+
+	Raises:
+		IndexError: Raised when there is no english version of the japanese cat.
 	"""
 	unit_soup = _url_to_soup(ENG_WIKI_BASE + str(list(list(eng_table.children)[5 + ((int(unit.unitNumber) - 1) * 2)].children)[3].a["href"]))
+	if unit_soup is None:
+		print("Can't find unit at " + ENG_WIKI_BASE + str(list(list(eng_table.children)[5 + ((int(unit.unitNumber) - 1) * 2)].children)[3].a["href"]))
+		raise IndexError
 	description = 0
 	for i, tag in enumerate(unit_soup.find_all('table')[1].children):
 		if "Description" in str(tag):
@@ -357,6 +376,6 @@ def _url_to_soup(url, check=False):
 		BeautifulSoup -- A bs4.BeautifulSoup object.
 	"""
 	soup_url = requests.get(url)
-	if soup_url.url != url: # Page is not the requested page.
+	if soup_url.url != url and check: # Page is not the requested page.
 		return None
 	return BeautifulSoup(soup_url.text, "lxml")
