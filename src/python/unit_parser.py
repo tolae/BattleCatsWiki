@@ -317,6 +317,8 @@ def _parse_cat_unit_combos(raw_data, eng_table, unit, form):
 		if name == None:
 			continue
 		name = name.group(1)
+		if "</font>" in name:
+			name = name.split("</font>")[0]
 		unit_list = UNIT_COMBO_UNIT_REGEX.findall(combo)
 		unit[form].combos[name] = unit_list
 
