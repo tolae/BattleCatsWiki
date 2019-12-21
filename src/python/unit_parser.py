@@ -10,7 +10,8 @@ from unit import UnitDB, UnitDetailsDB, ICON_TO_ABILITY_MAP
 SCIPA_DB_BASE = "https://battlecats-db.com/"
 SCIPA_DB_CAT_UNIT = lambda unit_id: SCIPA_DB_BASE + "unit/%03d.html" % unit_id
 
-ENG_WIKI_CAT_NAMES = "https://battle-cats.fandom.com/wiki/Cat_Release_Order"
+ENG_WIKI_BASE = "https://battle-cats.fandom.com"
+ENG_WIKI_CAT_NAMES = ENG_WIKI_BASE + "/wiki/Cat_Release_Order"
 ENG_WIKI_ENEMY_NAMES = ""
 
 MASSAGE = lambda data: data.text if data.font is None else data.font.text
@@ -56,6 +57,8 @@ def parse_cat_unit(unit_num):
 	for n, scipa_data in enumerate(scipa_table.children):
 		raw_data = list(scipa_data.children)
 		_parse_cat_unit_raw(raw_data, eng_table, unit, n)
+
+	_parse_cat_unit_en_description(raw_data, eng_table, unit)
 
 	with open(unit.unitNumber + ".cat", "w", encoding="utf8") as f:
 		f.write(unit.__str__())
@@ -122,7 +125,7 @@ def _parse_form(raw_data, eng_table, unit, row, form):
 	elif row == saved_n + 6:
 		_parse_cat_unit_abilities(raw_data, eng_table, unit, form)
 	elif row == saved_n + 7:
-		_parse_cat_unit_description(raw_data, eng_table, unit, form)
+		_parse_cat_unit_jp_description(raw_data, eng_table, unit, form)
 	elif row == saved_n + 8:
 		_parse_cat_unit_obtain_condition(raw_data, eng_table, unit, form)
 	elif row == saved_n + 9:
@@ -238,8 +241,8 @@ def _parse_cat_unit_abilities(raw_data, eng_table, unit, form):
 		print("Unit #{}-{}: Ability {} not in DB".format(unit.unitNumber, form, icon_num))
 		raise IndexError
 
-def _parse_cat_unit_description(raw_data, eng_table, unit, form):
-	"""Parses a cat UnitDB descriptions. TODO: Parse for english descriptions.
+def _parse_cat_unit_jp_description(raw_data, eng_table, unit, form):
+	"""Parses a cat UnitDB japanese descriptions.
 
 	Arguments:
 		raw_data {bs4.BeautifulSoup} -- A table containing the cat unit data from SPICA.
@@ -247,7 +250,27 @@ def _parse_cat_unit_description(raw_data, eng_table, unit, form):
 		unit {UnitDB} -- A reference to cat UnitDB object.
 		form {string} -- A key detailing which form to fill.
 	"""
-	unit[form].description = MASSAGE(raw_data[1])
+	unit[form].jpDescription = MASSAGE(raw_data[1])
+
+def _parse_cat_unit_en_description(raw_data, eng_table, unit):
+	"""Parses a cat UnitDB english descriptions.
+
+	Arguments:
+		raw_data {bs4.BeautifulSoup} -- A table containing the cat unit data from SPICA.
+		eng_table {bs4.BeautifulSoup} -- A table containing the cat unit data from BattleCatsWiki.
+		unit {UnitDB} -- A reference to cat UnitDB object.
+	"""
+	unit_soup = _url_to_soup(ENG_WIKI_BASE + str(list(list(eng_table.children)[5 + ((int(unit.unitNumber) - 1) * 2)].children)[3].a["href"]))
+	description = 0
+	for i, tag in enumerate(unit_soup.find_all('table')[1].children):
+		if "Description" in str(tag):
+			description = i
+		if description:
+			unit["Normal"].enDescription = MASSAGE(list(unit_soup.find_all('table')[1].children)[description + 2]).strip()
+			unit["Evolved"].enDescription = MASSAGE(list(unit_soup.find_all('table')[1].children)[description + 8]).strip()
+			if unit["True"]:
+				unit["True"].enDescription = MASSAGE(list(unit_soup.find_all('table')[1].children)[description + 14]).strip()
+			break
 
 def _parse_cat_unit_obtain_condition(raw_data, eng_table, unit, form):
 	"""Parses a cat UnitDB various obtain conditions.
