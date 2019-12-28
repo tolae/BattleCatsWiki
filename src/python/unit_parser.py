@@ -286,20 +286,49 @@ def _parse_cat_unit_en_description(eng_data, unit):
 	if unit_soup is None:
 		print("Can't find unit at " + ENG_WIKI_BASE + str(list(list(eng_data[0].children)[5 + ((int(unit.unitNumber) - 1) * 2)].children)[3].a["href"]))
 		raise IndexError
-	for i, tag in enumerate(unit_soup.find_all('table')[1].children):
-		# There are two different forms of tables on the english wiki.
+	unit_en_table = unit_soup.find_all('table')
+
+	# Captures the english descriptions that are separated and not in a table.
+	# These are typically for obscure cats that no one will find.
+	tags = list(filter(lambda tag: "Normal:" in str(tag) or "Evolved:" in \
+		str(tag) or "True:" in str(tag), unit_soup.find_all('li')))
+
+	if tags and "English Version" in str(unit_soup):
+		unit["Normal"].enDescription = MASSAGE(tags[0]).replace("Normal:", "").strip()
+		unit["Evolved"].enDescription = MASSAGE(tags[1]).replace("Evolved:", "").strip()
+		if unit["True"]:
+			unit["True"].enDescription = MASSAGE(tags[2]).replace("True:", "").strip()
+		return
+
+	for i, tag in enumerate(unit_en_table[1].children):
+		# There are 2 different forms of tables on the english wiki.
 		if "Description" in str(tag):
-			unit["Normal"].enDescription = MASSAGE(list(unit_soup.find_all('table')[1].children)[i + 2]).strip()
-			unit["Evolved"].enDescription = MASSAGE(list(unit_soup.find_all('table')[1].children)[i + 8]).strip()
+			unit["Normal"].enDescription = MASSAGE(list(unit_en_table[1].children)[i + 2]).strip()
+			unit["Evolved"].enDescription = MASSAGE(list(unit_en_table[1].children)[i + 8]).strip()
 			if unit["True"]:
-				unit["True"].enDescription = MASSAGE(list(unit_soup.find_all('table')[1].children)[i + 14]).strip()
-			break
+				unit["True"].enDescription = MASSAGE(list(unit_en_table[1].children)[i + 14]).strip()
+			return
 		if "description" in str(tag):
-			unit["Normal"].enDescription = MASSAGE(list(unit_soup.find_all('table')[1].children)[i].find_all('td')[1]).strip()
-			unit["Evolved"].enDescription = MASSAGE(list(unit_soup.find_all('table')[1].children)[i+2].find_all('td')[1]).strip()
+			unit["Normal"].enDescription = MASSAGE(list(unit_en_table[1].children)[i].find_all('td')[1]).strip()
+			unit["Evolved"].enDescription = MASSAGE(list(unit_en_table[1].children)[i+2].find_all('td')[1]).strip()
 			if unit["True"]:
-				unit["True"].enDescription = MASSAGE(list(unit_soup.find_all('table')[1].children)[i+4].find_all('td')[1]).strip()
-			break
+				unit["True"].enDescription = MASSAGE(list(unit_en_table[1].children)[i+4].find_all('td')[1]).strip()
+			return
+	for i, tag in enumerate(unit_en_table[2].children):
+		# For with additional text boxes above indicating incompleteness for
+		# cats that also include a combo box.
+		if "Description" in str(tag):
+			unit["Normal"].enDescription = MASSAGE(list(unit_en_table[2].children)[i + 2]).strip()
+			unit["Evolved"].enDescription = MASSAGE(list(unit_en_table[2].children)[i + 8]).strip()
+			if unit["True"]:
+				unit["True"].enDescription = MASSAGE(list(unit_en_table[2].children)[i + 14]).strip()
+			return
+		if "description" in str(tag):
+			unit["Normal"].enDescription = MASSAGE(list(unit_en_table[1].children)[i].find_all('td')[1]).strip()
+			unit["Evolved"].enDescription = MASSAGE(list(unit_en_table[1].children)[i+2].find_all('td')[1]).strip()
+			if unit["True"]:
+				unit["True"].enDescription = MASSAGE(list(unit_en_table[1].children)[i+4].find_all('td')[1]).strip()
+			return
 
 def _parse_cat_unit_obtain_condition(raw_data, eng_data, unit, form):
 	"""Parses a cat UnitDB various obtain conditions.
