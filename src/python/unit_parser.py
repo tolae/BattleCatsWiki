@@ -19,6 +19,8 @@ MASSAGE = lambda data: data.text if data.font is None else data.font.text
 
 NUMBER_FORM_REGEX = re.compile(r"No.(?P<number>(\d+))-(?P<form>(\d))")
 
+UNIT_EN_NAME_REGEX = re.compile(r"([^\(]+)")
+
 UNIT_COMBO_SPLIT = "<hr class=\"line\"/>"
 UNIT_COMBO_JP_NAME_REGEX = re.compile(r"<font class=\"H\">(\D+)</font>")
 UNIT_COMBO_EN_NAME_REGEX = re.compile(r"<a[^>]+>(?P<name>[^<]+)</a>")
@@ -32,6 +34,8 @@ AREA_ATTACK = "範囲"
 
 VERSION_STRIP = "追加"
 ATTACK_RATE_STRIP = "秒"
+
+ILLEGAL_CHARS = ['$', '#', '[', ']', '/', '.']
 
 got_a_form = 0
 saved_n = -1
@@ -159,11 +163,11 @@ def _parse_cat_unit_name_and_version(raw_data, eng_data, unit, form):
 	"""
 	unit[form].jpName = raw_data[1].text
 	if form == "Normal":
-		unit[form].enName = list(list(eng_data[0].children)[5 + ((int(unit.unitNumber) - 1) * 2)].children)[3].text.strip()
+		unit[form].enName = UNIT_EN_NAME_REGEX.search(str(list(list(eng_data[0].children)[5 + ((int(unit.unitNumber) - 1) * 2)].children)[3].text)).group(0).strip()
 	elif form == "Evolved":
-		unit[form].enName = list(list(eng_data[0].children)[5 + ((int(unit.unitNumber) - 1) * 2)].children)[4].text.split('/')[0].strip()
+		unit[form].enName = UNIT_EN_NAME_REGEX.search(str(list(list(eng_data[0].children)[5 + ((int(unit.unitNumber) - 1) * 2)].children)[4].text.split('/')[0])).group(0).strip()
 	elif form == "True":
-		unit[form].enName = list(list(eng_data[0].children)[5 + ((int(unit.unitNumber) - 1) * 2)].children)[4].text.split('/')[1].strip()
+		unit[form].enName = UNIT_EN_NAME_REGEX.search(str(list(list(eng_data[0].children)[5 + ((int(unit.unitNumber) - 1) * 2)].children)[4].text.split('/')[1])).group(0).strip()
 	else:
 		unit[form].enName = "No En Name Available"
 	unit[form].version = raw_data[2].text.strip(VERSION_STRIP)
@@ -366,9 +370,15 @@ def _parse_cat_unit_combos(raw_data, eng_data, unit, form):
 			if jp_name in combo_line:
 				en_name = UNIT_COMBO_EN_NAME_REGEX.search(eng_combo_list[i-1]).group('name')
 				en_name = en_name.replace('amp;', '')
+				en_name = _remove_illegal_chars(en_name)
 				break
 
-		unit[form].combos[jp_name + "/" + en_name] = unit_list
+		unit[form].combos[jp_name + "|" + en_name] = unit_list
+
+def _remove_illegal_chars(string):
+	for char in ILLEGAL_CHARS:
+		string = string.replace(char, '')
+	return string
 
 def _get_base_stat(unit_number, health_lv):
 	"""Helper method to get base stat from SPICA's default database level.
@@ -381,8 +391,12 @@ def _get_base_stat(unit_number, health_lv):
 		float -- The base stat.
 	"""
 	health_lv = float(health_lv.replace(',', ''))
+	# Normal cats have a different modifier than other cats. They also start at
+	# a different level than other cats on SPICA.
 	if int(unit_number) in range(1, 10):
 		return "%.3f" % (health_lv / 16.8)
+	# Crazed cats also are special. They have different growth rates than other
+	# super rare cats.
 	elif int(unit_number) in range(92, 101):
 		return "%.3f" % (health_lv / 5.8)
 	else:
