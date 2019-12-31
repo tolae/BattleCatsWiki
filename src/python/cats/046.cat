@@ -1,0 +1,59 @@
+046
+
+Normal:
+Version: Ver2.0
+Jap Name: 芸者ねこ
+En Name: Maiko Cat
+Jp Desc: 芸の道に進んだ行動力あふれるキャラクターとはいえ中身は通常のネコと同じである
+En Desc: A sweet rookie entertainer, allergic to green tea, better at keytar than shamisen.
+Abilities: None:
+Combos: 
+Stats: 	health - 250.000
+	knockback - 3
+	attackRateF - 37
+	attackRateS - 1.23
+	attackPower - 19.853
+	movementSpeed - 10
+	attackAnimF - 8
+	attackAnimS - 0.27
+	range - 140
+	respawnTimeF - 60
+	respawnTimeS - 2.00
+	attackType - 単体(Single Attack)
+	cost - 75
+
+
+Evolved:
+Version: Ver2.0
+Jap Name: ネコでありんした
+En Name: Geisha Cat
+Jp Desc: 芸の道を究めるあまりネコでは無くなったと思いこんでいるキャラクター遠距離攻撃が得意
+En Desc: Years of life in the floating world made her a cool cynic. Her distant attitude befits her long-distance attacking power.
+Abilities: None:
+Combos: 
+Stats: 	health - 875.000
+	knockback - 3
+	attackRateF - 128
+	attackRateS - 4.27
+	attackPower - 200.000
+	movementSpeed - 10
+	attackAnimF - 9
+	attackAnimS - 0.30
+	range - 350
+	respawnTimeF - 76
+	respawnTimeS - 2.53
+	attackType - 単体(Single Attack)
+	cost - 900
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

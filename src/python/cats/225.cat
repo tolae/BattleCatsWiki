@@ -1,0 +1,59 @@
+225
+
+Normal:
+Version: Ver4.3
+Jap Name: モーデン元帥
+En Name: DONALD MORDEN
+Jp Desc: メタルスラッグディフェンスコラボ
+En Desc: ?
+Abilities: Alien:Resistant,Knockback
+Combos: 
+Stats: 	health - 4275.000
+	knockback - 3
+	attackRateF - 134
+	attackRateS - 4.47
+	attackPower - 2600.000
+	movementSpeed - 8
+	attackAnimF - 15
+	attackAnimS - 0.50
+	range - 410
+	respawnTimeF - 3706
+	respawnTimeS - 123.53
+	attackType - 範囲(Area Attack)
+	cost - 4,275
+
+
+Evolved:
+Version: Ver4.3
+Jap Name: モーデン元帥CC
+En Name: DONALD MORDEN CC
+Jp Desc: メタルスラッグディフェンスコラボ
+En Desc: ?
+Abilities: Alien:Resistant,Knockback
+Combos: 
+Stats: 	health - 7025.000
+	knockback - 3
+	attackRateF - 134
+	attackRateS - 4.47
+	attackPower - 3575.000
+	movementSpeed - 8
+	attackAnimF - 15
+	attackAnimS - 0.50
+	range - 410
+	respawnTimeF - 3706
+	respawnTimeS - 123.53
+	attackType - 範囲(Area Attack)
+	cost - 4,275
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

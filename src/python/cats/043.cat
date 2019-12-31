@@ -1,0 +1,71 @@
+043
+
+Normal:
+Version: Ver2.0
+Jap Name: ネコアイス
+En Name: Ice Cat
+Jp Desc: 氷の世界より降り立った少女に心うばわれたにゃんこ（範囲攻撃）赤い敵の動きをたまにしばらく止める
+En Desc: A cat was entranced by a girl hailing from the Land of Ice. It is frozen. Might stop Red enemies. (Area Attack)
+Abilities: Red:Freeze
+Combos: 	暑い日も涼しく|Cool in the Heat - ['043', '128']
+Stats: 	health - 3500.000
+	knockback - 3
+	attackRateF - 183
+	attackRateS - 6.10
+	attackPower - 2250.000
+	movementSpeed - 8
+	attackAnimF - 54
+	attackAnimS - 1.80
+	range - 325
+	respawnTimeF - 1746
+	respawnTimeS - 58.20
+	attackType - 範囲(Area Attack)
+	cost - 3,300
+
+
+Evolved:
+Version: Ver2.0
+Jap Name: ネコアイスクイーン
+En Name: Ice Queen Cat
+Jp Desc: 氷漬けになることで永遠の命を与えられたにゃんこ（範囲攻撃）赤い敵の動きをたまにしばらく止める
+En Desc: Forgot to mention that the Cat is an eternal icicle. Don't think it complains much. Might stop Red enemies. (Area Attack)
+Abilities: Red:Freeze
+Combos: 	キング ＆ クイーン|King and Queen - ['008', '043']
+Stats: 	health - 5000.000
+	knockback - 3
+	attackRateF - 183
+	attackRateS - 6.10
+	attackPower - 3250.000
+	movementSpeed - 8
+	attackAnimF - 54
+	attackAnimS - 1.80
+	range - 325
+	respawnTimeF - 1746
+	respawnTimeS - 58.20
+	attackType - 範囲(Area Attack)
+	cost - 3,300
+
+
+True:
+Version: Ver5.0
+Jap Name: ネコアイスクリスタル
+En Name: Ice Crystal Cat
+Jp Desc: 特性「生き残る」追加
+En Desc: The Ice Queen's reign grows more secure and so does her Cat companion's crystal shell. Freezes Red enemies in place (Area Attack).
+Abilities: Red:Freeze
+Combos: 
+Stats: 	health - 5000.000
+	knockback - 3
+	attackRateF - 183
+	attackRateS - 6.10
+	attackPower - 4500.000
+	movementSpeed - 8
+	attackAnimF - 54
+	attackAnimS - 1.80
+	range - 425
+	respawnTimeF - 1746
+	respawnTimeS - 58.20
+	attackType - 範囲(Area Attack)
+	cost - 3,300
+
+

@@ -1,0 +1,71 @@
+392
+
+Normal:
+Version: Ver6.8
+Jap Name: 橘みずき
+En Name: Mizuki Tachibana
+Jp Desc: 実況パワフルプロ野球コラボ
+En Desc: Dropping from PowerPro Baseball! A tomboy pitcher determined to win! Massive anti-Angel area damage.
+Abilities: Angel:Massive Damage
+Combos: 
+Stats: 	health - 2750.000
+	knockback - 3
+	attackRateF - 106
+	attackRateS - 3.53
+	attackPower - 1125.000
+	movementSpeed - 22
+	attackAnimF - 15
+	attackAnimS - 0.50
+	range - 200
+	respawnTimeF - 766
+	respawnTimeS - 25.53
+	attackType - 範囲(Area Attack)
+	cost - 1,290
+
+
+Evolved:
+Version: Ver6.8
+Jap Name: 橘みずきCC
+En Name: Mizuki Tachibana CC
+Jp Desc: 実況パワフルプロ野球コラボ
+En Desc: Dropping from PowerPro Baseball! Has a real sweet tooth, and loves pudding. Massive anti-Angel area damage.
+Abilities: Angel:Massive Damage
+Combos: 
+Stats: 	health - 3625.000
+	knockback - 3
+	attackRateF - 106
+	attackRateS - 3.53
+	attackPower - 1500.000
+	movementSpeed - 22
+	attackAnimF - 15
+	attackAnimS - 0.50
+	range - 200
+	respawnTimeF - 766
+	respawnTimeS - 25.53
+	attackType - 範囲(Area Attack)
+	cost - 1,290
+
+
+True:
+Version: Ver6.8
+Jap Name: 野球マン2号CC
+En Name: Baseball Mask β
+Jp Desc: 実況パワフルプロ野球コラボ
+En Desc: Dropping from PowerPro Baseball! Proudly sports the Tachibana Group logo. Massive anti-Angel area damage.
+Abilities: Angel:Massive Damage
+Combos: 
+Stats: 	health - 3625.000
+	knockback - 3
+	attackRateF - 98
+	attackRateS - 3.27
+	attackPower - 1500.000
+	movementSpeed - 22
+	attackAnimF - 21
+	attackAnimS - 0.70
+	range - 300
+	respawnTimeF - 766
+	respawnTimeS - 25.53
+	attackType - 範囲(Area Attack)
+	cost - 1,290
+
+

@@ -1,0 +1,73 @@
+064
+
+Normal:
+Version: Ver2.0
+Jap Name: ネコ運動会
+En Name: Sports Day Cat
+Jp Desc: 3匹分のネコの能力と1匹分のタンクネコの能力をひとつに集約した運動会大好きヤロウ達コスパも良くてとってもお得（範囲攻撃）
+En Desc: The power of three Cats, and one Tank Cat. These cats love Sports Day and always strive for the top team.
+Abilities: None:
+Combos: 	はちまき|Headband - ['064', '071', '137']
+	ネコ＆タンクネコ|Cats 'n Tanks - ['064', '082', '081']
+	数の暴力|Power in Numbers - ['428', '064']
+Stats: 	health - 1750.000
+	knockback - 4
+	attackRateF - 37
+	attackRateS - 1.23
+	attackPower - 65.000
+	movementSpeed - 10
+	attackAnimF - 8
+	attackAnimS - 0.27
+	range - 110
+	respawnTimeF - 60
+	respawnTimeS - 2.00
+	attackType - 範囲(Area Attack)
+	cost - 375
+
+
+Evolved:
+Version: Ver2.0
+Jap Name: ネコラッチ
+En Name: Kidnapper Cats
+Jp Desc: 3匹分のネコの能力と1匹分のタンクネコの能力をひとつに集約したチョイ悪にゃんこ達コスパも良くてとってもお得（範囲攻撃）
+En Desc: The power of three Cats, and one Tank Cat. Though an effective team, the Tank Cat is the victim, apparently.
+Abilities: None:
+Combos: 
+Stats: 	health - 1750.000
+	knockback - 4
+	attackRateF - 37
+	attackRateS - 1.23
+	attackPower - 65.000
+	movementSpeed - 10
+	attackAnimF - 8
+	attackAnimS - 0.27
+	range - 110
+	respawnTimeF - 60
+	respawnTimeS - 2.00
+	attackType - 範囲(Area Attack)
+	cost - 375
+
+
+True:
+Version: 
+Jap Name: ネコ棒倒し
+En Name: Rampage Cats
+Jp Desc: 3匹のネコが1匹のタンクネコの能力を極限まで引き出す過激派運動会集団コスパも良くてとってもお得（範囲攻撃）
+En Desc: No one wanted to pay the ransom, so they just made the Tank into a banner of victory. Morally ambiguous efficiency! (Area Atk)
+Abilities: None:Warp Blocker
+Combos: 
+Stats: 	health - 1750.000
+	knockback - 4
+	attackRateF - 77
+	attackRateS - 2.57
+	attackPower - 65.000
+	movementSpeed - 10
+	attackAnimF - 8
+	attackAnimS - 0.27
+	range - 330
+	respawnTimeF - 60
+	respawnTimeS - 2.00
+	attackType - 範囲(Area Attack)
+	cost - 375
+
+

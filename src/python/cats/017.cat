@@ -1,0 +1,59 @@
+017
+
+Normal:
+Version: Ver1.0
+Jap Name: もねこ
+En Name: Moneko
+Jp Desc: 倒された時、独自グラフィック（アニメーション）
+En Desc: Hoping to become an idol. She sings on the streets everyday. You might see her around, please say hi.
+Abilities: None:Critical
+Combos: 
+Stats: 	health - 1500.000
+	knockback - 4
+	attackRateF - 127
+	attackRateS - 4.23
+	attackPower - 1000.000
+	movementSpeed - 5
+	attackAnimF - 28
+	attackAnimS - 0.93
+	range - 160
+	respawnTimeF - 1744
+	respawnTimeS - 58.13
+	attackType - 単体(Single Attack)
+	cost - 148
+
+
+Evolved:
+Version: Ver1.0
+Jap Name: スターもねこ
+En Name: Miss MONEKO
+Jp Desc: 倒された時、独自グラフィック（アニメーション）
+En Desc: Thanks to everyone, she made it to stardom! Now she is everyone's favorite star! Please support her! The future is still bright!
+Abilities: None:Critical
+Combos: 
+Stats: 	health - 2500.000
+	knockback - 4
+	attackRateF - 127
+	attackRateS - 4.23
+	attackPower - 1000.000
+	movementSpeed - 5
+	attackAnimF - 28
+	attackAnimS - 0.93
+	range - 160
+	respawnTimeF - 1744
+	respawnTimeS - 58.13
+	attackType - 単体(Single Attack)
+	cost - 148
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

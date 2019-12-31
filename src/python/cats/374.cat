@@ -1,0 +1,59 @@
+374
+
+Normal:
+Version: Ver6.6
+Jap Name: ちび士郎
+En Name: Li'l Shirou
+Jp Desc: 劇場版 Fate stay nightコラボ
+En Desc: Joining the fight from Fate/stay night [HF]! Dreams of defending justice like his adopted father. Tough vs. Black enemies.
+Abilities: Black:Multi-Hit,Resistant
+Combos: 
+Stats: 	health - 1875.000
+	knockback - 3
+	attackRateF - 138
+	attackRateS - 4.60
+	attackPower - 750.000
+	movementSpeed - 10
+	attackAnimF - 28
+	attackAnimS - 0.93
+	range - 275
+	respawnTimeF - 746
+	respawnTimeS - 24.87
+	attackType - 単体(Single Attack)
+	cost - 900
+
+
+Evolved:
+Version: Ver6.6
+Jap Name: ちび士郎CC
+En Name: Li'l Shirou CC
+Jp Desc: 劇場版 Fate stay nightコラボ
+En Desc: Joining the fight from Fate/stay night [HF]! Joined the Holy Grail War after summoning his Servant, Saber. Tough vs. Black enemies.
+Abilities: Black:Multi-Hit,Resistant
+Combos: 
+Stats: 	health - 1875.000
+	knockback - 3
+	attackRateF - 138
+	attackRateS - 4.60
+	attackPower - 750.000
+	movementSpeed - 10
+	attackAnimF - 28
+	attackAnimS - 0.93
+	range - 275
+	respawnTimeF - 746
+	respawnTimeS - 24.87
+	attackType - 単体(Single Attack)
+	cost - 900
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

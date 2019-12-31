@@ -1,0 +1,72 @@
+126
+
+Normal:
+Version: 
+Jap Name: 武田信玄
+En Name: Takeda Shingen
+Jp Desc: 伝説の武具「風林火にゃん」の呪いで圧倒的な超破壊力を身に付けた戦国武将しかし黒い敵とエイリアンにしか攻撃できない（範囲攻撃）
+En Desc: A master tactician of overwhelming power who is cursed by the Legendary Cat Sword. Area attacks only damage Black/Aliens.
+Abilities: Black,Alien:Attacks Only
+Combos: 	大剣両断|Greatswords - ['324', '126']
+	風林火山|Volcanic Fury - ['126', '098']
+Stats: 	health - 9750.000
+	knockback - 2
+	attackRateF - 229
+	attackRateS - 7.63
+	attackPower - 6500.000
+	movementSpeed - 7
+	attackAnimF - 110
+	attackAnimS - 3.67
+	range - 440
+	respawnTimeF - 4846
+	respawnTimeS - 161.53
+	attackType - 範囲(Area Attack)
+	cost - 5,985
+
+
+Evolved:
+Version: 
+Jap Name: 武神・武田信玄
+En Name: Wargod Shingen
+Jp Desc: 伝説の武具「風林火にゃん」軍配モードでさらなる超破壊力を解放させた戦国武将しかし黒い敵とエイリアンにしか攻撃できない（範囲攻撃）
+En Desc: Cat Sword's Tactics Mode - activate! Even greater destructive power! Area attacks only damage Black/Aliens.
+Abilities: Black,Alien:Attacks Only
+Combos: 
+Stats: 	health - 14750.000
+	knockback - 2
+	attackRateF - 230
+	attackRateS - 7.67
+	attackPower - 14775.000
+	movementSpeed - 7
+	attackAnimF - 111
+	attackAnimS - 3.70
+	range - 440
+	respawnTimeF - 4846
+	respawnTimeS - 161.53
+	attackType - 範囲(Area Attack)
+	cost - 5,985
+
+
+True:
+Version: Ver6.0
+Jap Name: 猛牛の武神・武田信玄
+En Name: Immortal Shingen
+Jp Desc: 特性「バリアブレイカー」追加
+En Desc: AThe Cat Sword's path of destruction is unstoppable. There is no mercy to be given. Area attacks only damage Black/Aliens.
+Abilities: Black,Alien:Attacks Only
+Combos: 
+Stats: 	health - 19750.000
+	knockback - 2
+	attackRateF - 230
+	attackRateS - 7.67
+	attackPower - 18912.500
+	movementSpeed - 7
+	attackAnimF - 111
+	attackAnimS - 3.70
+	range - 470
+	respawnTimeF - 4846
+	respawnTimeS - 161.53
+	attackType - 範囲(Area Attack)
+	cost - 5,985
+
+

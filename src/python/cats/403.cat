@@ -1,0 +1,71 @@
+403
+
+Normal:
+Version: Ver6.10
+Jap Name: ちびシンジ
+En Name: Shinji & Cat
+Jp Desc: エヴァンゲリオンコラボ
+En Desc: Recruited from Evangelion! A boy suddenly forced to pilot Evangelion. Resents his distant father. (Area Attack)
+Abilities: Apostle:Multi-Hit,Eva Angel Killer
+Combos: 
+Stats: 	health - 1125.000
+	knockback - 3
+	attackRateF - 114
+	attackRateS - 3.80
+	attackPower - 825.000
+	movementSpeed - 9
+	attackAnimF - 37
+	attackAnimS - 1.23
+	range - 160
+	respawnTimeF - 646
+	respawnTimeS - 21.53
+	attackType - 範囲(Area Attack)
+	cost - 375
+
+
+Evolved:
+Version: Ver6.10
+Jap Name: プラグスーツのちびシンジ
+En Name: Plug Suit Shinji
+Jp Desc: エヴァンゲリオンコラボ
+En Desc: Recruited from Evangelion! Hoping to be respected by his comrades for his piloting skills. (Area Attack)
+Abilities: Apostle:Multi-Hit,Eva Angel Killer
+Combos: 
+Stats: 	health - 1125.000
+	knockback - 3
+	attackRateF - 114
+	attackRateS - 3.80
+	attackPower - 825.000
+	movementSpeed - 9
+	attackAnimF - 37
+	attackAnimS - 1.23
+	range - 160
+	respawnTimeF - 646
+	respawnTimeS - 21.53
+	attackType - 範囲(Area Attack)
+	cost - 375
+
+
+True:
+Version: Ver8.7.5
+Jap Name: 黒プラグスーツのちびシンジ
+En Name: Plug Suit Shinji Black
+Jp Desc: エヴァンゲリオンコラボ
+En Desc: Recruited from Evangelion! Agreed to pilot Eva once again for a chance for redemption. Tough vs. Aliens/Zombies (Area Attack)
+Abilities: Alien,Zombie,Apostle:Multi-Hit,Resistant,Zombie Killer,Eva Angel Killer
+Combos: 
+Stats: 	health - 2250.000
+	knockback - 3
+	attackRateF - 114
+	attackRateS - 3.80
+	attackPower - 1237.500
+	movementSpeed - 9
+	attackAnimF - 37
+	attackAnimS - 1.23
+	range - 160
+	respawnTimeF - 646
+	respawnTimeS - 21.53
+	attackType - 範囲(Area Attack)
+	cost - 375
+
+

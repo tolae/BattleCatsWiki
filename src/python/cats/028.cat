@@ -1,0 +1,59 @@
+028
+
+Normal:
+Version: Ver1.4
+Jap Name: ネコひめ
+En Name: Cat Princess
+Jp Desc: ケリ姫スイーツコラボ
+En Desc: A cat who travels the world in order to seek true beauty. He admired a princess he has met in the middle of the journey and bought an item in a wig shop.
+Abilities: None:
+Combos: 
+Stats: 	health - 1500.000
+	knockback - 1
+	attackRateF - 161
+	attackRateS - 5.37
+	attackPower - 1125.000
+	movementSpeed - 35
+	attackAnimF - 2
+	attackAnimS - 0.07
+	range - 140
+	respawnTimeF - 446
+	respawnTimeS - 14.87
+	attackType - 単体(Single Attack)
+	cost - 675
+
+
+Evolved:
+Version: Ver1.4
+Jap Name: ネコひめビューティ
+En Name: Cat Princess Beauty
+Jp Desc: ケリ姫スイーツコラボ
+En Desc: A cat who travels the world in order to seek true beauty. He admired a princess he has met in the middle of the journey and spent an entire fortune on plastic surgery.
+Abilities: None:
+Combos: 
+Stats: 	health - 1500.000
+	knockback - 1
+	attackRateF - 161
+	attackRateS - 5.37
+	attackPower - 1125.000
+	movementSpeed - 35
+	attackAnimF - 2
+	attackAnimS - 0.07
+	range - 140
+	respawnTimeF - 446
+	respawnTimeS - 14.87
+	attackType - 単体(Single Attack)
+	cost - 675
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

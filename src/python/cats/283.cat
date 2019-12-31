@@ -1,0 +1,60 @@
+283
+
+Normal:
+Version: Ver5.2
+Jap Name: ネコ阿波踊り
+En Name: Awa-Odori Cat
+Jp Desc: 踊るにゃんこに見るにゃんこ同じネコなら踊らにゃ損々！生産コストが安いので量産が可能
+En Desc: Whether a dancing Cat or a watching Cat, everyone's a Cat, so why not just dance?! Super cheap to allow for big parades.
+Abilities: None:
+Combos: 	オシャレ笠|Classic Headwear - ['283', '138']
+	振袖選手権|Kimono Champs - ['335', '129', '283']
+Stats: 	health - 375.000
+	knockback - 3
+	attackRateF - 43
+	attackRateS - 1.43
+	attackPower - 30.147
+	movementSpeed - 8
+	attackAnimF - 14
+	attackAnimS - 0.47
+	range - 140
+	respawnTimeF - 60
+	respawnTimeS - 2.00
+	attackType - 単体(Single Attack)
+	cost - 75
+
+
+Evolved:
+Version: Ver5.2
+Jap Name: ネコソーラン
+En Name: So-Ran Cat
+Jp Desc: にゃーーれんにゃーらんにゃーらんにゃーらんにゃらんにゃーらん ニャイニャイ！生産コストが安いので量産が可能
+En Desc: Heave, ho! Heave, ho! A dance for fish, of course Cats can get behind this tradition! Super cheap to allow for extra big catches.
+Abilities: None:
+Combos: 
+Stats: 	health - 375.000
+	knockback - 3
+	attackRateF - 43
+	attackRateS - 1.43
+	attackPower - 30.147
+	movementSpeed - 8
+	attackAnimF - 14
+	attackAnimS - 0.47
+	range - 140
+	respawnTimeF - 60
+	respawnTimeS - 2.00
+	attackType - 単体(Single Attack)
+	cost - 75
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

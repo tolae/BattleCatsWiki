@@ -1,0 +1,59 @@
+238
+
+Normal:
+Version: Ver4.4
+Jap Name: おかめはちもくネコ
+En Name: Freshman Cat Jobs
+Jp Desc: おかめ大学を首席で卒業したエリートにゃんこ利益追求の計算高さと極度のネコ見知りを合わせもつ敵の攻撃力を大幅にダウンさせる
+En Desc: A li'l smart aleck who aced his entrance exams for Nyarvard U. Uses his wit to spy enemy weak points and greatly decrease their offense.
+Abilities: All (w/o Metal):Weaken
+Combos: 
+Stats: 	health - 200.000
+	knockback - 3
+	attackRateF - 199
+	attackRateS - 6.63
+	attackPower - 250.000
+	movementSpeed - 1
+	attackAnimF - 34
+	attackAnimS - 1.13
+	range - 300
+	respawnTimeF - 4746
+	respawnTimeS - 158.20
+	attackType - 単体(Single Attack)
+	cost - 600
+
+
+Evolved:
+Version: Ver4.4
+Jap Name: おかめの水博士
+En Name: Prof. Cat Jobs
+Jp Desc: ニャーベル経済学賞を25回受賞した天才博士経験値をより多く得られる方法を発見した第一人者敵の攻撃力を大幅にダウンさせる
+En Desc: Won the Nyabel Prize in economics last year. His debate skills can confuse enemies so badly they lose much of their offensive power.
+Abilities: All (w/o Metal):Weaken
+Combos: 	グッジョブ|Good Jobs! - ['238']
+Stats: 	health - 225.000
+	knockback - 3
+	attackRateF - 199
+	attackRateS - 6.63
+	attackPower - 312.500
+	movementSpeed - 1
+	attackAnimF - 34
+	attackAnimS - 1.13
+	range - 300
+	respawnTimeF - 4746
+	respawnTimeS - 158.20
+	attackType - 単体(Single Attack)
+	cost - 600
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

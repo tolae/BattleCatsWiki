@@ -1,0 +1,59 @@
+438
+
+Normal:
+Version: Ver7.2
+Jap Name: 激・神さま
+En Name: Cat God the Great
+Jp Desc: とうとうにゃんこ軍団へ降臨した神神のくしゃみでメタルな敵以外をふっとばし怒りのいかずちが降り注ぐ（全方位攻撃）
+En Desc: At long last, Cat God has joined the fight! His holy sneeze knocks back all but metal enemies, and his Omni-strikes are pretty cool too.
+Abilities: All (w/o Metal):Multi-Hit,Knockback,Long Distance (Omni)
+Combos: 
+Stats: 	health - 3750.000
+	knockback - 1
+	attackRateF - 1119
+	attackRateS - 37.30
+	attackPower - 7650.000
+	movementSpeed - 3
+	attackAnimF - 90
+	attackAnimS - 3.00
+	range - 350
+	respawnTimeF - 8634
+	respawnTimeS - 287.80
+	attackType - 範囲(Area Attack)
+	cost - 3,333
+
+
+Evolved:
+Version: Ver7.2
+Jap Name: 超・神さま
+En Name: Cat God the Awesome
+Jp Desc: 神々しいまでの輝きを放つ神神のくしゃみでメタルな敵以外をふっとばし怒りのいかずちが降り注ぐ（全方位攻撃）
+En Desc: Shining with glorious purpose and divine charisma. His holy sneeze knocks back all but metal enemies, and his Omni-strikes are pretty cool too.
+Abilities: All (w/o Metal):Multi-Hit,Knockback,Long Distance (Omni)
+Combos: 
+Stats: 	health - 3750.000
+	knockback - 1
+	attackRateF - 1119
+	attackRateS - 37.30
+	attackPower - 7650.000
+	movementSpeed - 3
+	attackAnimF - 90
+	attackAnimS - 3.00
+	range - 350
+	respawnTimeF - 8634
+	respawnTimeS - 287.80
+	attackType - 範囲(Area Attack)
+	cost - 3,333
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

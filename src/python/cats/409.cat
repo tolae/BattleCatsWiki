@@ -1,0 +1,59 @@
+409
+
+Normal:
+Version: Ver6.10
+Jap Name: ネコマリ
+En Name: Mari Cat
+Jp Desc: エヴァンゲリオンコラボ
+En Desc: A strange Cat with stylish glasses. Loves to end each sentence with a meow. Tough vs / Massive Damage to Floating.
+Abilities: Float:Massive Damage,Resistant
+Combos: 
+Stats: 	health - 1350.000
+	knockback - 3
+	attackRateF - 116
+	attackRateS - 3.87
+	attackPower - 600.000
+	movementSpeed - 8
+	attackAnimF - 35
+	attackAnimS - 1.17
+	range - 210
+	respawnTimeF - 226
+	respawnTimeS - 7.53
+	attackType - 単体(Single Attack)
+	cost - 630
+
+
+Evolved:
+Version: Ver6.10
+Jap Name: 極秘入国ネコマリ
+En Name: Special Ops Mari
+Jp Desc: エヴァンゲリオンコラボ
+En Desc: A skilled paratrooper who infiltrated Tokyo-3. Learning her way around Central Dogma. Tough vs / Massive Damage to Floating.
+Abilities: Float:Massive Damage,Resistant
+Combos: 
+Stats: 	health - 1350.000
+	knockback - 3
+	attackRateF - 76
+	attackRateS - 2.53
+	attackPower - 400.000
+	movementSpeed - 8
+	attackAnimF - 35
+	attackAnimS - 1.17
+	range - 210
+	respawnTimeF - 226
+	respawnTimeS - 7.53
+	attackType - 単体(Single Attack)
+	cost - 630
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

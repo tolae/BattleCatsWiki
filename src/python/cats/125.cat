@@ -1,0 +1,71 @@
+125
+
+Normal:
+Version: 
+Jap Name: 伊達政宗
+En Name: Date Masamune
+Jp Desc: 伝説の武具「にゃんこ盾」の呪いによって殺戮マシンと化した戦国武将（範囲攻撃）黒い敵と赤い敵をたまにふっとばす
+En Desc: The curse of the Legendary Cat Shield has made him a killing machine. (Area attack) Might knock back Black and Red enemies.
+Abilities: Red,Black:Knockback
+Combos: 
+Stats: 	health - 3500.000
+	knockback - 3
+	attackRateF - 106
+	attackRateS - 3.53
+	attackPower - 1690.000
+	movementSpeed - 16
+	attackAnimF - 47
+	attackAnimS - 1.57
+	range - 395
+	respawnTimeF - 3706
+	respawnTimeS - 123.53
+	attackType - 範囲(Area Attack)
+	cost - 4,200
+
+
+Evolved:
+Version: 
+Jap Name: 武神・伊達政宗
+En Name: Wargod Masamune
+Jp Desc: 伝説の武具「にゃんこ盾」の地獄モード起動地獄の猛回転が敵を切り裂く（範囲攻撃）黒い敵と赤い敵をたまにふっとばす
+En Desc: Cat Shield's Hell Mode - activate! Infernal (Area) attacks slice through his foes! Might knock back Black and Red enemies.
+Abilities: Red,Black:Knockback
+Combos: 	ぐるぐる大回転|Like a Record, Baby - ['125', '268', '089']
+Stats: 	health - 5750.000
+	knockback - 3
+	attackRateF - 107
+	attackRateS - 3.57
+	attackPower - 2469.853
+	movementSpeed - 16
+	attackAnimF - 48
+	attackAnimS - 1.60
+	range - 395
+	respawnTimeF - 3706
+	respawnTimeS - 123.53
+	attackType - 範囲(Area Attack)
+	cost - 4,200
+
+
+True:
+Version: Ver5.7
+Jap Name: 邪眼竜の武神・伊達政宗
+En Name: Immortal Masamune
+Jp Desc: 地獄の邪気により闇に染まった「にゃんこ盾」業炎をまとった猛回転が敵を切り刻む（範囲攻撃）黒い敵と赤い敵をたまにふっとばす
+En Desc: Infernal hatred has fully infused the shield. Karmic blades sweep through all enemies! Area attacks. Knockback Black and Red enemies.
+Abilities: Red,Black:Knockback
+Combos: 
+Stats: 	health - 8000.000
+	knockback - 3
+	attackRateF - 107
+	attackRateS - 3.57
+	attackPower - 3250.000
+	movementSpeed - 16
+	attackAnimF - 48
+	attackAnimS - 1.60
+	range - 425
+	respawnTimeF - 3706
+	respawnTimeS - 123.53
+	attackType - 範囲(Area Attack)
+	cost - 4,200
+
+

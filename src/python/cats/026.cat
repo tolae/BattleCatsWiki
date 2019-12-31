@@ -1,0 +1,71 @@
+026
+
+Normal:
+Version: Ver1.0
+Jap Name: ネコムート
+En Name: Bahamut Cat
+Jp Desc: かつて世界を滅ぼしたと伝えられる伝説の超古代兵器圧倒的な破壊力で敵を攻撃する（範囲攻撃）
+En Desc: An ancient Cat weapon that was rumored to have caused the first apocalypse. Has unearthly offensive power (Area Attack)
+Abilities: None:
+Combos: 
+Stats: 	health - 3750.000
+	knockback - 3
+	attackRateF - 600
+	attackRateS - 20.00
+	attackPower - 12500.000
+	movementSpeed - 6
+	attackAnimF - 121
+	attackAnimS - 4.03
+	range - 450
+	respawnTimeF - 4546
+	respawnTimeS - 151.53
+	attackType - 範囲(Area Attack)
+	cost - 4,500
+
+
+Evolved:
+Version: Ver1.0
+Jap Name: 狂乱のネコムート
+En Name: Crazed Bahamut Cat
+Jp Desc: かつて世界を滅ぼしたと伝えられる超古代兵器の着ぐるみだったことが判明それでも圧倒的な破壊力の攻撃はする（範囲攻撃）
+En Desc: Turns out the first apocalypse was actually caused by this one. You can see why... Has unearthly offensive power (Area Attack)
+Abilities: None:
+Combos: 
+Stats: 	health - 3750.000
+	knockback - 3
+	attackRateF - 600
+	attackRateS - 20.00
+	attackPower - 12500.000
+	movementSpeed - 6
+	attackAnimF - 121
+	attackAnimS - 4.03
+	range - 450
+	respawnTimeF - 4546
+	respawnTimeS - 151.53
+	attackType - 範囲(Area Attack)
+	cost - 4,500
+
+
+True:
+Version: Ver4.6
+Jap Name: 覚醒のネコムート
+En Name: Awakened Bahamut Cat
+Jp Desc: かつて世界を滅ぼしたと伝えられる超古代兵器の着ぐるみから解き放たれ覚醒したネコムート不滅のパワーとスピードで敵を駆逐する（範囲攻撃）
+En Desc: They say the power to obliterate Earth is already his. Freed of the suit which shackled his power, his power and speed is unmatched (Area Attack)
+Abilities: None:Multi-Hit
+Combos: 	韋駄天トリオ|Heavenly Kings - ['072', '026', '096']
+Stats: 	health - 3750.000
+	knockback - 6
+	attackRateF - 93
+	attackRateS - 3.10
+	attackPower - 13750.000
+	movementSpeed - 60
+	attackAnimF - 5
+	attackAnimS - 0.17
+	range - 200
+	respawnTimeF - 2946
+	respawnTimeS - 98.20
+	attackType - 範囲(Area Attack)
+	cost - 4,500
+
+

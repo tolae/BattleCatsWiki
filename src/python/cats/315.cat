@@ -1,0 +1,59 @@
+315
+
+Normal:
+Version: Ver5.7
+Jap Name: 大掃除ねねこ
+En Name: Years-End Neneko
+Jp Desc: 年末限定スタイルの妹型にゃんこ（範囲攻撃）今年も一年の感謝を込めておうちをきれいにしたい…憧れの人はもねこ（たまにクリティカル）
+En Desc: Taking out the trash and aiming for a fresh start! Thanks for everything, 2016 - NOT! Area attacks might cause Critical strikes.
+Abilities: None:Critical
+Combos: 
+Stats: 	health - 1250.000
+	knockback - 3
+	attackRateF - 127
+	attackRateS - 4.23
+	attackPower - 250.000
+	movementSpeed - 5
+	attackAnimF - 28
+	attackAnimS - 0.93
+	range - 220
+	respawnTimeF - 1744
+	respawnTimeS - 58.13
+	attackType - 範囲(Area Attack)
+	cost - 148
+
+
+Evolved:
+Version: Ver5.7
+Jap Name: 初詣ねねこ
+En Name: New Year Neneko
+Jp Desc: 新年のあいさつを欠かさないねねこ（範囲攻撃）みんなの前で歌う勇気を出すために今年こそは神様にお願いしてみたい（たまにクリティカル）
+En Desc: Resolving to improve her self-confidence, she has a New Years greeting for everyone! Area attacks might cause Critical strikes.
+Abilities: None:Critical
+Combos: 
+Stats: 	health - 2250.000
+	knockback - 3
+	attackRateF - 127
+	attackRateS - 4.23
+	attackPower - 375.000
+	movementSpeed - 5
+	attackAnimF - 28
+	attackAnimS - 0.93
+	range - 220
+	respawnTimeF - 1744
+	respawnTimeS - 58.13
+	attackType - 範囲(Area Attack)
+	cost - 148
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

@@ -1,0 +1,59 @@
+190
+
+Normal:
+Version: Ver3.8
+Jap Name: アロイス
+En Name: Aroisu
+Jp Desc: メルクストーリアコラボ
+En Desc: N/A
+Abilities: Angel:Knockback
+Combos: 
+Stats: 	health - 1250.000
+	knockback - 3
+	attackRateF - 127
+	attackRateS - 4.23
+	attackPower - 600.000
+	movementSpeed - 10
+	attackAnimF - 28
+	attackAnimS - 0.93
+	range - 351
+	respawnTimeF - 366
+	respawnTimeS - 12.20
+	attackType - 範囲(Area Attack)
+	cost - 1,170
+
+
+Evolved:
+Version: Ver3.8
+Jap Name: アロイスCC
+En Name: AroisuCC
+Jp Desc: メルクストーリアコラボ
+En Desc: N/A
+Abilities: Angel:Knockback
+Combos: 
+Stats: 	health - 1500.000
+	knockback - 3
+	attackRateF - 127
+	attackRateS - 4.23
+	attackPower - 850.000
+	movementSpeed - 10
+	attackAnimF - 28
+	attackAnimS - 0.93
+	range - 351
+	respawnTimeF - 366
+	respawnTimeS - 12.20
+	attackType - 範囲(Area Attack)
+	cost - 1,170
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

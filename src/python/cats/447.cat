@@ -1,0 +1,59 @@
+447
+
+Normal:
+Version: Ver8.0
+Jap Name: 戦隊ショベリン
+En Name: Backhoe Cat
+Jp Desc: 地底戦隊グランドンの多機能な掘削担当メタルな敵しか攻撃できないがたまにクリティカル攻撃を放ち、敵を倒した時にお金を多くもらえる
+En Desc: No one digs like this guy. Don't even try, you'll lose. Only attacks Metal, with Critical chance! Gains extra money when defeating enemies.
+Abilities: Metal:Attacks Only,Critical,Extra Money
+Combos: 
+Stats: 	health - 2700.000
+	knockback - 3
+	attackRateF - 104
+	attackRateS - 3.47
+	attackPower - 359.853
+	movementSpeed - 15
+	attackAnimF - 60
+	attackAnimS - 2.00
+	range - 350
+	respawnTimeF - 876
+	respawnTimeS - 29.20
+	attackType - 単体(Single Attack)
+	cost - 1,500
+
+
+Evolved:
+Version: Ver8.0
+Jap Name: 戦隊パワーショベリン
+En Name: Power Backhoe Cat
+Jp Desc: 地底戦隊グランドンの芸達者な掘削担当メタルな敵しか攻撃できないがたまにクリティカル攻撃を放ち、敵を倒した時にお金を多くもらえる
+En Desc: The way he picks up dirt is just... glorious. Only attacks Metal, with Critical chance! Gains extra money when defeating enemies!
+Abilities: Metal:Attacks Only,Critical,Extra Money
+Combos: 
+Stats: 	health - 3375.000
+	knockback - 3
+	attackRateF - 104
+	attackRateS - 3.47
+	attackPower - 450.000
+	movementSpeed - 15
+	attackAnimF - 60
+	attackAnimS - 2.00
+	range - 350
+	respawnTimeF - 876
+	respawnTimeS - 29.20
+	attackType - 単体(Single Attack)
+	cost - 1,500
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

@@ -1,0 +1,71 @@
+060
+
+Normal:
+Version: Ver2.0
+Jap Name: ねこベビー
+En Name: Baby Cat
+Jp Desc: 一人では何もできない赤ちゃんにゃんこいじめると怖いお父さんが出現たまに浮いてる敵とエイリアンをふっとばす（範囲攻撃）
+En Desc: A baby Cat that still can't do anything by itself. Luckily, daddy is there to help. Might knockback Floating and Alien enemies (Area Attack).
+Abilities: Float,Alien:Knockback,Immune to Freeze
+Combos: 	孫という名の宝物|Treasured Grandchild - ['060', '133']
+Stats: 	health - 10000.000
+	knockback - 2
+	attackRateF - 299
+	attackRateS - 9.97
+	attackPower - 5500.000
+	movementSpeed - 9
+	attackAnimF - 60
+	attackAnimS - 2.00
+	range - 140
+	respawnTimeF - 1546
+	respawnTimeS - 51.53
+	attackType - 範囲(Area Attack)
+	cost - 3,150
+
+
+Evolved:
+Version: Ver2.0
+Jap Name: ねこベビーズ
+En Name: Baby Cats
+Jp Desc: 一人では何もできない赤ちゃんにゃんこ達いじめると怖いお父さんが出現たまに浮いてる敵とエイリアンをふっとばす（範囲攻撃）
+En Desc: Brought along it's baby sister. Dad has his work cut out for him. Might knockback Floating and Alien enemies (Area Attack).
+Abilities: Float,Alien:Knockback,Immune to Freeze
+Combos: 
+Stats: 	health - 13000.000
+	knockback - 2
+	attackRateF - 299
+	attackRateS - 9.97
+	attackPower - 8750.000
+	movementSpeed - 9
+	attackAnimF - 60
+	attackAnimS - 2.00
+	range - 140
+	respawnTimeF - 1546
+	respawnTimeS - 51.53
+	attackType - 範囲(Area Attack)
+	cost - 3,150
+
+
+True:
+Version: Ver5.0
+Jap Name: ネコベビーカーズ
+En Name: Cats in the Cradle
+Jp Desc: 特性「動きを遅くする」追加
+En Desc: Even 7 kittens together can't do much. Luckily Dad's still keeping an eye out for bullies. Area wave attacks knockback Floating/Alien.
+Abilities: Float,Alien:Knockback,Wave Attack,Immune to Freeze
+Combos: 
+Stats: 	health - 15500.000
+	knockback - 2
+	attackRateF - 299
+	attackRateS - 9.97
+	attackPower - 8750.000
+	movementSpeed - 12
+	attackAnimF - 60
+	attackAnimS - 2.00
+	range - 240
+	respawnTimeF - 1546
+	respawnTimeS - 51.53
+	attackType - 範囲(Area Attack)
+	cost - 3,150
+
+

@@ -1,0 +1,71 @@
+161
+
+Normal:
+Version: 
+Jap Name: ユーリンチー
+En Name: Burning Phoenix
+Jp Desc: ケリ姫スイーツコラボ
+En Desc: N/A
+Abilities: Angel:Strong
+Combos: 
+Stats: 	health - 3500.000
+	knockback - 4
+	attackRateF - 152
+	attackRateS - 5.07
+	attackPower - 1325.000
+	movementSpeed - 7
+	attackAnimF - 33
+	attackAnimS - 1.10
+	range - 315
+	respawnTimeF - 1646
+	respawnTimeS - 54.87
+	attackType - 範囲(Area Attack)
+	cost - 1,875
+
+
+Evolved:
+Version: 
+Jap Name: 転生霊鳥ユーリンチー
+En Name: Reincarnated Spirit Burning Phoenix
+Jp Desc: ケリ姫スイーツコラボ
+En Desc: N/A
+Abilities: Angel:Strong
+Combos: 
+Stats: 	health - 4750.000
+	knockback - 4
+	attackRateF - 152
+	attackRateS - 5.07
+	attackPower - 1500.000
+	movementSpeed - 7
+	attackAnimF - 33
+	attackAnimS - 1.10
+	range - 315
+	respawnTimeF - 1646
+	respawnTimeS - 54.87
+	attackType - 範囲(Area Attack)
+	cost - 1,875
+
+
+True:
+Version: Ver7.3
+Jap Name: ゲキリンチー
+En Name: 160-3
+Jp Desc: ケリ姫スイーツコラボ
+En Desc: N/A
+Abilities: Angel:Strong
+Combos: 
+Stats: 	health - 6000.000
+	knockback - 4
+	attackRateF - 102
+	attackRateS - 3.40
+	attackPower - 1500.000
+	movementSpeed - 12
+	attackAnimF - 33
+	attackAnimS - 1.10
+	range - 340
+	respawnTimeF - 1646
+	respawnTimeS - 54.87
+	attackType - 範囲(Area Attack)
+	cost - 1,875
+
+

@@ -1,0 +1,71 @@
+087
+
+Normal:
+Version: 
+Jap Name: 神龍かむくら
+En Name: Kamukura
+Jp Desc: 世界の天変地異を操る伝説の竜族圧倒的な破壊力で敵を攻撃する（範囲攻撃）たまに赤い敵をふっとばして移動を遅くする
+En Desc: Ancient Cat Dragon Kamukura. (Area Attack) Said to be able to move the heavens. Might knock back and slow red enemies.
+Abilities: Red:Knockback,Slow
+Combos: 	コイの滝登り|Koi and Dragon - ['105', '087']
+Stats: 	health - 10000.000
+	knockback - 3
+	attackRateF - 283
+	attackRateS - 9.43
+	attackPower - 6209.853
+	movementSpeed - 5
+	attackAnimF - 60
+	attackAnimS - 2.00
+	range - 450
+	respawnTimeF - 4546
+	respawnTimeS - 151.53
+	attackType - 範囲(Area Attack)
+	cost - 6,150
+
+
+Evolved:
+Version: 
+Jap Name: 神龍王かむくら
+En Name: God Dragon Kamukura
+Jp Desc: 七龍珠により覚醒した伝説の竜族圧倒的な破壊力で敵を攻撃する（範囲攻撃）たまに赤い敵をふっとばして移動を遅くする
+En Desc: Ancient Cat Dragon Kamukura. (Area Attack) Shifted to true form after collecting 7 balls. Might knock back and slow red enemies.
+Abilities: Red:Knockback,Slow
+Combos: 
+Stats: 	health - 10000.000
+	knockback - 3
+	attackRateF - 283
+	attackRateS - 9.43
+	attackPower - 6209.853
+	movementSpeed - 5
+	attackAnimF - 60
+	attackAnimS - 2.00
+	range - 450
+	respawnTimeF - 4546
+	respawnTimeS - 151.53
+	attackType - 範囲(Area Attack)
+	cost - 6,150
+
+
+True:
+Version: Ver5.4
+Jap Name: 神龍皇帝かむくら
+En Name: God-Emperor Kamukura
+Jp Desc: 七龍珠の力を覚醒させる神龍石を身に宿し人々の願いを叶えるという伝説の神龍（範囲攻撃）たまに赤い敵をふっとばして移動を遅くする
+En Desc: Ancient Cat Dragon who has awakened the hidden power of the 7 mystic balls. Might knockback and slow Red enemies.
+Abilities: Red:Knockback,Slow
+Combos: 
+Stats: 	health - 12500.000
+	knockback - 3
+	attackRateF - 243
+	attackRateS - 8.10
+	attackPower - 6209.853
+	movementSpeed - 5
+	attackAnimF - 60
+	attackAnimS - 2.00
+	range - 475
+	respawnTimeF - 4546
+	respawnTimeS - 151.53
+	attackType - 範囲(Area Attack)
+	cost - 6,150
+
+

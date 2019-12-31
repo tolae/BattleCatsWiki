@@ -1,0 +1,59 @@
+116
+
+Normal:
+Version: 
+Jap Name: セラム
+En Name: Seramu
+Jp Desc: メルクストーリアコラボ
+En Desc: N/A
+Abilities: Black:Knockback
+Combos: 
+Stats: 	health - 762.500
+	knockback - 6
+	attackRateF - 106
+	attackRateS - 3.53
+	attackPower - 300.000
+	movementSpeed - 16
+	attackAnimF - 17
+	attackAnimS - 0.57
+	range - 250
+	respawnTimeF - 186
+	respawnTimeS - 6.20
+	attackType - 単体(Single Attack)
+	cost - 510
+
+
+Evolved:
+Version: 
+Jap Name: セラムCC
+En Name: SeramuCC
+Jp Desc: メルクストーリアコラボ
+En Desc: N/A
+Abilities: Black:Knockback
+Combos: 
+Stats: 	health - 875.000
+	knockback - 6
+	attackRateF - 106
+	attackRateS - 3.53
+	attackPower - 387.500
+	movementSpeed - 16
+	attackAnimF - 17
+	attackAnimS - 0.57
+	range - 250
+	respawnTimeF - 186
+	respawnTimeS - 6.20
+	attackType - 単体(Single Attack)
+	cost - 510
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

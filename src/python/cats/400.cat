@@ -1,0 +1,59 @@
+400
+
+Normal:
+Version: Ver6.9
+Jap Name: めんトリ
+En Name: Mentori
+Jp Desc: めんトリコラボ
+En Desc: Dropping in from MENTORI! Trust me, talking to it is more trouble than its worth. Tough vs Floating enemies.
+Abilities: Float:Resistant
+Combos: 
+Stats: 	health - 1350.000
+	knockback - 3
+	attackRateF - 10
+	attackRateS - 0.33
+	attackPower - 37.500
+	movementSpeed - 8
+	attackAnimF - 6
+	attackAnimS - 0.20
+	range - 120
+	respawnTimeF - 206
+	respawnTimeS - 6.87
+	attackType - 単体(Single Attack)
+	cost - 450
+
+
+Evolved:
+Version: Ver6.9
+Jap Name: めんトリCC
+En Name: Mentori CC
+Jp Desc: めんトリコラボ
+En Desc: Dropping in from MENTORI! This weird bird specializes in obnoxious interjections. Tough vs Floating enemies
+Abilities: Float:Resistant
+Combos: 
+Stats: 	health - 1350.000
+	knockback - 3
+	attackRateF - 10
+	attackRateS - 0.33
+	attackPower - 37.500
+	movementSpeed - 8
+	attackAnimF - 6
+	attackAnimS - 0.20
+	range - 120
+	respawnTimeF - 206
+	respawnTimeS - 6.87
+	attackType - 単体(Single Attack)
+	cost - 450
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

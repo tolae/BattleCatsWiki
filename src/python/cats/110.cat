@@ -1,0 +1,73 @@
+110
+
+Normal:
+Version: 
+Jap Name: マダム・ザ・花嫁
+En Name: Madam Bride
+Jp Desc: 忘れかけてたあの感動を取り戻した体力を多く備えた盾用のキャラ攻撃力もぼちぼちある感じ（範囲攻撃）
+En Desc: Bringing back those lost memories. Acts as a shield using her great health. She can also do some damage (Area Attack)
+Abilities: None:Multi-Hit
+Combos: 	フォーリンラヴ|Fall in Love - ['057', '110']
+	恋の季節|Seasons of Love - ['101', '105', '110']
+Stats: 	health - 2850.000
+	knockback - 1
+	attackRateF - 34
+	attackRateS - 1.13
+	attackPower - 45.000
+	movementSpeed - 8
+	attackAnimF - 12
+	attackAnimS - 0.40
+	range - 110
+	respawnTimeF - 226
+	respawnTimeS - 7.53
+	attackType - 範囲(Area Attack)
+	cost - 600
+
+
+Evolved:
+Version: 
+Jap Name: マダム・ザ・王様
+En Name: Madam King
+Jp Desc: 忘れかけてたあの感動を取り戻した体力を多く備えた盾用のキャラ攻撃力もぼちぼちある感じ（範囲攻撃）
+En Desc: Now that she's captured her dream man, her rulership over the home has become indisputable. High resistance & good damage. (Area Attack)
+Abilities: None:Multi-Hit
+Combos: 	海底財宝発掘命令|Royal Submariner - ['317', '110']
+	獅子王|Lion King - ['005', '110']
+Stats: 	health - 2850.000
+	knockback - 1
+	attackRateF - 34
+	attackRateS - 1.13
+	attackPower - 45.000
+	movementSpeed - 8
+	attackAnimF - 12
+	attackAnimS - 0.40
+	range - 110
+	respawnTimeF - 226
+	respawnTimeS - 7.53
+	attackType - 範囲(Area Attack)
+	cost - 600
+
+
+True:
+Version: Ver5.0
+Jap Name: マダム・ザ・サバンナ
+En Name: Madam the Savannah
+Jp Desc: 広大な大草原を統べる百獣の王の妻で体力を多く備えた盾用のキャラ1度だけ生き残る能力を取得（範囲攻撃）
+En Desc: Not content to rule the home, she now dominates a vast wilderness of beasts. Authority shields her well, even allows her to avoid death once (Area Attack)
+Abilities: None:Multi-Hit,Survive,Warp Blocker
+Combos: 
+Stats: 	health - 4275.000
+	knockback - 1
+	attackRateF - 34
+	attackRateS - 1.13
+	attackPower - 45.000
+	movementSpeed - 8
+	attackAnimF - 12
+	attackAnimS - 0.40
+	range - 110
+	respawnTimeF - 226
+	respawnTimeS - 7.53
+	attackType - 範囲(Area Attack)
+	cost - 600
+
+

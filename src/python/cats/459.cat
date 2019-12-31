@@ -1,0 +1,63 @@
+459
+
+Normal:
+Version: Ver8.2
+Jap Name: アーチャーネコ
+En Name: Archer the Cat
+Jp Desc: 劇場版 Fate stay nightコラボ
+En Desc: A Heroic Cat Spirit proficient with both bow
+and blade. Who knows why he dislikes
+Shirou the Cat so? Immune to Wave Attacks.
+Abilities: None:Immune to Waves
+Combos: 
+Stats: 	health - 1650.000
+	knockback - 3
+	attackRateF - 91
+	attackRateS - 3.03
+	attackPower - 300.000
+	movementSpeed - 10
+	attackAnimF - 26
+	attackAnimS - 0.87
+	range - 275
+	respawnTimeF - 386
+	respawnTimeS - 12.87
+	attackType - 単体(Single Attack)
+	cost - 600
+
+
+Evolved:
+Version: Ver8.2
+Jap Name: 英霊アーチャーネコ
+En Name: Heroic Spirit Archer Cat
+Jp Desc: 劇場版 Fate stay nightコラボ
+En Desc: Mastered the bow in order to claim the title
+of Archer. His hate for Shirou the Cat keeps
+him up at night. Long-range, Immune to Waves.
+Abilities: None:Long Distance (Single),Immune to Waves
+Combos: 
+Stats: 	health - 1650.000
+	knockback - 3
+	attackRateF - 91
+	attackRateS - 3.03
+	attackPower - 300.000
+	movementSpeed - 10
+	attackAnimF - 26
+	attackAnimS - 0.87
+	range - 275
+	respawnTimeF - 386
+	respawnTimeS - 12.87
+	attackType - 単体(Single Attack)
+	cost - 600
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

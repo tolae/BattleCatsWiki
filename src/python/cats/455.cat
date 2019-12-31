@@ -1,0 +1,59 @@
+455
+
+Normal:
+Version: Ver8.1
+Jap Name: 目玉おやじ
+En Name: Eyeball Father
+Jp Desc: ゆる～いゲゲゲの鬼太郎 妖怪ドタバタ大戦争コラボ
+En Desc: N/A
+Abilities: Zombie:Weaken,Zombie Killer,Critical
+Combos: 
+Stats: 	health - 1800.000
+	knockback - 4
+	attackRateF - 83
+	attackRateS - 2.77
+	attackPower - 247.353
+	movementSpeed - 8
+	attackAnimF - 24
+	attackAnimS - 0.80
+	range - 210
+	respawnTimeF - 1846
+	respawnTimeS - 61.53
+	attackType - 単体(Single Attack)
+	cost - 315
+
+
+Evolved:
+Version: Ver8.1
+Jap Name: 入浴おやじ
+En Name: Bathing Father
+Jp Desc: ゆる～いゲゲゲの鬼太郎 妖怪ドタバタ大戦争コラボ
+En Desc: N/A
+Abilities: Zombie:Weaken,Zombie Killer,Critical
+Combos: 
+Stats: 	health - 1800.000
+	knockback - 4
+	attackRateF - 83
+	attackRateS - 2.77
+	attackPower - 247.353
+	movementSpeed - 8
+	attackAnimF - 18
+	attackAnimS - 0.60
+	range - 210
+	respawnTimeF - 1846
+	respawnTimeS - 61.53
+	attackType - 単体(Single Attack)
+	cost - 315
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

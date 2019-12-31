@@ -1,0 +1,59 @@
+478
+
+Normal:
+Version: Ver8.5
+Jap Name: ネコの助
+En Name: Assistant Cat
+Jp Desc: ビックリマンコラボ
+En Desc: N/A
+Abilities: Alien:Strong
+Combos: 
+Stats: 	health - 5320.588
+	knockback - 3
+	attackRateF - 201
+	attackRateS - 6.70
+	attackPower - 3454.412
+	movementSpeed - 6
+	attackAnimF - 66
+	attackAnimS - 2.20
+	range - 250
+	respawnTimeF - 726
+	respawnTimeS - 24.20
+	attackType - 範囲(Area Attack)
+	cost - 1,245
+
+
+Evolved:
+Version: Ver8.5
+Jap Name: ネコ老守
+En Name: Old Guard Cat
+Jp Desc: ビックリマンコラボ
+En Desc: N/A
+Abilities: Alien:Strong
+Combos: 
+Stats: 	health - 5320.588
+	knockback - 3
+	attackRateF - 201
+	attackRateS - 6.70
+	attackPower - 3454.412
+	movementSpeed - 6
+	attackAnimF - 66
+	attackAnimS - 2.20
+	range - 250
+	respawnTimeF - 726
+	respawnTimeS - 24.20
+	attackType - 範囲(Area Attack)
+	cost - 1,245
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

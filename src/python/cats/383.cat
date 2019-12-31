@@ -1,0 +1,77 @@
+383
+
+Normal:
+Version: Ver6.7
+Jap Name: ガラスネコ
+En Name: Glass Cat
+Jp Desc: 倒された時、独自グラフィック（アニメーション）
+En Desc: Made of fragile stuff, but his heart is sturdy!
+You only get one chance at life, so go for it!
+Only attacks once, slows traitless enemies.
+Abilities: White:Multi-Hit,Slow,Metal,Immune to Waves,Immune to Knockback,Immune to Freeze,Immune to Slow,Immune to Weaken,Warp Blocker
+Combos: 
+Stats: 	health - 250.000
+	knockback - 1
+	attackRateF - -
+	attackRateS - -
+	attackPower - 250.000
+	movementSpeed - 40
+	attackAnimF - 1
+	attackAnimS - 0.03
+	range - 140
+	respawnTimeF - 746
+	respawnTimeS - 24.87
+	attackType - 単体(Single Attack)
+	cost - 450
+
+
+Evolved:
+Version: Ver6.7
+Jap Name: ガラスネコビルダー
+En Name: Macho Glass Cat
+Jp Desc: 倒された時、独自グラフィック（アニメーション）
+En Desc: Made using slightly more durable glass,
+but it still doesn't have much effect on the battlefield.
+Only attacks once, slows traitless enemies.
+Abilities: White:Multi-Hit,Slow,Metal,Immune to Waves,Immune to Knockback,Immune to Freeze,Immune to Slow,Immune to Weaken,Warp Blocker
+Combos: 
+Stats: 	health - 250.000
+	knockback - 1
+	attackRateF - -
+	attackRateS - -
+	attackPower - 250.000
+	movementSpeed - 40
+	attackAnimF - 1
+	attackAnimS - 0.03
+	range - 140
+	respawnTimeF - 746
+	respawnTimeS - 24.87
+	attackType - 単体(Single Attack)
+	cost - 450
+
+
+True:
+Version: Ver8.9
+Jap Name: クリスタルネコビルダー
+En Name: 382-3
+Jp Desc: 倒された時、独自グラフィック（アニメーション）
+En Desc: His body has been perfectly polished to shine
+eternally. Lets live forever in radiant glory!
+Knockback/Slow vs Traitless (Single Attack)
+Abilities: White:Multi-Hit,Knockback,Slow,Metal,Immune to Waves,Immune to Knockback,Immune to Freeze,Immune to Slow,Immune to Weaken,Warp Blocker
+Combos: 
+Stats: 	health - 250.000
+	knockback - 1
+	attackRateF - -
+	attackRateS - -
+	attackPower - 250.000
+	movementSpeed - 40
+	attackAnimF - 1
+	attackAnimS - 0.03
+	range - 140
+	respawnTimeF - 746
+	respawnTimeS - 24.87
+	attackType - 単体(Single Attack)
+	cost - 450
+
+

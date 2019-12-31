@@ -1,0 +1,59 @@
+480
+
+Normal:
+Version: Ver8.5
+Jap Name: グミネコ
+En Name: Gummy Cat
+Jp Desc: 【成分】砂糖・水飴・ゼラチン・濃縮猫汁2％【保存方法】直射日光・高温多湿を避けてください※体力が高くノックバック回数が多い
+En Desc: N/A
+Abilities: None:
+Combos: 
+Stats: 	health - 2500.000
+	knockback - 1,000
+	attackRateF - 37
+	attackRateS - 1.23
+	attackPower - 2.500
+	movementSpeed - 9
+	attackAnimF - 8
+	attackAnimS - 0.27
+	range - 140
+	respawnTimeF - 190
+	respawnTimeS - 6.33
+	attackType - 単体(Single Attack)
+	cost - 150
+
+
+Evolved:
+Version: Ver8.5
+Jap Name: ラッキーネコ
+En Name: Lucky Cat
+Jp Desc: 【成分】砂糖・水飴・ゼラチン・ヒゲ・濃縮猫汁22％【保存方法】直射日光が当たる縁側にて保存※見つけた人はラッキーが訪れるという幸運のグミ
+En Desc: N/A
+Abilities: None:
+Combos: 
+Stats: 	health - 2500.000
+	knockback - 1,000
+	attackRateF - 37
+	attackRateS - 1.23
+	attackPower - 2.500
+	movementSpeed - 9
+	attackAnimF - 8
+	attackAnimS - 0.27
+	range - 140
+	respawnTimeF - 190
+	respawnTimeS - 6.33
+	attackType - 単体(Single Attack)
+	cost - 150
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

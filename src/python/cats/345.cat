@@ -1,0 +1,71 @@
+345
+
+Normal:
+Version: Ver6.2
+Jap Name: オルトス
+En Name: Orutosu
+Jp Desc: メルクストーリアコラボ
+En Desc: N/A
+Abilities: Float:Knockback
+Combos: 
+Stats: 	health - 1575.000
+	knockback - 3
+	attackRateF - 89
+	attackRateS - 2.97
+	attackPower - 675.000
+	movementSpeed - 16
+	attackAnimF - 14
+	attackAnimS - 0.47
+	range - 270
+	respawnTimeF - 426
+	respawnTimeS - 14.20
+	attackType - 範囲(Area Attack)
+	cost - 1,080
+
+
+Evolved:
+Version: Ver6.2
+Jap Name: オルトスCC
+En Name: OrutosuCC
+Jp Desc: メルクストーリアコラボ
+En Desc: N/A
+Abilities: Float:Knockback
+Combos: 
+Stats: 	health - 1950.000
+	knockback - 3
+	attackRateF - 88
+	attackRateS - 2.93
+	attackPower - 825.000
+	movementSpeed - 16
+	attackAnimF - 17
+	attackAnimS - 0.57
+	range - 270
+	respawnTimeF - 426
+	respawnTimeS - 14.20
+	attackType - 範囲(Area Attack)
+	cost - 1,080
+
+
+True:
+Version: Ver7.5
+Jap Name: 彩色のオルトスCC
+En Name: Colourful Orotosu CC
+Jp Desc: メルクストーリアコラボ
+En Desc: N/A
+Abilities: Float:Knockback
+Combos: 
+Stats: 	health - 3075.000
+	knockback - 3
+	attackRateF - 59
+	attackRateS - 1.97
+	attackPower - 975.000
+	movementSpeed - 16
+	attackAnimF - 24
+	attackAnimS - 0.80
+	range - 300
+	respawnTimeF - 426
+	respawnTimeS - 14.20
+	attackType - 範囲(Area Attack)
+	cost - 1,080
+
+

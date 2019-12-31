@@ -1,0 +1,71 @@
+147
+
+Normal:
+Version: Ver3.0
+Jap Name: たけうまねこ
+En Name: Stilts Cat
+Jp Desc: 更なる高みを目指すため視点だけでもと竹馬に乗ってみたにゃんこごくたまに天使をふっとばす
+En Desc: A cat so ambitious that he built wooden stilts to better reach for the stars. Knocks back Angels every once in a while.
+Abilities: Angel:Knockback
+Combos: 
+Stats: 	health - 837.500
+	knockback - 3
+	attackRateF - 76
+	attackRateS - 2.53
+	attackPower - 115.000
+	movementSpeed - 6
+	attackAnimF - 17
+	attackAnimS - 0.57
+	range - 310
+	respawnTimeF - 266
+	respawnTimeS - 8.87
+	attackType - 単体(Single Attack)
+	cost - 570
+
+
+Evolved:
+Version: Ver3.0
+Jap Name: トーテムねこ
+En Name: Totem Cat
+Jp Desc: 高みを目指す同志が集まったのでワールドワイドな感じになってみたにゃんこごくたまに天使をふっとばす
+En Desc: Couldn't cut it by himself, so he gathered some pals to work together. Naturally, he's on top. Knocks back Angels every once in a while.
+Abilities: Angel:Knockback
+Combos: 
+Stats: 	health - 994.853
+	knockback - 3
+	attackRateF - 76
+	attackRateS - 2.53
+	attackPower - 165.000
+	movementSpeed - 6
+	attackAnimF - 17
+	attackAnimS - 0.57
+	range - 310
+	respawnTimeF - 266
+	respawnTimeS - 8.87
+	attackType - 単体(Single Attack)
+	cost - 570
+
+
+True:
+Version: Ver6.8
+Jap Name: ねこ雑技団
+En Name: Acrobat Cats
+Jp Desc: 高みを目指すために芸を身につけたにゃんこ次の椅子を買うために二人でお金を貯めているたまに天使をふっとばす
+En Desc: Hopefully this pair’s choice of cheap Swedish furniture won’t bring their dreams crashing to the ground. Sometimes knocks Angels back.
+Abilities: Angel:Knockback
+Combos: 
+Stats: 	health - 1990.000
+	knockback - 3
+	attackRateF - 76
+	attackRateS - 2.53
+	attackPower - 330.147
+	movementSpeed - 6
+	attackAnimF - 17
+	attackAnimS - 0.57
+	range - 310
+	respawnTimeF - 266
+	respawnTimeS - 8.87
+	attackType - 単体(Single Attack)
+	cost - 570
+
+

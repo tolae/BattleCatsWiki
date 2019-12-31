@@ -1,0 +1,59 @@
+054
+
+Normal:
+Version: Ver2.0
+Jap Name: エヴァンジェリスト
+En Name: Evangelist Cat
+Jp Desc: レジェンド達に会うことで入手できる敵の動きを止めることができるエスパーにゃんこ押され気味のときに召喚するのだ！
+En Desc: Unlocked by meeting all the legends. Stops the movement of enemies. Summon when you are losing ground.
+Abilities: All (w/o Metal):Freeze
+Combos: 
+Stats: 	health - 500.000
+	knockback - 1
+	attackRateF - 1140
+	attackRateS - 38.00
+	attackPower - 150.000
+	movementSpeed - 18
+	attackAnimF - 341
+	attackAnimS - 11.37
+	range - 1,000
+	respawnTimeF - 9746
+	respawnTimeS - 324.87
+	attackType - 範囲(Area Attack)
+	cost - 499
+
+
+Evolved:
+Version: Ver2.0
+Jap Name: フィリバスター
+En Name: Filibuster Cat
+Jp Desc: レジェンド達に会うことで入手できる流れを妨害することができるエスパーにゃんこ押され気味のときに召喚するのだ！
+En Desc: Uses special powers to interrupt time. Stops the movement of enemies. Summon when you are losing ground.
+Abilities: All (w/o Metal):Freeze
+Combos: 
+Stats: 	health - 500.000
+	knockback - 1
+	attackRateF - 1140
+	attackRateS - 38.00
+	attackPower - 150.000
+	movementSpeed - 18
+	attackAnimF - 341
+	attackAnimS - 11.37
+	range - 1,000
+	respawnTimeF - 9746
+	respawnTimeS - 324.87
+	attackType - 範囲(Area Attack)
+	cost - 499
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

@@ -1,0 +1,59 @@
+329
+
+Normal:
+Version: Ver5.10
+Jap Name: ハッピー100
+En Name: Happy 100
+Jp Desc: クラッシュフィーバーコラボ
+En Desc: A chipper and bright computer virus, appearing as a guest from Crash Fever. Attacks have Area effect.
+Abilities: None:
+Combos: 
+Stats: 	health - 1000.000
+	knockback - 3
+	attackRateF - 75
+	attackRateS - 2.50
+	attackPower - 125.000
+	movementSpeed - 10
+	attackAnimF - 38
+	attackAnimS - 1.27
+	range - 300
+	respawnTimeF - 386
+	respawnTimeS - 12.87
+	attackType - 範囲(Area Attack)
+	cost - 720
+
+
+Evolved:
+Version: Ver5.10
+Jap Name: 幸せ連鎖子ハッピー100
+En Name: Heartful Happy 100
+Jp Desc: クラッシュフィーバーコラボ
+En Desc: Her dream is to infect the world's systems with joy. Appearing as a guest from Crash Fever. Attacks have Area effect.
+Abilities: None:
+Combos: 
+Stats: 	health - 1000.000
+	knockback - 3
+	attackRateF - 75
+	attackRateS - 2.50
+	attackPower - 125.000
+	movementSpeed - 10
+	attackAnimF - 38
+	attackAnimS - 1.27
+	range - 300
+	respawnTimeF - 386
+	respawnTimeS - 12.87
+	attackType - 範囲(Area Attack)
+	cost - 720
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

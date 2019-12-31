@@ -1,0 +1,63 @@
+527
+
+Normal:
+Version: Ver9.1
+Jap Name: 冬天使のシシル＆コマリ
+En Name: Snow Angel Twinstars
+Jp Desc: クリスマス限定スタイルの無邪気な双子肉球リースが繰り出す連撃パンチで寒さも吹き飛ばす浮いてる敵と天使に超ダメージを与える（範囲攻撃）
+En Desc: Overflowing with holiday cheer, they'll smash
+any grumps who won't get into the Xmas spirit.
+Massive Area damage to Angels and Floating.
+Abilities: Float,Angel:Multi-Hit,Massive Damage
+Combos: 
+Stats: 	health - 2750.000
+	knockback - 4
+	attackRateF - 0
+	attackRateS - 0.00
+	attackPower - 2325.000
+	movementSpeed - 27
+	attackAnimF - 20
+	attackAnimS - 0.67
+	range - 350
+	respawnTimeF - 1996
+	respawnTimeS - 66.53
+	attackType - 範囲(Area Attack)
+	cost - 3,900
+
+
+Evolved:
+Version: Ver9.1
+Jap Name: 冬天使のシシル＆コマリΦ
+En Name: Snow Angel Twinstars, type Φ
+Jp Desc: 「いい子」でサンタを迎え撃つ仲良しの双子聖夜に燃える闘志も眠気には勝てないお年頃浮いてる敵と天使に超ダメージを与える（範囲攻撃）
+En Desc: Two good kids who are never on Santa's naughty
+list. Always the first to help with Xmas decorations.
+Massive Area damage to Angels and Floating.
+Abilities: Float,Angel:Multi-Hit,Massive Damage
+Combos: 
+Stats: 	health - 5500.000
+	knockback - 4
+	attackRateF - 0
+	attackRateS - 0.00
+	attackPower - 3450.000
+	movementSpeed - 27
+	attackAnimF - 20
+	attackAnimS - 0.67
+	range - 350
+	respawnTimeF - 1996
+	respawnTimeS - 66.53
+	attackType - 範囲(Area Attack)
+	cost - 3,900
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

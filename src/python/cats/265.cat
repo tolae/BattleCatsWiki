@@ -1,0 +1,59 @@
+265
+
+Normal:
+Version: Ver4.7
+Jap Name: クロミ
+En Name: Kuromi
+Jp Desc: にゃんパズルコラボ
+En Desc: N/A
+Abilities: Black:Multi-Hit,Strong
+Combos: 
+Stats: 	health - 1050.000
+	knockback - 4
+	attackRateF - 40
+	attackRateS - 1.33
+	attackPower - 150.000
+	movementSpeed - 12
+	attackAnimF - 11
+	attackAnimS - 0.37
+	range - 160
+	respawnTimeF - 166
+	respawnTimeS - 5.53
+	attackType - 単体(Single Attack)
+	cost - 480
+
+
+Evolved:
+Version: Ver4.7
+Jap Name: クロミとにゃんこたち
+En Name: Kuromi and Cats
+Jp Desc: にゃんパズルコラボ
+En Desc: N/A
+Abilities: Black:Multi-Hit,Strong
+Combos: 
+Stats: 	health - 1375.000
+	knockback - 4
+	attackRateF - 40
+	attackRateS - 1.33
+	attackPower - 200.000
+	movementSpeed - 12
+	attackAnimF - 11
+	attackAnimS - 0.37
+	range - 160
+	respawnTimeF - 166
+	respawnTimeS - 5.53
+	attackType - 単体(Single Attack)
+	cost - 480
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

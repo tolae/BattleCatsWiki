@@ -1,0 +1,71 @@
+107
+
+Normal:
+Version: 
+Jap Name: 召し豚のカイ
+En Name: Kai
+Jp Desc: 豚マシン「とんとん」に乗る天然うっかり少女豚から放たれる超近射ビームは圧倒的（範囲攻撃）浮いてる敵に打たれ強く、1度だけ生き残る
+En Desc: Airheaded girl riding her machine pig "Tonton". Fires powerful point blank beams (Area Attack). Reduced damage from Floating, survives once.
+Abilities: Float:Resistant,Survive
+Combos: 	豚丼|Polk on Rice - ['107', '022']
+Stats: 	health - 10750.000
+	knockback - 2
+	attackRateF - 315
+	attackRateS - 10.50
+	attackPower - 7775.000
+	movementSpeed - 8
+	attackAnimF - 76
+	attackAnimS - 2.53
+	range - 175
+	respawnTimeF - 2146
+	respawnTimeS - 71.53
+	attackType - 範囲(Area Attack)
+	cost - 3,990
+
+
+Evolved:
+Version: 
+Jap Name: 召し豚のカイμ
+En Name: Kai, type μ
+Jp Desc: 優しくされると誰でも好きになってしまう恋愛ハードル3cmの召し豚のカイ（範囲攻撃）浮いてる敵に打たれ強く、1度だけ生き残る
+En Desc: Ends up liking anyone who is nice to her. Her love hurdle is mere 3cm (Area Attack). Reduced damage from Floating, survives once.
+Abilities: Float:Resistant,Survive
+Combos: 
+Stats: 	health - 14250.000
+	knockback - 2
+	attackRateF - 315
+	attackRateS - 10.50
+	attackPower - 12475.000
+	movementSpeed - 8
+	attackAnimF - 76
+	attackAnimS - 2.53
+	range - 175
+	respawnTimeF - 2146
+	respawnTimeS - 71.53
+	attackType - 範囲(Area Attack)
+	cost - 3,990
+
+
+True:
+Version: Ver5.9
+Jap Name: 召し猪のカイμ
+En Name: Divine Kai
+Jp Desc: 好きになったその人がタイプ！猪マシン「ウリボーグ」に乗って猪突猛進（範囲攻撃）浮いてる敵に打たれ強く、1度だけ生き残る
+En Desc: If any cute guy is your type, is that really a type? Always travels via her trusty Boarborg.(Area Atk). Reduced damage from Flying, Survives Once.
+Abilities: Float:Resistant,Survive,Immune to Knockback
+Combos: 
+Stats: 	health - 28500.000
+	knockback - 2
+	attackRateF - 315
+	attackRateS - 10.50
+	attackPower - 17475.000
+	movementSpeed - 16
+	attackAnimF - 76
+	attackAnimS - 2.53
+	range - 175
+	respawnTimeF - 2146
+	respawnTimeS - 71.53
+	attackType - 範囲(Area Attack)
+	cost - 3,990
+
+

@@ -1,0 +1,59 @@
+487
+
+Normal:
+Version: Ver8.7
+Jap Name: ひな
+En Name: Hina
+Jp Desc: ケリ姫スイーツコラボ
+En Desc: N/A
+Abilities: None:Wave Attack
+Combos: 
+Stats: 	health - 2925.000
+	knockback - 3
+	attackRateF - 179
+	attackRateS - 5.97
+	attackPower - 250.000
+	movementSpeed - 10
+	attackAnimF - 32
+	attackAnimS - 1.07
+	range - 275
+	respawnTimeF - 946
+	respawnTimeS - 31.53
+	attackType - 単体(Single Attack)
+	cost - 720
+
+
+Evolved:
+Version: Ver8.7
+Jap Name: 剣士ひな
+En Name: Swordsman Hina
+Jp Desc: ケリ姫スイーツコラボ
+En Desc: N/A
+Abilities: None:Wave Attack
+Combos: 
+Stats: 	health - 3900.000
+	knockback - 3
+	attackRateF - 179
+	attackRateS - 5.97
+	attackPower - 312.500
+	movementSpeed - 10
+	attackAnimF - 32
+	attackAnimS - 1.07
+	range - 275
+	respawnTimeF - 946
+	respawnTimeS - 31.53
+	attackType - 単体(Single Attack)
+	cost - 720
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

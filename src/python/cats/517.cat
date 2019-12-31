@@ -1,0 +1,63 @@
+517
+
+Normal:
+Version: Ver8.10.5
+Jap Name: ダルシム
+En Name: Dhalsim
+Jp Desc: ストリートファイターV AEコラボ
+En Desc: Joining the fight from Street Fighter V AE!
+Mystic who has mastered the arts of yoga. 
+100% Weaken vs Traitless (Area Attack)
+Abilities: White:Multi-Hit,Weaken
+Combos: 
+Stats: 	health - 10500.000
+	knockback - 5
+	attackRateF - 206
+	attackRateS - 6.87
+	attackPower - 4350.000
+	movementSpeed - 6
+	attackAnimF - 8
+	attackAnimS - 0.27
+	range - 350
+	respawnTimeF - 2746
+	respawnTimeS - 91.53
+	attackType - 範囲(Area Attack)
+	cost - 3,750
+
+
+Evolved:
+Version: Ver8.10.5
+Jap Name: ダルシムCC
+En Name: Dhalsim CC
+Jp Desc: ストリートファイターV AEコラボ
+En Desc: Joining the fight from Street Fighter V AE!
+Calls upon Agni to command holy fires. 
+100% Weaken vs Traitless (Area Attack)
+Abilities: White:Multi-Hit,Weaken
+Combos: 
+Stats: 	health - 10500.000
+	knockback - 5
+	attackRateF - 206
+	attackRateS - 6.87
+	attackPower - 4350.000
+	movementSpeed - 6
+	attackAnimF - 8
+	attackAnimS - 0.27
+	range - 350
+	respawnTimeF - 2746
+	respawnTimeS - 91.53
+	attackType - 範囲(Area Attack)
+	cost - 3,750
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

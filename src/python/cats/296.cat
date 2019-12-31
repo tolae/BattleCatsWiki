@@ -1,0 +1,63 @@
+296
+
+Normal:
+Version: Ver5.5
+Jap Name: ネコほむら
+En Name: Homura Cat
+Jp Desc: 魔法少女まどか☆マギカコラボ
+En Desc: A Cat who admires cool and mysterious Magical
+Girls. She's still too excitable to pull it off though...
+Might Freeze Black enemies.
+Abilities: Black:Freeze
+Combos: 
+Stats: 	health - 2250.000
+	knockback - 3
+	attackRateF - 64
+	attackRateS - 2.13
+	attackPower - 500.000
+	movementSpeed - 9
+	attackAnimF - 23
+	attackAnimS - 0.77
+	range - 120
+	respawnTimeF - 186
+	respawnTimeS - 6.20
+	attackType - 単体(Single Attack)
+	cost - 660
+
+
+Evolved:
+Version: Ver5.5
+Jap Name: 魔法少女ネコほむら
+En Name: Magical Girl Homura Cat
+Jp Desc: 魔法少女まどか☆マギカコラボ
+En Desc: This Magical Cat made a contract with a suspicious
+white creature. Don't be intimidated by her toy gun.
+Might Freeze Black enemies.
+Abilities: Black:Freeze
+Combos: 
+Stats: 	health - 2250.000
+	knockback - 3
+	attackRateF - 63
+	attackRateS - 2.10
+	attackPower - 500.000
+	movementSpeed - 9
+	attackAnimF - 22
+	attackAnimS - 0.73
+	range - 200
+	respawnTimeF - 186
+	respawnTimeS - 6.20
+	attackType - 単体(Single Attack)
+	cost - 660
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

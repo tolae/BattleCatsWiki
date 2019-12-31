@@ -1,0 +1,59 @@
+208
+
+Normal:
+Version: Ver4.2
+Jap Name: リオレイア
+En Name: Rathian
+Jp Desc: モンハン大狩猟クエストコラボ
+En Desc: N/A
+Abilities: All (w/o Metal):Weaken
+Combos: 
+Stats: 	health - 4600.000
+	knockback - 2
+	attackRateF - 160
+	attackRateS - 5.33
+	attackPower - 2100.000
+	movementSpeed - 8
+	attackAnimF - 45
+	attackAnimS - 1.50
+	range - 320
+	respawnTimeF - 3346
+	respawnTimeS - 111.53
+	attackType - 範囲(Area Attack)
+	cost - 3,600
+
+
+Evolved:
+Version: Ver4.2
+Jap Name: リオレイア＆にゃんこ
+En Name: Rathian & Cat
+Jp Desc: モンハン大狩猟クエストコラボ
+En Desc: N/A
+Abilities: All (w/o Metal):Weaken
+Combos: 
+Stats: 	health - 5850.000
+	knockback - 2
+	attackRateF - 160
+	attackRateS - 5.33
+	attackPower - 2975.000
+	movementSpeed - 8
+	attackAnimF - 45
+	attackAnimS - 1.50
+	range - 320
+	respawnTimeF - 3346
+	respawnTimeS - 111.53
+	attackType - 範囲(Area Attack)
+	cost - 3,600
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

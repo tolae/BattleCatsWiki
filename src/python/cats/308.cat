@@ -1,0 +1,71 @@
+308
+
+Normal:
+Version: Ver5.6
+Jap Name: ネコジャンパー
+En Name: Vaulter Cat
+Jp Desc: 棒を使って空を舞うことを追い求めるネコそのチャレンジ精神は場所を選ぶことはないたまにゾンビの動きを遅くする（遠方範囲攻撃）
+En Desc: Soaring through the blue sky using only a single pole, she is the height of athleticism. Area atks might slow Zombies.
+Abilities: Zombie:Slow,Zombie Killer,Long Distance (Area)
+Combos: 	全国大会出場|Nationals - ['202', '308']
+Stats: 	health - 1125.000
+	knockback - 3
+	attackRateF - 161
+	attackRateS - 5.37
+	attackPower - 1000.000
+	movementSpeed - 14
+	attackAnimF - 40
+	attackAnimS - 1.33
+	range - 350
+	respawnTimeF - 646
+	respawnTimeS - 21.53
+	attackType - 範囲(Area Attack)
+	cost - 1,050
+
+
+Evolved:
+Version: Ver5.6
+Jap Name: ネコボールター
+En Name: Polevaulter Cat
+Jp Desc: 世界一高く宙を舞ったネコとしてギネスに認定されかけたスーパーアスリート女子。来年結婚予定たまにゾンビの動きを遅くする（遠方範囲攻撃）
+En Desc: Certified by Guinness as the record-holder for cats' polevaulting. Will marry her coach next year. Area attacks might slow Zombies.
+Abilities: Zombie:Slow,Zombie Killer,Long Distance (Area)
+Combos: 
+Stats: 	health - 1500.000
+	knockback - 3
+	attackRateF - 161
+	attackRateS - 5.37
+	attackPower - 1375.000
+	movementSpeed - 14
+	attackAnimF - 40
+	attackAnimS - 1.33
+	range - 350
+	respawnTimeF - 646
+	respawnTimeS - 21.53
+	attackType - 範囲(Area Attack)
+	cost - 1,050
+
+
+True:
+Version: Ver8.1
+Jap Name: ネコ奥様
+En Name: Housewife Cat
+Jp Desc: かつてトップアスリートとして名を馳せた奥様物干し竿を華麗に扱い家事に育児に空を飛ぶたまにゾンビの動きを遅くする（遠方範囲攻撃）
+En Desc: Retired with four still-unbeaten world records. Her skills are surprisingly applicable to daily life! Area attacks might slow Zombie
+Abilities: Zombie:Slow,Zombie Killer,Long Distance (Area)
+Combos: 
+Stats: 	health - 1875.000
+	knockback - 3
+	attackRateF - 161
+	attackRateS - 5.37
+	attackPower - 1375.000
+	movementSpeed - 20
+	attackAnimF - 40
+	attackAnimS - 1.33
+	range - 350
+	respawnTimeF - 646
+	respawnTimeS - 21.53
+	attackType - 範囲(Area Attack)
+	cost - 1,050
+
+

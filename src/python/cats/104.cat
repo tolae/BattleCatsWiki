@@ -1,0 +1,71 @@
+104
+
+Normal:
+Version: 
+Jap Name: 歌謡にゃんこ
+En Name: Singer Cat
+Jp Desc: 小林幸子コラボ
+En Desc: Queen of the lounge scene! Her greatest performance is just a class change away.
+Abilities: None:
+Combos: 
+Stats: 	health - 250.000
+	knockback - 1
+	attackRateF - 37
+	attackRateS - 1.23
+	attackPower - 19.853
+	movementSpeed - 10
+	attackAnimF - 8
+	attackAnimS - 0.27
+	range - 140
+	respawnTimeF - 60
+	respawnTimeS - 2.00
+	attackType - 単体(Single Attack)
+	cost - 105
+
+
+Evolved:
+Version: 
+Jap Name: メガにゃんこ
+En Name: Mega Cat
+Jp Desc: 小林幸子コラボ
+En Desc: Her legendary status is now ensured with this bold performance. No one can match her force of passion
+Abilities: None:
+Combos: 
+Stats: 	health - 500.000
+	knockback - 1
+	attackRateF - 879
+	attackRateS - 29.30
+	attackPower - 450.000
+	movementSpeed - 4
+	attackAnimF - 160
+	attackAnimS - 5.33
+	range - 900
+	respawnTimeF - 11514
+	respawnTimeS - 383.80
+	attackType - 範囲(Area Attack)
+	cost - 1,950
+
+
+True:
+Version: Ver5.6
+Jap Name: メガにゃんこEX
+En Name: Mega Cat EX
+Jp Desc: 小林幸子コラボ
+En Desc: N/A
+Abilities: None:
+Combos: 
+Stats: 	health - 500.000
+	knockback - 1
+	attackRateF - 759
+	attackRateS - 25.30
+	attackPower - 900.000
+	movementSpeed - 4
+	attackAnimF - 160
+	attackAnimS - 5.33
+	range - 900
+	respawnTimeF - 11514
+	respawnTimeS - 383.80
+	attackType - 範囲(Area Attack)
+	cost - 1,950
+
+

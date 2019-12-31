@@ -1,0 +1,59 @@
+417
+
+Normal:
+Version: Ver6.10
+Jap Name: ゼロムーンオペレーターズ
+En Name: Moon Operators
+Jp Desc: エヴァンゲリオンコラボ
+En Desc: Operators for the secret agency NERV, providing support for the Eva pilots. Area attacks slow Red/Zombies.
+Abilities: Red,Zombie:Slow,Zombie Killer
+Combos: 
+Stats: 	health - 6250.000
+	knockback - 4
+	attackRateF - 277
+	attackRateS - 9.23
+	attackPower - 6250.000
+	movementSpeed - 7
+	attackAnimF - 98
+	attackAnimS - 3.27
+	range - 450
+	respawnTimeF - 4146
+	respawnTimeS - 138.20
+	attackType - 範囲(Area Attack)
+	cost - 4,875
+
+
+Evolved:
+Version: Ver6.10
+Jap Name: ファーストムーンネルフ
+En Name: NERV Moon
+Jp Desc: エヴァンゲリオンコラボ
+En Desc: Elite command of the NERV agency. An effective team since their school days. Area attacks slow Red/Zombies.
+Abilities: Red,Zombie:Slow,Zombie Killer
+Combos: 
+Stats: 	health - 6250.000
+	knockback - 4
+	attackRateF - 277
+	attackRateS - 9.23
+	attackPower - 6250.000
+	movementSpeed - 7
+	attackAnimF - 98
+	attackAnimS - 3.27
+	range - 450
+	respawnTimeF - 4146
+	respawnTimeS - 138.20
+	attackType - 範囲(Area Attack)
+	cost - 4,875
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

@@ -1,0 +1,71 @@
+394
+
+Normal:
+Version: Ver6.8
+Jap Name: 新島早紀
+En Name: Saki Nijima
+Jp Desc: 実況パワフルプロ野球コラボ
+En Desc: Dropping in from PowerPro Baseball! Popular player with many female fans. Area attacks slow Floating/Black.
+Abilities: Black,Float:Slow
+Combos: 
+Stats: 	health - 6750.000
+	knockback - 5
+	attackRateF - 187
+	attackRateS - 6.23
+	attackPower - 2875.000
+	movementSpeed - 10
+	attackAnimF - 36
+	attackAnimS - 1.20
+	range - 325
+	respawnTimeF - 3246
+	respawnTimeS - 108.20
+	attackType - 範囲(Area Attack)
+	cost - 3,900
+
+
+Evolved:
+Version: Ver6.8
+Jap Name: 新島早紀CC
+En Name: Saki Nijima CC
+Jp Desc: 実況パワフルプロ野球コラボ
+En Desc: Dropping in from PowerPro Baseball! Has a small complex about being unfeminine. Area attacks slow Floating/Black.
+Abilities: Black,Float:Slow
+Combos: 
+Stats: 	health - 8250.000
+	knockback - 5
+	attackRateF - 187
+	attackRateS - 6.23
+	attackPower - 3625.000
+	movementSpeed - 10
+	attackAnimF - 36
+	attackAnimS - 1.20
+	range - 325
+	respawnTimeF - 3246
+	respawnTimeS - 108.20
+	attackType - 範囲(Area Attack)
+	cost - 3,900
+
+
+True:
+Version: Ver6.8
+Jap Name: サンバ新島早紀CC
+En Name: Samba Saki CC
+Jp Desc: 実況パワフルプロ野球コラボ
+En Desc: Dropping in from PowerPro Baseball! Eventually was won over by the rhythm! Area attacks slow Floating/Black.
+Abilities: Black,Float:Slow,Immune to Slow
+Combos: 
+Stats: 	health - 10500.000
+	knockback - 5
+	attackRateF - 165
+	attackRateS - 5.50
+	attackPower - 4750.000
+	movementSpeed - 10
+	attackAnimF - 36
+	attackAnimS - 1.20
+	range - 325
+	respawnTimeF - 3246
+	respawnTimeS - 108.20
+	attackType - 範囲(Area Attack)
+	cost - 3,900
+
+

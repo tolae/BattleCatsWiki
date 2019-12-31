@@ -1,0 +1,59 @@
+350
+
+Normal:
+Version: Ver6.2
+Jap Name: ぐでぐでプリン
+En Name: Gudegude Pudding
+Jp Desc: 倒された時、独自グラフィック（アニメーション）
+En Desc: N/A
+Abilities: Black:Massive Damage
+Combos: 
+Stats: 	health - 3750.000
+	knockback - 2
+	attackRateF - 91
+	attackRateS - 3.03
+	attackPower - 1250.000
+	movementSpeed - 6
+	attackAnimF - 10
+	attackAnimS - 0.33
+	range - 250
+	respawnTimeF - 746
+	respawnTimeS - 24.87
+	attackType - 範囲(Area Attack)
+	cost - 1,350
+
+
+Evolved:
+Version: Ver6.2
+Jap Name: ぐでぐでアラモード
+En Name: Gudegude á la mode
+Jp Desc: 倒された時、独自グラフィック（アニメーション）
+En Desc: N/A
+Abilities: Black:Massive Damage
+Combos: 
+Stats: 	health - 3750.000
+	knockback - 2
+	attackRateF - 91
+	attackRateS - 3.03
+	attackPower - 1250.000
+	movementSpeed - 6
+	attackAnimF - 10
+	attackAnimS - 0.33
+	range - 250
+	respawnTimeF - 746
+	respawnTimeS - 24.87
+	attackType - 範囲(Area Attack)
+	cost - 1,350
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

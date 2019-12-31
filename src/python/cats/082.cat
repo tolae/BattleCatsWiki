@@ -1,0 +1,76 @@
+082
+
+Normal:
+Version: 
+Jap Name: ひなにゃんこ
+En Name: Doll Cats
+Jp Desc: 乙女の季節にあらわれる体力は少ないが敵をまとめて一掃する破壊力を持ったキャラ（範囲攻撃）
+En Desc: Cats that have dressed up as dolls. Don't have much health but shoots laser beams to take down many foes (Area Attack)
+Abilities: None:
+Combos: 	まろはネコでおじゃる|Imperial Court - ['339', '082']
+	ダブルデート|Double Date - ['153', '082']
+	ネコ＆タンクネコ|Cats 'n Tanks - ['064', '082', '081']
+	二人一組|Team of Two - ['153', '082', '124', '105', '089']
+Stats: 	health - 750.000
+	knockback - 4
+	attackRateF - 80
+	attackRateS - 2.67
+	attackPower - 417.647
+	movementSpeed - 10
+	attackAnimF - 51
+	attackAnimS - 1.70
+	range - 190
+	respawnTimeF - 60
+	respawnTimeS - 2.00
+	attackType - 範囲(Area Attack)
+	cost - 975
+
+
+Evolved:
+Version: 
+Jap Name: 超号珍ニャジンガー
+En Name: Cat-o-tron
+Jp Desc: 少年にゃんこの持つリモコンでコントロール可能なにゃんこロボ光の力で攻撃する（範囲攻撃）
+En Desc: This young Cat controls the Cat Robot, Cat-o-Tron, to fire laser beams (Area Attack) Unfortunately, it's not wireless yet.
+Abilities: None:
+Combos: 	おもちゃのチャチャチャ|Toying Around - ['148', '128', '082']
+	ロボトモ|Mecha - ['079', '082']
+	鋼の救世主|Steel Saviors - ['082', '044']
+Stats: 	health - 750.000
+	knockback - 4
+	attackRateF - 80
+	attackRateS - 2.67
+	attackPower - 417.647
+	movementSpeed - 10
+	attackAnimF - 51
+	attackAnimS - 1.70
+	range - 190
+	respawnTimeF - 60
+	respawnTimeS - 2.00
+	attackType - 範囲(Area Attack)
+	cost - 975
+
+
+True:
+Version: Ver4.7
+Jap Name: ニャラジン
+En Name: Nyalladin
+Jp Desc: 魔法のランプに魂を吸い込まれたネコターバンを巻いたネコに笛を吹かれるとビームを放ってしまう。波動付き（範囲攻撃）
+En Desc: Always owns the latest model carpet, can call on his turbaned friend to fire powerful wave attacks (Area Attack)
+Abilities: None:Wave Attack
+Combos: 
+Stats: 	health - 750.000
+	knockback - 4
+	attackRateF - 80
+	attackRateS - 2.67
+	attackPower - 417.647
+	movementSpeed - 10
+	attackAnimF - 51
+	attackAnimS - 1.70
+	range - 190
+	respawnTimeF - 60
+	respawnTimeS - 2.00
+	attackType - 範囲(Area Attack)
+	cost - 975
+
+

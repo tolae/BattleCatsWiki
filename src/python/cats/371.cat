@@ -1,0 +1,71 @@
+371
+
+Normal:
+Version: Ver6.6
+Jap Name: ネコ桜
+En Name: Sakura the Cat
+Jp Desc: 劇場版 Fate stay nightコラボ
+En Desc: Healthy and capable cat filled with dreams. Fine Western-style cuisine is her talent. Has a small chance of Critical Strike.
+Abilities: None:Critical
+Combos: 
+Stats: 	health - 2050.000
+	knockback - 4
+	attackRateF - 41
+	attackRateS - 1.37
+	attackPower - 317.647
+	movementSpeed - 10
+	attackAnimF - 22
+	attackAnimS - 0.73
+	range - 165
+	respawnTimeF - 246
+	respawnTimeS - 8.20
+	attackType - 単体(Single Attack)
+	cost - 540
+
+
+Evolved:
+Version: Ver6.6
+Jap Name: エプロンネコ桜
+En Name: Apron Sakura Cat
+Jp Desc: 劇場版 Fate stay nightコラボ
+En Desc: Refining her household skills day by day. Every morning must start with a proper greeting. Has a small chance of Critical Strike.
+Abilities: None:Critical
+Combos: 
+Stats: 	health - 2050.000
+	knockback - 4
+	attackRateF - 41
+	attackRateS - 1.37
+	attackPower - 317.647
+	movementSpeed - 10
+	attackAnimF - 22
+	attackAnimS - 0.73
+	range - 165
+	respawnTimeF - 246
+	respawnTimeS - 8.20
+	attackType - 単体(Single Attack)
+	cost - 540
+
+
+True:
+Version: Ver8.2
+Jap Name: 夢見るネコ桜
+En Name: Dreaming Sakura Cat
+Jp Desc: 劇場版 Fate stay nightコラボ
+En Desc: She expresses her boundless hope in cooking. Her overflowing optimism is unmistakable! Chance of Critical Strike and Metal Knockback.
+Abilities: Metal:Knockback,Critical
+Combos: 
+Stats: 	health - 2550.000
+	knockback - 4
+	attackRateF - 41
+	attackRateS - 1.37
+	attackPower - 317.647
+	movementSpeed - 10
+	attackAnimF - 22
+	attackAnimS - 0.73
+	range - 165
+	respawnTimeF - 246
+	respawnTimeS - 8.20
+	attackType - 単体(Single Attack)
+	cost - 540
+
+

@@ -1,0 +1,59 @@
+143
+
+Normal:
+Version: 
+Jap Name: ネコチュートリアル
+En Name: Tutorial
+Jp Desc: チュートリアルコラボ
+En Desc: N/A
+Abilities: None:
+Combos: 
+Stats: 	health - 600.000
+	knockback - 1
+	attackRateF - 38
+	attackRateS - 1.27
+	attackPower - 75.000
+	movementSpeed - 7
+	attackAnimF - 8
+	attackAnimS - 0.27
+	range - 160
+	respawnTimeF - 326
+	respawnTimeS - 10.87
+	attackType - 単体(Single Attack)
+	cost - 540
+
+
+Evolved:
+Version: 
+Jap Name: 裏チュートリアル
+En Name: Behind Tutorial
+Jp Desc: チュートリアルコラボ
+En Desc: N/A
+Abilities: None:
+Combos: 
+Stats: 	health - 600.000
+	knockback - 1
+	attackRateF - 38
+	attackRateS - 1.27
+	attackPower - 75.000
+	movementSpeed - 7
+	attackAnimF - 8
+	attackAnimS - 0.27
+	range - 160
+	respawnTimeF - 326
+	respawnTimeS - 10.87
+	attackType - 単体(Single Attack)
+	cost - 540
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

@@ -1,0 +1,59 @@
+249
+
+Normal:
+Version: Ver5.7
+Jap Name: 死にたてにゃんこ
+En Name: Undead Cat
+Jp Desc: ガルズモンズコラボ
+En Desc: A cameo from GirlsMons! Hit by a car, but still gets by! Survives once, stronger after damage!
+Abilities: Zombie:Slow,Zombie Killer
+Combos: 
+Stats: 	health - 950.000
+	knockback - 3
+	attackRateF - 66
+	attackRateS - 2.20
+	attackPower - 125.000
+	movementSpeed - 10
+	attackAnimF - 4
+	attackAnimS - 0.13
+	range - 220
+	respawnTimeF - 186
+	respawnTimeS - 6.20
+	attackType - 単体(Single Attack)
+	cost - 540
+
+
+Evolved:
+Version: Ver5.7
+Jap Name: 化けにゃんこ
+En Name: Bake-Nyanko
+Jp Desc: ガルズモンズコラボ
+En Desc: A cameo from GirlsMons! A ghostly Cat obsessed with the mortal realm. Survives once, stronger after damage!
+Abilities: Zombie:Slow,Zombie Killer
+Combos: 
+Stats: 	health - 950.000
+	knockback - 3
+	attackRateF - 66
+	attackRateS - 2.20
+	attackPower - 125.000
+	movementSpeed - 10
+	attackAnimF - 22
+	attackAnimS - 0.73
+	range - 220
+	respawnTimeF - 186
+	respawnTimeS - 6.20
+	attackType - 単体(Single Attack)
+	cost - 540
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

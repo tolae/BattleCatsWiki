@@ -1,0 +1,59 @@
+507
+
+Normal:
+Version: Ver8.10
+Jap Name: アイウォルツ
+En Name: Eyewaltz
+Jp Desc: メルクストーリアコラボ
+En Desc: N/A
+Abilities: None:Survive,Immune to Waves
+Combos: 
+Stats: 	health - 6500.000
+	knockback - 3
+	attackRateF - 141
+	attackRateS - 4.70
+	attackPower - 2750.000
+	movementSpeed - 12
+	attackAnimF - 32
+	attackAnimS - 1.07
+	range - 360
+	respawnTimeF - 3046
+	respawnTimeS - 101.53
+	attackType - 範囲(Area Attack)
+	cost - 3,750
+
+
+Evolved:
+Version: Ver8.10
+Jap Name: アイウォルツCC
+En Name: Eyewaltz CC
+Jp Desc: メルクストーリアコラボ
+En Desc: N/A
+Abilities: None:Survive,Immune to Waves
+Combos: 
+Stats: 	health - 9000.000
+	knockback - 3
+	attackRateF - 141
+	attackRateS - 4.70
+	attackPower - 3750.000
+	movementSpeed - 12
+	attackAnimF - 32
+	attackAnimS - 1.07
+	range - 360
+	respawnTimeF - 3046
+	respawnTimeS - 101.53
+	attackType - 範囲(Area Attack)
+	cost - 3,750
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

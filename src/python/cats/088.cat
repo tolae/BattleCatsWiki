@@ -1,0 +1,71 @@
+088
+
+Normal:
+Version: 
+Jap Name: 竜戦機ライデン
+En Name: Raiden
+Jp Desc: 竜族を殲滅すべく造られた伝説の古代兵器圧倒的な破壊力で敵を攻撃する（範囲攻撃）赤い敵を必ずふっとばす
+En Desc: An Ancient Anti Cat Dragon weapon. Lays down a hail of deadly bullets. Knocks back red enemies. (Area Attack)
+Abilities: Red:Knockback
+Combos: 	一斉掃射|Sweep the Area - ['012', '088']
+Stats: 	health - 7500.000
+	knockback - 3
+	attackRateF - 129
+	attackRateS - 4.30
+	attackPower - 3787.500
+	movementSpeed - 12
+	attackAnimF - 40
+	attackAnimS - 1.33
+	range - 385
+	respawnTimeF - 3706
+	respawnTimeS - 123.53
+	attackType - 範囲(Area Attack)
+	cost - 4,920
+
+
+Evolved:
+Version: 
+Jap Name: 竜戦機王ライデン
+En Name: Dragonslayer Raiden
+Jp Desc: 制御機能をオーバードライブさせた古代兵器圧倒的な破壊力で敵を攻撃する（範囲攻撃）赤い敵を必ずふっとばす
+En Desc: An Ancient Anti Cat Dragon weapon. Raiden forcefully set to overdrive. Knocks back red enemies. (Area Attack)
+Abilities: Red:Knockback
+Combos: 
+Stats: 	health - 7500.000
+	knockback - 3
+	attackRateF - 129
+	attackRateS - 4.30
+	attackPower - 3787.500
+	movementSpeed - 12
+	attackAnimF - 40
+	attackAnimS - 1.33
+	range - 385
+	respawnTimeF - 3706
+	respawnTimeS - 123.53
+	attackType - 範囲(Area Attack)
+	cost - 4,920
+
+
+True:
+Version: Ver5.8
+Jap Name: 竜戦機皇帝ライデン
+En Name: God-Emperor Raiden
+Jp Desc: 竜戦機石の力で超電圧を手に入れた古代兵器最大出力のレーザーで地上を焼き尽くす（範囲攻撃）赤い敵にめっぽう強く、必ずふっとばす
+En Desc: Overdrive has released Raiden's almighty power. Nothing can withstand the blast of his holy beam. Strong vs. /100% Area Knockback vs Red.
+Abilities: Red:Strong,Knockback
+Combos: 
+Stats: 	health - 10000.000
+	knockback - 3
+	attackRateF - 129
+	attackRateS - 4.30
+	attackPower - 3787.500
+	movementSpeed - 15
+	attackAnimF - 40
+	attackAnimS - 1.33
+	range - 415
+	respawnTimeF - 3706
+	respawnTimeS - 123.53
+	attackType - 範囲(Area Attack)
+	cost - 4,920
+
+

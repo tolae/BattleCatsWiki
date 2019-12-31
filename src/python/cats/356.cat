@@ -1,0 +1,71 @@
+356
+
+Normal:
+Version: Ver6.3
+Jap Name: 観測兵器ガリレオ
+En Name: Mighty Rekon Korps
+Jp Desc: 古代学術である天体力学を武器転用した移動型兵器属性を持つ敵にしか攻撃できないが超破壊力を備える（範囲攻撃）
+En Desc: Highly mobile artillery unit based on ancient engineering. Only attacks enemies with traits, but deals massive area damage with each strike.
+Abilities: All (w/o White):Attacks Only,Zombie Killer
+Combos: 
+Stats: 	health - 6000.000
+	knockback - 8
+	attackRateF - 214
+	attackRateS - 7.13
+	attackPower - 11000.000
+	movementSpeed - 8
+	attackAnimF - 133
+	attackAnimS - 4.43
+	range - 450
+	respawnTimeF - 5346
+	respawnTimeS - 178.20
+	attackType - 範囲(Area Attack)
+	cost - 4,500
+
+
+Evolved:
+Version: Ver6.3
+Jap Name: 時空基地アルマゲドン
+En Name: Orbital Platform Armaggedon
+Jp Desc: 銀河統一を掲げ選抜オペレーターのみ擁する惑星破壊兵器。属性を持つ敵にしか攻撃できないが超破壊力を備える（範囲攻撃）
+En Desc: Designed to control interstellar territory using wormhole physics and thermonuclear strikes. Massive area damage vs traited enemies only.
+Abilities: All (w/o White):Attacks Only,Zombie Killer
+Combos: 	インディペンデンスな日|Independence Day - ['356', '006', '248']
+Stats: 	health - 6000.000
+	knockback - 8
+	attackRateF - 214
+	attackRateS - 7.13
+	attackPower - 11000.000
+	movementSpeed - 8
+	attackAnimF - 133
+	attackAnimS - 4.43
+	range - 450
+	respawnTimeF - 5346
+	respawnTimeS - 178.20
+	attackType - 範囲(Area Attack)
+	cost - 4,500
+
+
+True:
+Version: Ver8.4
+Jap Name: 超時空基地アルマゲドン
+En Name: Orbital Annihilator Ragnarok
+Jp Desc: 全宇宙の選抜オペレーターのみ擁する銀河破壊兵器。属性を持つ敵にしか攻撃できないが超破壊力を備える（全方位攻撃）
+En Desc: Only the most elite among the Cat Army troops can be trusted with this weapon of overwhelming power. Massive area damage vs traited enemies only.
+Abilities: All (w/o White):Attacks Only,Zombie Killer,Long Distance (Omni)
+Combos: 
+Stats: 	health - 6000.000
+	knockback - 8
+	attackRateF - 214
+	attackRateS - 7.13
+	attackPower - 13000.000
+	movementSpeed - 8
+	attackAnimF - 133
+	attackAnimS - 4.43
+	range - 470
+	respawnTimeF - 5346
+	respawnTimeS - 178.20
+	attackType - 範囲(Area Attack)
+	cost - 4,500
+
+

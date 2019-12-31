@@ -1,0 +1,71 @@
+271
+
+Normal:
+Version: Ver5.1
+Jap Name: 狂乱のユキ
+En Name: Crazed Yuki
+Jp Desc: 消滅都市コラボ
+En Desc: Possessed by a dark soul, she feverishly hunts down the mystery behind the annihilation. Massive area damage against Red and Black.
+Abilities: Red,Black:Massive Damage
+Combos: 
+Stats: 	health - 2875.000
+	knockback - 5
+	attackRateF - 410
+	attackRateS - 13.67
+	attackPower - 3725.000
+	movementSpeed - 8
+	attackAnimF - 43
+	attackAnimS - 1.43
+	range - 420
+	respawnTimeF - 3146
+	respawnTimeS - 104.87
+	attackType - 範囲(Area Attack)
+	cost - 4,320
+
+
+Evolved:
+Version: Ver5.1
+Jap Name: 狂乱のユキ＆ネコ
+En Name: Crazed Yuki Cat
+Jp Desc: 消滅都市コラボ
+En Desc: Desperate to solve the mystery, she has given herself totally over to darkness and Catness. Massive area damage against Red and Black.
+Abilities: Red,Black:Massive Damage
+Combos: 
+Stats: 	health - 5375.000
+	knockback - 5
+	attackRateF - 410
+	attackRateS - 13.67
+	attackPower - 7450.000
+	movementSpeed - 8
+	attackAnimF - 43
+	attackAnimS - 1.43
+	range - 420
+	respawnTimeF - 3146
+	respawnTimeS - 104.87
+	attackType - 範囲(Area Attack)
+	cost - 4,320
+
+
+True:
+Version: Ver7.1
+Jap Name: 狂乱のネコ耳ユキ
+En Name: Crazed Nekomimi Yuki
+Jp Desc: 消滅都市コラボ
+En Desc: ?
+Abilities: Red,Black:Massive Damage,Immune to Slow
+Combos: 
+Stats: 	health - 7875.000
+	knockback - 5
+	attackRateF - 410
+	attackRateS - 13.67
+	attackPower - 9312.500
+	movementSpeed - 16
+	attackAnimF - 43
+	attackAnimS - 1.43
+	range - 420
+	respawnTimeF - 3146
+	respawnTimeS - 104.87
+	attackType - 範囲(Area Attack)
+	cost - 4,320
+
+

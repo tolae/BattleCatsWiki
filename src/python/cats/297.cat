@@ -1,0 +1,63 @@
+297
+
+Normal:
+Version: Ver5.5
+Jap Name: ネコさやか
+En Name: Sayaka Cat
+Jp Desc: 魔法少女まどか☆マギカコラボ
+En Desc: A guideless Cat who admires Magical Girls.
+Visits her sick friend every day without fail.
+Grows stronger after taking damage!
+Abilities: None:Strengthen
+Combos: 
+Stats: 	health - 2450.000
+	knockback - 2
+	attackRateF - 52
+	attackRateS - 1.73
+	attackPower - 450.000
+	movementSpeed - 9
+	attackAnimF - 23
+	attackAnimS - 0.77
+	range - 180
+	respawnTimeF - 146
+	respawnTimeS - 4.87
+	attackType - 単体(Single Attack)
+	cost - 600
+
+
+Evolved:
+Version: Ver5.5
+Jap Name: 魔法少女ネコさやか
+En Name: Magical Girl Sayaka Cat
+Jp Desc: 魔法少女まどか☆マギカコラボ
+En Desc: This Magical Cat made a contract with a suspicious
+white creature. Wields a magically summoned sword.
+Grows stronger after taking damage!
+Abilities: None:Strengthen
+Combos: 
+Stats: 	health - 2450.000
+	knockback - 2
+	attackRateF - 52
+	attackRateS - 1.73
+	attackPower - 675.000
+	movementSpeed - 9
+	attackAnimF - 11
+	attackAnimS - 0.37
+	range - 180
+	respawnTimeF - 146
+	respawnTimeS - 4.87
+	attackType - 単体(Single Attack)
+	cost - 600
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

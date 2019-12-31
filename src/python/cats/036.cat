@@ -1,0 +1,73 @@
+036
+
+Normal:
+Version: Ver2.0
+Jap Name: オタネコ
+En Name: Nerd Cat
+Jp Desc: 家の中なら誰にも負ける気がしないネット界に嵐を巻き起こすオトコ超遠距離攻撃が可能（遠方攻撃）
+En Desc: Completely fearless... until leaving his basement.Net denizen who is famous for flaming.Uber Long Distance attack specialist.
+Abilities: None:Long Distance (Single)
+Combos: 	IT系|IT Crowd - ['261', '036']
+Stats: 	health - 500.000
+	knockback - 1
+	attackRateF - 241
+	attackRateS - 8.03
+	attackPower - 750.000
+	movementSpeed - 4
+	attackAnimF - 72
+	attackAnimS - 2.40
+	range - 1,200
+	respawnTimeF - 4746
+	respawnTimeS - 158.20
+	attackType - 単体(Single Attack)
+	cost - 3,750
+
+
+Evolved:
+Version: Ver2.0
+Jap Name: ネコハッカー
+En Name: Hacker Cat
+Jp Desc: ボタンひとつで全てを動かすエリート大学出身のハイテクにゃんこ超遠距離の範囲攻撃が可能（遠方範囲攻撃）
+En Desc: Famous for making Big Red Buttons.Graduate from an elite tech university.Uber Long Distance attack specialist.
+Abilities: None:Long Distance (Area)
+Combos: 
+Stats: 	health - 500.000
+	knockback - 1
+	attackRateF - 241
+	attackRateS - 8.03
+	attackPower - 750.000
+	movementSpeed - 4
+	attackAnimF - 72
+	attackAnimS - 2.40
+	range - 1,200
+	respawnTimeF - 4746
+	respawnTimeS - 158.20
+	attackType - 範囲(Area Attack)
+	cost - 3,750
+
+
+True:
+Version: Ver6.8
+Jap Name: ネコスーパーハッカー
+En Name: Cyberpunk Cat
+Jp Desc: 特性「動きを遅くする」強化
+En Desc: Having mastered virtual space, he's moved on
+to losing his shirt in the cryptocurrency market.
+Long-range area attacks slow non-Metal.
+Abilities: All (w/o Metal):Slow,Long Distance (Area)
+Combos: 
+Stats: 	health - 500.000
+	knockback - 1
+	attackRateF - 241
+	attackRateS - 8.03
+	attackPower - 1125.000
+	movementSpeed - 4
+	attackAnimF - 72
+	attackAnimS - 2.40
+	range - 1,200
+	respawnTimeF - 4746
+	respawnTimeS - 158.20
+	attackType - 範囲(Area Attack)
+	cost - 3,750
+
+

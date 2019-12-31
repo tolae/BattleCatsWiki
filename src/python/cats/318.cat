@@ -1,0 +1,61 @@
+318
+
+Normal:
+Version: Ver5.7
+Jap Name: CPAC
+En Name: CPAC
+Jp Desc: ピコ太郎コラボ
+En Desc: CPAC="Cat-Pinapple-Apple-Cat"
+Just a Couple of Cat Bros dropping in from a YouTube campaign!
+Abilities: Red:Strong
+Combos: 
+Stats: 	health - 500.000
+	knockback - 3
+	attackRateF - 66
+	attackRateS - 2.20
+	attackPower - 150.000
+	movementSpeed - 9
+	attackAnimF - 37
+	attackAnimS - 1.23
+	range - 150
+	respawnTimeF - 60
+	respawnTimeS - 2.00
+	attackType - 単体(Single Attack)
+	cost - 360
+
+
+Evolved:
+Version: Ver5.7
+Jap Name: PPAP
+En Name: PPAP
+Jp Desc: ピコ太郎コラボ
+En Desc: PPAP = "Pen-Pinapple-Apple-Pen"
+A couple of trendy YouTuber Cats joining in on the party! Thanks!
+Abilities: Red:Strong
+Combos: 
+Stats: 	health - 500.000
+	knockback - 3
+	attackRateF - 66
+	attackRateS - 2.20
+	attackPower - 150.000
+	movementSpeed - 9
+	attackAnimF - 37
+	attackAnimS - 1.23
+	range - 150
+	respawnTimeF - 60
+	respawnTimeS - 2.00
+	attackType - 単体(Single Attack)
+	cost - 360
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

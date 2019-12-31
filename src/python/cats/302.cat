@@ -1,0 +1,59 @@
+302
+
+Normal:
+Version: Ver5.5
+Jap Name: ネコキュゥべえ
+En Name: Kyubey Cat
+Jp Desc: 魔法少女まどか☆マギカコラボ
+En Desc: A ruthless Cat wearing a cute animal costume. Seeking girls who have a wish they want granted. Might Survive a lethal attack.
+Abilities: None:Survive
+Combos: 
+Stats: 	health - 250.000
+	knockback - 3
+	attackRateF - 37
+	attackRateS - 1.23
+	attackPower - 19.853
+	movementSpeed - 9
+	attackAnimF - 8
+	attackAnimS - 0.27
+	range - 140
+	respawnTimeF - 60
+	respawnTimeS - 2.00
+	attackType - 単体(Single Attack)
+	cost - 90
+
+
+Evolved:
+Version: Ver5.5
+Jap Name: タンクキュゥべえ
+En Name: Tank Kyubey Cat
+Jp Desc: 魔法少女まどか☆マギカコラボ
+En Desc: A ruthless Cat wearing a cute animal costume. Evolved for improved stylishness and adorability. Might Survive a lethal attack.
+Abilities: None:Survive
+Combos: 
+Stats: 	health - 1000.000
+	knockback - 1
+	attackRateF - 67
+	attackRateS - 2.23
+	attackPower - 5.147
+	movementSpeed - 7
+	attackAnimF - 8
+	attackAnimS - 0.27
+	range - 110
+	respawnTimeF - 60
+	respawnTimeS - 2.00
+	attackType - 範囲(Area Attack)
+	cost - 180
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

@@ -1,0 +1,59 @@
+355
+
+Normal:
+Version: Ver6.3
+Jap Name: 常夏の果実カイ
+En Name: Seashore Kai
+Jp Desc: 数年ぶりに引っぱり出した水着ではしゃぐ天然少女レンタル浮輪「とりとん」を乗りこなし熱い視線が集まる黒い敵とゾンビに打たれ強い（範囲攻撃）
+En Desc: She's actually terrified of water, but Kalisa dragged her to the beach for the first time in years. Super tough vs Black/Zombies (Area Attack)
+Abilities: Black,Zombie:Resistant,Zombie Killer
+Combos: 
+Stats: 	health - 10750.000
+	knockback - 2
+	attackRateF - 158
+	attackRateS - 5.27
+	attackPower - 3887.500
+	movementSpeed - 15
+	attackAnimF - 51
+	attackAnimS - 1.70
+	range - 175
+	respawnTimeF - 2146
+	respawnTimeS - 71.53
+	attackType - 範囲(Area Attack)
+	cost - 3,990
+
+
+Evolved:
+Version: Ver6.3
+Jap Name: 常夏の果実カイμ
+En Name: Seashore Kai, type µ
+Jp Desc: 真夏の暑さで波のように流されやすくなったカイいつか誰かとひと夏の恋に溺れてみたい黒い敵とゾンビに打たれ強い（範囲攻撃）
+En Desc: Slowly growing more comfortable with the bikini look. Is today the day she finds her cute surfer boy? Super tough vs Black/Zombies (Area Attack)
+Abilities: Black,Zombie:Resistant,Zombie Killer
+Combos: 
+Stats: 	health - 14250.000
+	knockback - 2
+	attackRateF - 158
+	attackRateS - 5.27
+	attackPower - 6237.500
+	movementSpeed - 15
+	attackAnimF - 51
+	attackAnimS - 1.70
+	range - 175
+	respawnTimeF - 2146
+	respawnTimeS - 71.53
+	attackType - 範囲(Area Attack)
+	cost - 3,990
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

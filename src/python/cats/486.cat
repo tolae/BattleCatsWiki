@@ -1,0 +1,59 @@
+486
+
+Normal:
+Version: Ver8.7
+Jap Name: カレット
+En Name: Karetto
+Jp Desc: ケリ姫スイーツコラボ
+En Desc: N/A
+Abilities: Angel,Alien,Zombie:Weaken,Zombie Killer
+Combos: 
+Stats: 	health - 4500.000
+	knockback - 3
+	attackRateF - 235
+	attackRateS - 7.83
+	attackPower - 3000.000
+	movementSpeed - 10
+	attackAnimF - 72
+	attackAnimS - 2.40
+	range - 410
+	respawnTimeF - 1846
+	respawnTimeS - 61.53
+	attackType - 範囲(Area Attack)
+	cost - 3,600
+
+
+Evolved:
+Version: Ver8.7
+Jap Name: カレットCC
+En Name: Karetto CC
+Jp Desc: ケリ姫スイーツコラボ
+En Desc: N/A
+Abilities: Angel,Alien,Zombie:Weaken,Zombie Killer
+Combos: 
+Stats: 	health - 6000.000
+	knockback - 3
+	attackRateF - 235
+	attackRateS - 7.83
+	attackPower - 4000.000
+	movementSpeed - 10
+	attackAnimF - 72
+	attackAnimS - 2.40
+	range - 410
+	respawnTimeF - 1846
+	respawnTimeS - 61.53
+	attackType - 範囲(Area Attack)
+	cost - 3,600
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

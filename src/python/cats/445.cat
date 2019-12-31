@@ -1,0 +1,59 @@
+445
+
+Normal:
+Version: Ver8.0
+Jap Name: 戦隊ウチコンガ
+En Name: Piledriver Cat
+Jp Desc: 地底戦隊グランドンの超強力な杭打ち担当どんな場所にも許可なく杭を打ち込む（全方位攻撃）ゾンビに打たれ強く、必ずふっとばす
+En Desc: Drives stakes deep in the earth! She doesn't need your permission, she'll hammer where she likes! Tough & Knockback vs Zombies (Omni-Strike)
+Abilities: Zombie:Multi-Hit,Resistant,Knockback,Zombie Killer,Long Distance (Omni)
+Combos: 
+Stats: 	health - 1300.000
+	knockback - 2
+	attackRateF - 240
+	attackRateS - 8.00
+	attackPower - 1575.000
+	movementSpeed - 6
+	attackAnimF - 67
+	attackAnimS - 2.23
+	range - 300
+	respawnTimeF - 1746
+	respawnTimeS - 58.20
+	attackType - 範囲(Area Attack)
+	cost - 1,500
+
+
+Evolved:
+Version: Ver8.0
+Jap Name: 戦隊パワーウチコンガ
+En Name: Power Piledriver Cat
+Jp Desc: 地底戦隊グランドンのしっかり者な杭打ち担当お調子者には釘も刺す（全方位攻撃）ゾンビに打たれ強く、必ずふっとばす
+En Desc: The rest of Grandon is a little scared of her. Don’t like it? She'll put a stake right up your nose! Tough & Knockback vs Zombies (Omni-Strike)
+Abilities: Zombie:Multi-Hit,Resistant,Knockback,Zombie Killer,Long Distance (Omni)
+Combos: 
+Stats: 	health - 1650.000
+	knockback - 2
+	attackRateF - 240
+	attackRateS - 8.00
+	attackPower - 2100.000
+	movementSpeed - 6
+	attackAnimF - 67
+	attackAnimS - 2.23
+	range - 300
+	respawnTimeF - 1746
+	respawnTimeS - 58.20
+	attackType - 範囲(Area Attack)
+	cost - 1,500
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

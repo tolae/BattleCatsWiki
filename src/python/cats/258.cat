@@ -1,0 +1,59 @@
+258
+
+Normal:
+Version: Ver4.6
+Jap Name: 天空神ゼウス
+En Name: Thunder God Zeus
+Jp Desc: オリンポス十二神の一人で全知全能の最高神王の神器「天界の雷剣」で全世界を破壊に追い込む恐妻に弱いが天使に打たれ強い（範囲攻撃）
+En Desc: The highest authority among the old gods of Olympus. Rains down destruction with his Heavenly Lance. Strong vs. Angels. (Area Attack)
+Abilities: Angel:Resistant
+Combos: 	変態紳士に天罰を|Punish the Lewd - ['081', '258']
+Stats: 	health - 7875.000
+	knockback - 2
+	attackRateF - 179
+	attackRateS - 5.97
+	attackPower - 3625.000
+	movementSpeed - 8
+	attackAnimF - 64
+	attackAnimS - 2.13
+	range - 480
+	respawnTimeF - 4746
+	respawnTimeS - 158.20
+	attackType - 範囲(Area Attack)
+	cost - 4,800
+
+
+Evolved:
+Version: Ver4.6
+Jap Name: ギガントゼウス
+En Name: The Majestic Zeus
+Jp Desc: ギガントモードに進化した怒れる全知全能の最高神覇王の神器「天界の神雷剣」が全世界を無に帰す恐妻に弱いが天使に打たれ強い（範囲攻撃）
+En Desc: Empowered by divine fury, his might grows ever more! His Heavenly Blade reduces existence to ashes. Strong vs. Angels. (Area Attack)
+Abilities: Angel:Resistant
+Combos: 
+Stats: 	health - 9500.000
+	knockback - 2
+	attackRateF - 179
+	attackRateS - 5.97
+	attackPower - 4750.000
+	movementSpeed - 8
+	attackAnimF - 64
+	attackAnimS - 2.13
+	range - 480
+	respawnTimeF - 4746
+	respawnTimeS - 158.20
+	attackType - 範囲(Area Attack)
+	cost - 4,800
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

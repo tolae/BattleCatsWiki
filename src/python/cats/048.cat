@@ -1,0 +1,71 @@
+048
+
+Normal:
+Version: Ver2.0
+Jap Name: ねこファイター
+En Name: Viking Cat
+Jp Desc: ファンタジー世界にあこがれる戦闘向きのキャラクター赤い敵にめっぽう強い
+En Desc: A combat-class Cat that has read too many fantasy novels. Strong against Red enemies.
+Abilities: Red:Strong
+Combos: 
+Stats: 	health - 1662.500
+	knockback - 3
+	attackRateF - 25
+	attackRateS - 0.83
+	attackPower - 200.000
+	movementSpeed - 11
+	attackAnimF - 16
+	attackAnimS - 0.53
+	range - 140
+	respawnTimeF - 126
+	respawnTimeS - 4.20
+	attackType - 単体(Single Attack)
+	cost - 525
+
+
+Evolved:
+Version: Ver2.0
+Jap Name: メガトンファイター
+En Name: Thor Cat
+Jp Desc: ファンタジー世界にあこがれてオーダーメイドの鎧を発注したキャラクター赤い敵にめっぽう強い
+En Desc: Having found the internet, this Cat had its armour and weapon order made. Strong against Red enemies.
+Abilities: Red:Strong
+Combos: 
+Stats: 	health - 1912.500
+	knockback - 3
+	attackRateF - 25
+	attackRateS - 0.83
+	attackPower - 225.000
+	movementSpeed - 11
+	attackAnimF - 16
+	attackAnimS - 0.53
+	range - 140
+	respawnTimeF - 126
+	respawnTimeS - 4.20
+	attackType - 単体(Single Attack)
+	cost - 525
+
+
+True:
+Version: Ver5.0
+Jap Name: マキシマムファイター
+En Name: Maximum the Fighter
+Jp Desc: ｢化け物退治のお礼に王様から譲り受けた｣という設定で通販にて装備を買い揃えたキャラクター赤い敵にめっぽう強い（範囲攻撃）
+En Desc: Turns out his "order made" armor is a knockoff brand. Even the cheap stuff is still enough to hit Red for massive Area dmg.
+Abilities: Red:Strong
+Combos: 
+Stats: 	health - 3825.000
+	knockback - 3
+	attackRateF - 25
+	attackRateS - 0.83
+	attackPower - 225.000
+	movementSpeed - 11
+	attackAnimF - 16
+	attackAnimS - 0.53
+	range - 140
+	respawnTimeF - 126
+	respawnTimeS - 4.20
+	attackType - 範囲(Area Attack)
+	cost - 525
+
+

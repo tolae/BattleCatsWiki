@@ -1,0 +1,59 @@
+226
+
+Normal:
+Version: Ver4.3
+Jap Name: ハイドゥ
+En Name: HI-DO
+Jp Desc: メタルスラッグディフェンスコラボ
+En Desc: ?
+Abilities: Float:Strong,Knockback
+Combos: 
+Stats: 	health - 8475.000
+	knockback - 3
+	attackRateF - 172
+	attackRateS - 5.73
+	attackPower - 3484.853
+	movementSpeed - 14
+	attackAnimF - 33
+	attackAnimS - 1.10
+	range - 420
+	respawnTimeF - 4646
+	respawnTimeS - 154.87
+	attackType - 範囲(Area Attack)
+	cost - 5,775
+
+
+Evolved:
+Version: Ver4.3
+Jap Name: ハイドゥCC
+En Name: HI-DO CC
+Jp Desc: メタルスラッグディフェンスコラボ
+En Desc: ?
+Abilities: Float:Strong,Knockback
+Combos: 
+Stats: 	health - 10625.000
+	knockback - 3
+	attackRateF - 172
+	attackRateS - 5.73
+	attackPower - 4352.500
+	movementSpeed - 14
+	attackAnimF - 33
+	attackAnimS - 1.10
+	range - 420
+	respawnTimeF - 4646
+	respawnTimeS - 154.87
+	attackType - 範囲(Area Attack)
+	cost - 5,775
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

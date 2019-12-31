@@ -1,0 +1,71 @@
+197
+
+Normal:
+Version: Ver4.0
+Jap Name: キャットマンダディ
+En Name: Catman
+Jp Desc: 紫外線を完全に遮断する特殊スーツを華麗に着こなす昼ドラの英雄は決して知られてはならない闇の顔をもつエイリアンと浮いてる敵に超ダメージを与える（範囲攻撃）
+En Desc: Wears a special suit that blocks all UV light, but it can't stop the papparazzi from following... Huge area damage against Floating/Aliens.
+Abilities: Float,Alien:Massive Damage
+Combos: 	昼ドラで競演|Ratings Competition - ['197', '010']
+Stats: 	health - 9875.000
+	knockback - 5
+	attackRateF - 279
+	attackRateS - 9.30
+	attackPower - 6250.000
+	movementSpeed - 12
+	attackAnimF - 70
+	attackAnimS - 2.33
+	range - 440
+	respawnTimeF - 4446
+	respawnTimeS - 148.20
+	attackType - 範囲(Area Attack)
+	cost - 5,520
+
+
+Evolved:
+Version: Ver4.0
+Jap Name: キャットマンダーク
+En Name: Dark Catman
+Jp Desc: 夜に怪人へと姿を変えキャットシティの平和を守る英雄マダムたちに求められるサイン攻めには弱いエイリアンと天使に超ダメージを与える（範囲攻撃）
+En Desc: Became a monster to fight the terrors of the night. Still, weak to autograph requests from nice old ladies. Huge area damage against Angels/Aliens.
+Abilities: Angel,Alien:Massive Damage
+Combos: 
+Stats: 	health - 9875.000
+	knockback - 5
+	attackRateF - 279
+	attackRateS - 9.30
+	attackPower - 6250.000
+	movementSpeed - 12
+	attackAnimF - 70
+	attackAnimS - 2.33
+	range - 440
+	respawnTimeF - 4446
+	respawnTimeS - 148.20
+	attackType - 範囲(Area Attack)
+	cost - 5,520
+
+
+True:
+Version: Ver7.3
+Jap Name: キャットマンライジング
+En Name: Ultimate Catman
+Jp Desc: 映画デビューを目指しスーツを魔改造した超怪人不純な心をエネルギーに変えて悪を滅ぼすエイリアンと古代種に超ダメージを与える（範囲攻撃）
+En Desc: Gave in and took a three-movie deal to afford a high-tech suit powered by the fear of evildoers. Massive Area damage to Aliens and Relics
+Abilities: Alien,Ancient:Massive Damage,Immune to Curse
+Combos: 
+Stats: 	health - 9875.000
+	knockback - 5
+	attackRateF - 279
+	attackRateS - 9.30
+	attackPower - 6250.000
+	movementSpeed - 12
+	attackAnimF - 70
+	attackAnimS - 2.33
+	range - 440
+	respawnTimeF - 4446
+	respawnTimeS - 148.20
+	attackType - 範囲(Area Attack)
+	cost - 5,520
+
+

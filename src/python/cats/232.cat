@@ -1,0 +1,59 @@
+232
+
+Normal:
+Version: Ver4.4
+Jap Name: おでん
+En Name: Oden
+Jp Desc: ゆるドラシルコラボ
+En Desc: N/A
+Abilities: Angel:Strong
+Combos: 
+Stats: 	health - 437.500
+	knockback - 2
+	attackRateF - 80
+	attackRateS - 2.67
+	attackPower - 119.853
+	movementSpeed - 10
+	attackAnimF - 11
+	attackAnimS - 0.37
+	range - 255
+	respawnTimeF - 146
+	respawnTimeS - 4.87
+	attackType - 単体(Single Attack)
+	cost - 375
+
+
+Evolved:
+Version: Ver4.4
+Jap Name: おでんCC
+En Name: OdenCC
+Jp Desc: ゆるドラシルコラボ
+En Desc: N/A
+Abilities: Angel:Strong
+Combos: 
+Stats: 	health - 437.500
+	knockback - 2
+	attackRateF - 80
+	attackRateS - 2.67
+	attackPower - 119.853
+	movementSpeed - 10
+	attackAnimF - 11
+	attackAnimS - 0.37
+	range - 255
+	respawnTimeF - 146
+	respawnTimeS - 4.87
+	attackType - 単体(Single Attack)
+	cost - 375
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

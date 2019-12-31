@@ -1,0 +1,71 @@
+443
+
+Normal:
+Version: Ver7.5
+Jap Name: 子連れにゃんこ
+En Name: Lone Cat and Kitten
+Jp Desc: 育児休暇中のさすらいネコ毎日公園を旅している。属性を持たない敵に打たれ強く、ふっとばして動きを止める
+En Desc: Master assassin who wanders the park with his cheeky child seeking vengeance against litterers. Tough + knockback + freeze vs Traitless.
+Abilities: White:Resistant,Knockback,Freeze,Immune to Knockback,Immune to Freeze,Immune to Slow,Immune to Weaken,Warp Blocker
+Combos: 
+Stats: 	health - 1500.000
+	knockback - 1
+	attackRateF - 140
+	attackRateS - 4.67
+	attackPower - 500.000
+	movementSpeed - 15
+	attackAnimF - 23
+	attackAnimS - 0.77
+	range - 300
+	respawnTimeF - 1186
+	respawnTimeS - 39.53
+	attackType - 単体(Single Attack)
+	cost - 810
+
+
+Evolved:
+Version: Ver7.5
+Jap Name: ネコワゴンサービス
+En Name: Vendor Cat and Kitten
+Jp Desc: 放浪夫に代わりパートを8つ掛け持ちしてバリバリ働き稼ぐネコ。属性を持たない敵に打たれ強く、ふっとばして動きを止める
+En Desc: Lone Cat is sick in bed, so naughty Kitten is helping mama while she sells drinks on the train. Tough + knockback + freeze vs Traitless.
+Abilities: White:Resistant,Knockback,Freeze,Immune to Knockback,Immune to Freeze,Immune to Slow,Immune to Weaken,Warp Blocker
+Combos: 
+Stats: 	health - 2000.000
+	knockback - 1
+	attackRateF - 140
+	attackRateS - 4.67
+	attackPower - 750.000
+	movementSpeed - 15
+	attackAnimF - 23
+	attackAnimS - 0.77
+	range - 300
+	respawnTimeF - 1186
+	respawnTimeS - 39.53
+	attackType - 単体(Single Attack)
+	cost - 810
+
+
+True:
+Version: Ver8.10
+Jap Name: ネコバケーション
+En Name: 442-3
+Jp Desc: 妻を置いて子とバカンスしたネコ。子の成長を喜ぶ父の頭は成長していない。属性を持たない敵に打たれ強く、ふっとばして動きを止める
+En Desc: Papa and kitten are on a well-deserved tropical getaway.  Saved on airfare by packing away baby.  Tough + knockback + freeze vs Traitless.
+Abilities: White:Resistant,Knockback,Freeze,Immune to Knockback,Immune to Freeze,Immune to Slow,Immune to Weaken,Warp Blocker
+Combos: 
+Stats: 	health - 2500.000
+	knockback - 1
+	attackRateF - 140
+	attackRateS - 4.67
+	attackPower - 750.000
+	movementSpeed - 15
+	attackAnimF - 23
+	attackAnimS - 0.77
+	range - 300
+	respawnTimeF - 1186
+	respawnTimeS - 39.53
+	attackType - 単体(Single Attack)
+	cost - 810
+
+

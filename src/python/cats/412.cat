@@ -1,0 +1,59 @@
+412
+
+Normal:
+Version: Ver6.10
+Jap Name: ちびマリ
+En Name: Mari Illustrious
+Jp Desc: エヴァンゲリオンコラボ
+En Desc: Recruited from Evangelion! An enigmatic girl who arrived via parachute. Strong vs Floating (Area Attack)
+Abilities: Float,Apostle:Strong,Eva Angel Killer,Immune to Freeze
+Combos: 
+Stats: 	health - 3700.000
+	knockback - 4
+	attackRateF - 125
+	attackRateS - 4.17
+	attackPower - 1650.000
+	movementSpeed - 9
+	attackAnimF - 36
+	attackAnimS - 1.20
+	range - 325
+	respawnTimeF - 646
+	respawnTimeS - 21.53
+	attackType - 範囲(Area Attack)
+	cost - 1,200
+
+
+Evolved:
+Version: Ver6.10
+Jap Name: プラグスーツのちびマリ
+En Name: Plug Suit Mari
+Jp Desc: エヴァンゲリオンコラボ
+En Desc: Recruited from Evangelion! Her love for piloting Eva is plain to see. Strong vs Floating (Area Attack)
+Abilities: Float,Apostle:Strong,Eva Angel Killer,Immune to Freeze
+Combos: 
+Stats: 	health - 3700.000
+	knockback - 4
+	attackRateF - 125
+	attackRateS - 4.17
+	attackPower - 1650.000
+	movementSpeed - 9
+	attackAnimF - 36
+	attackAnimS - 1.20
+	range - 325
+	respawnTimeF - 646
+	respawnTimeS - 21.53
+	attackType - 範囲(Area Attack)
+	cost - 1,200
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

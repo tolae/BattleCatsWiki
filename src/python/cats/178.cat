@@ -1,0 +1,71 @@
+178
+
+Normal:
+Version: 
+Jap Name: 覇龍ディオラムス
+En Name: Dioramos
+Jp Desc: 望む景色は全て焼き払うといわれる伝説の覇龍族圧倒的な破壊力で敵を攻撃する（範囲攻撃）たまに天使をふっとばして移動を遅くする
+En Desc: This dragon lord seeks to set it all ablaze. Lay waste with epically mighty area attacks. Might knockback and slow Angels.
+Abilities: Angel:Knockback,Slow,Immune to Slow
+Combos: 	龍退治ごっこ|Playing Slayer - ['003', '178']
+Stats: 	health - 13750.000
+	knockback - 2
+	attackRateF - 283
+	attackRateS - 9.43
+	attackPower - 3362.500
+	movementSpeed - 4
+	attackAnimF - 104
+	attackAnimS - 3.47
+	range - 395
+	respawnTimeF - 4706
+	respawnTimeS - 156.87
+	attackType - 範囲(Area Attack)
+	cost - 6,600
+
+
+Evolved:
+Version: 
+Jap Name: 覇龍王ディオラムス
+En Name: Archdragon Dioramos
+Jp Desc: 腕の魔龍石の封印が解き放たれた伝説の覇龍族圧倒的な破壊力で敵を攻撃する（範囲攻撃）たまに天使をふっとばして移動を遅くする
+En Desc: An ancient dragon of unquestioned authority. Lay waste with epically mighty area attacks. Might knockback and slow Angels.
+Abilities: Angel:Knockback,Slow,Immune to Slow
+Combos: 
+Stats: 	health - 20500.000
+	knockback - 2
+	attackRateF - 283
+	attackRateS - 9.43
+	attackPower - 6562.500
+	movementSpeed - 4
+	attackAnimF - 104
+	attackAnimS - 3.47
+	range - 395
+	respawnTimeF - 4706
+	respawnTimeS - 156.87
+	attackType - 範囲(Area Attack)
+	cost - 6,600
+
+
+True:
+Version: Ver5.9
+Jap Name: 覇龍皇帝ディオラムス
+En Name: God-Emperor Dioramos
+Jp Desc: 憎悪の生気を吸収することで暴走した魔龍石により真の力を解き放った伝説の覇龍族（範囲攻撃）必ずバリアを貫き天使をふっとばして移動を遅くする
+En Desc: Brutal attacks powered by the hate of his enemies - a family tradition of mercilessness. 100% Knockback & Slow vs Angels. (Area Atk)
+Abilities: Angel:Knockback,Slow,Barrier Breaker,Immune to Slow
+Combos: 
+Stats: 	health - 34000.000
+	knockback - 2
+	attackRateF - 283
+	attackRateS - 9.43
+	attackPower - 8750.000
+	movementSpeed - 4
+	attackAnimF - 104
+	attackAnimS - 3.47
+	range - 410
+	respawnTimeF - 4706
+	respawnTimeS - 156.87
+	attackType - 範囲(Area Attack)
+	cost - 6,600
+
+

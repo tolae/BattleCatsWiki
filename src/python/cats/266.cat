@@ -1,0 +1,59 @@
+266
+
+Normal:
+Version: Ver4.7
+Jap Name: せつ子
+En Name: Setsuko
+Jp Desc: にゃんパズルコラボ
+En Desc: N/A
+Abilities: Red:Knockback
+Combos: 
+Stats: 	health - 1100.000
+	knockback - 1
+	attackRateF - 179
+	attackRateS - 5.97
+	attackPower - 225.000
+	movementSpeed - 5
+	attackAnimF - 30
+	attackAnimS - 1.00
+	range - 240
+	respawnTimeF - 266
+	respawnTimeS - 8.87
+	attackType - 範囲(Area Attack)
+	cost - 540
+
+
+Evolved:
+Version: Ver4.7
+Jap Name: せつ子Love鯖
+En Name: Setsuko Love Mackerel
+Jp Desc: にゃんパズルコラボ
+En Desc: N/A
+Abilities: Red:Knockback
+Combos: 
+Stats: 	health - 1450.000
+	knockback - 1
+	attackRateF - 179
+	attackRateS - 5.97
+	attackPower - 300.000
+	movementSpeed - 5
+	attackAnimF - 30
+	attackAnimS - 1.00
+	range - 240
+	respawnTimeF - 266
+	respawnTimeS - 8.87
+	attackType - 範囲(Area Attack)
+	cost - 540
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

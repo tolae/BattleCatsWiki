@@ -1,0 +1,59 @@
+489
+
+Normal:
+Version: Ver8.7.5
+Jap Name: 空中艦艇ネコヴンダー
+En Name: AAA Wunder
+Jp Desc: エヴァンゲリオンコラボ
+En Desc: Cats have taken over WILLE's flagship! Seems they respected the original design and avoided customizing it. Massive Area damage vs. Angels and Zombies.
+Abilities: Angel,Zombie:Massive Damage,Zombie Killer
+Combos: 
+Stats: 	health - 10000.000
+	knockback - 5
+	attackRateF - 159
+	attackRateS - 5.30
+	attackPower - 4500.000
+	movementSpeed - 10
+	attackAnimF - 60
+	attackAnimS - 2.00
+	range - 400
+	respawnTimeF - 5346
+	respawnTimeS - 178.20
+	attackType - 範囲(Area Attack)
+	cost - 5,025
+
+
+Evolved:
+Version: Ver8.7.5
+Jap Name: 希望の船NNNネコヴンダー
+En Name: NNN Wunder
+Jp Desc: エヴァンゲリオンコラボ
+En Desc: Cat-powered airship built to overthrow NERV. A terrifying weapon staffed by capricious Cats... Massive Area damage vs. Angels and Zombies.
+Abilities: Angel,Zombie:Massive Damage,Zombie Killer
+Combos: 
+Stats: 	health - 10000.000
+	knockback - 5
+	attackRateF - 159
+	attackRateS - 5.30
+	attackPower - 4500.000
+	movementSpeed - 10
+	attackAnimF - 60
+	attackAnimS - 2.00
+	range - 400
+	respawnTimeF - 5346
+	respawnTimeS - 178.20
+	attackType - 範囲(Area Attack)
+	cost - 5,025
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

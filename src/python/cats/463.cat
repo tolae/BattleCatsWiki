@@ -1,0 +1,63 @@
+463
+
+Normal:
+Version: Ver8.3
+Jap Name: フィリバスターX
+En Name: Filibuster Cat X
+Jp Desc: 宇宙の果てで崩壊しかけた体を接着剤で直してくれた「ネコ」という生命体に惹かれにゃんこ軍団参戦属性を持たない敵の動きを必ず止める（全方位攻撃）
+En Desc: An ancient lifeform once annihilated
+by the power of Doge, but now restored with super glue.
+Omnistrike with 100% Freeze vs. Traitless.
+Abilities: White:Freeze,Long Distance (Omni)
+Combos: 
+Stats: 	health - 4000.000
+	knockback - 1
+	attackRateF - 579
+	attackRateS - 19.30
+	attackPower - 2500.000
+	movementSpeed - 7
+	attackAnimF - 360
+	attackAnimS - 12.00
+	range - 575
+	respawnTimeF - 4546
+	respawnTimeS - 151.53
+	attackType - 範囲(Area Attack)
+	cost - 3,750
+
+
+Evolved:
+Version: Ver8.3
+Jap Name: フィリバスターY
+En Name: Filibuster Cat Y
+Jp Desc: 宇宙の果てで本来の力を失った謎の生命体ネコが強そうな塗装をしてくれたが性能は据え置き属性を持たない敵の動きを必ず止める（全方位攻撃）
+En Desc: Mystery Cat once thought lost to the universe.
+Updated his paint job with a more slimming color.
+Omnistrike with 100% Freeze vs. Traitless.
+Abilities: White:Freeze,Long Distance (Omni)
+Combos: 
+Stats: 	health - 4000.000
+	knockback - 1
+	attackRateF - 579
+	attackRateS - 19.30
+	attackPower - 2500.000
+	movementSpeed - 7
+	attackAnimF - 360
+	attackAnimS - 12.00
+	range - 575
+	respawnTimeF - 4546
+	respawnTimeS - 151.53
+	attackType - 範囲(Area Attack)
+	cost - 3,750
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

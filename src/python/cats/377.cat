@@ -1,0 +1,71 @@
+377
+
+Normal:
+Version: Ver6.6
+Jap Name: ネコ探査機
+En Name: Rover Cat
+Jp Desc: NYASAが30年前に作ったネコ型探査機ワープ無効、エイリアンにめっぽう強いという最低限の機能を搭載したプロトタイプ
+En Desc: First Cat probe produced by NYASA. Built to resist extraterrestrial attacks, with Warp Blocking and tough defense vs. Aliens.
+Abilities: Alien:Strong,Warp Blocker
+Combos: 
+Stats: 	health - 1500.000
+	knockback - 1
+	attackRateF - 91
+	attackRateS - 3.03
+	attackPower - 500.000
+	movementSpeed - 10
+	attackAnimF - 20
+	attackAnimS - 0.67
+	range - 120
+	respawnTimeF - 126
+	respawnTimeS - 4.20
+	attackType - 単体(Single Attack)
+	cost - 300
+
+
+Evolved:
+Version: Ver6.6
+Jap Name: ネコサーチMkⅡ
+En Name: Rover Cat Mk II
+Jp Desc: NYASAが作った超最新ネコ型探査機。ワープ無効エイリアンにめっぽう強いという最低限の機能に加え衛星放送や大人のチャンネルも1日千円で受信可能
+En Desc: Cutting edge NYASA Cat probe. Transmission is so advanced that it even gets the dirty channels. Tough vs Aliens, with Warp Blocking
+Abilities: Alien:Strong,Warp Blocker
+Combos: 
+Stats: 	health - 2000.000
+	knockback - 1
+	attackRateF - 91
+	attackRateS - 3.03
+	attackPower - 625.000
+	movementSpeed - 10
+	attackAnimF - 20
+	attackAnimS - 0.67
+	range - 120
+	respawnTimeF - 126
+	respawnTimeS - 4.20
+	attackType - 単体(Single Attack)
+	cost - 300
+
+
+True:
+Version: Ver8.0
+Jap Name: ネコサテライト
+En Name: Catellite
+Jp Desc: NYASAが作ったネコ型衛星基地。ワープ無効エイリアンにめっぽう強いという最低限の機能に加え向かいのホームや路地裏の窓まで君を探すことが可能
+En Desc: Experimental NYASA satellite made for remote observation of areas as far as the corner store. Tough vs Aliens, with Warp Blocking.
+Abilities: Alien:Strong,Immune to Slow,Immune to Weaken,Warp Blocker
+Combos: 
+Stats: 	health - 2000.000
+	knockback - 1
+	attackRateF - 91
+	attackRateS - 3.03
+	attackPower - 812.500
+	movementSpeed - 12
+	attackAnimF - 20
+	attackAnimS - 0.67
+	range - 120
+	respawnTimeF - 126
+	respawnTimeS - 4.20
+	attackType - 単体(Single Attack)
+	cost - 270
+
+

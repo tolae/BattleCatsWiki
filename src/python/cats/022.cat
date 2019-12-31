@@ -1,0 +1,73 @@
+022
+
+Normal:
+Version: Ver1.0
+Jap Name: スモウネコ
+En Name: Sumo Cat
+Jp Desc: 体力を多く備えた盾用のキャラタンクネコよりも性能が高い攻撃力もぼちぼちある感じ（範囲攻撃）
+En Desc: Tank Cat didn't listen when they said that size didn't matter. Now with somewhat stronger attack (Area Attack).
+Abilities: None:Multi-Hit
+Combos: 	アイラブジャパン|Cool Japan  - ['019', '022', '021', '062']
+	最強格闘技決定戦|Contest of Champs - ['326', '022', '011', '101']
+	食べ盛り育ち盛り|Growth Spurt - ['359', '022']
+Stats: 	health - 1500.000
+	knockback - 1
+	attackRateF - 34
+	attackRateS - 1.13
+	attackPower - 22.059
+	movementSpeed - 8
+	attackAnimF - 12
+	attackAnimS - 0.40
+	range - 110
+	respawnTimeF - 60
+	respawnTimeS - 2.00
+	attackType - 範囲(Area Attack)
+	cost - 300
+
+
+Evolved:
+Version: Ver1.0
+Jap Name: マダム・ザ・スモウ
+En Name: Madame Sumo
+Jp Desc: 新たな境地へ変貌を遂げた盾用のキャラタンクネコよりも性能が高い攻撃力もぼちぼちある感じ（範囲攻撃）
+En Desc: Found his calling feeding other Sumo Cats. Make sure you finish your food... or else. Has a somewhat stronger attack (Area Attack).
+Abilities: None:Multi-Hit
+Combos: 	浮気調査|Cheating Heart? - ['432', '022']
+Stats: 	health - 1500.000
+	knockback - 1
+	attackRateF - 34
+	attackRateS - 1.13
+	attackPower - 22.059
+	movementSpeed - 8
+	attackAnimF - 12
+	attackAnimS - 0.40
+	range - 110
+	respawnTimeF - 60
+	respawnTimeS - 2.00
+	attackType - 範囲(Area Attack)
+	cost - 300
+
+
+True:
+Version: 
+Jap Name: ネコにぎり
+En Name: Riceball Cat
+Jp Desc: 結婚式で見たライスシャワーを真似る盾用のキャラタンクネコよりも性能が高い鍛錬を重ね神速を取得（範囲攻撃）
+En Desc: Defense AND nutrition in a convenient hand-sized package. More durable than Tank Cat, with quickness from intense training (Area Attack).
+Abilities: None:Multi-Hit,Immune to Knockback
+Combos: 	豚丼|Polk on Rice - ['107', '022']
+Stats: 	health - 1500.000
+	knockback - 1
+	attackRateF - 34
+	attackRateS - 1.13
+	attackPower - 22.059
+	movementSpeed - 24
+	attackAnimF - 12
+	attackAnimS - 0.40
+	range - 110
+	respawnTimeF - 60
+	respawnTimeS - 2.00
+	attackType - 範囲(Area Attack)
+	cost - 300
+
+

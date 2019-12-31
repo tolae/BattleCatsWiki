@@ -1,0 +1,63 @@
+485
+
+Normal:
+Version: Ver9.0
+Jap Name: 黒ちびネコヴァルキリー
+En Name: Li'l Valyrie Dark
+Jp Desc: 漆黒の闇に身も心も染まったネコヴァルキリーの妹天界の荒事を一身に請け負う極秘エージェント必ず波動を放ち、波動ダメージを無効にする（範囲攻撃）
+En Desc: Valkyrie's younger sister, marked by the darkness.
+Valhalla's agent, smiting evil from within the abyss!
+Blocks enemy Waves! Strikes with Wave Attacks!
+Abilities: None:Wave Attack,Immune to Waves
+Combos: 
+Stats: 	health - 5250.000
+	knockback - 2
+	attackRateF - 129
+	attackRateS - 4.30
+	attackPower - 3625.000
+	movementSpeed - 32
+	attackAnimF - 36
+	attackAnimS - 1.20
+	range - 345
+	respawnTimeF - 1546
+	respawnTimeS - 51.53
+	attackType - 範囲(Area Attack)
+	cost - 4,200
+
+
+Evolved:
+Version: Ver9.0
+Jap Name: 黒ちびネコヴァルキリー・紅
+En Name: Dark Rider Valkyrie
+Jp Desc: アジアの裏社会で暗躍する極秘エージェントであり神さまバンドのボーカルも務めるミラクルアイドル必ず波動を放ち、波動ダメージを無効にする（範囲攻撃）
+En Desc: Valkyrie's younger sister, a fearsome bounty hunter.
+Rides with her posse to subdue agents of evil.
+Blocks enemy Waves! Strikes with Wave Attacks!
+Abilities: None:Wave Attack,Immune to Waves
+Combos: 
+Stats: 	health - 5250.000
+	knockback - 2
+	attackRateF - 129
+	attackRateS - 4.30
+	attackPower - 3625.000
+	movementSpeed - 32
+	attackAnimF - 36
+	attackAnimS - 1.20
+	range - 345
+	respawnTimeF - 1546
+	respawnTimeS - 51.53
+	attackType - 範囲(Area Attack)
+	cost - 4,200
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

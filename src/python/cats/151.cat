@@ -1,0 +1,71 @@
+151
+
+Normal:
+Version: Ver3.0
+Jap Name: 窓辺の乙女ネコ
+En Name: Juliet Cat
+Jp Desc: まだ見ぬイケメン彼氏を夢見るおてんば娘愛読書は赤井ブン太郎著「体罰と散髪」天使をたまに一瞬止める（範囲攻撃）
+En Desc: Dreams of a Romeo she met online. Favourite book: "Pride, Prejudice and Haircuts". Briefly stops Angels (Area Attack)
+Abilities: Angel:Freeze
+Combos: 	乙女|Girlish Innocents - ['101', '151']
+Stats: 	health - 3125.000
+	knockback - 3
+	attackRateF - 85
+	attackRateS - 2.83
+	attackPower - 1650.000
+	movementSpeed - 8
+	attackAnimF - 70
+	attackAnimS - 2.33
+	range - 220
+	respawnTimeF - 326
+	respawnTimeS - 10.87
+	attackType - 範囲(Area Attack)
+	cost - 825
+
+
+Evolved:
+Version: Ver3.0
+Jap Name: 窓辺の姫君ネコ
+En Name: Princess Juliet Cat
+Jp Desc: まだ見ぬイケメンプリンスを夢見るおてんば姫好物は鳥の串焼き天使をたまに一瞬止める（範囲攻撃）
+En Desc: All grown up, but still dreaming of her cyber-Romeo. Likes chicken kebabs. Briefly stops Angels (Area Attack)
+Abilities: Angel:Freeze
+Combos: 	カエルの王子様|Frog Prince - ['151', '019']
+Stats: 	health - 3125.000
+	knockback - 3
+	attackRateF - 85
+	attackRateS - 2.83
+	attackPower - 1775.000
+	movementSpeed - 8
+	attackAnimF - 70
+	attackAnimS - 2.33
+	range - 220
+	respawnTimeF - 326
+	respawnTimeS - 10.87
+	attackType - 範囲(Area Attack)
+	cost - 825
+
+
+True:
+Version: Ver6.0
+Jap Name: 窓辺の舞妓にゃん
+En Name: Juliet the Maiko
+Jp Desc: 特性「動きを止める」強化
+En Desc: Romeo turned out to be a real jerk. Now aiming for a total image change (and a cute samurai lord.) Briefly freezes Angels (Area Attack)
+Abilities: Angel:Freeze
+Combos: 
+Stats: 	health - 3125.000
+	knockback - 3
+	attackRateF - 85
+	attackRateS - 2.83
+	attackPower - 1775.000
+	movementSpeed - 8
+	attackAnimF - 70
+	attackAnimS - 2.33
+	range - 250
+	respawnTimeF - 236
+	respawnTimeS - 7.87
+	attackType - 範囲(Area Attack)
+	cost - 825
+
+

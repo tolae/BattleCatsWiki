@@ -1,0 +1,71 @@
+172
+
+Normal:
+Version: 
+Jap Name: バララガ
+En Name: Balaluga
+Jp Desc: ネコなのか何なのか、まったく正体不明の謎のキャラクター進化させると…
+En Desc: Not sure if this is a Cat... There's just something about that belly...
+Abilities: None:
+Combos: 
+Stats: 	health - 1250.000
+	knockback - 5
+	attackRateF - 82
+	attackRateS - 2.73
+	attackPower - 375.000
+	movementSpeed - 3
+	attackAnimF - 13
+	attackAnimS - 0.43
+	range - 140
+	respawnTimeF - 746
+	respawnTimeS - 24.87
+	attackType - 単体(Single Attack)
+	cost - 4,500
+
+
+Evolved:
+Version: 
+Jap Name: バラランパサラン
+En Name: Balalan Pasalan
+Jp Desc: ネコなのか何なのか、まったく正体不明の謎のキャラクター広範囲の敵の動きを止める（範囲攻撃）
+En Desc: No. Way. This can't be right... Seems like this one stops all enemies in range.
+Abilities: All (w/o Metal/White):Freeze
+Combos: 	首なしスタイル|Neckless Chic - ['009', '172']
+Stats: 	health - 3000.000
+	knockback - 1
+	attackRateF - 493
+	attackRateS - 16.43
+	attackPower - 27.500
+	movementSpeed - 4
+	attackAnimF - 94
+	attackAnimS - 3.13
+	range - 940
+	respawnTimeF - 9746
+	respawnTimeS - 324.87
+	attackType - 範囲(Area Attack)
+	cost - 4,500
+
+
+True:
+Version: Ver6.2
+Jap Name: ピカランバララン
+En Name: Piccolan Pasalan
+Jp Desc: ネコなのか宇宙より降り立った厄災なのかまったく正体不明の謎のキャラクター広範囲の敵の動きを止め、攻撃力を下げる（範囲攻撃）
+En Desc: A totally unknown extraterrestrial lifeform of unimaginable power...or just a weird cat? Freezes and weakens all enemies in area attack range.
+Abilities: All (w/o Metal/White):Freeze,Weaken
+Combos: 
+Stats: 	health - 3000.000
+	knockback - 1
+	attackRateF - 493
+	attackRateS - 16.43
+	attackPower - 27.500
+	movementSpeed - 4
+	attackAnimF - 94
+	attackAnimS - 3.13
+	range - 940
+	respawnTimeF - 9746
+	respawnTimeS - 324.87
+	attackType - 範囲(Area Attack)
+	cost - 4,500
+
+

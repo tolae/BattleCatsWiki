@@ -1,0 +1,71 @@
+100
+
+Normal:
+Version: 
+Jap Name: 狂乱の巨神ネコ
+En Name: Crazed Titan Cat
+Jp Desc: 超絶破壊力＆強靭な体力を備えた最高級のキャラ（範囲攻撃）ごくたまに超遠距離の波動を放つ
+En Desc: Blessed with extreme attack power and ridiculous amounts of health. (Area Attack) Crazed Version grants Wave Attacks.
+Abilities: None:Wave Attack
+Combos: 	パンチパンチパンチ！|Punchpunchpunch! - ['009', '100', '101', '035']
+Stats: 	health - 9000.000
+	knockback - 1
+	attackRateF - 81
+	attackRateS - 2.70
+	attackPower - 2959.828
+	movementSpeed - 11
+	attackAnimF - 47
+	attackAnimS - 1.57
+	range - 150
+	respawnTimeF - 676
+	respawnTimeS - 22.53
+	attackType - 範囲(Area Attack)
+	cost - 1,950
+
+
+Evolved:
+Version: 
+Jap Name: 狂乱のネコダラボッチ
+En Name: Crazed Mythical Titan
+Jp Desc: 超絶破壊力＆強靭な体力を備えた破壊をつかさどるネコ神様（範囲攻撃）ごくたまに超遠距離の波動を放つ
+En Desc: Blessed with extreme attack power. Extreme attack power and health. Crazed Version grants Wave Attacks.
+Abilities: None:Wave Attack
+Combos: 
+Stats: 	health - 9000.000
+	knockback - 1
+	attackRateF - 81
+	attackRateS - 2.70
+	attackPower - 2959.828
+	movementSpeed - 11
+	attackAnimF - 47
+	attackAnimS - 1.57
+	range - 150
+	respawnTimeF - 676
+	respawnTimeS - 22.53
+	attackType - 範囲(Area Attack)
+	cost - 1,950
+
+
+True:
+Version: Ver5.0
+Jap Name: 大狂乱のネコジャラミ
+En Name: Manic Jamiera Cat
+Jp Desc: 超絶破壊力＆強靭な体力を備えた破壊をつかさどる巨大ネコの暴走（範囲攻撃）大狂乱となることで体力と波動の発生確率アップ
+En Desc: Once manic, none can withstand his godlike defense or offense, or outrun his godspeed. His wave attacks occur more frequently too!
+Abilities: None:Wave Attack
+Combos: 
+Stats: 	health - 11000.000
+	knockback - 1
+	attackRateF - 81
+	attackRateS - 2.70
+	attackPower - 2959.828
+	movementSpeed - 11
+	attackAnimF - 47
+	attackAnimS - 1.57
+	range - 150
+	respawnTimeF - 676
+	respawnTimeS - 22.53
+	attackType - 範囲(Area Attack)
+	cost - 1,950
+
+

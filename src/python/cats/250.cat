@@ -1,0 +1,71 @@
+250
+
+Normal:
+Version: Ver4.6
+Jap Name: 剣士
+En Name: C&G Swordsman
+Jp Desc: 城とドラゴンコラボ
+En Desc: N/A
+Abilities: None:Strengthen
+Combos: 
+Stats: 	health - 250.000
+	knockback - 2
+	attackRateF - 46
+	attackRateS - 1.53
+	attackPower - 25.000
+	movementSpeed - 9
+	attackAnimF - 11
+	attackAnimS - 0.37
+	range - 140
+	respawnTimeF - 60
+	respawnTimeS - 2.00
+	attackType - 単体(Single Attack)
+	cost - 75
+
+
+Evolved:
+Version: Ver4.6
+Jap Name: セーラー服剣士
+En Name: Sailor Swordsman
+Jp Desc: 城とドラゴンコラボ
+En Desc: N/A
+Abilities: None:Strengthen
+Combos: 
+Stats: 	health - 250.000
+	knockback - 2
+	attackRateF - 46
+	attackRateS - 1.53
+	attackPower - 25.000
+	movementSpeed - 9
+	attackAnimF - 11
+	attackAnimS - 0.37
+	range - 140
+	respawnTimeF - 60
+	respawnTimeS - 2.00
+	attackType - 単体(Single Attack)
+	cost - 75
+
+
+True:
+Version: Ver4.6
+Jap Name: 明王の剣士
+En Name: Swordsman of Myuu
+Jp Desc: 城とドラゴンコラボ
+En Desc: N/A
+Abilities: None:Strengthen
+Combos: 
+Stats: 	health - 250.000
+	knockback - 2
+	attackRateF - 46
+	attackRateS - 1.53
+	attackPower - 25.000
+	movementSpeed - 9
+	attackAnimF - 11
+	attackAnimS - 0.37
+	range - 140
+	respawnTimeF - 60
+	respawnTimeS - 2.00
+	attackType - 単体(Single Attack)
+	cost - 75
+
+

@@ -1,0 +1,59 @@
+230
+
+Normal:
+Version: Ver4.3
+Jap Name: ウィンディスイート
+En Name: Hallowindy
+Jp Desc: ハロウィン限定スタイルの風のチカラを操るハイパー少女遠距離から放たれるスイートキャノンはエイリアンに超ダメージを与える（範囲攻撃）
+En Desc: This mistress of wind really gets into Halloween each year. Blasts enemies with unearthly plasma beams. Huge damage against Alien enemies from range.
+Abilities: Alien:Massive Damage
+Combos: 
+Stats: 	health - 2875.000
+	knockback - 6
+	attackRateF - 408
+	attackRateS - 13.60
+	attackPower - 4637.500
+	movementSpeed - 9
+	attackAnimF - 81
+	attackAnimS - 2.70
+	range - 435
+	respawnTimeF - 2946
+	respawnTimeS - 98.20
+	attackType - 範囲(Area Attack)
+	cost - 4,425
+
+
+Evolved:
+Version: Ver4.3
+Jap Name: ウィンディスイートα
+En Name: Hallowindy α
+Jp Desc: 街中に風のイタズラを仕掛けるハイパーハロウィン少女遠距離から放たれるスイートキャノンはエイリアンに超ダメージを与える（範囲攻撃）
+En Desc: This hyper-maiden's idea of a good Halloween prank is a plasma beam shot when its least expected. Huge damage against Alien enemies from range.
+Abilities: Alien:Massive Damage
+Combos: 
+Stats: 	health - 5625.000
+	knockback - 6
+	attackRateF - 408
+	attackRateS - 13.60
+	attackPower - 8137.500
+	movementSpeed - 9
+	attackAnimF - 81
+	attackAnimS - 2.70
+	range - 435
+	respawnTimeF - 2946
+	respawnTimeS - 98.20
+	attackType - 範囲(Area Attack)
+	cost - 4,425
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

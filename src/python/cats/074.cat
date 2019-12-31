@@ -1,0 +1,71 @@
+074
+
+Normal:
+Version: Ver2.1
+Jap Name: 織田信長
+En Name: Oda Nobunaga
+Jp Desc: 織田信長の怨念に取り込まれてしまった数々の生命体と一匹のにゃんこ黒い敵の動きを必ず止める（範囲攻撃）
+En Desc: The manifestation of the Grudge of Nobunaga from the lives of many (and one Cat) (Area Attack) Stops the movements of Black enemies.
+Abilities: Black:Freeze
+Combos: 	本能寺の怨念|Honnoji's Curse - ['129', '074']
+Stats: 	health - 2375.000
+	knockback - 1
+	attackRateF - 111
+	attackRateS - 3.70
+	attackPower - 1125.000
+	movementSpeed - 7
+	attackAnimF - 82
+	attackAnimS - 2.73
+	range - 410
+	respawnTimeF - 2646
+	respawnTimeS - 88.20
+	attackType - 範囲(Area Attack)
+	cost - 4,350
+
+
+Evolved:
+Version: Ver2.1
+Jap Name: 武神・織田信長
+En Name: Wargod Nobunaga
+Jp Desc: 織田信長の怨念のパワーがさらに加速ついでに、にゃんこの煩悩パワーも超加速黒い敵の動きを必ず止める（範囲攻撃）
+En Desc: The Cat's spirit goes into overdrive. The grudge grows even stronger. (Area Attack) Stops the movement of Black enemies.
+Abilities: Black:Freeze
+Combos: 
+Stats: 	health - 4750.000
+	knockback - 1
+	attackRateF - 111
+	attackRateS - 3.70
+	attackPower - 2250.000
+	movementSpeed - 7
+	attackAnimF - 82
+	attackAnimS - 2.73
+	range - 410
+	respawnTimeF - 2646
+	respawnTimeS - 88.20
+	attackType - 範囲(Area Attack)
+	cost - 4,350
+
+
+True:
+Version: Ver7.2
+Jap Name: 天魔・織田信長
+En Name: Immortal Nobunaga
+Jp Desc: 特性「生き残る」追加
+En Desc: Leads an army of vengeful spirits to fulfill his dream of unifying the heavens and the netherworld. 100% chance to Freeze Black enemies. (Area)
+Abilities: Black:Freeze
+Combos: 
+Stats: 	health - 9500.000
+	knockback - 1
+	attackRateF - 111
+	attackRateS - 3.70
+	attackPower - 3000.000
+	movementSpeed - 7
+	attackAnimF - 82
+	attackAnimS - 2.73
+	range - 410
+	respawnTimeF - 2646
+	respawnTimeS - 88.20
+	attackType - 範囲(Area Attack)
+	cost - 4,350
+
+

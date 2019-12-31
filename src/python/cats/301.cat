@@ -1,0 +1,71 @@
+301
+
+Normal:
+Version: Ver5.5
+Jap Name: ちびほむら
+En Name: Li'l Homura
+Jp Desc: 魔法少女まどか☆マギカコラボ
+En Desc: From Madoka Magica The Movie -Rebellion-! A young girl with an indomitable will.
+Abilities: Witch:Witch Killer
+Combos: 
+Stats: 	health - 1500.000
+	knockback - 2
+	attackRateF - 78
+	attackRateS - 2.60
+	attackPower - 200.000
+	movementSpeed - 11
+	attackAnimF - 7
+	attackAnimS - 0.23
+	range - 225
+	respawnTimeF - 746
+	respawnTimeS - 24.87
+	attackType - 単体(Single Attack)
+	cost - 450
+
+
+Evolved:
+Version: Ver5.5
+Jap Name: ちび魔法少女ほむら
+En Name: Li'l Magical Girl Homura
+Jp Desc: 魔法少女まどか☆マギカコラボ
+En Desc: From Madoka Magica The Movie -Rebellion-! She will continue fighting until Walpurgisnacht is defeated, at any cost. (Area Attack)
+Abilities: Witch:Witch Killer
+Combos: 
+Stats: 	health - 1500.000
+	knockback - 2
+	attackRateF - 78
+	attackRateS - 2.60
+	attackPower - 200.000
+	movementSpeed - 11
+	attackAnimF - 9
+	attackAnimS - 0.30
+	range - 225
+	respawnTimeF - 746
+	respawnTimeS - 24.87
+	attackType - 範囲(Area Attack)
+	cost - 450
+
+
+True:
+Version: Ver7.4
+Jap Name: ちび悪魔ほむら
+En Name: Li'l Devil Homura
+Jp Desc: 魔法少女まどか☆マギカコラボ
+En Desc: From Madoka Magica The Movie -Rebellion-! She will relentlessly consume all things holy. Area attacks might Weaken Black enemies.
+Abilities: Black,Witch:Weaken,Witch Killer
+Combos: 
+Stats: 	health - 1500.000
+	knockback - 2
+	attackRateF - 140
+	attackRateS - 4.67
+	attackPower - 400.000
+	movementSpeed - 11
+	attackAnimF - 53
+	attackAnimS - 1.77
+	range - 275
+	respawnTimeF - 746
+	respawnTimeS - 24.87
+	attackType - 範囲(Area Attack)
+	cost - 450
+
+

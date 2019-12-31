@@ -1,0 +1,71 @@
+395
+
+Normal:
+Version: Ver6.8
+Jap Name: 星井スバル
+En Name: Subaru Hoshi
+Jp Desc: 実況パワフルプロ野球コラボ
+En Desc: Dropping in from PowerPro Baseball! Attractive, popular, and skilled. Strong vs. Red/Angel (Long-range/Area Atk)
+Abilities: Red,Angel:Strong,Long Distance (Area)
+Combos: 
+Stats: 	health - 4000.000
+	knockback - 4
+	attackRateF - 180
+	attackRateS - 6.00
+	attackPower - 2250.000
+	movementSpeed - 21
+	attackAnimF - 31
+	attackAnimS - 1.03
+	range - 400
+	respawnTimeF - 3746
+	respawnTimeS - 124.87
+	attackType - 範囲(Area Attack)
+	cost - 4,140
+
+
+Evolved:
+Version: Ver6.8
+Jap Name: 星井スバルCC
+En Name: Subaru Hoshi CC
+Jp Desc: 実況パワフルプロ野球コラボ
+En Desc: Dropping in from PowerPro Baseball! Dreams of making it all the way to the series final. Strong vs. Red/Angel (Long-range/Area Atk)
+Abilities: Red,Angel:Strong,Long Distance (Area)
+Combos: 
+Stats: 	health - 5000.000
+	knockback - 4
+	attackRateF - 180
+	attackRateS - 6.00
+	attackPower - 3000.000
+	movementSpeed - 21
+	attackAnimF - 31
+	attackAnimS - 1.03
+	range - 400
+	respawnTimeF - 3746
+	respawnTimeS - 124.87
+	attackType - 範囲(Area Attack)
+	cost - 4,140
+
+
+True:
+Version: Ver6.8
+Jap Name: 暗黒スバルCC
+En Name: Dark Subaru CC
+Jp Desc: 実況パワフルプロ野球コラボ
+En Desc: Dropping in from PowerPro Baseball! New pitch has the cosmic power of a black hole! Strong vs. Red/Angel (Long-range/Area Atk)
+Abilities: Red,Angel:Strong,Long Distance (Area)
+Combos: 
+Stats: 	health - 7000.000
+	knockback - 4
+	attackRateF - 200
+	attackRateS - 6.67
+	attackPower - 4500.000
+	movementSpeed - 21
+	attackAnimF - 51
+	attackAnimS - 1.70
+	range - 425
+	respawnTimeF - 3746
+	respawnTimeS - 124.87
+	attackType - 範囲(Area Attack)
+	cost - 4,140
+
+

@@ -1,0 +1,71 @@
+196
+
+Normal:
+Version: Ver4.0
+Jap Name: 西園寺メカ子
+En Name: Mekako Saionji
+Jp Desc: 本の付録を毎号集めて完成させたロボットをスパナ1つで殺戮マシンへと魔改造した少女（範囲攻撃）エイリアンと黒い敵に打たれ強く、1度だけ生き残る
+En Desc: Studied back issues of Mechanix Monthly to build the unstoppable killing machine of her dreams. Resistant to Alien/Black. Survives one lethal strike.
+Abilities: Black,Alien:Resistant,Survive
+Combos: 	お騒がせメカ|Future of War - ['196', '261']
+Stats: 	health - 14250.000
+	knockback - 2
+	attackRateF - 217
+	attackRateS - 7.23
+	attackPower - 5000.000
+	movementSpeed - 7
+	attackAnimF - 68
+	attackAnimS - 2.27
+	range - 445
+	respawnTimeF - 4346
+	respawnTimeS - 144.87
+	attackType - 範囲(Area Attack)
+	cost - 5,925
+
+
+Evolved:
+Version: Ver4.0
+Jap Name: ドクトルDr.メカ子
+En Name: Dr. Mekako
+Jp Desc: 深夜空港に忍び込みジェット機をドライバー1つで解体一晩で決戦マシンを完成させた少女（範囲攻撃）たまにエイリアンをふっとばして攻撃力をダウンさせる
+En Desc: Broke into an airport and took apart a jet engine overnight to get parts for her mecha masterpiece. Magnifique. Knockback + Weaken against Aliens.
+Abilities: Alien:Knockback,Weaken
+Combos: 
+Stats: 	health - 14250.000
+	knockback - 2
+	attackRateF - 217
+	attackRateS - 7.23
+	attackPower - 5000.000
+	movementSpeed - 7
+	attackAnimF - 68
+	attackAnimS - 2.27
+	range - 445
+	respawnTimeF - 4346
+	respawnTimeS - 144.87
+	attackType - 範囲(Area Attack)
+	cost - 5,925
+
+
+True:
+Version: Ver5.5
+Jap Name: アストロDr.メカ子
+En Name: Mission Control Mekako
+Jp Desc: 特性「攻撃力低下」追加
+En Desc: Recruited by NYASA to engineer mechs for deep-space recon. Astrophysics? No sweat. Massive area damage + Slow vs Aliens.
+Abilities: Alien:Massive Damage,Slow
+Combos: 
+Stats: 	health - 14250.000
+	knockback - 2
+	attackRateF - 217
+	attackRateS - 7.23
+	attackPower - 5000.000
+	movementSpeed - 7
+	attackAnimF - 68
+	attackAnimS - 2.27
+	range - 445
+	respawnTimeF - 4346
+	respawnTimeS - 144.87
+	attackType - 範囲(Area Attack)
+	cost - 5,925
+
+

@@ -1,0 +1,75 @@
+007
+
+Normal:
+Version: Ver1.0
+Jap Name: ネコフィッシュ
+En Name: Fish Cat
+Jp Desc: 戦闘向きの高級キャラ｢赤い敵｣にはめっぽう強い
+En Desc: Exceptional melee capability. Strong against Red enemies.
+Abilities: Red:Strong
+Combos: 	お魚天国|Back to School - ['007', '098', '075']
+	とれたてピッチピチ|Fresh Catch - ['336', '007', '312', '075']
+	魚群発見！！|Marine Tours - ['306', '007', '312']
+Stats: 	health - 1750.000
+	knockback - 3
+	attackRateF - 53
+	attackRateS - 1.77
+	attackPower - 450.000
+	movementSpeed - 10
+	attackAnimF - 10
+	attackAnimS - 0.33
+	range - 150
+	respawnTimeF - 136
+	respawnTimeS - 4.53
+	attackType - 単体(Single Attack)
+	cost - 1,200
+
+
+Evolved:
+Version: Ver1.0
+Jap Name: ネコクジラ
+En Name: Whale Cat
+Jp Desc: 肉食クジラに進化した高級戦闘キャラ｢赤い敵｣にはめっぽう強い
+En Desc: Managed to become a carnivorous whale. Strong against Red enemies.
+Abilities: Red:Strong
+Combos: 	ホゲー|Cap'n Ahab  - ['052', '007']
+	ホゲーー|Moby Dick - ['052', '007', '098']
+Stats: 	health - 1750.000
+	knockback - 3
+	attackRateF - 53
+	attackRateS - 1.77
+	attackPower - 450.000
+	movementSpeed - 10
+	attackAnimF - 10
+	attackAnimS - 0.33
+	range - 150
+	respawnTimeF - 136
+	respawnTimeS - 4.53
+	attackType - 単体(Single Attack)
+	cost - 1,200
+
+
+True:
+Version: 
+Jap Name: ネコ島
+En Name: Island Cat
+Jp Desc: にゃんこ達のバカンスに最適な形状にまで進化したキャラ。｢赤い敵｣にはめっぽう強くごくたまにクリティカル攻撃を放つ
+En Desc: Perfected his form while on vacation. Might perform Critical Attacks. Strong against Red enemies.
+Abilities: Red:Strong,Critical
+Combos: 	南国諸島|Blue Lagoon - ['135', '007']
+	日光浴|Sunbathers  - ['007', '200']
+Stats: 	health - 3500.000
+	knockback - 3
+	attackRateF - 53
+	attackRateS - 1.77
+	attackPower - 900.000
+	movementSpeed - 10
+	attackAnimF - 10
+	attackAnimS - 0.33
+	range - 150
+	respawnTimeF - 256
+	respawnTimeS - 8.53
+	attackType - 単体(Single Attack)
+	cost - 1,200
+
+

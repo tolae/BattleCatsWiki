@@ -1,0 +1,75 @@
+129
+
+Normal:
+Version: 
+Jap Name: うらめしにゃん
+En Name: Vengeful Cat
+Jp Desc: この世に未練たらたらの遠距離型キャラ美しい脚を持ったキャラとのコラボは美の極み！怨みの拳で敵をまとめて攻撃する（範囲攻撃）
+En Desc: Ranged attacker filled with hate for this world. Works very well with Sexy Legs Cat. Crushes all with her vengeful fist! (Area Attack)
+Abilities: Zombie:Zombie Killer
+Combos: 	うーらーめーしーにゃ|Curses!!! - ['129', '071']
+	ホラー映画|Horror Movies - ['020', '129', '034']
+	振袖選手権|Kimono Champs - ['335', '129', '283']
+	本能寺の怨念|Honnoji's Curse - ['129', '074']
+	百鬼夜行|Paranormal Activity - ['039', '129', '081']
+Stats: 	health - 975.000
+	knockback - 3
+	attackRateF - 233
+	attackRateS - 7.77
+	attackPower - 244.853
+	movementSpeed - 10
+	attackAnimF - 54
+	attackAnimS - 1.80
+	range - 350
+	respawnTimeF - 106
+	respawnTimeS - 3.53
+	attackType - 範囲(Area Attack)
+	cost - 825
+
+
+Evolved:
+Version: 
+Jap Name: ハナメガにゃん
+En Name: Groucho Cat
+Jp Desc: 無事、生まれ変わったと思ったら、こんなキャラになってしまった遠距離型キャラこの世に笑顔と幸せを届けます（範囲攻撃）
+En Desc: Hate solves nothing. Laughter however... Lookout! Dad Jokes and Ranged Attacks! Combines well with anything tall. (Area Attack)
+Abilities: Zombie:Zombie Killer
+Combos: 	宴会部長|Life of the Party - ['129', '033']
+Stats: 	health - 975.000
+	knockback - 3
+	attackRateF - 233
+	attackRateS - 7.77
+	attackPower - 244.853
+	movementSpeed - 10
+	attackAnimF - 54
+	attackAnimS - 1.80
+	range - 350
+	respawnTimeF - 106
+	respawnTimeS - 3.53
+	attackType - 範囲(Area Attack)
+	cost - 825
+
+
+True:
+Version: Ver5.2
+Jap Name: 凧にゃん
+En Name: Kite Cat
+Jp Desc: 世の中をもっと笑顔にするためネコ達に遊ばれる人生を選んだキャラクター（遠方範囲攻撃）向かい風と美脚ネコからの苦情を一身に受ける
+En Desc: Her mission is to bring more smiles to the world. Sexy Legs complains about getting smacked in the face though... (Long Distance Area Attacks)
+Abilities: Zombie:Zombie Killer,Long Distance (Area)
+Combos: 
+Stats: 	health - 975.000
+	knockback - 3
+	attackRateF - 233
+	attackRateS - 7.77
+	attackPower - 490.000
+	movementSpeed - 10
+	attackAnimF - 54
+	attackAnimS - 1.80
+	range - 350
+	respawnTimeF - 286
+	respawnTimeS - 9.53
+	attackType - 範囲(Area Attack)
+	cost - 825
+
+

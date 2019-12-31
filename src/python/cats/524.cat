@@ -1,0 +1,63 @@
+524
+
+Normal:
+Version: Ver9.0
+Jap Name: ネコ武闘家
+En Name: Wushu Cat
+Jp Desc: 月謝4000円（税込）の武道家育成塾に週2で通い天下一を目指す社会人2年目の格闘にゃんこゾンビに打たれ強い
+En Desc: Top student at a discount martial arts school that
+costs $40 per month. Goes twice weekly after work.
+Tough vs Zombies.
+Abilities: Zombie:Multi-Hit,Resistant,Zombie Killer
+Combos: 
+Stats: 	health - 1275.000
+	knockback - 1
+	attackRateF - 54
+	attackRateS - 1.80
+	attackPower - 547.059
+	movementSpeed - 9
+	attackAnimF - 10
+	attackAnimS - 0.33
+	range - 120
+	respawnTimeF - 186
+	respawnTimeS - 6.20
+	attackType - 単体(Single Attack)
+	cost - 360
+
+
+Evolved:
+Version: Ver9.0
+Jap Name: ネコ師範
+En Name: Sifu Cat
+Jp Desc: 自作武器で師範に上り詰めた武道家にゃんこ門下生に負け知らずも公式試合ではいつも反則負けゾンビに打たれ強い
+En Desc: Owner of a discount martial arts school. His insistence
+on using custom equipment disqualifies him from
+official competitions. Tough vs Zombies.
+Abilities: Zombie:Multi-Hit,Resistant,Zombie Killer
+Combos: 
+Stats: 	health - 1650.000
+	knockback - 1
+	attackRateF - 54
+	attackRateS - 1.80
+	attackPower - 682.500
+	movementSpeed - 9
+	attackAnimF - 10
+	attackAnimS - 0.33
+	range - 120
+	respawnTimeF - 186
+	respawnTimeS - 6.20
+	attackType - 単体(Single Attack)
+	cost - 360
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

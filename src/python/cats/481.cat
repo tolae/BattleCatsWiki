@@ -1,0 +1,59 @@
+481
+
+Normal:
+Version: Ver8.5
+Jap Name: ねこ娘
+En Name: Neko-Musume
+Jp Desc: ゆる～いゲゲゲの鬼太郎 妖怪ドタバタ大戦争コラボ
+En Desc: N/A
+Abilities: None:
+Combos: 
+Stats: 	health - 2500.000
+	knockback - 2
+	attackRateF - 64
+	attackRateS - 2.13
+	attackPower - 800.000
+	movementSpeed - 15
+	attackAnimF - 13
+	attackAnimS - 0.43
+	range - 160
+	respawnTimeF - 1996
+	respawnTimeS - 66.53
+	attackType - 単体(Single Attack)
+	cost - 990
+
+
+Evolved:
+Version: Ver8.5
+Jap Name: ネコねこ娘
+En Name: Cat Neko-Musume
+Jp Desc: ゆる～いゲゲゲの鬼太郎 妖怪ドタバタ大戦争コラボ
+En Desc: N/A
+Abilities: None:
+Combos: 
+Stats: 	health - 3250.000
+	knockback - 2
+	attackRateF - 83
+	attackRateS - 2.77
+	attackPower - 1050.000
+	movementSpeed - 15
+	attackAnimF - 14
+	attackAnimS - 0.47
+	range - 160
+	respawnTimeF - 1996
+	respawnTimeS - 66.53
+	attackType - 範囲(Area Attack)
+	cost - 990
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

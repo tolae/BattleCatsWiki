@@ -1,0 +1,63 @@
+528
+
+Normal:
+Version: Ver9.1
+Jap Name: ネコスライム
+En Name: Slime Cat
+Jp Desc: 目が覚めたらスライムになっていたキャラクター新米勇者たちを探し求め街の周りだけをさまよう必ず波動を放つ
+En Desc: When I woke up, I found myself turned into a slime.
+Now I wander the city bullying low-level heroes.
+100% Wave Attack chance.
+Abilities: None:Wave Attack
+Combos: 
+Stats: 	health - 250.000
+	knockback - 1
+	attackRateF - 0
+	attackRateS - 0.00
+	attackPower - 3750.000
+	movementSpeed - 15
+	attackAnimF - 9
+	attackAnimS - 0.30
+	range - 140
+	respawnTimeF - 386
+	respawnTimeS - 12.87
+	attackType - 単体(Single Attack)
+	cost - 450
+
+
+Evolved:
+Version: Ver9.1
+Jap Name: ネコゼリーフィッシュ
+En Name: Jellycat
+Jp Desc: お盆になると一斉に現れるキャラクター見る者を癒やし、近づくものに容赦ない一撃と波動をお見舞いする
+En Desc: Uncanny beasts that appear en masse, soothing
+the eyes and stinging the skin of passersby.
+Bewilder your enemy with Wave Attacks!
+Abilities: None:Wave Attack
+Combos: 
+Stats: 	health - 250.000
+	knockback - 1
+	attackRateF - 0
+	attackRateS - 0.00
+	attackPower - 3750.000
+	movementSpeed - 15
+	attackAnimF - 9
+	attackAnimS - 0.30
+	range - 140
+	respawnTimeF - 386
+	respawnTimeS - 12.87
+	attackType - 単体(Single Attack)
+	cost - 450
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

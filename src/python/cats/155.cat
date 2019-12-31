@@ -1,0 +1,71 @@
+155
+
+Normal:
+Version: 
+Jap Name: ねこフープ
+En Name: Hoop Cat
+Jp Desc: おなかがぽっこりしてきたのでダイエットの為にフラフープを始めたにゃんこごくたまにメタルな敵の動きを止める
+En Desc: Started getting a bit pudgy, so he took up hula hooping as exercise. Might stop Metal enemies.
+Abilities: Metal:Freeze
+Combos: 	暴風一家|Eye of the Storm - ['061', '089', '079', '127', '155']
+Stats: 	health - 1425.000
+	knockback - 3
+	attackRateF - 88
+	attackRateS - 2.93
+	attackPower - 182.353
+	movementSpeed - 9
+	attackAnimF - 9
+	attackAnimS - 0.30
+	range - 190
+	respawnTimeF - 326
+	respawnTimeS - 10.87
+	attackType - 単体(Single Attack)
+	cost - 660
+
+
+Evolved:
+Version: 
+Jap Name: ねこトリプルフープ
+En Name: Showoff Cat
+Jp Desc: 体型維持のため始めたが、明らかにおかしな方向に体型が変化してきているにゃんこごくたまにメタルな敵の動きを止める
+En Desc: Started out hoping to preserve his figure, but his figure changed in an unexpected way. Might stop Metal enemies.
+Abilities: Metal:Freeze
+Combos: 	大道芸猫|Showoffs - ['018', '155']
+Stats: 	health - 1675.000
+	knockback - 3
+	attackRateF - 88
+	attackRateS - 2.93
+	attackPower - 207.353
+	movementSpeed - 9
+	attackAnimF - 9
+	attackAnimS - 0.30
+	range - 190
+	respawnTimeF - 326
+	respawnTimeS - 10.87
+	attackType - 単体(Single Attack)
+	cost - 660
+
+
+True:
+Version: Ver8.1
+Jap Name: ねこグルグルフープ
+En Name: Hoopmaster Cat
+Jp Desc: 前人未踏のパフォーマンスに挑戦するにゃんこおひねりでフープを買い足しては更なる挑戦が続くたまにメタルな敵の動きを止める
+En Desc: He’s out of control and just can’t get enough of those lovely hoops! Will the spinning ever stop? Has a chance to freeze Metal enemies.
+Abilities: Metal:Freeze
+Combos: 
+Stats: 	health - 2175.000
+	knockback - 3
+	attackRateF - 86
+	attackRateS - 2.87
+	attackPower - 207.353
+	movementSpeed - 9
+	attackAnimF - 9
+	attackAnimS - 0.30
+	range - 215
+	respawnTimeF - 326
+	respawnTimeS - 10.87
+	attackType - 単体(Single Attack)
+	cost - 660
+
+

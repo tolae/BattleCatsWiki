@@ -1,0 +1,61 @@
+177
+
+Normal:
+Version: 
+Jap Name: マシュマロにゃん
+En Name: Marshmallow Cat
+Jp Desc: 純粋な愛へのお返しのマシュマロ型にゃんこやわらかく相手のご厚意を包みます持ち前の弾力で相手に猛アタック
+En Desc: A sugary treat who likes cuddling rough! Wraps his enemy in jet-puffed sweetness before viciously smashing them over and over.
+Abilities: None:
+Combos: 	スイーツ|Sweets - ['016', '021', '177']
+	焼きマシュマロ|Roasting Marshmallows - ['360', '177']
+Stats: 	health - 1050.000
+	knockback - 3
+	attackRateF - 201
+	attackRateS - 6.70
+	attackPower - 450.000
+	movementSpeed - 8
+	attackAnimF - 22
+	attackAnimS - 0.73
+	range - 340
+	respawnTimeF - 206
+	respawnTimeS - 6.87
+	attackType - 単体(Single Attack)
+	cost - 630
+
+
+Evolved:
+Version: 
+Jap Name: キモマロにゃん
+En Name: Creepmallow
+Jp Desc: 急なバーベキューでもすぐに焼ける便利な脚付きのマシュマロ型にゃんこ持ち前の弾力で相手に猛アタック
+En Desc: Quickly toasted over a roaring bonfire, his burning body brings back happy memories. Delivers powerful beatings with his soft body!
+Abilities: None:
+Combos: 	キモモモ|Gross!!! - ['004', '095', '177']
+	伸縮性と弾力性|Soft and Flexible - ['437', '177']
+Stats: 	health - 1050.000
+	knockback - 3
+	attackRateF - 201
+	attackRateS - 6.70
+	attackPower - 450.000
+	movementSpeed - 8
+	attackAnimF - 22
+	attackAnimS - 0.73
+	range - 340
+	respawnTimeF - 206
+	respawnTimeS - 6.87
+	attackType - 単体(Single Attack)
+	cost - 630
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

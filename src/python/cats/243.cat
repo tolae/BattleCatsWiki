@@ -1,0 +1,59 @@
+243
+
+Normal:
+Version: Ver4.5
+Jap Name: サンタのメリークウ
+En Name: Santa Kuu
+Jp Desc: クリスマス限定スタイルの熱血ギャル遠距離からのX'masツリーアタックは超破壊力を誇るエイリアンと天使にめっぽう強い（範囲攻撃）
+En Desc: A passionate gal dressed up for Xmas. Big damage from her long range Tree attack! Strong vs Aliens/Angels (Area Atk).
+Abilities: Angel,Alien:Strong
+Combos: 
+Stats: 	health - 4500.000
+	knockback - 5
+	attackRateF - 499
+	attackRateS - 16.63
+	attackPower - 7500.000
+	movementSpeed - 12
+	attackAnimF - 60
+	attackAnimS - 2.00
+	range - 400
+	respawnTimeF - 3744
+	respawnTimeS - 124.80
+	attackType - 範囲(Area Attack)
+	cost - 4,200
+
+
+Evolved:
+Version: Ver4.5
+Jap Name: サンタのメリークウγ
+En Name: Santa Kuu, Type γ
+Jp Desc: クリスマスの甘いムードなんて大嫌いな熱血ギャルでもヤドリギの下でついドキドキしてしまうエイリアンと天使にめっぽう強い（範囲攻撃）
+En Desc: Dressing up for Xmas brings out her sweet side. Mistletoe still makes her nervous. Strong vs Aliens/Angels (Area Atk).
+Abilities: Angel,Alien:Strong
+Combos: 
+Stats: 	health - 8250.000
+	knockback - 5
+	attackRateF - 499
+	attackRateS - 16.63
+	attackPower - 10500.000
+	movementSpeed - 12
+	attackAnimF - 60
+	attackAnimS - 2.00
+	range - 400
+	respawnTimeF - 3744
+	respawnTimeS - 124.80
+	attackType - 範囲(Area Attack)
+	cost - 4,200
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

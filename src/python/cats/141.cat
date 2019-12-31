@@ -1,0 +1,59 @@
+141
+
+Normal:
+Version: 
+Jap Name: ふにゅふにゅネコ
+En Name: Squish Ball Cat
+Jp Desc: 最新素材で作られたガシャポンカプセルの中にうっかりハマってしまったネコふにゅふにゅとした感触がクセになる（範囲攻撃）
+En Desc: Got hooked on new capsule material, somehow managed to transform itself into something similar (Area Attack).
+Abilities: None:
+Combos: 
+Stats: 	health - 1000.000
+	knockback - 5
+	attackRateF - 101
+	attackRateS - 3.37
+	attackPower - 387.500
+	movementSpeed - 36
+	attackAnimF - 41
+	attackAnimS - 1.37
+	range - 160
+	respawnTimeF - 76
+	respawnTimeS - 2.53
+	attackType - 範囲(Area Attack)
+	cost - 870
+
+
+Evolved:
+Version: 
+Jap Name: むきゅむきゅネコ
+En Name: Muscleman Cat
+Jp Desc: 魅惑のボディで敵をめろめろにするネコ上腕三頭筋には特に注目してもらいたい巨神ネコは遠い遠い親戚（範囲攻撃）
+En Desc: See the truth inside. Macho Cat's trainer. Everyone is facsinated by its rippling triceps. Distant relative of the Titan Cat (Area Attack).
+Abilities: None:
+Combos: 
+Stats: 	health - 1000.000
+	knockback - 5
+	attackRateF - 105
+	attackRateS - 3.50
+	attackPower - 387.500
+	movementSpeed - 36
+	attackAnimF - 41
+	attackAnimS - 1.37
+	range - 160
+	respawnTimeF - 76
+	respawnTimeS - 2.53
+	attackType - 範囲(Area Attack)
+	cost - 870
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

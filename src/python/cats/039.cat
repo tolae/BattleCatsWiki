@@ -1,0 +1,72 @@
+039
+
+Normal:
+Version: Ver2.0
+Jap Name: ネコ車輪
+En Name: Wheel Cat
+Jp Desc: 妖怪ブームがきっかけで自ら妖怪へと姿を変えたキャラクターエイリアンに超ダメージを与える（範囲攻撃）
+En Desc: Got tired of changing wheels of vehicles so became one instead.Spins so fast it burns.Massive damage against Aliens (Area Attack).
+Abilities: Alien:Massive Damage
+Combos: 	百鬼夜行|Paranormal Activity - ['039', '129', '081']
+Stats: 	health - 1500.000
+	knockback - 2
+	attackRateF - 68
+	attackRateS - 2.27
+	attackPower - 550.000
+	movementSpeed - 9
+	attackAnimF - 29
+	attackAnimS - 0.97
+	range - 170
+	respawnTimeF - 346
+	respawnTimeS - 11.53
+	attackType - 範囲(Area Attack)
+	cost - 1,050
+
+
+Evolved:
+Version: Ver2.0
+Jap Name: ネコ太陽
+En Name: Solar Cat
+Jp Desc: 日食ブームがきっかけで自ら太陽系へと姿を変えたキャラクターエイリアンに超ダメージを与える（範囲攻撃）
+En Desc: Got tired of moving around so decided to become a galaxy instead.Massive damage against Aliens (Area Attack).
+Abilities: Alien:Massive Damage
+Combos: 	真夏の太陽|Midsummer Sun - ['128', '039']
+	真夏の甲子園|Take Me Out - ['202', '288', '039']
+Stats: 	health - 2000.000
+	knockback - 2
+	attackRateF - 68
+	attackRateS - 2.27
+	attackPower - 800.000
+	movementSpeed - 9
+	attackAnimF - 29
+	attackAnimS - 0.97
+	range - 170
+	respawnTimeF - 346
+	respawnTimeS - 11.53
+	attackType - 範囲(Area Attack)
+	cost - 1,050
+
+
+True:
+Version: Ver5.1
+Jap Name: ネコクール
+En Name: Chill Cat
+Jp Desc: 特性「ふっとばす」追加
+En Desc: An evolved Cat who is always calm and collected at the office.Massive area damage to Aliens.
+Abilities: Alien:Massive Damage
+Combos: 
+Stats: 	health - 2000.000
+	knockback - 2
+	attackRateF - 68
+	attackRateS - 2.27
+	attackPower - 1050.000
+	movementSpeed - 9
+	attackAnimF - 29
+	attackAnimS - 0.97
+	range - 200
+	respawnTimeF - 146
+	respawnTimeS - 4.87
+	attackType - 範囲(Area Attack)
+	cost - 1,050
+
+

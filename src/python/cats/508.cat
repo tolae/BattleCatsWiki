@@ -1,0 +1,59 @@
+508
+
+Normal:
+Version: Ver8.10
+Jap Name: スーパーにゃん
+En Name: Mightycat
+Jp Desc: 謎のマントで空を飛ぶヒーロー気取りのただのネコ一人暮らしを夢見てレジ打ちバイトに明け暮れている属性を持たない敵の攻撃力を下げ、波動を打ち消す
+En Desc: Heroic caped Cat who soars through the air (while worrying about being fired from his part-time job.)  Weaken Traitless, nullfies Wave Attacks
+Abilities: White:Weaken,Wave Shield
+Combos: 
+Stats: 	health - 4500.000
+	knockback - 10
+	attackRateF - 151
+	attackRateS - 5.03
+	attackPower - 500.000
+	movementSpeed - 60
+	attackAnimF - 1
+	attackAnimS - 0.03
+	range - 140
+	respawnTimeF - 646
+	respawnTimeS - 21.53
+	attackType - 単体(Single Attack)
+	cost - 720
+
+
+Evolved:
+Version: Ver8.10
+Jap Name: ジャイにゃん
+En Name: Supercat
+Jp Desc: ポテチの食べすぎでマッチョ化した空飛ぶネコ将来の夢は歌手で毎日、公園で歌の練習を欠かさない属性を持たない敵の攻撃力を下げ、波動を打ち消す
+En Desc: Grew Macho thanks to his nervous eating habit.  Practices singing in the park when no one's around.  Weaken Traitless, nullfies Wave Attacks
+Abilities: White:Weaken,Wave Shield
+Combos: 
+Stats: 	health - 4500.000
+	knockback - 10
+	attackRateF - 151
+	attackRateS - 5.03
+	attackPower - 500.000
+	movementSpeed - 60
+	attackAnimF - 1
+	attackAnimS - 0.03
+	range - 140
+	respawnTimeF - 646
+	respawnTimeS - 21.53
+	attackType - 単体(Single Attack)
+	cost - 720
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

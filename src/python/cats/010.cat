@@ -1,0 +1,74 @@
+010
+
+Normal:
+Version: Ver1.0
+Jap Name: ネコ女優
+En Name: Actress Cat
+Jp Desc: 撮影の為なら何でもこなす遠距離型キャラ美しい脚を持ったキャラとのコラボは美の極み！遠距離型で範囲攻撃を持った貴重なキャラ！
+En Desc: Maintains a high level of professionalism. Works very well with Sexy Legs Cat. Exceptional attack power and range.
+Abilities: None:
+Combos: 	昼ドラで競演|Ratings Competition - ['197', '010']
+	舞台の上では平気なの|No Stage Fright - ['010', '042']
+	銀幕のスター|Silver Screen - ['154', '010']
+Stats: 	health - 1000.000
+	knockback - 3
+	attackRateF - 126
+	attackRateS - 4.20
+	attackPower - 250.000
+	movementSpeed - 10
+	attackAnimF - 7
+	attackAnimS - 0.23
+	range - 350
+	respawnTimeF - 76
+	respawnTimeS - 2.53
+	attackType - 範囲(Area Attack)
+	cost - 900
+
+
+Evolved:
+Version: Ver1.0
+Jap Name: ネコ聖母
+En Name: Mother Cat
+Jp Desc: 慈愛の心に満ち溢れた遠距離型キャラ美しい脚を持ったキャラとのコラボは美の極み！遠距離型で範囲攻撃を持った貴重なキャラ！
+En Desc: Her love is limitless! Works very well with Sexy Legs Cat. Exceptional attack power and range.
+Abilities: None:
+Combos: 	救いの手|Helping Hand - ['031', '010']
+Stats: 	health - 1000.000
+	knockback - 3
+	attackRateF - 126
+	attackRateS - 4.20
+	attackPower - 250.000
+	movementSpeed - 10
+	attackAnimF - 7
+	attackAnimS - 0.23
+	range - 350
+	respawnTimeF - 76
+	respawnTimeS - 2.53
+	attackType - 範囲(Area Attack)
+	cost - 900
+
+
+True:
+Version: 
+Jap Name: ネコマッチョ
+En Name: Beefcake Cat
+Jp Desc: 地下闘技場チャンピオンとなった遠距離型キャラたくましい脚を持ったキャラとのコラボは美の極み！筋肉のおかげで体力と攻撃速度アップ（範囲攻撃）
+En Desc: Dominated the bareknuckle boxing circuit with long distance jabs. Paired with legs that float like a butterfly, can really sting like a bee!
+Abilities: None:
+Combos: 	マッチョマン|Macho Man - ['004', '010']
+	腕自慢|Arm Day Everyday - ['009', '011', '010', '171']
+Stats: 	health - 1625.000
+	knockback - 3
+	attackRateF - 86
+	attackRateS - 2.87
+	attackPower - 250.000
+	movementSpeed - 10
+	attackAnimF - 7
+	attackAnimS - 0.23
+	range - 350
+	respawnTimeF - 76
+	respawnTimeS - 2.53
+	attackType - 範囲(Area Attack)
+	cost - 900
+
+

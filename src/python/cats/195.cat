@@ -1,0 +1,71 @@
+195
+
+Normal:
+Version: Ver4.0
+Jap Name: アキラ
+En Name: Akira
+Jp Desc: おととい夢で見たエイリアン襲来に立ち向かうべく自らの身体を人造人間っぽく改造した超天才少年たまにエイリアンの動きを止める（範囲攻撃）
+En Desc: A super-genius who dreamed of alien invasion. Recreated himself as a cyborg hero to defend the planet! Area attacks might freeze Aliens.
+Abilities: Alien:Freeze,Immune to Weaken
+Combos: 	中二病|Troubled Youth - ['131', '195']
+Stats: 	health - 7500.000
+	knockback - 3
+	attackRateF - 157
+	attackRateS - 5.23
+	attackPower - 3750.000
+	movementSpeed - 13
+	attackAnimF - 108
+	attackAnimS - 3.60
+	range - 430
+	respawnTimeF - 4146
+	respawnTimeS - 138.20
+	attackType - 範囲(Area Attack)
+	cost - 4,860
+
+
+Evolved:
+Version: Ver4.0
+Jap Name: シャドウ・アキラ
+En Name: Shadow Akira
+Jp Desc: 引きこもりがちだった中学3年間の闇の力を一気に解放追い詰められると発揮する反骨のパワーで正義を貫く体力が減ると攻撃力が大幅上昇する（範囲攻撃）
+En Desc: A bullied kid who hid in his room for years. No more! Now channels his fear into fighting for justice! Attack power increases when damaged! (Area)
+Abilities: None:Strengthen,Immune to Weaken
+Combos: 
+Stats: 	health - 7500.000
+	knockback - 3
+	attackRateF - 157
+	attackRateS - 5.23
+	attackPower - 3750.000
+	movementSpeed - 13
+	attackAnimF - 108
+	attackAnimS - 3.60
+	range - 430
+	respawnTimeF - 4146
+	respawnTimeS - 138.20
+	attackType - 範囲(Area Attack)
+	cost - 4,860
+
+
+True:
+Version: Ver5.0
+Jap Name: インフェルノ・アキラ
+En Name: Inferno Akira
+Jp Desc: 特性「動きを止める」追加
+En Desc: Reinventing himself, he has changed his destiny! But can he change society with his powers? Strong vs. Aliens, immune to wave attacks.
+Abilities: Alien:Strong,Immune to Waves,Immune to Weaken
+Combos: 
+Stats: 	health - 7500.000
+	knockback - 3
+	attackRateF - 157
+	attackRateS - 5.23
+	attackPower - 3750.000
+	movementSpeed - 13
+	attackAnimF - 108
+	attackAnimS - 3.60
+	range - 430
+	respawnTimeF - 4146
+	respawnTimeS - 138.20
+	attackType - 範囲(Area Attack)
+	cost - 4,860
+
+

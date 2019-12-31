@@ -1,0 +1,59 @@
+510
+
+Normal:
+Version: Ver8.10.5
+Jap Name: ネコ春麗
+En Name: Chun-Li Cat
+Jp Desc: ストリートファイターV AEコラボ
+En Desc: A Cat who seems to have stuck buns in her hair.  Trying to learn the Spinning Bird Kick.  small chance of Critical.
+Abilities: None:Multi-Hit,Critical
+Combos: 
+Stats: 	health - 1500.000
+	knockback - 3
+	attackRateF - 94
+	attackRateS - 3.13
+	attackPower - 450.000
+	movementSpeed - 10
+	attackAnimF - 27
+	attackAnimS - 0.90
+	range - 180
+	respawnTimeF - 346
+	respawnTimeS - 11.53
+	attackType - 単体(Single Attack)
+	cost - 600
+
+
+Evolved:
+Version: Ver8.10.5
+Jap Name: ネコ春麗CC
+En Name: Chun-Li Cat CC
+Jp Desc: ストリートファイターV AEコラボ
+En Desc: Beautiful Cat working for the ICPO.  Mesmerizing kicks stun her opponents.  Small chance of Critical
+Abilities: None:Multi-Hit,Critical
+Combos: 
+Stats: 	health - 1500.000
+	knockback - 3
+	attackRateF - 94
+	attackRateS - 3.13
+	attackPower - 450.000
+	movementSpeed - 10
+	attackAnimF - 27
+	attackAnimS - 0.90
+	range - 180
+	respawnTimeF - 346
+	respawnTimeS - 11.53
+	attackType - 単体(Single Attack)
+	cost - 600
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

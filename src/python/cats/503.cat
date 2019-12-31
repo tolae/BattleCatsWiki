@@ -1,0 +1,63 @@
+503
+
+Normal:
+Version: Ver8.9
+Jap Name: 英雄令嬢メルシュ
+En Name: Myrcia
+Jp Desc: 何でもお金で解決しようとするブルジョワ令嬢お金で解決できない場合は実力行使。たまに属性を持たない敵からの攻撃を無効化し、波動を放つ
+En Desc: Money couldn't buy happiness, but it bought a small
+arsenal that very much brings a smile to her face.
+Wave Attacks, might dodge Traitless enemy attacks.
+Abilities: White:Multi-Hit,Multi-Hit,Wave Attack
+Combos: 	相棒| - ['503', '075', '105']
+Stats: 	health - 4500.000
+	knockback - 4
+	attackRateF - 241
+	attackRateS - 8.03
+	attackPower - 3825.000
+	movementSpeed - 10
+	attackAnimF - 60
+	attackAnimS - 2.00
+	range - 330
+	respawnTimeF - 2746
+	respawnTimeS - 91.53
+	attackType - 範囲(Area Attack)
+	cost - 4,260
+
+
+Evolved:
+Version: Ver8.9
+Jap Name: 英雄令嬢メルシュξ
+En Name: Myrcia, type ξ
+Jp Desc: 世間知らずのブルジョワ令嬢。場違いな発言で周囲を困惑させるがメカ執事がすかさずフォロー。たまに属性を持たない敵からの攻撃を無効化し、波動を放つ
+En Desc: RoboButler is endlessly apologizing for Myr's rich-girl
+faux pas (and the trail of destruction left in her wake).
+Wave Attacks, might dodge Traitless enemy attacks.
+Abilities: White:Multi-Hit,Multi-Hit,Wave Attack
+Combos: 
+Stats: 	health - 6000.000
+	knockback - 4
+	attackRateF - 241
+	attackRateS - 8.03
+	attackPower - 5025.000
+	movementSpeed - 10
+	attackAnimF - 60
+	attackAnimS - 2.00
+	range - 330
+	respawnTimeF - 2746
+	respawnTimeS - 91.53
+	attackType - 範囲(Area Attack)
+	cost - 4,260
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

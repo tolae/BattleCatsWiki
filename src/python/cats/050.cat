@@ -1,0 +1,71 @@
+050
+
+Normal:
+Version: Ver2.0
+Jap Name: ねこ泥棒
+En Name: Thief Cat
+Jp Desc: 素早い動きで敵を翻弄するキャラクター敵を倒したときにお金を多くもらえる
+En Desc: Moves fast. Steals faster. More money earned when defeating an enemy.
+Abilities: None:Extra Money
+Combos: 
+Stats: 	health - 1155.147
+	knockback - 3
+	attackRateF - 30
+	attackRateS - 1.00
+	attackPower - 134.853
+	movementSpeed - 13
+	attackAnimF - 15
+	attackAnimS - 0.50
+	range - 170
+	respawnTimeF - 166
+	respawnTimeS - 5.53
+	attackType - 単体(Single Attack)
+	cost - 495
+
+
+Evolved:
+Version: Ver2.0
+Jap Name: 怪盗ニャコン
+En Name: Phantom Thief Cat
+Jp Desc: 奇奇怪怪な動きで敵を翻弄世界の秘宝コレクターでもある敵を倒したときにお金を多くもらえる
+En Desc: Moves too fast. Still steals the same. Has a large treasure collection now. More money earned when defeating an enemy.
+Abilities: None:Extra Money
+Combos: 	ジェントルマン|Gentlemen - ['081', '050']
+Stats: 	health - 1350.000
+	knockback - 3
+	attackRateF - 30
+	attackRateS - 1.00
+	attackPower - 159.853
+	movementSpeed - 13
+	attackAnimF - 15
+	attackAnimS - 0.50
+	range - 170
+	respawnTimeF - 166
+	respawnTimeS - 5.53
+	attackType - 単体(Single Attack)
+	cost - 495
+
+
+True:
+Version: Ver5.4
+Jap Name: ネゴエモン
+En Name: Goemon Cat
+Jp Desc: 特性「攻撃力上昇」追加
+En Desc: Bandit of legend, last seen in old Japan fighting against the shogun's tyranny. Slips extra money out of enemy pockets with area attacks.
+Abilities: None:Extra Money
+Combos: 
+Stats: 	health - 1350.000
+	knockback - 3
+	attackRateF - 30
+	attackRateS - 1.00
+	attackPower - 240.000
+	movementSpeed - 13
+	attackAnimF - 15
+	attackAnimS - 0.50
+	range - 200
+	respawnTimeF - 166
+	respawnTimeS - 5.53
+	attackType - 範囲(Area Attack)
+	cost - 495
+
+

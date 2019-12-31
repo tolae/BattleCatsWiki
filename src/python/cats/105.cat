@@ -1,0 +1,75 @@
+105
+
+Normal:
+Version: 
+Jap Name: マジでコイしてる
+En Name: Koi Cat
+Jp Desc: 実は遠くの敵を攻撃できる遠距離型のキモネコタイプ赤い敵にめっぽう強い
+En Desc: Distant relative of Fish Cat. A good long distance attacker. Strong against Red enemies.
+Abilities: Red:Strong
+Combos: 	コイの滝登り|Koi and Dragon - ['105', '087']
+	二人一組|Team of Two - ['153', '082', '124', '105', '089']
+	恋の季節|Seasons of Love - ['101', '105', '110']
+	相棒| - ['503', '075', '105']
+	風車|Spinners - ['018', '105']
+Stats: 	health - 1025.000
+	knockback - 3
+	attackRateF - 127
+	attackRateS - 4.23
+	attackPower - 250.000
+	movementSpeed - 10
+	attackAnimF - 8
+	attackAnimS - 0.27
+	range - 350
+	respawnTimeF - 96
+	respawnTimeS - 3.20
+	attackType - 単体(Single Attack)
+	cost - 615
+
+
+Evolved:
+Version: 
+Jap Name: コイ・the・Night
+En Name: Gross Koi Cat
+Jp Desc: これはコイ…？いや、もはやコイジャナイ！！それでも今夜はコイ・The・Night！！赤い敵にめっぽう強い
+En Desc: Koi Cat and Gross Cat's distant cousin. Still wondering if it is Gross or Koi. Strong against Red enemies.
+Abilities: Red:Strong
+Combos: 
+Stats: 	health - 1025.000
+	knockback - 3
+	attackRateF - 127
+	attackRateS - 4.23
+	attackPower - 250.000
+	movementSpeed - 10
+	attackAnimF - 8
+	attackAnimS - 0.27
+	range - 350
+	respawnTimeF - 96
+	respawnTimeS - 3.20
+	attackType - 単体(Single Attack)
+	cost - 615
+
+
+True:
+Version: Ver5.0
+Jap Name: キスヨリ・ス・ゴイ
+En Name: Kiss and Koi
+Jp Desc: コイ…それは情熱 コイ…それは幻それでも私は泳ぎます 恋にコイする鯉錦赤い敵にめっぽう強い（範囲攻撃）
+En Desc: Love: is it passion, or illusion? All I know is that I love to swim. Strong against Red (Area Atk).
+Abilities: Red:Strong
+Combos: 
+Stats: 	health - 1025.000
+	knockback - 3
+	attackRateF - 127
+	attackRateS - 4.23
+	attackPower - 250.000
+	movementSpeed - 25
+	attackAnimF - 8
+	attackAnimS - 0.27
+	range - 350
+	respawnTimeF - 96
+	respawnTimeS - 3.20
+	attackType - 範囲(Area Attack)
+	cost - 615
+
+

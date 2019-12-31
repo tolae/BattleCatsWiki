@@ -1,0 +1,59 @@
+467
+
+Normal:
+Version: Ver8.5
+Jap Name: ブラックゼウス
+En Name: Black Zeus
+Jp Desc: ビックリマンコラボ
+En Desc: It was created by the Holy God Nadia as the next God of darkness. Super Zeus is a twin brother. Extreme damage to enemies with no attributes (far range attack)
+Abilities: White:Insane Damage,Long Distance (Area),Immune to Weaken
+Combos: 
+Stats: 	health - 9000.000
+	knockback - 3
+	attackRateF - 285
+	attackRateS - 9.50
+	attackPower - 5000.000
+	movementSpeed - 10
+	attackAnimF - 116
+	attackAnimS - 3.87
+	range - 455
+	respawnTimeF - 4546
+	respawnTimeS - 151.53
+	attackType - 範囲(Area Attack)
+	cost - 4,950
+
+
+Evolved:
+Version: Ver8.5
+Jap Name: 闇次神子ブラックゼウス
+En Name: Yami Shinko Black Zeus
+Jp Desc: ビックリマンコラボ
+En Desc: Zeus, who molt the devilishness with a holy egg, emitted a rainbow wave to Keep on flying. A god or a demon? Extreme damage to enemies with no attributes (far range attack)
+Abilities: White:Insane Damage,Long Distance (Area),Immune to Weaken
+Combos: 
+Stats: 	health - 11250.000
+	knockback - 3
+	attackRateF - 285
+	attackRateS - 9.50
+	attackPower - 6250.000
+	movementSpeed - 10
+	attackAnimF - 116
+	attackAnimS - 3.87
+	range - 455
+	respawnTimeF - 4546
+	respawnTimeS - 151.53
+	attackType - 範囲(Area Attack)
+	cost - 4,950
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

@@ -1,0 +1,59 @@
+357
+
+Normal:
+Version: Ver6.3
+Jap Name: ノラ
+En Name: Nora
+Jp Desc: にゃんこ大戦争～日本侵略秘録～コラボ
+En Desc: N/A
+Abilities: Black:Strong
+Combos: 
+Stats: 	health - 500.000
+	knockback - 3
+	attackRateF - 92
+	attackRateS - 3.07
+	attackPower - 225.000
+	movementSpeed - 18
+	attackAnimF - 23
+	attackAnimS - 0.77
+	range - 200
+	respawnTimeF - 166
+	respawnTimeS - 5.53
+	attackType - 単体(Single Attack)
+	cost - 300
+
+
+Evolved:
+Version: Ver6.3
+Jap Name: 覚醒ノラ
+En Name: Awakened Nora
+Jp Desc: にゃんこ大戦争～日本侵略秘録～コラボ
+En Desc: N/A
+Abilities: Black:Strong
+Combos: 
+Stats: 	health - 500.000
+	knockback - 3
+	attackRateF - 92
+	attackRateS - 3.07
+	attackPower - 225.000
+	movementSpeed - 18
+	attackAnimF - 23
+	attackAnimS - 0.77
+	range - 200
+	respawnTimeF - 166
+	respawnTimeS - 5.53
+	attackType - 単体(Single Attack)
+	cost - 300
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

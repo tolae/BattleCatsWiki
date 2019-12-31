@@ -1,0 +1,73 @@
+162
+
+Normal:
+Version: 
+Jap Name: 狂乱のケリ姫
+En Name: Crazed Kerihime
+Jp Desc: ケリ姫スイーツコラボ
+En Desc: Princess you've frenzy of eating dark sweets.
+Wearing a dark force "Keri" raises the beat! Occasionally to blow the metal enemy (range attack)
+Abilities: Metal:Knockback
+Combos: 
+Stats: 	health - 1000.000
+	knockback - 2
+	attackRateF - 243
+	attackRateS - 8.10
+	attackPower - 750.000
+	movementSpeed - 32
+	attackAnimF - 4
+	attackAnimS - 0.13
+	range - 680
+	respawnTimeF - 3586
+	respawnTimeS - 119.53
+	attackType - 範囲(Area Attack)
+	cost - 3,300
+
+
+Evolved:
+Version: 
+Jap Name: 狂乱のケリ姫CC
+En Name: Crazed Kerihime CC
+Jp Desc: ケリ姫スイーツコラボ
+En Desc: Princess you've frenzy of eating dark sweets
+Twink who will return to the original do not appear yet to occasionally blow the metal enemy (range attack)
+Abilities: Metal:Knockback
+Combos: 
+Stats: 	health - 2250.000
+	knockback - 2
+	attackRateF - 243
+	attackRateS - 8.10
+	attackPower - 1050.000
+	movementSpeed - 32
+	attackAnimF - 4
+	attackAnimS - 0.13
+	range - 680
+	respawnTimeF - 3586
+	respawnTimeS - 119.53
+	attackType - 範囲(Area Attack)
+	cost - 3,300
+
+
+True:
+Version: Ver6.1
+Jap Name: 大狂乱のケリ姫
+En Name: Manic Kerihime
+Jp Desc: ケリ姫スイーツコラボ
+En Desc: ?
+Abilities: Metal:Knockback
+Combos: 
+Stats: 	health - 3500.000
+	knockback - 2
+	attackRateF - 203
+	attackRateS - 6.77
+	attackPower - 1050.000
+	movementSpeed - 32
+	attackAnimF - 4
+	attackAnimS - 0.13
+	range - 780
+	respawnTimeF - 3586
+	respawnTimeS - 119.53
+	attackType - 範囲(Area Attack)
+	cost - 3,300
+
+

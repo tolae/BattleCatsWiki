@@ -1,0 +1,59 @@
+398
+
+Normal:
+Version: Ver6.8
+Jap Name: 風隼さくら
+En Name: Sakura Sonic
+Jp Desc: 一族に伝わる退魔の刀で悪事を裁く女子中学生ごくたまにクリティカル攻撃を放ち、メタルな敵に打たれ強く、動きを遅くし攻撃力を下げる
+En Desc: A totally average schoolgirl who likes bubble tea and vanquishing demons. Tough vs. Metal, Critical attacks slow & weaken Metal enemies.
+Abilities: Metal:Resistant,Slow,Weaken,Critical,Immune to Slow,Immune to Weaken
+Combos: 
+Stats: 	health - 6750.000
+	knockback - 4
+	attackRateF - 207
+	attackRateS - 6.90
+	attackPower - 4000.000
+	movementSpeed - 12
+	attackAnimF - 76
+	attackAnimS - 2.53
+	range - 420
+	respawnTimeF - 3346
+	respawnTimeS - 111.53
+	attackType - 範囲(Area Attack)
+	cost - 4,200
+
+
+Evolved:
+Version: Ver6.8
+Jap Name: JK風隼さくら
+En Name: Afterschool Sakura
+Jp Desc: 一族の使命と部活の両立を目指す女子高校生ごくたまにクリティカル攻撃を放ち、メタルな敵に打たれ強く、動きを遅くし攻撃力を下げる
+En Desc: It’s tough to balance club activities and defending the sacred legacy of your clan. Tough vs. Metal, Critical attacks slow and weaken Metal enemies.
+Abilities: Metal:Resistant,Slow,Weaken,Critical,Immune to Slow,Immune to Weaken
+Combos: 	バイト仲間|Part-Time Coworkers - ['398', '274']
+Stats: 	health - 6750.000
+	knockback - 4
+	attackRateF - 207
+	attackRateS - 6.90
+	attackPower - 4000.000
+	movementSpeed - 12
+	attackAnimF - 76
+	attackAnimS - 2.53
+	range - 420
+	respawnTimeF - 3346
+	respawnTimeS - 111.53
+	attackType - 範囲(Area Attack)
+	cost - 4,200
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

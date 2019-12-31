@@ -1,0 +1,62 @@
+376
+
+Normal:
+Version: Ver6.6
+Jap Name: 記念ネコ
+En Name: Coin Cat
+Jp Desc: 感謝の気持ちを込めて発行された記念のネコ9000億万枚限定生産品
+En Desc: An invaluable collectors item!
+Only 9 billion were produced!
+Abilities: None:
+Combos: 
+Stats: 	health - 250.000
+	knockback - 3
+	attackRateF - 37
+	attackRateS - 1.23
+	attackPower - 19.853
+	movementSpeed - 9
+	attackAnimF - 4
+	attackAnimS - 0.13
+	range - 140
+	respawnTimeF - 60
+	respawnTimeS - 2.00
+	attackType - 単体(Single Attack)
+	cost - 75
+
+
+Evolved:
+Version: Ver6.6
+Jap Name: 記念ネコビルダー
+En Name: Macho Coin Cat
+Jp Desc: 感謝の気持ちを込めて発行された記念のネコの中に3枚に1枚の確率で混ざっているレアコイン3枚集めると記念ネコと交換可
+En Desc: A memorial item imbued with Cat
+gratitude. Every third Coin Cat earns
+you... another Coin Cat.
+Abilities: None:
+Combos: 
+Stats: 	health - 250.000
+	knockback - 3
+	attackRateF - 37
+	attackRateS - 1.23
+	attackPower - 19.853
+	movementSpeed - 9
+	attackAnimF - 4
+	attackAnimS - 0.13
+	range - 140
+	respawnTimeF - 60
+	respawnTimeS - 2.00
+	attackType - 単体(Single Attack)
+	cost - 75
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

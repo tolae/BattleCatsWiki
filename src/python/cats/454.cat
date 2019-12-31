@@ -1,0 +1,59 @@
+454
+
+Normal:
+Version: Ver8.1
+Jap Name: きたろう
+En Name: Kitarou
+Jp Desc: ゆる～いゲゲゲの鬼太郎 妖怪ドタバタ大戦争コラボ
+En Desc: N/A
+Abilities: Zombie:Massive Damage,Zombie Killer
+Combos: 
+Stats: 	health - 1750.000
+	knockback - 3
+	attackRateF - 101
+	attackRateS - 3.37
+	attackPower - 350.000
+	movementSpeed - 9
+	attackAnimF - 4
+	attackAnimS - 0.13
+	range - 325
+	respawnTimeF - 2146
+	respawnTimeS - 71.53
+	attackType - 単体(Single Attack)
+	cost - 450
+
+
+Evolved:
+Version: Ver8.1
+Jap Name: ゲゲゲの鬼太郎
+En Name: GeGeGe no Kitarō
+Jp Desc: ゆる～いゲゲゲの鬼太郎 妖怪ドタバタ大戦争コラボ
+En Desc: N/A
+Abilities: Zombie:Massive Damage,Zombie Killer
+Combos: 
+Stats: 	health - 1750.000
+	knockback - 3
+	attackRateF - 125
+	attackRateS - 4.17
+	attackPower - 437.500
+	movementSpeed - 11
+	attackAnimF - 14
+	attackAnimS - 0.47
+	range - 350
+	respawnTimeF - 2146
+	respawnTimeS - 71.53
+	attackType - 単体(Single Attack)
+	cost - 450
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

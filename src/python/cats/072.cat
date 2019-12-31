@@ -1,0 +1,71 @@
+072
+
+Normal:
+Version: Ver2.1
+Jap Name: 真田幸村
+En Name: Sanada Yukimura
+Jp Desc: 伝説の武具「にゃんこ胴」の呪いによって鳥の姿へと変えられた戦国武将（範囲攻撃）俊敏な動きで黒い敵に超ダメージを与える
+En Desc: A famous warrior that was transformed by the Legendary Cat Armor into a bird-type General. Deals massive damage to Black enemies.
+Abilities: Black:Multi-Hit,Massive Damage
+Combos: 
+Stats: 	health - 2125.000
+	knockback - 5
+	attackRateF - 137
+	attackRateS - 4.57
+	attackPower - 2062.500
+	movementSpeed - 65
+	attackAnimF - 1
+	attackAnimS - 0.03
+	range - 170
+	respawnTimeF - 1546
+	respawnTimeS - 51.53
+	attackType - 範囲(Area Attack)
+	cost - 3,075
+
+
+Evolved:
+Version: Ver2.1
+Jap Name: 武神・真田幸村
+En Name: Wargod Yukimura
+Jp Desc: 伝説の武具「にゃんこ胴」の隠しオプションジェットブースターを装着（範囲攻撃）俊敏な動きで黒い敵に超ダメージを与える
+En Desc: Activated the armor's hidden function "Jet Boosters". No stopping it now! Deals massive damage to Black enemies.
+Abilities: Black:Multi-Hit,Massive Damage
+Combos: 
+Stats: 	health - 4250.000
+	knockback - 5
+	attackRateF - 137
+	attackRateS - 4.57
+	attackPower - 4125.000
+	movementSpeed - 65
+	attackAnimF - 1
+	attackAnimS - 0.03
+	range - 170
+	respawnTimeF - 1546
+	respawnTimeS - 51.53
+	attackType - 範囲(Area Attack)
+	cost - 3,075
+
+
+True:
+Version: Ver5.1
+Jap Name: 飛翔の武神・真田幸村
+En Name: Immortal Yukimura
+Jp Desc: 特性「攻撃力上昇」追加
+En Desc: Crimson wings carry this wargod through the front lines, tearing them apart without mercy! Deals massive damage to black enemies.
+Abilities: Black:Multi-Hit,Massive Damage
+Combos: 
+Stats: 	health - 4250.000
+	knockback - 5
+	attackRateF - 137
+	attackRateS - 4.57
+	attackPower - 6187.500
+	movementSpeed - 75
+	attackAnimF - 1
+	attackAnimS - 0.03
+	range - 170
+	respawnTimeF - 1546
+	respawnTimeS - 51.53
+	attackType - 範囲(Area Attack)
+	cost - 3,075
+
+

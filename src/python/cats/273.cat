@@ -1,0 +1,59 @@
+273
+
+Normal:
+Version: Ver5.2
+Jap Name: 繁栄神ガネーシャ
+En Name: Splendid Ganesha
+Jp Desc: 学問をつかさどり繁栄をもたらす富の神知の神器「巨眼心拳」が降りかかる厄災を振り払う体力低下で攻撃力上昇（遠方範囲攻撃）
+En Desc: Lord of scholarship and splendor, guardian of the sacred treasures that ward against misfortune. Gains power when damaged (Long Range Area Atk)
+Abilities: None:Strengthen,Long Distance (Area)
+Combos: 	商売繁盛祈願|Blessed Business - ['273', '261']
+Stats: 	health - 6450.000
+	knockback - 5
+	attackRateF - 279
+	attackRateS - 9.30
+	attackPower - 3700.000
+	movementSpeed - 9
+	attackAnimF - 80
+	attackAnimS - 2.67
+	range - 400
+	respawnTimeF - 3446
+	respawnTimeS - 114.87
+	attackType - 範囲(Area Attack)
+	cost - 4,350
+
+
+Evolved:
+Version: Ver5.2
+Jap Name: ガネーシャエクサ
+En Name: Exalted Ganesha
+Jp Desc: 学問をつかさどり繁栄をもたらす富の神英知の神器「巨眼神拳」があらゆる厄災を粉砕する体力低下で攻撃力上昇（遠方範囲攻撃）
+En Desc: All who follow him will grow prosperous and wise, as he smites his enemies with infinite might. Gains power when damaged (Long Range Area Atk)
+Abilities: None:Strengthen,Long Distance (Area)
+Combos: 
+Stats: 	health - 8700.000
+	knockback - 5
+	attackRateF - 279
+	attackRateS - 9.30
+	attackPower - 4950.000
+	movementSpeed - 9
+	attackAnimF - 80
+	attackAnimS - 2.67
+	range - 400
+	respawnTimeF - 3446
+	respawnTimeS - 114.87
+	attackType - 範囲(Area Attack)
+	cost - 4,350
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

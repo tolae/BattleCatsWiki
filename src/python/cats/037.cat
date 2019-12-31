@@ -1,0 +1,71 @@
+037
+
+Normal:
+Version: Ver2.0
+Jap Name: ネコスイマー
+En Name: Swimmer Cat
+Jp Desc: 勝負ごとの悲しみを知り独りで泣くことで強さを覚えたキャラクター浮いてる敵に超ダメージを与える
+En Desc: Built from the pain of losing every race.Obtained its strength from tears of defeat.Deals massive damage to Floating enemies.
+Abilities: Float:Massive Damage
+Combos: 
+Stats: 	health - 1875.000
+	knockback - 4
+	attackRateF - 121
+	attackRateS - 4.03
+	attackPower - 1100.000
+	movementSpeed - 25
+	attackAnimF - 21
+	attackAnimS - 0.70
+	range - 185
+	respawnTimeF - 306
+	respawnTimeS - 10.20
+	attackType - 単体(Single Attack)
+	cost - 675
+
+
+Evolved:
+Version: Ver2.0
+Jap Name: ネコバタフライ
+En Name: Butterfly Cat
+Jp Desc: 底なしの苦しみを迎え入れることで祝福を勝ち取った努力のキャラクター浮いてる敵に超ダメージを与える
+En Desc: Managed to overcome the endless defeat with great effort.Now blessed with victory!Deals massive damage to Floating enemies.
+Abilities: Float:Massive Damage
+Combos: 	スポーツ女子|Sportswoman - ['101', '037']
+Stats: 	health - 2625.000
+	knockback - 4
+	attackRateF - 121
+	attackRateS - 4.03
+	attackPower - 1850.000
+	movementSpeed - 25
+	attackAnimF - 21
+	attackAnimS - 0.70
+	range - 185
+	respawnTimeF - 306
+	respawnTimeS - 10.20
+	attackType - 単体(Single Attack)
+	cost - 675
+
+
+True:
+Version: Ver6.10
+Jap Name: ネコ半魚人
+En Name: Fishman Cat
+Jp Desc: 特性「動きを遅くする」追加
+En Desc: This one can barely even be called a Cat.Submitted to gene therapy to become the world champion.Extreme damage to Floating.
+Abilities: Float:Massive Damage
+Combos: 
+Stats: 	health - 3000.000
+	knockback - 4
+	attackRateF - 121
+	attackRateS - 4.03
+	attackPower - 2225.000
+	movementSpeed - 36
+	attackAnimF - 21
+	attackAnimS - 0.70
+	range - 215
+	respawnTimeF - 306
+	respawnTimeS - 10.20
+	attackType - 単体(Single Attack)
+	cost - 675
+
+

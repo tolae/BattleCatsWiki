@@ -1,0 +1,59 @@
+476
+
+Normal:
+Version: Ver8.5
+Jap Name: ネコ若神子
+En Name: Wakagamiko Cat
+Jp Desc: ビックリマンコラボ
+En Desc: N/A
+Abilities: Black:Strong
+Combos: 
+Stats: 	health - 5082.353
+	knockback - 3
+	attackRateF - 82
+	attackRateS - 2.73
+	attackPower - 1469.118
+	movementSpeed - 8
+	attackAnimF - 17
+	attackAnimS - 0.57
+	range - 250
+	respawnTimeF - 736
+	respawnTimeS - 24.53
+	attackType - 範囲(Area Attack)
+	cost - 1,230
+
+
+Evolved:
+Version: Ver8.5
+Jap Name: ネコ神帝
+En Name: Holy Emperor Cat
+Jp Desc: ビックリマンコラボ
+En Desc: N/A
+Abilities: Black:Strong
+Combos: 
+Stats: 	health - 5082.353
+	knockback - 3
+	attackRateF - 82
+	attackRateS - 2.73
+	attackPower - 1469.118
+	movementSpeed - 8
+	attackAnimF - 17
+	attackAnimS - 0.57
+	range - 250
+	respawnTimeF - 736
+	respawnTimeS - 24.53
+	attackType - 範囲(Area Attack)
+	cost - 1,230
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

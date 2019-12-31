@@ -1,0 +1,59 @@
+206
+
+Normal:
+Version: Ver4.2
+Jap Name: シェリア【キリン】
+En Name: Sheria - Kirin
+Jp Desc: モンハン大狩猟クエストコラボ
+En Desc: N/A
+Abilities: Float:Strong
+Combos: 
+Stats: 	health - 2375.000
+	knockback - 2
+	attackRateF - 143
+	attackRateS - 4.77
+	attackPower - 1875.000
+	movementSpeed - 6
+	attackAnimF - 105
+	attackAnimS - 3.50
+	range - 330
+	respawnTimeF - 1186
+	respawnTimeS - 39.53
+	attackType - 単体(Single Attack)
+	cost - 1,350
+
+
+Evolved:
+Version: Ver4.2
+Jap Name: シェリア【キリンX】
+En Name: Sheria - KirinX
+Jp Desc: モンハン大狩猟クエストコラボ
+En Desc: N/A
+Abilities: Float:Strong
+Combos: 
+Stats: 	health - 2875.000
+	knockback - 2
+	attackRateF - 143
+	attackRateS - 4.77
+	attackPower - 2375.000
+	movementSpeed - 6
+	attackAnimF - 108
+	attackAnimS - 3.60
+	range - 330
+	respawnTimeF - 1186
+	respawnTimeS - 39.53
+	attackType - 単体(Single Attack)
+	cost - 1,350
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

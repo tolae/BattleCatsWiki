@@ -1,0 +1,71 @@
+204
+
+Normal:
+Version: Ver4.1
+Jap Name: カチカチヤマンズ
+En Name: Kachi-Kachi
+Jp Desc: 謎の古代種を捕獲すべく追跡を続けるSCAT部隊にゃんこ泥船計画実行のためには手段を選ばないたまに天使とエイリアンの攻撃力を下げる（範囲攻撃）
+En Desc: Cat army R & D cloned an ancient superweapon: a cute Tanuki that can survive being set on fire... Might weaken Alien/Angel attacks (Area Attack)
+Abilities: Angel,Alien:Weaken
+Combos: 
+Stats: 	health - 1500.000
+	knockback - 4
+	attackRateF - 19
+	attackRateS - 0.63
+	attackPower - 175.000
+	movementSpeed - 16
+	attackAnimF - 3
+	attackAnimS - 0.10
+	range - 290
+	respawnTimeF - 226
+	respawnTimeS - 7.53
+	attackType - 範囲(Area Attack)
+	cost - 720
+
+
+Evolved:
+Version: Ver4.1
+Jap Name: 炎護射撃車ウーウー
+En Name: Fire Squad Kachiyama
+Jp Desc: 泥船計画の完結。驚異的なシンクロ率で古代種と共鳴した古代兵器は幾千の時を経てついに再始動する天使とエイリアンの攻撃力を必ず下げる（範囲攻撃）
+En Desc: Communing with ancient spirits, Kachi now gathers all the heat he has absorbed for explosive assaults! Weakens Alien/Angel attacks (Area Attack)
+Abilities: Angel,Alien:Weaken
+Combos: 	火の用心|Firewatch - ['008', '099', '204']
+Stats: 	health - 8000.000
+	knockback - 2
+	attackRateF - 170
+	attackRateS - 5.67
+	attackPower - 2997.353
+	movementSpeed - 38
+	attackAnimF - 61
+	attackAnimS - 2.03
+	range - 460
+	respawnTimeF - 2146
+	respawnTimeS - 71.53
+	attackType - 範囲(Area Attack)
+	cost - 5,100
+
+
+True:
+Version: Ver6.1
+Jap Name: 豪炎狙撃車ウーウー
+En Name: Kachiyama Assault Brigade
+Jp Desc: 古代種の進化に共鳴し完全覚醒に成功した古代兵器は機密任務完遂のため全ての証拠を焼却処分する（範囲攻撃）天使とエイリアンにめっぽう強く、攻撃力を必ず下げる
+En Desc: Ancient magic empowered by modern technology. Burn it all down and leave no evidence behind! Weakens Alien/Angel attacks (Area Attack)
+Abilities: Angel,Alien:Strong,Weaken
+Combos: 
+Stats: 	health - 8000.000
+	knockback - 2
+	attackRateF - 170
+	attackRateS - 5.67
+	attackPower - 2997.353
+	movementSpeed - 48
+	attackAnimF - 61
+	attackAnimS - 2.03
+	range - 460
+	respawnTimeF - 2146
+	respawnTimeS - 71.53
+	attackType - 範囲(Area Attack)
+	cost - 5,100
+
+

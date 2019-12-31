@@ -1,0 +1,72 @@
+045
+
+Normal:
+Version: Ver2.0
+Jap Name: 鬼にゃんま
+En Name: Lesser Demon Cat
+Jp Desc: 強さを求めるあまり鬼に魅了された狂気のキャラクター単体攻撃だが繰り出される一撃は強烈
+En Desc: A mad cat that sacrificed itself to a a demon from the netherworld. Attacks with extreme force.
+Abilities: None:Immune to Weaken
+Combos: 	戦闘狂の集い|Lust for Battle - ['003', '131', '045']
+	鬼と呼ばれて|Speak of the Devil - ['045', '081']
+Stats: 	health - 5500.000
+	knockback - 3
+	attackRateF - 68
+	attackRateS - 2.27
+	attackPower - 4125.000
+	movementSpeed - 12
+	attackAnimF - 28
+	attackAnimS - 0.93
+	range - 180
+	respawnTimeF - 856
+	respawnTimeS - 28.53
+	attackType - 単体(Single Attack)
+	cost - 3,000
+
+
+Evolved:
+Version: Ver2.0
+Jap Name: 鬼神にゃんま
+En Name: Greater Demon Cat
+Jp Desc: 鬼に魅了されたあとも強さを欲し続ける狂気のキャラクター単体攻撃だが繰り出される一撃は強烈
+En Desc: The mad cat managed to control the a demon from the netherworld. Attacks with extreme force.
+Abilities: None:Immune to Weaken
+Combos: 
+Stats: 	health - 7250.000
+	knockback - 3
+	attackRateF - 68
+	attackRateS - 2.27
+	attackPower - 5625.000
+	movementSpeed - 12
+	attackAnimF - 28
+	attackAnimS - 0.93
+	range - 180
+	respawnTimeF - 856
+	respawnTimeS - 28.53
+	attackType - 単体(Single Attack)
+	cost - 3,000
+
+
+True:
+Version: Ver5.0
+Jap Name: 獄炎鬼にゃんま
+En Name: Balrog Cat
+Jp Desc: 特性「攻撃力上昇」追加
+En Desc: His wanderings through the abyss have driven him mad with infernal ambitions. Tremendous damage to a single enemy.
+Abilities: None:Immune to Weaken
+Combos: 
+Stats: 	health - 9750.000
+	knockback - 3
+	attackRateF - 68
+	attackRateS - 2.27
+	attackPower - 9375.000
+	movementSpeed - 12
+	attackAnimF - 28
+	attackAnimS - 0.93
+	range - 180
+	respawnTimeF - 856
+	respawnTimeS - 28.53
+	attackType - 単体(Single Attack)
+	cost - 3,000
+
+

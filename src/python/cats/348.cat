@@ -1,0 +1,71 @@
+348
+
+Normal:
+Version: Ver6.2
+Jap Name: ぐでたまにゃんこ
+En Name: Gudetama Cat
+Jp Desc: 倒された時、独自グラフィック（アニメーション）
+En Desc: N/A
+Abilities: Red:Strong
+Combos: 
+Stats: 	health - 750.000
+	knockback - 3
+	attackRateF - 68
+	attackRateS - 2.27
+	attackPower - 250.000
+	movementSpeed - 5
+	attackAnimF - 26
+	attackAnimS - 0.87
+	range - 150
+	respawnTimeF - 60
+	respawnTimeS - 2.00
+	attackType - 単体(Single Attack)
+	cost - 375
+
+
+Evolved:
+Version: Ver6.2
+Jap Name: ぐでオムにゃんこ
+En Name: Gude Omelet Cat
+Jp Desc: 倒された時、独自グラフィック（アニメーション）
+En Desc: N/A
+Abilities: Red:Strong
+Combos: 
+Stats: 	health - 750.000
+	knockback - 3
+	attackRateF - 68
+	attackRateS - 2.27
+	attackPower - 250.000
+	movementSpeed - 5
+	attackAnimF - 26
+	attackAnimS - 0.87
+	range - 150
+	respawnTimeF - 60
+	respawnTimeS - 2.00
+	attackType - 単体(Single Attack)
+	cost - 375
+
+
+True:
+Version: Ver7.1
+Jap Name: ぐでベネにゃんこ
+En Name: Gudebene Cat
+Jp Desc: 倒された時、独自グラフィック（アニメーション）
+En Desc: N/A
+Abilities: Red:Strong,Immune to Waves
+Combos: 
+Stats: 	health - 1125.000
+	knockback - 3
+	attackRateF - 68
+	attackRateS - 2.27
+	attackPower - 250.000
+	movementSpeed - 5
+	attackAnimF - 26
+	attackAnimS - 0.87
+	range - 150
+	respawnTimeF - 60
+	respawnTimeS - 2.00
+	attackType - 単体(Single Attack)
+	cost - 375
+
+

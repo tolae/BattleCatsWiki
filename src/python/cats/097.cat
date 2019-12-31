@@ -1,0 +1,71 @@
+097
+
+Normal:
+Version: 
+Jap Name: 狂乱のネコノトリ
+En Name: Crazed Bird Cat
+Jp Desc: 体力は少ないが敵をまとめて一掃する超破壊力を持ったキャラ（範囲攻撃）狂乱となることでリーチが伸びている
+En Desc: Has the health of a pea. Exceptional attack power. (Area attack) Crazed version increases attack range.
+Abilities: None:
+Combos: 	空中偵察部隊|Aerial Recon - ['006', '097', '019', '261']
+Stats: 	health - 2700.000
+	knockback - 4
+	attackRateF - 49
+	attackRateS - 1.63
+	attackPower - 1200.000
+	movementSpeed - 10
+	attackAnimF - 10
+	attackAnimS - 0.33
+	range - 205
+	respawnTimeF - 116
+	respawnTimeS - 3.87
+	attackType - 範囲(Area Attack)
+	cost - 975
+
+
+Evolved:
+Version: 
+Jap Name: 狂乱のネコUFO
+En Name: Crazed UFO Cat
+Jp Desc: 重力を超越した改造にゃんこ敵をまとめてお仕置き可能（範囲攻撃）狂乱となることでリーチが伸びている
+En Desc: Managed to overcome gravity. Good against multiple enemies. (Area attack) Crazed version increases attack range.
+Abilities: None:
+Combos: 	未確認飛行物体|Saucers - ['006', '097']
+Stats: 	health - 2700.000
+	knockback - 4
+	attackRateF - 57
+	attackRateS - 1.90
+	attackPower - 1484.828
+	movementSpeed - 10
+	attackAnimF - 18
+	attackAnimS - 0.60
+	range - 205
+	respawnTimeF - 116
+	respawnTimeS - 3.87
+	attackType - 範囲(Area Attack)
+	cost - 975
+
+
+True:
+Version: Ver5.0
+Jap Name: 大狂乱の天空のネコ
+En Name: Manic Flying Cat
+Jp Desc: 放たれる光弾は巨大都市を一瞬で焼き払ったと伝えられる空中都市型にゃんこ（範囲攻撃）大狂乱となることで攻撃力と射程がアップ
+En Desc: This manic flying object shows no mercy, firing light beams to destroy whole cities from range. More power! More range! Muahaha!
+Abilities: None:
+Combos: 
+Stats: 	health - 2700.000
+	knockback - 4
+	attackRateF - 59
+	attackRateS - 1.97
+	attackPower - 1809.828
+	movementSpeed - 10
+	attackAnimF - 20
+	attackAnimS - 0.67
+	range - 220
+	respawnTimeF - 116
+	respawnTimeS - 3.87
+	attackType - 範囲(Area Attack)
+	cost - 975
+
+

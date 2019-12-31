@@ -1,0 +1,73 @@
+202
+
+Normal:
+Version: Ver4.0
+Jap Name: ドラムメニャー
+En Name: Drumcorps Cat
+Jp Desc: にゃんこ軍団を軽快なリズムに乗せ先導するにゃんこマーチングバンドのメンバーは募集中たまにメタルな敵の攻撃力をダウンさせる
+En Desc: Keeps the Cat Army marching to a lively beat. So strict about keeping time, he only performs solo. Might reduce Metal damage by half.
+Abilities: Metal:Weaken
+Combos: 
+Stats: 	health - 1425.000
+	knockback - 2
+	attackRateF - 51
+	attackRateS - 1.70
+	attackPower - 182.353
+	movementSpeed - 10
+	attackAnimF - 10
+	attackAnimS - 0.33
+	range - 220
+	respawnTimeF - 366
+	respawnTimeS - 12.20
+	attackType - 単体(Single Attack)
+	cost - 585
+
+
+Evolved:
+Version: Ver4.0
+Jap Name: プラカードにゃん
+En Name: Banner Cat
+Jp Desc: エリートにゃんこ育成校「にゃんこ学園」を先導する侵略科2年の姿勢抜群にゃんこ。親子2世代で大役を務める。たまにメタルな敵の攻撃力をダウンさせる
+En Desc: Heads an elite Cat Academy. Has inspired 40 years of students to conquer unknown lands for catkind. Might reduce Metal damage by half.
+Abilities: Metal:Weaken
+Combos: 	にゃんこ学園|Cat High - ['202', '032', '101']
+	全国大会出場|Nationals - ['202', '308']
+	真夏の甲子園|Take Me Out - ['202', '288', '039']
+Stats: 	health - 1675.000
+	knockback - 2
+	attackRateF - 51
+	attackRateS - 1.70
+	attackPower - 207.353
+	movementSpeed - 10
+	attackAnimF - 10
+	attackAnimS - 0.33
+	range - 220
+	respawnTimeF - 366
+	respawnTimeS - 12.20
+	attackType - 単体(Single Attack)
+	cost - 585
+
+
+True:
+Version: Ver8.2
+Jap Name: ネコぺったん
+En Name: Mochi Cat
+Jp Desc: 就職活動をせずに実家を継いだ餅つきにゃんこ同じテンポで餅をこねる相棒を探しているたまにメタルな敵の攻撃力をダウンさせる
+En Desc: Inherited a rice dumpling business. Looking for a wife who can keep perfect time with his mallet strikes. Might Weaken Metal enemies.
+Abilities: Metal:Multi-Hit,Weaken
+Combos: 
+Stats: 	health - 2175.000
+	knockback - 2
+	attackRateF - 51
+	attackRateS - 1.70
+	attackPower - 210.294
+	movementSpeed - 10
+	attackAnimF - 10
+	attackAnimS - 0.33
+	range - 220
+	respawnTimeF - 366
+	respawnTimeS - 12.20
+	attackType - 単体(Single Attack)
+	cost - 585
+
+

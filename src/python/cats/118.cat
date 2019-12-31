@@ -1,0 +1,59 @@
+118
+
+Normal:
+Version: 
+Jap Name: アウラ
+En Name: Aura
+Jp Desc: メルクストーリアコラボ
+En Desc: N/A
+Abilities: Black:Knockback
+Combos: 
+Stats: 	health - 2400.000
+	knockback - 2
+	attackRateF - 111
+	attackRateS - 3.70
+	attackPower - 1050.000
+	movementSpeed - 7
+	attackAnimF - 46
+	attackAnimS - 1.53
+	range - 280
+	respawnTimeF - 1186
+	respawnTimeS - 39.53
+	attackType - 範囲(Area Attack)
+	cost - 1,680
+
+
+Evolved:
+Version: 
+Jap Name: アウラCC
+En Name: AuraCC
+Jp Desc: メルクストーリアコラボ
+En Desc: N/A
+Abilities: Black:Knockback
+Combos: 
+Stats: 	health - 2900.000
+	knockback - 2
+	attackRateF - 111
+	attackRateS - 3.70
+	attackPower - 1675.000
+	movementSpeed - 7
+	attackAnimF - 46
+	attackAnimS - 1.53
+	range - 280
+	respawnTimeF - 1186
+	respawnTimeS - 39.53
+	attackType - 範囲(Area Attack)
+	cost - 1,680
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

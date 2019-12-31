@@ -1,0 +1,71 @@
+159
+
+Normal:
+Version: 
+Jap Name: 上杉謙信
+En Name: Uesugi Kenshin
+Jp Desc: 伝説のマシン「ネコ車」の呪いによって龍に変化しつつある戦国武将（範囲攻撃）黒い敵にめっぽう強く、必ずふっとばす
+En Desc: Transformed into a dragon through the cursed magic of the Nyanko Engine. (Area attack) Strong + 100% knockback against Black.
+Abilities: Black:Strong,Knockback
+Combos: 	バイクツーリング|Hecks Angels  - ['018', '159']
+Stats: 	health - 6950.000
+	knockback - 3
+	attackRateF - 145
+	attackRateS - 4.83
+	attackPower - 2387.500
+	movementSpeed - 13
+	attackAnimF - 36
+	attackAnimS - 1.20
+	range - 405
+	respawnTimeF - 4346
+	respawnTimeS - 144.87
+	attackType - 範囲(Area Attack)
+	cost - 5,475
+
+
+Evolved:
+Version: 
+Jap Name: 武神・上杉謙信
+En Name: Wargod Kenshin
+Jp Desc: 伝説のマシン「ネコ車」との融合を選択し邪悪なチカラを開放させた戦国武将（範囲攻撃）黒い敵にめっぽう強く、必ずふっとばす
+En Desc: Deciding to fully fuse with the Nyanko Engine, the great general gave in to darkness (Area att.) Strong + 100% knockback against Black.
+Abilities: Black:Strong,Knockback
+Combos: 
+Stats: 	health - 8350.000
+	knockback - 3
+	attackRateF - 145
+	attackRateS - 4.83
+	attackPower - 4055.147
+	movementSpeed - 13
+	attackAnimF - 36
+	attackAnimS - 1.20
+	range - 405
+	respawnTimeF - 4346
+	respawnTimeS - 144.87
+	attackType - 範囲(Area Attack)
+	cost - 5,475
+
+
+True:
+Version: Ver6.9
+Jap Name: 暴威の武神・上杉謙信
+En Name: Immortal Kenshin
+Jp Desc: 邪悪な力を完全に乗りこなした武神溢れる殺意に身を任せ全てを焼き尽くす（範囲攻撃）黒い敵にめっぽう強く、必ずふっとばす
+En Desc: Totally consumed by corruption. The only emotion remaining is the will to destruction [sic]. (Area Attacks) Strong vs + 100% knockback against Black.
+Abilities: Black:Strong,Knockback
+Combos: 
+Stats: 	health - 11150.000
+	knockback - 3
+	attackRateF - 129
+	attackRateS - 4.30
+	attackPower - 4055.147
+	movementSpeed - 18
+	attackAnimF - 36
+	attackAnimS - 1.20
+	range - 405
+	respawnTimeF - 4346
+	respawnTimeS - 144.87
+	attackType - 範囲(Area Attack)
+	cost - 5,475
+
+

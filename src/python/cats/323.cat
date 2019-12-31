@@ -1,0 +1,71 @@
+323
+
+Normal:
+Version: Ver5.9
+Jap Name: さるかに合戦
+En Name: Sarukani
+Jp Desc: 演劇界に現れた天才子役にゃんこ。映画「森」では最優秀助演賞を獲得し「恐ろしい子」と評される天使とゾンビにめっぽう強い（範囲攻撃）
+En Desc: Won best supporting actor as a li'l monkey for "Selfish Persimmons". Everyone hates working with him. Strong area atk vs Angels/Zombies.
+Abilities: Angel,Zombie:Strong,Zombie Killer
+Combos: 
+Stats: 	health - 1700.000
+	knockback - 4
+	attackRateF - 83
+	attackRateS - 2.77
+	attackPower - 900.000
+	movementSpeed - 12
+	attackAnimF - 18
+	attackAnimS - 0.60
+	range - 300
+	respawnTimeF - 226
+	respawnTimeS - 7.53
+	attackType - 範囲(Area Attack)
+	cost - 780
+
+
+Evolved:
+Version: Ver5.9
+Jap Name: 爆音楽奏サルカニヘヴン
+En Name: Rock Revengers
+Jp Desc: 地獄より蘇りし伝説のロックバンド新アルバム「因果応報」をひっさげ報復ツアー中天使とゾンビにめっぽう強い（範囲攻撃）
+En Desc: The kids Sarukani did wrong formed the metal act: Causin' Effect. Revenge is a dish best served heavy. Strong area atk vs Angels/Zombies.
+Abilities: Angel,Zombie:Strong,Zombie Killer,Immune to Slow
+Combos: 	終末世界|Post-Apocalypse - ['323', '018', '015']
+Stats: 	health - 11875.000
+	knockback - 4
+	attackRateF - 271
+	attackRateS - 9.03
+	attackPower - 6375.000
+	movementSpeed - 9
+	attackAnimF - 82
+	attackAnimS - 2.73
+	range - 460
+	respawnTimeF - 4546
+	respawnTimeS - 151.53
+	attackType - 範囲(Area Attack)
+	cost - 5,700
+
+
+True:
+Version: Ver8.2
+Jap Name: 超音楽奏サルカニフェス
+En Name: The One-Hit Wonders
+Jp Desc: 方向性の違いで解散したビッグバンドが再結成！個性がぶつかり合う新曲「KONTON」絶賛発売中天使とゾンビにめっぽう強い（範囲攻撃）
+En Desc: Saru convinced the rockers to reform the band to try and capitalize on every pop trend at once. Strong area atk vs Angels/Zombies.
+Abilities: Angel,Zombie:Strong,Zombie Killer,Immune to Slow,Immune to Weaken
+Combos: 
+Stats: 	health - 14375.000
+	knockback - 4
+	attackRateF - 229
+	attackRateS - 7.63
+	attackPower - 6375.000
+	movementSpeed - 9
+	attackAnimF - 82
+	attackAnimS - 2.73
+	range - 460
+	respawnTimeF - 4546
+	respawnTimeS - 151.53
+	attackType - 範囲(Area Attack)
+	cost - 5,700
+
+

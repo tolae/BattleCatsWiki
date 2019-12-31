@@ -1,0 +1,71 @@
+138
+
+Normal:
+Version: 
+Jap Name: かさじぞう
+En Name: Kasa Jizo
+Jp Desc: 雪降る中、依頼内容を書いたカサをかぶせるとその依頼を叶えてくれる謎の組織「かさじぞう」天使と黒い敵に超ダメージを与える（範囲攻撃）
+En Desc: It's said there's a shadowy organization who grants wishes made to these statues. (Area Atk) Deals massive damages to Black/Angel types.
+Abilities: Black,Angel:Massive Damage
+Combos: 	オシャレ笠|Classic Headwear - ['283', '138']
+Stats: 	health - 2250.000
+	knockback - 3
+	attackRateF - 98
+	attackRateS - 3.27
+	attackPower - 1000.000
+	movementSpeed - 14
+	attackAnimF - 19
+	attackAnimS - 0.63
+	range - 320
+	respawnTimeF - 126
+	respawnTimeS - 4.20
+	attackType - 範囲(Area Attack)
+	cost - 750
+
+
+Evolved:
+Version: 
+Jap Name: 地蔵要塞カムイ
+En Name: Jizo's Moving Castle
+Jp Desc: ついに「かさじぞう」の本体中枢が動き始める絶対的な存在感は連邦政府をも震え上がらせる天使と黒い敵に超ダメージを与える（範囲攻撃）
+En Desc: The hidden fortress of the Jizo organization. ...wait isn't this classified? (Area Attack) Deals massive damages to Black/Angel types.
+Abilities: Black,Angel:Massive Damage
+Combos: 
+Stats: 	health - 14500.000
+	knockback - 2
+	attackRateF - 501
+	attackRateS - 16.70
+	attackPower - 12000.000
+	movementSpeed - 4
+	attackAnimF - 102
+	attackAnimS - 3.40
+	range - 450
+	respawnTimeF - 4546
+	respawnTimeS - 151.53
+	attackType - 範囲(Area Attack)
+	cost - 5,925
+
+
+True:
+Version: Ver7.4
+Jap Name: 地蔵要塞ゼロカムイ
+En Name: Jizo's Mega-Castle
+Jp Desc: 吹雪を抜け、輝く黄金ボディをあらわにした「かさじぞう」は連邦政府殲滅に向け動き出す天使と黒い敵に超ダメージを与える（範囲攻撃）
+En Desc: Escaping the government’s tactical missile strikes, the Jizo Organization is on the offensive. (Area Atk) Deals massive damage to Black/Angel types.
+Abilities: Black,Angel:Multi-Hit,Massive Damage
+Combos: 
+Stats: 	health - 17000.000
+	knockback - 2
+	attackRateF - 401
+	attackRateS - 13.37
+	attackPower - 12000.000
+	movementSpeed - 4
+	attackAnimF - 46
+	attackAnimS - 1.53
+	range - 485
+	respawnTimeF - 4546
+	respawnTimeS - 151.53
+	attackType - 範囲(Area Attack)
+	cost - 5,925
+
+

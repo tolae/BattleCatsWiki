@@ -1,0 +1,59 @@
+408
+
+Normal:
+Version: Ver6.10
+Jap Name: ネコアスカ
+En Name: Asuka Cat
+Jp Desc: エヴァンゲリオンコラボ
+En Desc: Cat who pilots Eva Unit-02. Flies into a rage easily when she feels slighted. Tough vs / Massive Damage to Red
+Abilities: Red:Massive Damage,Resistant
+Combos: 
+Stats: 	health - 1500.000
+	knockback - 3
+	attackRateF - 98
+	attackRateS - 3.27
+	attackPower - 650.000
+	movementSpeed - 9
+	attackAnimF - 66
+	attackAnimS - 2.20
+	range - 180
+	respawnTimeF - 206
+	respawnTimeS - 6.87
+	attackType - 単体(Single Attack)
+	cost - 600
+
+
+Evolved:
+Version: Ver6.10
+Jap Name: エプロンネコアスカ
+En Name: Apron Asuka
+Jp Desc: エヴァンゲリオンコラボ
+En Desc: She is slowly warming up to her comrades. Has a habit of burning her tongue easily. Tough vs / Massive Damage to Red.
+Abilities: Red:Massive Damage,Resistant
+Combos: 
+Stats: 	health - 1500.000
+	knockback - 3
+	attackRateF - 111
+	attackRateS - 3.70
+	attackPower - 737.500
+	movementSpeed - 9
+	attackAnimF - 66
+	attackAnimS - 2.20
+	range - 180
+	respawnTimeF - 206
+	respawnTimeS - 6.87
+	attackType - 単体(Single Attack)
+	cost - 600
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

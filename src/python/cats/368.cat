@@ -1,0 +1,59 @@
+368
+
+Normal:
+Version: Ver6.6
+Jap Name: ライダー
+En Name: Rider
+Jp Desc: 劇場版 Fate stay nightコラボ
+En Desc: ?
+Abilities: Angel:Freeze
+Combos: 
+Stats: 	health - 4125.000
+	knockback - 3
+	attackRateF - 167
+	attackRateS - 5.57
+	attackPower - 2625.000
+	movementSpeed - 12
+	attackAnimF - 40
+	attackAnimS - 1.33
+	range - 400
+	respawnTimeF - 2146
+	respawnTimeS - 71.53
+	attackType - 範囲(Area Attack)
+	cost - 3,600
+
+
+Evolved:
+Version: Ver6.6
+Jap Name: ライダーCC
+En Name: Rider CC
+Jp Desc: 劇場版 Fate stay nightコラボ
+En Desc: ?
+Abilities: Angel:Freeze
+Combos: 
+Stats: 	health - 6000.000
+	knockback - 3
+	attackRateF - 167
+	attackRateS - 5.57
+	attackPower - 3750.000
+	movementSpeed - 12
+	attackAnimF - 40
+	attackAnimS - 1.33
+	range - 400
+	respawnTimeF - 2146
+	respawnTimeS - 71.53
+	attackType - 範囲(Area Attack)
+	cost - 3,600
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

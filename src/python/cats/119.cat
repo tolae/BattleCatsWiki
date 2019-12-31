@@ -1,0 +1,59 @@
+119
+
+Normal:
+Version: 
+Jap Name: レイ
+En Name: Rei
+Jp Desc: メルクストーリアコラボ
+En Desc: N/A
+Abilities: Black:Slow
+Combos: 
+Stats: 	health - 3500.000
+	knockback - 3
+	attackRateF - 63
+	attackRateS - 2.10
+	attackPower - 1025.000
+	movementSpeed - 14
+	attackAnimF - 24
+	attackAnimS - 0.80
+	range - 194
+	respawnTimeF - 1466
+	respawnTimeS - 48.87
+	attackType - 範囲(Area Attack)
+	cost - 1,545
+
+
+Evolved:
+Version: 
+Jap Name: レイCC
+En Name: ReiCC
+Jp Desc: メルクストーリアコラボ
+En Desc: N/A
+Abilities: Black:Slow
+Combos: 
+Stats: 	health - 5250.000
+	knockback - 3
+	attackRateF - 63
+	attackRateS - 2.10
+	attackPower - 1575.000
+	movementSpeed - 14
+	attackAnimF - 24
+	attackAnimS - 0.80
+	range - 194
+	respawnTimeF - 1466
+	respawnTimeS - 48.87
+	attackType - 範囲(Area Attack)
+	cost - 1,545
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

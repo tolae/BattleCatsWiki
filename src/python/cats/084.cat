@@ -1,0 +1,71 @@
+084
+
+Normal:
+Version: 
+Jap Name: 地龍ソドム
+En Name: Sodom
+Jp Desc: 古代兵器により封印されし伝説の竜族圧倒的な破壊力で敵を攻撃する（範囲攻撃）浮いてる敵に打たれ強く、たまにふっとばす
+En Desc: An awakened Ancient Cat Dragon. Leaves destruction in it's wake (Area Attack) Might knockback/resistant to Floating.
+Abilities: Float:Resistant,Knockback,Immune to Knockback
+Combos: 	天地の怒り|As Above, So Below - ['006', '084']
+Stats: 	health - 14875.000
+	knockback - 2
+	attackRateF - 414
+	attackRateS - 13.80
+	attackPower - 10862.500
+	movementSpeed - 3
+	attackAnimF - 65
+	attackAnimS - 2.17
+	range - 390
+	respawnTimeF - 3946
+	respawnTimeS - 131.53
+	attackType - 範囲(Area Attack)
+	cost - 6,450
+
+
+Evolved:
+Version: 
+Jap Name: 地龍王ソドム
+En Name: Earth King Sodom
+Jp Desc: 封印されていた力が覚醒した伝説の竜族圧倒的な破壊力で敵を攻撃する（範囲攻撃）浮いてる敵に打たれ強く、たまにふっとばす
+En Desc: An awakened Ancient Cat Dragon Weapon. Sodom shifted to final Dragon form (Area Attack) Might knockback/resistant to Floating.
+Abilities: Float:Resistant,Knockback,Immune to Knockback
+Combos: 
+Stats: 	health - 14875.000
+	knockback - 2
+	attackRateF - 414
+	attackRateS - 13.80
+	attackPower - 10862.500
+	movementSpeed - 3
+	attackAnimF - 65
+	attackAnimS - 2.17
+	range - 390
+	respawnTimeF - 3946
+	respawnTimeS - 131.53
+	attackType - 範囲(Area Attack)
+	cost - 6,450
+
+
+True:
+Version: Ver5.7
+Jap Name: 地龍皇帝ソドム
+En Name: God-Emperor Sodom
+Jp Desc: 特性「攻撃力低下」追加
+En Desc: Sodom unlocked his FINAL final Dragon form, Rending the very earth asunder with power! 100% area knockback/resistant vs Floating.
+Abilities: Float:Resistant,Knockback,Immune to Knockback
+Combos: 
+Stats: 	health - 17375.000
+	knockback - 2
+	attackRateF - 364
+	attackRateS - 12.13
+	attackPower - 10862.500
+	movementSpeed - 4
+	attackAnimF - 65
+	attackAnimS - 2.17
+	range - 415
+	respawnTimeF - 3946
+	respawnTimeS - 131.53
+	attackType - 範囲(Area Attack)
+	cost - 6,450
+
+

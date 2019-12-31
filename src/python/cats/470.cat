@@ -1,0 +1,59 @@
+470
+
+Normal:
+Version: Ver8.5
+Jap Name: スーパーデビル
+En Name: Super Devil
+Jp Desc: ビックリマンコラボ
+En Desc: ?
+Abilities: Angel:Slow,Long Distance (Area),Immune to Slow
+Combos: 
+Stats: 	health - 4500.000
+	knockback - 3
+	attackRateF - 241
+	attackRateS - 8.03
+	attackPower - 3000.000
+	movementSpeed - 4
+	attackAnimF - 60
+	attackAnimS - 2.00
+	range - 550
+	respawnTimeF - 3746
+	respawnTimeS - 124.87
+	attackType - 範囲(Area Attack)
+	cost - 4,200
+
+
+Evolved:
+Version: Ver8.5
+Jap Name: 偽神スーパーデビル
+En Name: False God Super Devil
+Jp Desc: ビックリマンコラボ
+En Desc: ?
+Abilities: Angel:Slow,Long Distance (Area),Immune to Slow
+Combos: 
+Stats: 	health - 6000.000
+	knockback - 3
+	attackRateF - 241
+	attackRateS - 8.03
+	attackPower - 4000.000
+	movementSpeed - 4
+	attackAnimF - 60
+	attackAnimS - 2.00
+	range - 550
+	respawnTimeF - 3746
+	respawnTimeS - 124.87
+	attackType - 範囲(Area Attack)
+	cost - 4,200
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

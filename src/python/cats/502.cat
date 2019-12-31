@@ -1,0 +1,63 @@
+502
+
+Normal:
+Version: Ver8.8
+Jap Name: ネコ兄弟S
+En Name: Cat Bros
+Jp Desc: Nintendoコラボ
+En Desc: Joining the fight from The Battle Cats Together!
+We love games and are Super Friends!
+Tough vs Traitless enemies! (Area Attack)
+Abilities: White:Resistant
+Combos: 
+Stats: 	health - 750.000
+	knockback - 3
+	attackRateF - 120
+	attackRateS - 4.00
+	attackPower - 500.000
+	movementSpeed - 10
+	attackAnimF - 37
+	attackAnimS - 1.23
+	range - 140
+	respawnTimeF - 146
+	respawnTimeS - 4.87
+	attackType - 範囲(Area Attack)
+	cost - 450
+
+
+Evolved:
+Version: Ver8.8
+Jap Name: ネコバカ兄弟S
+En Name: Baka Cat Bros
+Jp Desc: Nintendoコラボ
+En Desc: Joining the fight from The Battle Cats Together!
+Even when we grow up, we'll never stop playing!
+Tough vs Traitless enemies! (Area Attack)
+Abilities: White:Resistant
+Combos: 
+Stats: 	health - 750.000
+	knockback - 3
+	attackRateF - 120
+	attackRateS - 4.00
+	attackPower - 500.000
+	movementSpeed - 10
+	attackAnimF - 37
+	attackAnimS - 1.23
+	range - 140
+	respawnTimeF - 146
+	respawnTimeS - 4.87
+	attackType - 範囲(Area Attack)
+	cost - 450
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

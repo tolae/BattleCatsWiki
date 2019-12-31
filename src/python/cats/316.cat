@@ -1,0 +1,59 @@
+316
+
+Normal:
+Version: Ver5.7
+Jap Name: ピコ太郎
+En Name: PIKOTARO
+Jp Desc: ピコ太郎コラボ
+En Desc: All it takes is Pens, a Pineapple and an Apple to make the world smile. The man of legend, newly married to a feisty 78-year old.
+Abilities: Red:Freeze
+Combos: 
+Stats: 	health - 1500.000
+	knockback - 3
+	attackRateF - 224
+	attackRateS - 7.47
+	attackPower - 750.000
+	movementSpeed - 6
+	attackAnimF - 145
+	attackAnimS - 4.83
+	range - 200
+	respawnTimeF - 946
+	respawnTimeS - 31.53
+	attackType - 範囲(Area Attack)
+	cost - 900
+
+
+Evolved:
+Version: Ver5.7
+Jap Name: ネコ太郎
+En Name: NEKOTARO
+Jp Desc: ピコ太郎コラボ
+En Desc: A stylish Cat who always keeps an eye on new internet trends. Striving to be the most popular through perfect imitiation.
+Abilities: Red:Freeze
+Combos: 
+Stats: 	health - 1500.000
+	knockback - 3
+	attackRateF - 224
+	attackRateS - 7.47
+	attackPower - 750.000
+	movementSpeed - 6
+	attackAnimF - 145
+	attackAnimS - 4.83
+	range - 200
+	respawnTimeF - 946
+	respawnTimeS - 31.53
+	attackType - 範囲(Area Attack)
+	cost - 900
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

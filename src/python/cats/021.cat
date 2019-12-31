@@ -1,0 +1,72 @@
+021
+
+Normal:
+Version: Ver1.0
+Jap Name: ネコざむらい
+En Name: Samurai Cat
+Jp Desc: 武士道を突き進む戦闘向きキャラ攻撃力、体力ともに優れるオールラウンドキャラクター
+En Desc: Sincerity is the way of the warrior. Exceptional health and attack. A very well-rounded Cat.
+Abilities: None:
+Combos: 	アイラブジャパン|Cool Japan  - ['019', '022', '021', '062']
+Stats: 	health - 1350.000
+	knockback - 3
+	attackRateF - 57
+	attackRateS - 1.90
+	attackPower - 325.000
+	movementSpeed - 7
+	attackAnimF - 18
+	attackAnimS - 0.60
+	range - 150
+	respawnTimeF - 60
+	respawnTimeS - 2.00
+	attackType - 単体(Single Attack)
+	cost - 525
+
+
+Evolved:
+Version: Ver1.0
+Jap Name: ネコナイト
+En Name: Knight Cat
+Jp Desc: 騎士道をも取り込んだ戦闘向きキャラ攻撃力、体力ともに優れるオールラウンドキャラクター
+En Desc: Added chivalry to his repertoire. Exceptional health and attack. A very well-rounded Cat.
+Abilities: None:
+Combos: 
+Stats: 	health - 1350.000
+	knockback - 3
+	attackRateF - 57
+	attackRateS - 1.90
+	attackPower - 325.000
+	movementSpeed - 7
+	attackAnimF - 18
+	attackAnimS - 0.60
+	range - 160
+	respawnTimeF - 60
+	respawnTimeS - 2.00
+	attackType - 単体(Single Attack)
+	cost - 525
+
+
+True:
+Version: 
+Jap Name: ネコパティシエ
+En Name: Pastry Cat
+Jp Desc: 菓子道も取得した戦闘向きキャラ攻撃でまき散らすホイップクリームはごくたまに敵を遅くする
+En Desc: Who says you can't love both cupcakes and carnage? A kitchen pro who flings powerful gobs of whipped cream to slow enemies.
+Abilities: All (w/o Metal):Slow
+Combos: 	スイーツ|Sweets - ['016', '021', '177']
+	騎士道と菓子道|Chilvary and Candy - ['086', '021']
+Stats: 	health - 1350.000
+	knockback - 3
+	attackRateF - 57
+	attackRateS - 1.90
+	attackPower - 325.000
+	movementSpeed - 7
+	attackAnimF - 18
+	attackAnimS - 0.60
+	range - 160
+	respawnTimeF - 60
+	respawnTimeS - 2.00
+	attackType - 単体(Single Attack)
+	cost - 525
+
+

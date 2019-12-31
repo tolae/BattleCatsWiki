@@ -1,0 +1,59 @@
+497
+
+Normal:
+Version: Ver8.8
+Jap Name: 成田甲斐
+En Name: Narita Kaihime
+Jp Desc: 伝説の武具「にゃんこ薙刀」の呪いと引き換えに何者にも屈しない肉体へと変貌した戦国の姫。ゾンビと黒い敵の動きを必ず遅くし、たまに渾身の一撃を放つ
+En Desc: This stunning warrior has been blessed with an invincible blade and a resolute body.  Slows Black/Zombies, might strike Savage blows.
+Abilities: Black,Zombie:Multi-Hit,Slow,Zombie Killer
+Combos: 	猫耳は正義| - ['497', '269', '017']
+Stats: 	health - 6000.000
+	knockback - 2
+	attackRateF - 159
+	attackRateS - 5.30
+	attackPower - 3000.000
+	movementSpeed - 5
+	attackAnimF - 54
+	attackAnimS - 1.80
+	range - 440
+	respawnTimeF - 4146
+	respawnTimeS - 138.20
+	attackType - 範囲(Area Attack)
+	cost - 5,250
+
+
+Evolved:
+Version: Ver8.8
+Jap Name: 武神・成田甲斐
+En Name: Wargod Kaihime
+Jp Desc: 伝説の武具「にゃんこ薙刀」の呪いと調和し立ちはだかる敵を一掃する戦国の美姫。ゾンビと黒い敵の動きを必ず遅くし、たまに渾身の一撃を放つ
+En Desc: Incomparable beauty who mercilessly destroys foes while maintaining perfect composure in battle.  Slows Black/Zombies, might strike Savage blows.
+Abilities: Black,Zombie:Multi-Hit,Slow,Zombie Killer
+Combos: 
+Stats: 	health - 8000.000
+	knockback - 2
+	attackRateF - 159
+	attackRateS - 5.30
+	attackPower - 3750.000
+	movementSpeed - 5
+	attackAnimF - 54
+	attackAnimS - 1.80
+	range - 440
+	respawnTimeF - 4146
+	respawnTimeS - 138.20
+	attackType - 範囲(Area Attack)
+	cost - 5,250
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

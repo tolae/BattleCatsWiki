@@ -1,0 +1,75 @@
+261
+
+Normal:
+Version: Ver4.7
+Jap Name: ネコウェイ
+En Name: Catway
+Jp Desc: 未来の乗り物に乗ったIT社長キャラお仕置きボタン搭載で不真面目な社員に喝！赤い敵、黒い敵、天使にめっぽう強い（範囲攻撃）
+En Desc: A tech CEO who patrols the office in style, looking for lazy interns to punish! Strong Vs. Red, Black, and Angels (Area Attack)
+Abilities: Red,Black,Angel:Strong
+Combos: 	IT系|IT Crowd - ['261', '036']
+	商売繁盛祈願|Blessed Business - ['273', '261']
+	暴走高圧バッテリー|High Voltage - ['402', '261']
+Stats: 	health - 750.000
+	knockback - 3
+	attackRateF - 93
+	attackRateS - 3.10
+	attackPower - 500.000
+	movementSpeed - 10
+	attackAnimF - 40
+	attackAnimS - 1.33
+	range - 355
+	respawnTimeF - 246
+	respawnTimeS - 8.20
+	attackType - 範囲(Area Attack)
+	cost - 1,200
+
+
+Evolved:
+Version: Ver4.7
+Jap Name: ネコドローン
+En Name: Drone Cat
+Jp Desc: 未来の無人偵察機になろうとしてあっちこっちで墜落しているおさわがせキャラ赤い敵、黒い敵、天使にめっぽう強い（範囲攻撃）
+En Desc: A cutting edge Unmanned Aerial Feline (UAF). Tends to crash regularly... tech still under development! Strong vs. Red, Black, Angels (Area)
+Abilities: Red,Black,Angel:Strong
+Combos: 	お騒がせメカ|Future of War - ['196', '261']
+	人工知能|Cutting Edge - ['287', '261']
+	空中偵察部隊|Aerial Recon - ['006', '097', '019', '261']
+Stats: 	health - 912.500
+	knockback - 3
+	attackRateF - 93
+	attackRateS - 3.10
+	attackPower - 662.500
+	movementSpeed - 10
+	attackAnimF - 40
+	attackAnimS - 1.33
+	range - 355
+	respawnTimeF - 246
+	respawnTimeS - 8.20
+	attackType - 範囲(Area Attack)
+	cost - 1,200
+
+
+True:
+Version: Ver8.3
+Jap Name: ネコタイムマシン
+En Name: Time Traveller Cat
+Jp Desc: 未来からやってきたネコ型キャラたまに女風呂へタイムスリップしてしまう赤い敵、黒い敵、天使にめっぽう強い（範囲攻撃）
+En Desc: A future timeline's envoy to the present Cats. Often time slips into the movie theater for free... Strong vs. Red, Black & Angels. (Area attack)
+Abilities: Red,Black,Angel:Strong
+Combos: 
+Stats: 	health - 1562.500
+	knockback - 3
+	attackRateF - 93
+	attackRateS - 3.10
+	attackPower - 987.500
+	movementSpeed - 10
+	attackAnimF - 40
+	attackAnimS - 1.33
+	range - 355
+	respawnTimeF - 246
+	respawnTimeS - 8.20
+	attackType - 範囲(Area Attack)
+	cost - 1,200
+
+

@@ -1,0 +1,77 @@
+186
+
+Normal:
+Version: Ver3.8
+Jap Name: ハルシュト
+En Name: Harushuto
+Jp Desc: メルクストーリアコラボ
+En Desc: Joined the war from Merck Storia!
+Silver animal with rational and intuitive thoughts.
+Sometimes it emits critical hit, strong against metal enemies.
+Abilities: Metal:Resistant,Critical
+Combos: 
+Stats: 	health - 3750.000
+	knockback - 3
+	attackRateF - 189
+	attackRateS - 6.30
+	attackPower - 1000.000
+	movementSpeed - 8
+	attackAnimF - 14
+	attackAnimS - 0.47
+	range - 295
+	respawnTimeF - 2446
+	respawnTimeS - 81.53
+	attackType - 単体(Single Attack)
+	cost - 2,550
+
+
+Evolved:
+Version: Ver3.8
+Jap Name: ハルシュトCC
+En Name: HarushutoCC
+Jp Desc: メルクストーリアコラボ
+En Desc: Joined the war from Merck Storia!
+Very minded and handsome (woman) nicknamed Hirsch
+Sometimes it emits critical hit, strong against metal enemies.
+Abilities: Metal:Resistant,Critical
+Combos: 
+Stats: 	health - 5000.000
+	knockback - 3
+	attackRateF - 189
+	attackRateS - 6.30
+	attackPower - 1500.000
+	movementSpeed - 8
+	attackAnimF - 14
+	attackAnimS - 0.47
+	range - 295
+	respawnTimeF - 2446
+	respawnTimeS - 81.53
+	attackType - 単体(Single Attack)
+	cost - 2,550
+
+
+True:
+Version: Ver7.5
+Jap Name: 革命のハルシュトCC
+En Name: Harushuto CC of the Revolution
+Jp Desc: メルクストーリアコラボ
+En Desc: Joined the war from Merck Storia!
+A revolutionary swordsman wearing a new kingdom-style outfit.
+Sometimes it emits critical hit, strong against metal enemies.
+Abilities: Metal:Resistant,Critical
+Combos: 
+Stats: 	health - 6250.000
+	knockback - 3
+	attackRateF - 189
+	attackRateS - 6.30
+	attackPower - 1500.000
+	movementSpeed - 12
+	attackAnimF - 14
+	attackAnimS - 0.47
+	range - 345
+	respawnTimeF - 2446
+	respawnTimeS - 81.53
+	attackType - 単体(Single Attack)
+	cost - 2,550
+
+

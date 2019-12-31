@@ -1,0 +1,73 @@
+079
+
+Normal:
+Version: 
+Jap Name: ネコと宇宙
+En Name: Space Cat
+Jp Desc: 遠距離から攻撃が得意な宇宙飛行士体力はあまり無い。たまにバリアを貫きごくたまにクリティカル攻撃を放つ
+En Desc: Coming out of his shuttle to attack. Low health, but can break Barriers! Might perform critical attacks.
+Abilities: None:Critical,Barrier Breaker
+Combos: 	アポロ|Apollo Mission - ['079', '139']
+	暴風一家|Eye of the Storm - ['061', '089', '079', '127', '155']
+	銀河を駆ける|Galactic Travel - ['079', '136']
+Stats: 	health - 450.000
+	knockback - 3
+	attackRateF - 61
+	attackRateS - 2.03
+	attackPower - 177.500
+	movementSpeed - 10
+	attackAnimF - 30
+	attackAnimS - 1.00
+	range - 340
+	respawnTimeF - 346
+	respawnTimeS - 11.53
+	attackType - 単体(Single Attack)
+	cost - 630
+
+
+Evolved:
+Version: 
+Jap Name: ニャア少佐
+En Name: Major Space Cat
+Jp Desc: 最近、中尉から少佐へ特進した宇宙飛行士体力はあまり無い。たまにバリアを貫きごくたまにクリティカル攻撃を放つ
+En Desc: Recently promoted from Lieutenant. Low health, but can break Barriers! Might perform critical attacks.
+Abilities: None:Critical,Barrier Breaker
+Combos: 	ロボトモ|Mecha - ['079', '082']
+Stats: 	health - 600.000
+	knockback - 3
+	attackRateF - 61
+	attackRateS - 2.03
+	attackPower - 202.500
+	movementSpeed - 10
+	attackAnimF - 30
+	attackAnimS - 1.00
+	range - 340
+	respawnTimeF - 346
+	respawnTimeS - 11.53
+	attackType - 単体(Single Attack)
+	cost - 630
+
+
+True:
+Version: Ver7.3
+Jap Name: 駆動戦士ネコ
+En Name: Space Marine Cat
+Jp Desc: 銀河の秩序を守るため宇宙生物と戦うネコ逆境に立たされながら一人前の戦士へと成長したたまにバリアを貫き、ごくたまにクリティカルを放つ
+En Desc: The ultimate in zero-gravity combat tech, Deployed to preserve the glory of the Cat Empire! Breaks Barriers, might perform critical attacks.
+Abilities: None:Critical,Barrier Breaker
+Combos: 
+Stats: 	health - 1500.000
+	knockback - 3
+	attackRateF - 61
+	attackRateS - 2.03
+	attackPower - 202.500
+	movementSpeed - 10
+	attackAnimF - 30
+	attackAnimS - 1.00
+	range - 340
+	respawnTimeF - 346
+	respawnTimeS - 11.53
+	attackType - 単体(Single Attack)
+	cost - 630
+
+

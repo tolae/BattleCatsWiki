@@ -1,0 +1,75 @@
+075
+
+Normal:
+Version: Ver2.1
+Jap Name: トナカイフィッシュ
+En Name: Reindeer Fish Cat
+Jp Desc: 戦闘向きのキャラがかわいく進化夢を乗せてプレゼントを運ぶ！敵を倒したときにお金を多くもらえる
+En Desc: The Cats tried making the Fish Cat cuter. This one carries the gifts you dream of. More money earned when defeating an enemy.
+Abilities: None:Extra Money
+Combos: 	お魚天国|Back to School - ['007', '098', '075']
+	トナカイのプレゼント|Reindeer's Gift - ['075', '245']
+	相棒| - ['503', '075', '105']
+Stats: 	health - 2250.000
+	knockback - 3
+	attackRateF - 51
+	attackRateS - 1.70
+	attackPower - 490.000
+	movementSpeed - 10
+	attackAnimF - 8
+	attackAnimS - 0.27
+	range - 150
+	respawnTimeF - 156
+	respawnTimeS - 5.20
+	attackType - 単体(Single Attack)
+	cost - 1,215
+
+
+Evolved:
+Version: Ver2.1
+Jap Name: ネコ魚のお造り
+En Name: Sashimi Cat
+Jp Desc: 戦闘向きのキャラがおいしく進化身を削って最高のおもてなし！敵を倒したときにお金を多くもらえる
+En Desc: The Cats tried making the Fish Cat tastier. Earned stars in hospitality for its sacrifice. More money earned when defeating an enemy.
+Abilities: None:Extra Money
+Combos: 	とれたてピッチピチ|Fresh Catch - ['336', '007', '312', '075']
+	和定食|Bento Special - ['075', '062']
+	神へのお供え|Offering to the Gods - ['272', '075']
+Stats: 	health - 2625.000
+	knockback - 3
+	attackRateF - 51
+	attackRateS - 1.70
+	attackPower - 817.647
+	movementSpeed - 10
+	attackAnimF - 8
+	attackAnimS - 0.27
+	range - 150
+	respawnTimeF - 156
+	respawnTimeS - 5.20
+	attackType - 単体(Single Attack)
+	cost - 1,215
+
+
+True:
+Version: Ver5.6
+Jap Name: フィッシュ・ド・ノエル
+En Name: Xmas Pudding Cat
+Jp Desc: 戦闘向きのキャラがあま～く進化チョコたっぷり、骨まで美味しく召し上がれ敵を倒したときにお金を多くもらえる（範囲攻撃）
+En Desc: This unit built for fighting has been re-engineered to delight sweet tooths. Area attacks get extra money after defeating.
+Abilities: None:Extra Money
+Combos: 
+Stats: 	health - 3750.000
+	knockback - 3
+	attackRateF - 41
+	attackRateS - 1.37
+	attackPower - 817.647
+	movementSpeed - 10
+	attackAnimF - 8
+	attackAnimS - 0.27
+	range - 150
+	respawnTimeF - 156
+	respawnTimeS - 5.20
+	attackType - 範囲(Area Attack)
+	cost - 1,215
+
+

@@ -1,0 +1,59 @@
+029
+
+Normal:
+Version: Ver1.5
+Jap Name: ネコカプセル
+En Name: Capsule Cat
+Jp Desc: プラスチック製のカプセルにビルトインした今どき風ネコ高速移動からの体当たりが得意
+En Desc: An experimental weapon: one speedy Cat, protected by state-of-the-art gashapon plastic. Packs a punch, but definitely can't take one.
+Abilities: None:
+Combos: 
+Stats: 	health - 2.500
+	knockback - 1
+	attackRateF - 222
+	attackRateS - 7.40
+	attackPower - 750.000
+	movementSpeed - 70
+	attackAnimF - 2
+	attackAnimS - 0.07
+	range - 140
+	respawnTimeF - 346
+	respawnTimeS - 11.53
+	attackType - 単体(Single Attack)
+	cost - 666
+
+
+Evolved:
+Version: Ver1.5
+Jap Name: ねこ盛り
+En Name: Cramped Cats
+Jp Desc: プラスチック製のカプセルにもりっとビルトインした｢ねこ盛り｣（ねこもり）高速移動からの体当たりが得意
+En Desc: Capsule Cat felt lonely so posted an ad for roomates. Overestimated the space in his flat. It's always cuddle time, whether they like it or not!
+Abilities: None:
+Combos: 
+Stats: 	health - 2.500
+	knockback - 1
+	attackRateF - 222
+	attackRateS - 7.40
+	attackPower - 750.000
+	movementSpeed - 70
+	attackAnimF - 2
+	attackAnimS - 0.07
+	range - 140
+	respawnTimeF - 346
+	respawnTimeS - 11.53
+	attackType - 単体(Single Attack)
+	cost - 666
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

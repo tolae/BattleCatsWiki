@@ -1,0 +1,75 @@
+006
+
+Normal:
+Version: Ver1.0
+Jap Name: ネコノトリ
+En Name: Bird Cat
+Jp Desc: 体力は少ないが敵をまとめて一掃する超破壊力を持ったキャラ（範囲攻撃）
+En Desc: Has the health of a pea. Exceptional attack power (Area Attack)
+Abilities: None:
+Combos: 	パタパタ|Sound of Wings  - ['057', '006']
+	空中偵察部隊|Aerial Recon - ['006', '097', '019', '261']
+Stats: 	health - 750.000
+	knockback - 4
+	attackRateF - 49
+	attackRateS - 1.63
+	attackPower - 350.000
+	movementSpeed - 10
+	attackAnimF - 10
+	attackAnimS - 0.33
+	range - 170
+	respawnTimeF - 60
+	respawnTimeS - 2.00
+	attackType - 範囲(Area Attack)
+	cost - 975
+
+
+Evolved:
+Version: Ver1.0
+Jap Name: ネコUFO
+En Name: UFO Cat
+Jp Desc: 重力を超越した改造にゃんこ敵をまとめてお仕置き可能（範囲攻撃）
+En Desc: Managed to overcome gravity. Good against multiple enemies (Area Attack)
+Abilities: None:
+Combos: 	インディペンデンスな日|Independence Day - ['356', '006', '248']
+	サイエンスフィクション|X-Files - ['198', '006']
+	未確認飛行物体|Saucers - ['006', '097']
+Stats: 	health - 750.000
+	knockback - 4
+	attackRateF - 57
+	attackRateS - 1.90
+	attackPower - 412.500
+	movementSpeed - 10
+	attackAnimF - 18
+	attackAnimS - 0.60
+	range - 170
+	respawnTimeF - 60
+	respawnTimeS - 2.00
+	attackType - 範囲(Area Attack)
+	cost - 975
+
+
+True:
+Version: 
+Jap Name: 天空のネコ
+En Name: The Flying Cat
+Jp Desc: 放たれる光弾は巨大都市を一瞬で焼き払ったと言われる空中都市型にゃんこごくたまに｢天使｣の攻撃力を下げる（範囲攻撃）
+En Desc: It is said that it destroyed a city once with its beams of lights. Might reduce Angel attack power (Area Attack)
+Abilities: Angel:Weaken
+Combos: 	スタジオニャブリ|Jibbly Studio - ['006', '009', '056']
+	天地の怒り|As Above, So Below - ['006', '084']
+Stats: 	health - 1500.000
+	knockback - 4
+	attackRateF - 57
+	attackRateS - 1.90
+	attackPower - 825.000
+	movementSpeed - 10
+	attackAnimF - 18
+	attackAnimS - 0.60
+	range - 170
+	respawnTimeF - 116
+	respawnTimeS - 3.87
+	attackType - 範囲(Area Attack)
+	cost - 975
+
+

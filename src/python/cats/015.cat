@@ -1,0 +1,73 @@
+015
+
+Normal:
+Version: Ver1.0
+Jap Name: ネコの箱詰め
+En Name: Cats in a Box
+Jp Desc: 移動速度で最速を誇る速攻型キャラクター猛ダッシュから繰り出す一撃で敵を一気に粉砕する（範囲攻撃）
+En Desc: These poor guys have been abandoned. They are now fending for themselves with GREAT JUSTICE and speed (Area Attack)
+Abilities: None:
+Combos: 	モモとバナナ|Peach 'n Banana - ['137', '015']
+Stats: 	health - 2000.000
+	knockback - 3
+	attackRateF - 101
+	attackRateS - 3.37
+	attackPower - 750.000
+	movementSpeed - 35
+	attackAnimF - 8
+	attackAnimS - 0.27
+	range - 140
+	respawnTimeF - 206
+	respawnTimeS - 6.87
+	attackType - 範囲(Area Attack)
+	cost - 1,125
+
+
+Evolved:
+Version: Ver1.0
+Jap Name: ネコギャング
+En Name: Cat Gang
+Jp Desc: 辛い人生で道を踏み外した速攻型キャラ猛ダッシュから繰り出す一撃で敵を一気に粉砕する（範囲攻撃）
+En Desc: The hard life turned them towards the wild side. We should avoid them now. Who knows what they'll do (Area Attack)
+Abilities: None:
+Combos: 	みかんとリンゴ|Apples and Oranges  - ['015', '040']
+	終末世界|Post-Apocalypse - ['323', '018', '015']
+	運命の車輪（ロンド）|Wheels of Fate - ['440', '018', '015']
+Stats: 	health - 2000.000
+	knockback - 3
+	attackRateF - 101
+	attackRateS - 3.37
+	attackPower - 750.000
+	movementSpeed - 35
+	attackAnimF - 8
+	attackAnimS - 0.27
+	range - 140
+	respawnTimeF - 206
+	respawnTimeS - 6.87
+	attackType - 範囲(Area Attack)
+	cost - 1,125
+
+
+True:
+Version: 
+Jap Name: 重機C・A・T
+En Name: Heavy Assault C.A.T
+Jp Desc: 社会復帰のため工事現場で働き始めた速攻型キャラ猛ダッシュから繰り出す一閃で敵を粉砕するたまに｢黒い敵｣の攻撃力を下げる（範囲攻撃）
+En Desc: An elite unit who keep the peace by rushing at the enemies of society. Might lower the attack power of Black (Area Attack).
+Abilities: Black:Weaken
+Combos: 
+Stats: 	health - 2000.000
+	knockback - 3
+	attackRateF - 101
+	attackRateS - 3.37
+	attackPower - 750.000
+	movementSpeed - 30
+	attackAnimF - 8
+	attackAnimS - 0.27
+	range - 199
+	respawnTimeF - 206
+	respawnTimeS - 6.87
+	attackType - 範囲(Area Attack)
+	cost - 1,125
+
+

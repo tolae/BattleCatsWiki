@@ -1,0 +1,59 @@
+473
+
+Normal:
+Version: Ver8.5
+Jap Name: ネロ魔身
+En Name: Nero Mashin
+Jp Desc: ビックリマンコラボ
+En Desc: N/A
+Abilities: Zombie:Multi-Hit,Massive Damage,Zombie Killer,Long Distance (Omni)
+Combos: 
+Stats: 	health - 3000.000
+	knockback - 4
+	attackRateF - 185
+	attackRateS - 6.17
+	attackPower - 2437.500
+	movementSpeed - 9
+	attackAnimF - 51
+	attackAnimS - 1.70
+	range - 225
+	respawnTimeF - 866
+	respawnTimeS - 28.87
+	attackType - 範囲(Area Attack)
+	cost - 1,485
+
+
+Evolved:
+Version: Ver8.5
+Jap Name: 魔肖ネロ
+En Name: Magical Nero
+Jp Desc: ビックリマンコラボ
+En Desc: N/A
+Abilities: Zombie:Multi-Hit,Massive Damage,Zombie Killer,Long Distance (Omni)
+Combos: 
+Stats: 	health - 3750.000
+	knockback - 4
+	attackRateF - 185
+	attackRateS - 6.17
+	attackPower - 3187.500
+	movementSpeed - 9
+	attackAnimF - 51
+	attackAnimS - 1.70
+	range - 225
+	respawnTimeF - 866
+	respawnTimeS - 28.87
+	attackType - 範囲(Area Attack)
+	cost - 1,485
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

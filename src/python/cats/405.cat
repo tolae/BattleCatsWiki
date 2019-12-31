@@ -1,0 +1,59 @@
+405
+
+Normal:
+Version: Ver6.10
+Jap Name: ネコキリン初号機
+En Name: Giraffe Unit-01
+Jp Desc: エヴァンゲリオンコラボ
+En Desc: A prototype Giraffe Cat-type weapon. Escaped with only the helmet equipped. Might survive a lethal strike.
+Abilities: None:Survive
+Combos: 
+Stats: 	health - 1125.000
+	knockback - 5
+	attackRateF - 10
+	attackRateS - 0.33
+	attackPower - 32.353
+	movementSpeed - 33
+	attackAnimF - 6
+	attackAnimS - 0.20
+	range - 150
+	respawnTimeF - 60
+	respawnTimeS - 2.00
+	attackType - 単体(Single Attack)
+	cost - 750
+
+
+Evolved:
+Version: Ver6.10
+Jap Name: ネコキリン2号機
+En Name: Giraffe Unit-02
+Jp Desc: エヴァンゲリオンコラボ
+En Desc: Received a new production-model helmet for mightier headbutts. Still on the run. Might survive a lethal strike.
+Abilities: None:Survive
+Combos: 
+Stats: 	health - 1125.000
+	knockback - 5
+	attackRateF - 10
+	attackRateS - 0.33
+	attackPower - 32.353
+	movementSpeed - 33
+	attackAnimF - 6
+	attackAnimS - 0.20
+	range - 150
+	respawnTimeF - 60
+	respawnTimeS - 2.00
+	attackType - 単体(Single Attack)
+	cost - 750
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

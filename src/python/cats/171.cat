@@ -1,0 +1,71 @@
+171
+
+Normal:
+Version: 
+Jap Name: テコルガ
+En Name: Tecoluga
+Jp Desc: ネコなのか何なのか、まったく正体不明の謎のキャラクター進化させると…
+En Desc: Not sure if this is a Cat....There's just something about those arms...
+Abilities: None:
+Combos: 
+Stats: 	health - 1250.000
+	knockback - 5
+	attackRateF - 82
+	attackRateS - 2.73
+	attackPower - 375.000
+	movementSpeed - 3
+	attackAnimF - 13
+	attackAnimS - 0.43
+	range - 140
+	respawnTimeF - 746
+	respawnTimeS - 24.87
+	attackType - 単体(Single Attack)
+	cost - 4,500
+
+
+Evolved:
+Version: 
+Jap Name: テサランパサラン
+En Name: Tesalan Pasalan
+Jp Desc: ネコなのか何なのか、まったく正体不明の謎のキャラクター敵1体に対し超絶大ダメージ（たまにクリティカル）
+En Desc: Are you kidding me?! Seems like the one does massive damage (sometimes critical) to just one enemy.
+Abilities: None:Critical
+Combos: 	腕自慢|Arm Day Everyday - ['009', '011', '010', '171']
+Stats: 	health - 3000.000
+	knockback - 1
+	attackRateF - 244
+	attackRateS - 8.13
+	attackPower - 18250.000
+	movementSpeed - 4
+	attackAnimF - 105
+	attackAnimS - 3.50
+	range - 620
+	respawnTimeF - 9746
+	respawnTimeS - 324.87
+	attackType - 単体(Single Attack)
+	cost - 4,500
+
+
+True:
+Version: Ver5.3
+Jap Name: ムギワラテサラン
+En Name: Lufalan Pasalan
+Jp Desc: ネコなのか麦わら帽子好きの船長なのか、まったく正体不明の謎のキャラクター敵1体に対し超絶大ダメージ（たまにクリティカル）
+En Desc: It seems like this one is a straw-hatted pirate of some kind. But we really can't be sure. Massive damage vs. one enemy. (Might Crit.)
+Abilities: None:Critical
+Combos: 
+Stats: 	health - 3000.000
+	knockback - 1
+	attackRateF - 244
+	attackRateS - 8.13
+	attackPower - 18250.000
+	movementSpeed - 4
+	attackAnimF - 105
+	attackAnimS - 3.50
+	range - 720
+	respawnTimeF - 9746
+	respawnTimeS - 324.87
+	attackType - 単体(Single Attack)
+	cost - 4,500
+
+

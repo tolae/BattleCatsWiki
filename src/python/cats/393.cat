@@ -1,0 +1,71 @@
+393
+
+Normal:
+Version: Ver6.8
+Jap Name: 六道聖
+En Name: Hijiri Rokudo
+Jp Desc: 実況パワフルプロ野球コラボ
+En Desc: Dropping in from PowerPro Baseball! A rookie catcher with unparalled game sense. Strong vs. Zombies.
+Abilities: Zombie:Multi-Hit,Strong,Zombie Killer
+Combos: 
+Stats: 	health - 2200.000
+	knockback - 3
+	attackRateF - 95
+	attackRateS - 3.17
+	attackPower - 1500.000
+	movementSpeed - 18
+	attackAnimF - 19
+	attackAnimS - 0.63
+	range - 200
+	respawnTimeF - 586
+	respawnTimeS - 19.53
+	attackType - 単体(Single Attack)
+	cost - 1,170
+
+
+Evolved:
+Version: Ver6.8
+Jap Name: 六道聖CC
+En Name: Hijiri Rokudo CC
+Jp Desc: 実況パワフルプロ野球コラボ
+En Desc: Dropping in from PowerPro Baseball! From a temple family, loves Buddhist cooking. Strong vs. Zombies.
+Abilities: Zombie:Multi-Hit,Strong,Zombie Killer
+Combos: 
+Stats: 	health - 2550.000
+	knockback - 3
+	attackRateF - 95
+	attackRateS - 3.17
+	attackPower - 1800.000
+	movementSpeed - 18
+	attackAnimF - 19
+	attackAnimS - 0.63
+	range - 200
+	respawnTimeF - 586
+	respawnTimeS - 19.53
+	attackType - 単体(Single Attack)
+	cost - 1,170
+
+
+True:
+Version: Ver6.8
+Jap Name: 野球マン3号CC
+En Name: Baseball Mask γ
+Jp Desc: 実況パワフルプロ野球コラボ
+En Desc: Dropping in from PowerPro Baseball! Proudly wears a temple name on her chest. Strong vs. Zombies, with Area Attacks.
+Abilities: Zombie:Strong,Zombie Killer
+Combos: 
+Stats: 	health - 3400.000
+	knockback - 3
+	attackRateF - 98
+	attackRateS - 3.27
+	attackPower - 1350.000
+	movementSpeed - 18
+	attackAnimF - 19
+	attackAnimS - 0.63
+	range - 300
+	respawnTimeF - 586
+	respawnTimeS - 19.53
+	attackType - 範囲(Area Attack)
+	cost - 1,170
+
+

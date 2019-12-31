@@ -1,0 +1,71 @@
+246
+
+Normal:
+Version: Ver4.5
+Jap Name: ちびキモネコ
+En Name: Li'l Gross Cat
+Jp Desc: 遠くの敵を攻撃できる遠距離型キャラを目指して成長中のちびにゃんこ
+En Desc: A tiny guy who dreams of becoming that Cat able to do a very powerful range attack. Exceptional attack power and range.
+Abilities: None:
+Combos: 	進撃のちびネコ|Attack of the Li'ls - ['210', '211', '212', '246', '247']
+Stats: 	health - 870.588
+	knockback - 3
+	attackRateF - 127
+	attackRateS - 4.23
+	attackPower - 544.118
+	movementSpeed - 8
+	attackAnimF - 8
+	attackAnimS - 0.27
+	range - 300
+	respawnTimeF - 76
+	respawnTimeS - 2.53
+	attackType - 単体(Single Attack)
+	cost - 600
+
+
+Evolved:
+Version: Ver4.5
+Jap Name: ちび美脚ネコ
+En Name: Li'l Sexy Legs Cat
+Jp Desc: 美しすぎる足が自慢の遠距離型キャラを目指して成長中のちびにゃんこ
+En Desc: A tiny guy who dreams of becoming that Cat with the overly beautiful legs. Exceptional attack power and range.
+Abilities: None:
+Combos: 
+Stats: 	health - 870.588
+	knockback - 3
+	attackRateF - 125
+	attackRateS - 4.17
+	attackPower - 544.118
+	movementSpeed - 8
+	attackAnimF - 6
+	attackAnimS - 0.20
+	range - 300
+	respawnTimeF - 76
+	respawnTimeS - 2.53
+	attackType - 単体(Single Attack)
+	cost - 600
+
+
+True:
+Version: Ver5.10
+Jap Name: ちびムキあしネコ
+En Name: Li'l Macho Legs Cat
+Jp Desc: 筋肉自慢の遠距離型キャラに成長したちびにゃんこ顔の絆創膏は強く見えるおまじないたまにバリアを貫き、エイリアンをふっとばす
+En Desc: A tiny guy with dreams of becoming that Cat who mastered the Art of Leg. Might knockback Aliens.
+Abilities: Alien:Knockback,Barrier Breaker
+Combos: 
+Stats: 	health - 3482.353
+	knockback - 3
+	attackRateF - 125
+	attackRateS - 4.17
+	attackPower - 1088.235
+	movementSpeed - 8
+	attackAnimF - 6
+	attackAnimS - 0.20
+	range - 300
+	respawnTimeF - 236
+	respawnTimeS - 7.87
+	attackType - 単体(Single Attack)
+	cost - 600
+
+

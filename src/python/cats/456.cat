@@ -1,0 +1,59 @@
+456
+
+Normal:
+Version: Ver8.2
+Jap Name: ワンダー・モモコ
+En Name: Wonder MOMOCO
+Jp Desc: 倒された時、独自グラフィック（アニメーション）
+En Desc: Cosmic policegirl hunting interdimensional criminals with lovely plasma beams of justice. Freezes Red/Black/Angels with Wave Attacks.
+Abilities: Red,Black,Angel:Multi-Hit,Freeze,Wave Attack,Immune to Waves
+Combos: 
+Stats: 	health - 10000.000
+	knockback - 2
+	attackRateF - 201
+	attackRateS - 6.70
+	attackPower - 9000.000
+	movementSpeed - 13
+	attackAnimF - 28
+	attackAnimS - 0.93
+	range - 375
+	respawnTimeF - 3746
+	respawnTimeS - 124.87
+	attackType - 範囲(Area Attack)
+	cost - 4,500
+
+
+Evolved:
+Version: Ver8.2
+Jap Name: キューティー・モモコ
+En Name: Cutie MOMOCO
+Jp Desc: 倒された時、独自グラフィック（アニメーション）
+En Desc: The galaxy's most stylish detective, cleaning up cosmic crime with her cutting edge Cutie Beam. Area attacks freeze Red/Black/Angels.
+Abilities: Red,Black,Angel:Multi-Hit,Freeze,Wave Attack,Immune to Waves
+Combos: 
+Stats: 	health - 10000.000
+	knockback - 2
+	attackRateF - 201
+	attackRateS - 6.70
+	attackPower - 9000.000
+	movementSpeed - 13
+	attackAnimF - 28
+	attackAnimS - 0.93
+	range - 375
+	respawnTimeF - 3746
+	respawnTimeS - 124.87
+	attackType - 範囲(Area Attack)
+	cost - 4,500
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

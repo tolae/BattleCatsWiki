@@ -1,0 +1,71 @@
+386
+
+Normal:
+Version: Ver6.8
+Jap Name: 矢部明雄
+En Name: Akio Yabe
+Jp Desc: 実況パワフルプロ野球コラボ
+En Desc: Dropping in from PowerPro Baseball! No one can outrun this speedy outfielder!
+Abilities: None:Multi-Hit
+Combos: 
+Stats: 	health - 1650.000
+	knockback - 3
+	attackRateF - 81
+	attackRateS - 2.70
+	attackPower - 900.000
+	movementSpeed - 24
+	attackAnimF - 22
+	attackAnimS - 0.73
+	range - 180
+	respawnTimeF - 546
+	respawnTimeS - 18.20
+	attackType - 単体(Single Attack)
+	cost - 720
+
+
+Evolved:
+Version: Ver6.8
+Jap Name: 矢部明雄CC
+En Name: Akio Yabe CC
+Jp Desc: 実況パワフルプロ野球コラボ
+En Desc: Dropping in from PowerPro Baseball! Ends every sentence with "Donchaknow?"
+Abilities: None:Multi-Hit
+Combos: 
+Stats: 	health - 1650.000
+	knockback - 3
+	attackRateF - 81
+	attackRateS - 2.70
+	attackPower - 900.000
+	movementSpeed - 24
+	attackAnimF - 22
+	attackAnimS - 0.73
+	range - 180
+	respawnTimeF - 546
+	respawnTimeS - 18.20
+	attackType - 単体(Single Attack)
+	cost - 720
+
+
+True:
+Version: Ver6.8
+Jap Name: 矢部＆ガンダーロボCC
+En Name: Akio & Gunder CC
+Jp Desc: 実況パワフルプロ野球コラボ
+En Desc: Dropping in from PowerPro Baseball! Might love robot anime even more then baseball. Area attacks release waves of destruction.
+Abilities: None:Wave Attack
+Combos: 
+Stats: 	health - 2475.000
+	knockback - 3
+	attackRateF - 81
+	attackRateS - 2.70
+	attackPower - 450.000
+	movementSpeed - 24
+	attackAnimF - 47
+	attackAnimS - 1.57
+	range - 230
+	respawnTimeF - 546
+	respawnTimeS - 18.20
+	attackType - 範囲(Area Attack)
+	cost - 720
+
+

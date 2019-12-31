@@ -1,0 +1,62 @@
+519
+
+Normal:
+Version: Ver8.10.5
+Jap Name: ゴウキリン
+En Name: Akuma Giraffe
+Jp Desc: ストリートファイターV AEコラボ
+En Desc: Giraffe Cat awoke filled with killing spirit.
+All who witness his new look tremble. 
+Strong vs Traitless, with Wave Shield (Omni)
+Abilities: White:Strong,Long Distance (Area),Immune to Waves
+Combos: 
+Stats: 	health - 1250.000
+	knockback - 5
+	attackRateF - 47
+	attackRateS - 1.57
+	attackPower - 125.000
+	movementSpeed - 35
+	attackAnimF - 35
+	attackAnimS - 1.17
+	range - 300
+	respawnTimeF - 526
+	respawnTimeS - 17.53
+	attackType - 範囲(Area Attack)
+	cost - 840
+
+
+Evolved:
+Version: Ver8.10.5
+Jap Name: ゴウキライオン
+En Name: Akuma Lion
+Jp Desc: ストリートファイターV AEコラボ
+En Desc: A cat consumed by bloodlust, rushing into battle smelling of weaklings he has crushed. 
+Strong vs Traitless, with Wave Shield (Omni)
+Abilities: White:Strong,Long Distance (Area),Immune to Waves
+Combos: 
+Stats: 	health - 1250.000
+	knockback - 5
+	attackRateF - 47
+	attackRateS - 1.57
+	attackPower - 125.000
+	movementSpeed - 35
+	attackAnimF - 35
+	attackAnimS - 1.17
+	range - 300
+	respawnTimeF - 526
+	respawnTimeS - 17.53
+	attackType - 範囲(Area Attack)
+	cost - 840
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

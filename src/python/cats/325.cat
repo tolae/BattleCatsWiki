@@ -1,0 +1,71 @@
+325
+
+Normal:
+Version: Ver5.9
+Jap Name: ネコストーン
+En Name: Curling Cat
+Jp Desc: 狙いを定めて一直線に出撃する意志の固いネコ敵にぶつかると二度と動かなくなる石の硬いネコ波動によるダメージを無効にする
+En Desc: Hard, heavy and precise winter weapon. Hits hard once, then won't move again. Unharmed by wave attacks.
+Abilities: None:Immune to Waves,Immune to Knockback,Immune to Freeze,Immune to Slow,Immune to Weaken,Warp Blocker
+Combos: 	氷上競技| - ['153', '325']
+Stats: 	health - 7500.000
+	knockback - 1
+	attackRateF - 8000
+	attackRateS - 266.67
+	attackPower - 1000.000
+	movementSpeed - 25
+	attackAnimF - 3
+	attackAnimS - 0.10
+	range - 120
+	respawnTimeF - 946
+	respawnTimeS - 31.53
+	attackType - 単体(Single Attack)
+	cost - 720
+
+
+Evolved:
+Version: Ver5.9
+Jap Name: ネコクリーナー
+En Name: Zamboney Cat
+Jp Desc: 波動ダメージを無効化する最新のロボット掃除機ネコご使用中のいかなる故障も、当社は一切保証しません…と説明書に書かれている
+En Desc: Manufacturer not responsible for equipment failure ...is what the manual says. Unharmed by wave attacks.
+Abilities: None:Immune to Waves,Immune to Knockback,Immune to Freeze,Immune to Slow,Immune to Weaken,Warp Blocker
+Combos: 
+Stats: 	health - 10000.000
+	knockback - 1
+	attackRateF - 8000
+	attackRateS - 266.67
+	attackPower - 1250.000
+	movementSpeed - 25
+	attackAnimF - 3
+	attackAnimS - 0.10
+	range - 120
+	respawnTimeF - 946
+	respawnTimeS - 31.53
+	attackType - 単体(Single Attack)
+	cost - 720
+
+
+True:
+Version: Ver8.8
+Jap Name: ネコカメカー
+En Name: Green Shell Cat
+Jp Desc: 一直線にターゲットへ向かう最新鋭AI搭載の自動車無人走行の実現に向け試験運転中。ボディは変更予定波動によるダメージを無効化する
+En Desc: Cutting edge tech that relentlessly rushes straight to the enemy. Powered by driverless car AI! Unharmed by Wave attacks.
+Abilities: None:Immune to Waves,Immune to Knockback,Immune to Freeze,Immune to Slow,Immune to Weaken,Warp Blocker
+Combos: 
+Stats: 	health - 15000.000
+	knockback - 1
+	attackRateF - 8000
+	attackRateS - 266.67
+	attackPower - 1250.000
+	movementSpeed - 35
+	attackAnimF - 3
+	attackAnimS - 0.10
+	range - 120
+	respawnTimeF - 946
+	respawnTimeS - 31.53
+	attackType - 単体(Single Attack)
+	cost - 720
+
+

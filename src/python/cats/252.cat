@@ -1,0 +1,71 @@
+252
+
+Normal:
+Version: Ver4.6
+Jap Name: アシュラ
+En Name: Ashura
+Jp Desc: 城とドラゴンコラボ
+En Desc: N/A
+Abilities: All (w/o Metal):Knockback
+Combos: 
+Stats: 	health - 1500.000
+	knockback - 2
+	attackRateF - 75
+	attackRateS - 2.50
+	attackPower - 625.000
+	movementSpeed - 7
+	attackAnimF - 16
+	attackAnimS - 0.53
+	range - 175
+	respawnTimeF - 196
+	respawnTimeS - 6.53
+	attackType - 単体(Single Attack)
+	cost - 975
+
+
+Evolved:
+Version: Ver4.6
+Jap Name: 武者アシュラ
+En Name: Warrior Ashura
+Jp Desc: 城とドラゴンコラボ
+En Desc: N/A
+Abilities: All (w/o Metal):Knockback
+Combos: 
+Stats: 	health - 1500.000
+	knockback - 2
+	attackRateF - 75
+	attackRateS - 2.50
+	attackPower - 625.000
+	movementSpeed - 7
+	attackAnimF - 16
+	attackAnimS - 0.53
+	range - 175
+	respawnTimeF - 196
+	respawnTimeS - 6.53
+	attackType - 単体(Single Attack)
+	cost - 975
+
+
+True:
+Version: Ver4.6
+Jap Name: 傾奇者アシュラ
+En Name: Sengoku Ashura
+Jp Desc: 城とドラゴンコラボ
+En Desc: N/A
+Abilities: All (w/o Metal):Knockback
+Combos: 
+Stats: 	health - 1500.000
+	knockback - 2
+	attackRateF - 75
+	attackRateS - 2.50
+	attackPower - 625.000
+	movementSpeed - 7
+	attackAnimF - 16
+	attackAnimS - 0.53
+	range - 175
+	respawnTimeF - 196
+	respawnTimeS - 6.53
+	attackType - 単体(Single Attack)
+	cost - 975
+
+

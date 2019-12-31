@@ -1,0 +1,59 @@
+450
+
+Normal:
+Version: Ver8.0
+Jap Name: 聖会長ジャンヌダルク
+En Name: Headmistress Jeanne
+Jp Desc: 倒された時、独自グラフィック（アニメーション）
+En Desc: Chairwoman of the Cyber Academy, respected by all. Summons ethereal spears to punish bad students. Insane damage to Red/Floating. (Long-Range/Area)
+Abilities: Red,Float:Insane Damage,Long Distance (Area)
+Combos: 
+Stats: 	health - 8000.000
+	knockback - 4
+	attackRateF - 87
+	attackRateS - 2.90
+	attackPower - 1650.000
+	movementSpeed - 20
+	attackAnimF - 48
+	attackAnimS - 1.60
+	range - 400
+	respawnTimeF - 3506
+	respawnTimeS - 116.87
+	attackType - 範囲(Area Attack)
+	cost - 4,830
+
+
+Evolved:
+Version: Ver8.0
+Jap Name: 聖会長ジャンヌダルクψ
+En Name: Headmistress Jeanne ψ
+Jp Desc: 倒された時、独自グラフィック（アニメーション）
+En Desc: Her educational philosophy has become more... unforgiving lately. But who's going to complain? Insane damage to Red/Floating. (Long-Range/Area)
+Abilities: Red,Float:Insane Damage,Long Distance (Area)
+Combos: 
+Stats: 	health - 8000.000
+	knockback - 4
+	attackRateF - 87
+	attackRateS - 2.90
+	attackPower - 1650.000
+	movementSpeed - 20
+	attackAnimF - 48
+	attackAnimS - 1.60
+	range - 400
+	respawnTimeF - 3506
+	respawnTimeS - 116.87
+	attackType - 範囲(Area Attack)
+	cost - 4,830
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

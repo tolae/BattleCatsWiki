@@ -1,0 +1,71 @@
+253
+
+Normal:
+Version: Ver4.6
+Jap Name: バトルバルーン
+En Name: Battle Balloon
+Jp Desc: 城とドラゴンコラボ
+En Desc: N/A
+Abilities: None:
+Combos: 
+Stats: 	health - 2500.000
+	knockback - 1
+	attackRateF - 55
+	attackRateS - 1.83
+	attackPower - 162.500
+	movementSpeed - 5
+	attackAnimF - 16
+	attackAnimS - 0.53
+	range - 360
+	respawnTimeF - 706
+	respawnTimeS - 23.53
+	attackType - 範囲(Area Attack)
+	cost - 1,350
+
+
+Evolved:
+Version: Ver4.6
+Jap Name: 海賊バトルバルーン
+En Name: Pirate Battle Balloon
+Jp Desc: 城とドラゴンコラボ
+En Desc: N/A
+Abilities: None:
+Combos: 
+Stats: 	health - 2500.000
+	knockback - 1
+	attackRateF - 55
+	attackRateS - 1.83
+	attackPower - 162.500
+	movementSpeed - 5
+	attackAnimF - 16
+	attackAnimS - 0.53
+	range - 360
+	respawnTimeF - 706
+	respawnTimeS - 23.53
+	attackType - 範囲(Area Attack)
+	cost - 1,350
+
+
+True:
+Version: Ver4.6
+Jap Name: バトルバルーンUFO
+En Name: Ufo Battle balloon
+Jp Desc: 城とドラゴンコラボ
+En Desc: N/A
+Abilities: None:
+Combos: 
+Stats: 	health - 2500.000
+	knockback - 1
+	attackRateF - 55
+	attackRateS - 1.83
+	attackPower - 162.500
+	movementSpeed - 5
+	attackAnimF - 16
+	attackAnimS - 0.53
+	range - 380
+	respawnTimeF - 706
+	respawnTimeS - 23.53
+	attackType - 範囲(Area Attack)
+	cost - 1,350
+
+

@@ -1,0 +1,71 @@
+077
+
+Normal:
+Version: Ver2.1
+Jap Name: 雷神のサンディア
+En Name: Thundia
+Jp Desc: 雷のチカラを操る電脳ギャル遠距離から放たれる強烈なイカヅチは赤い敵に超ダメージを与える（範囲攻撃）
+En Desc: A galaxy girl who can manipulate electricity. Brings down bolts from a distance. Massive damage to Red enemies (Area Attack).
+Abilities: Red:Massive Damage
+Combos: 	雷に打たれて|Struck by Lightning - ['077', '020']
+Stats: 	health - 2000.000
+	knockback - 5
+	attackRateF - 397
+	attackRateS - 13.23
+	attackPower - 3137.500
+	movementSpeed - 5
+	attackAnimF - 90
+	attackAnimS - 3.00
+	range - 410
+	respawnTimeF - 3190
+	respawnTimeS - 106.33
+	attackType - 範囲(Area Attack)
+	cost - 4,410
+
+
+Evolved:
+Version: Ver2.1
+Jap Name: 雷神のサンディアβ
+En Name: Thundia, type β
+Jp Desc: 慢性的な肩こりにいつも悩んでいる遠距離から放たれる強烈なイカヅチは赤い敵に超ダメージを与える（範囲攻撃）
+En Desc: Always worries about her chronic neck pain. Likes watching cartoons in her spare time. Massive damage to Red enemies (Area Attack).
+Abilities: Red:Massive Damage
+Combos: 
+Stats: 	health - 3750.000
+	knockback - 5
+	attackRateF - 397
+	attackRateS - 13.23
+	attackPower - 6387.500
+	movementSpeed - 5
+	attackAnimF - 90
+	attackAnimS - 3.00
+	range - 410
+	respawnTimeF - 3190
+	respawnTimeS - 106.33
+	attackType - 範囲(Area Attack)
+	cost - 4,410
+
+
+True:
+Version: Ver5.0
+Jap Name: 迅雷神のサンディアβ
+En Name: Divine Thundia
+Jp Desc: 特性「攻撃力上昇」追加
+En Desc: When you have a goddess' body, it's tough to find clothes that fit. Long distance Area Attacks deliver massive damage to Red enemies.
+Abilities: Red:Massive Damage
+Combos: 
+Stats: 	health - 7500.000
+	knockback - 5
+	attackRateF - 397
+	attackRateS - 13.23
+	attackPower - 10137.500
+	movementSpeed - 10
+	attackAnimF - 90
+	attackAnimS - 3.00
+	range - 440
+	respawnTimeF - 3190
+	respawnTimeS - 106.33
+	attackType - 範囲(Area Attack)
+	cost - 4,410
+
+

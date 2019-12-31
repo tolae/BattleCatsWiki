@@ -1,0 +1,59 @@
+194
+
+Normal:
+Version: Ver3.8
+Jap Name: 中村奏絵
+En Name: Nakamura Kanae
+Jp Desc: にゃんこ大戦争ガールズコラボ
+En Desc: N/A
+Abilities: All (w/o Metal):Weaken
+Combos: 
+Stats: 	health - 750.000
+	knockback - 3
+	attackRateF - 127
+	attackRateS - 4.23
+	attackPower - 250.000
+	movementSpeed - 4
+	attackAnimF - 28
+	attackAnimS - 0.93
+	range - 150
+	respawnTimeF - 1744
+	respawnTimeS - 58.13
+	attackType - 単体(Single Attack)
+	cost - 148
+
+
+Evolved:
+Version: Ver3.8
+Jap Name: クイーンかにー
+En Name: MISS Nakamura Kanae
+Jp Desc: にゃんこ大戦争ガールズコラボ
+En Desc: N/A
+Abilities: All (w/o Metal):Weaken
+Combos: 
+Stats: 	health - 1250.000
+	knockback - 3
+	attackRateF - 127
+	attackRateS - 4.23
+	attackPower - 375.000
+	movementSpeed - 4
+	attackAnimF - 28
+	attackAnimS - 0.93
+	range - 150
+	respawnTimeF - 1744
+	respawnTimeS - 58.13
+	attackType - 単体(Single Attack)
+	cost - 148
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

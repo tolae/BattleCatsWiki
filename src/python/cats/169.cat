@@ -1,0 +1,71 @@
+169
+
+Normal:
+Version: 
+Jap Name: アシルガ
+En Name: Asiluga
+Jp Desc: ネコなのか何なのか、まったく正体不明の謎のキャラクター進化させると…
+En Desc: Not sure if this is a Cat... There's just something about those legs...
+Abilities: None:
+Combos: 
+Stats: 	health - 1250.000
+	knockback - 5
+	attackRateF - 82
+	attackRateS - 2.73
+	attackPower - 375.000
+	movementSpeed - 5
+	attackAnimF - 13
+	attackAnimS - 0.43
+	range - 140
+	respawnTimeF - 746
+	respawnTimeS - 24.87
+	attackType - 単体(Single Attack)
+	cost - 4,500
+
+
+Evolved:
+Version: 
+Jap Name: アシランパサラン
+En Name: Asilan Pasalan
+Jp Desc: ネコなのか何なのか、まったく正体不明の謎のキャラクター広範囲の敵の動きを遅くする（範囲攻撃）
+En Desc: Unbelievable, just unbelievable. Seems like this one slows all enemies in range.
+Abilities: All (w/o Metal/White):Slow
+Combos: 	アシナガおじさん|Long-Legged - ['004', '169']
+Stats: 	health - 2750.000
+	knockback - 1
+	attackRateF - 370
+	attackRateS - 12.33
+	attackPower - 832.353
+	movementSpeed - 4
+	attackAnimF - 151
+	attackAnimS - 5.03
+	range - 750
+	respawnTimeF - 9746
+	respawnTimeS - 324.87
+	attackType - 範囲(Area Attack)
+	cost - 4,500
+
+
+True:
+Version: Ver5.6
+Jap Name: アタタタアシラン
+En Name: Assassinlan Pasalan
+Jp Desc: 特性「動きを遅くする」強化
+En Desc: Is it a Cat? Or an extremely dramatic Assassin of some kind? Slows enemies with Area Attacks.
+Abilities: All (w/o Metal/White):Slow
+Combos: 
+Stats: 	health - 2750.000
+	knockback - 1
+	attackRateF - 370
+	attackRateS - 12.33
+	attackPower - 832.353
+	movementSpeed - 4
+	attackAnimF - 151
+	attackAnimS - 5.03
+	range - 1,250
+	respawnTimeF - 9746
+	respawnTimeS - 324.87
+	attackType - 範囲(Area Attack)
+	cost - 4,500
+
+

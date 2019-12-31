@@ -1,0 +1,59 @@
+471
+
+Normal:
+Version: Ver8.5
+Jap Name: サタンマリア
+En Name: Satan Maria
+Jp Desc: ビックリマンコラボ
+En Desc: ?
+Abilities: Red:Massive Damage,Immune to Waves
+Combos: 
+Stats: 	health - 3500.000
+	knockback - 4
+	attackRateF - 156
+	attackRateS - 5.20
+	attackPower - 4950.000
+	movementSpeed - 14
+	attackAnimF - 51
+	attackAnimS - 1.70
+	range - 370
+	respawnTimeF - 2546
+	respawnTimeS - 84.87
+	attackType - 範囲(Area Attack)
+	cost - 4,050
+
+
+Evolved:
+Version: Ver8.5
+Jap Name: ワンダーマリア
+En Name: Wonder Maria
+Jp Desc: ビックリマンコラボ
+En Desc: ?
+Abilities: Red:Massive Damage,Immune to Waves
+Combos: 
+Stats: 	health - 4200.000
+	knockback - 4
+	attackRateF - 156
+	attackRateS - 5.20
+	attackPower - 5775.000
+	movementSpeed - 28
+	attackAnimF - 51
+	attackAnimS - 1.70
+	range - 370
+	respawnTimeF - 2546
+	respawnTimeS - 84.87
+	attackType - 範囲(Area Attack)
+	cost - 4,050
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

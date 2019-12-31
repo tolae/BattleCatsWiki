@@ -1,0 +1,63 @@
+511
+
+Normal:
+Version: Ver8.10.5
+Jap Name: 豪鬼
+En Name: Akuma
+Jp Desc: ストリートファイターV AEコラボ
+En Desc: Joining the fight from Street Fighter V AE!
+Seeks mighty warriors to fight to the death.
+Insane Area damage vs. Traitless.
+Abilities: White:Multi-Hit,Insane Damage,Immune to Freeze
+Combos: 
+Stats: 	health - 5000.000
+	knockback - 3
+	attackRateF - 148
+	attackRateS - 4.93
+	attackPower - 3787.500
+	movementSpeed - 20
+	attackAnimF - 23
+	attackAnimS - 0.77
+	range - 450
+	respawnTimeF - 3746
+	respawnTimeS - 124.87
+	attackType - 範囲(Area Attack)
+	cost - 4,500
+
+
+Evolved:
+Version: Ver8.10.5
+Jap Name: 豪鬼CC
+En Name: Akuma CC
+Jp Desc: ストリートファイターV AEコラボ
+En Desc: Joining the fight from Street Fighter V AE!
+Master of the Fist, attacks with pure killing spirit.
+Insane Area damage vs. Traitless.
+Abilities: White:Multi-Hit,Insane Damage,Immune to Freeze
+Combos: 
+Stats: 	health - 5000.000
+	knockback - 3
+	attackRateF - 148
+	attackRateS - 4.93
+	attackPower - 3787.500
+	movementSpeed - 20
+	attackAnimF - 23
+	attackAnimS - 0.77
+	range - 450
+	respawnTimeF - 3746
+	respawnTimeS - 124.87
+	attackType - 範囲(Area Attack)
+	cost - 4,500
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

@@ -1,0 +1,73 @@
+153
+
+Normal:
+Version: Ver3.0
+Jap Name: ネコスケート
+En Name: Figure Skating Cats
+Jp Desc: 流行りものに敏感な二人が次に始めたのはフィギュアスケートだった愛し合う二人に国境はない（範囲攻撃）
+En Desc: A stylish couple getting on board with the figure skating craze. Only a month since they started. No stopping these two lovers! (Area Attack)
+Abilities: None:
+Combos: 	ダブルデート|Double Date - ['153', '082']
+	二人一組|Team of Two - ['153', '082', '124', '105', '089']
+	氷上競技| - ['153', '325']
+Stats: 	health - 1275.000
+	knockback - 3
+	attackRateF - 92
+	attackRateS - 3.07
+	attackPower - 600.000
+	movementSpeed - 7
+	attackAnimF - 13
+	attackAnimS - 0.43
+	range - 355
+	respawnTimeF - 226
+	respawnTimeS - 7.53
+	attackType - 範囲(Area Attack)
+	cost - 1,155
+
+
+Evolved:
+Version: Ver3.0
+Jap Name: よいではにゃいか
+En Name: Drama Cats
+Jp Desc: 日本の伝統芸能を世界へ広めるために満を持してエキシビジョンで披露したお蔵入りのネタ（範囲攻撃）
+En Desc: Skating's so last year, it's all about classical theater now. Got the attention of the media, now making old-school art cool again. (Area Attack)
+Abilities: None:
+Combos: 	伝統芸能|Classical Arts - ['127', '153']
+Stats: 	health - 1537.500
+	knockback - 3
+	attackRateF - 92
+	attackRateS - 3.07
+	attackPower - 850.000
+	movementSpeed - 7
+	attackAnimF - 13
+	attackAnimS - 0.43
+	range - 355
+	respawnTimeF - 226
+	respawnTimeS - 7.53
+	attackType - 範囲(Area Attack)
+	cost - 1,155
+
+
+True:
+Version: Ver7.1
+Jap Name: にゃんでやねん
+En Name: Slapstick Cats
+Jp Desc: 長年寄り添った2人はついに超伝統芸能を極める息の合ったどつき漫才で世の中に笑撃をもたらす古代種にめっぽう強い（範囲攻撃）
+En Desc: They stopped taking stagecraft so seriously and now just want to bring laughter to the people. Strong vs Relic enemies. (Area Attack)
+Abilities: Ancient:Strong,Immune to Curse
+Combos: 
+Stats: 	health - 2062.500
+	knockback - 3
+	attackRateF - 92
+	attackRateS - 3.07
+	attackPower - 1225.000
+	movementSpeed - 7
+	attackAnimF - 13
+	attackAnimS - 0.43
+	range - 355
+	respawnTimeF - 226
+	respawnTimeS - 7.53
+	attackType - 範囲(Area Attack)
+	cost - 1,155
+
+

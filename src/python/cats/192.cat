@@ -1,0 +1,71 @@
+192
+
+Normal:
+Version: Ver3.8
+Jap Name: ティティ
+En Name: Titi
+Jp Desc: メルクストーリアコラボ
+En Desc: N/A
+Abilities: All (w/o Metal):Slow
+Combos: 
+Stats: 	health - 500.000
+	knockback - 2
+	attackRateF - 160
+	attackRateS - 5.33
+	attackPower - 134.853
+	movementSpeed - 8
+	attackAnimF - 41
+	attackAnimS - 1.37
+	range - 260
+	respawnTimeF - 566
+	respawnTimeS - 18.87
+	attackType - 単体(Single Attack)
+	cost - 480
+
+
+Evolved:
+Version: Ver3.8
+Jap Name: ティティCC
+En Name: TitiCC
+Jp Desc: メルクストーリアコラボ
+En Desc: N/A
+Abilities: All (w/o Metal):Slow
+Combos: 
+Stats: 	health - 500.000
+	knockback - 2
+	attackRateF - 160
+	attackRateS - 5.33
+	attackPower - 134.853
+	movementSpeed - 8
+	attackAnimF - 41
+	attackAnimS - 1.37
+	range - 260
+	respawnTimeF - 566
+	respawnTimeS - 18.87
+	attackType - 単体(Single Attack)
+	cost - 480
+
+
+True:
+Version: Ver6.2
+Jap Name: ネコティティCC
+En Name: Titi CatCC
+Jp Desc: メルクストーリアコラボ
+En Desc: N/A
+Abilities: All (w/o Metal):Multi-Hit,Slow
+Combos: 
+Stats: 	health - 500.000
+	knockback - 2
+	attackRateF - 151
+	attackRateS - 5.03
+	attackPower - 404.559
+	movementSpeed - 8
+	attackAnimF - 30
+	attackAnimS - 1.00
+	range - 260
+	respawnTimeF - 566
+	respawnTimeS - 18.87
+	attackType - 単体(Single Attack)
+	cost - 480
+
+

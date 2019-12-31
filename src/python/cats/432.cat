@@ -1,0 +1,59 @@
+432
+
+Normal:
+Version: Ver7.1
+Jap Name: 亡者探偵ヴィグラー
+En Name: Detective Vigler
+Jp Desc: 魔界探偵事務所「闇SCOOP」の凄腕探偵666人目の依頼を調査中に醜い姿にされてしまったたまにエイリアンと浮いてる敵の動きを止め波動を放つ
+En Desc: Prodigy in the netherworld's Office of Infernal Investigations, with just over 665 cases solved. Wave Attacks might freeze Alien/Floating.
+Abilities: Float,Alien:Freeze,Wave Attack
+Combos: 	浮気調査|Cheating Heart? - ['432', '022']
+Stats: 	health - 7000.000
+	knockback - 6
+	attackRateF - 313
+	attackRateS - 10.43
+	attackPower - 4500.000
+	movementSpeed - 15
+	attackAnimF - 120
+	attackAnimS - 4.00
+	range - 360
+	respawnTimeF - 2946
+	respawnTimeS - 98.20
+	attackType - 範囲(Area Attack)
+	cost - 4,410
+
+
+Evolved:
+Version: Ver7.1
+Jap Name: 魔界探偵グラヴィー
+En Name: Inspector Gabriel
+Jp Desc: 禁じられた魔眼の力で呪いを解き放った敏腕探偵その代償として組織の陰謀に巻き込まれていく..たまにエイリアンとゾンビの動きを止め波動を放つ
+En Desc: This hardened veteran got too close to the truth and undiscovered a conspiracy scarier than hell itself. Wave Attacks might freeze Aliens/Zombies.
+Abilities: Alien,Zombie:Freeze,Zombie Killer,Wave Attack
+Combos: 
+Stats: 	health - 7000.000
+	knockback - 6
+	attackRateF - 313
+	attackRateS - 10.43
+	attackPower - 4500.000
+	movementSpeed - 15
+	attackAnimF - 120
+	attackAnimS - 4.00
+	range - 360
+	respawnTimeF - 2946
+	respawnTimeS - 98.20
+	attackType - 範囲(Area Attack)
+	cost - 4,410
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

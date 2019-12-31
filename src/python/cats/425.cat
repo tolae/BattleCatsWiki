@@ -1,0 +1,59 @@
+425
+
+Normal:
+Version: Ver7.0
+Jap Name: 小野ミサ＆ネコ
+En Name: Misa Ono & Cat
+Jp Desc: 地下鉄に乗るっコラボ
+En Desc: N/A
+Abilities: Float:Weaken
+Combos: 
+Stats: 	health - 1000.000
+	knockback - 3
+	attackRateF - 264
+	attackRateS - 8.80
+	attackPower - 250.000
+	movementSpeed - 8
+	attackAnimF - 39
+	attackAnimS - 1.30
+	range - 310
+	respawnTimeF - 506
+	respawnTimeS - 16.87
+	attackType - 単体(Single Attack)
+	cost - 540
+
+
+Evolved:
+Version: Ver7.0
+Jap Name: 小野ミサ＆ネコCC
+En Name: Misa Ono & Cat CC
+Jp Desc: 地下鉄に乗るっコラボ
+En Desc: N/A
+Abilities: Float:Weaken
+Combos: 
+Stats: 	health - 1000.000
+	knockback - 3
+	attackRateF - 264
+	attackRateS - 8.80
+	attackPower - 250.000
+	movementSpeed - 8
+	attackAnimF - 39
+	attackAnimS - 1.30
+	range - 310
+	respawnTimeF - 506
+	respawnTimeS - 16.87
+	attackType - 単体(Single Attack)
+	cost - 540
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

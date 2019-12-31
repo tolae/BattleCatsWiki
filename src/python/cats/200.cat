@@ -1,0 +1,71 @@
+200
+
+Normal:
+Version: Ver4.0
+Jap Name: ネコサーファー
+En Name: Surfer Cat
+Jp Desc: 大志を胸にビッグウェーブを待ち続ける人生の大波に乗り遅れたアラフォーサーファーたまにエイリアンを停止、まれに生き残る（範囲攻撃）
+En Desc: Spent so long hunting the perfect wave. Now he's reached 40 without truly living life(?). Might stop Aliens and survive lethal strikes. (Area Attack)
+Abilities: Alien:Freeze,Survive
+Combos: 
+Stats: 	health - 2375.000
+	knockback - 4
+	attackRateF - 90
+	attackRateS - 3.00
+	attackPower - 1150.000
+	movementSpeed - 12
+	attackAnimF - 11
+	attackAnimS - 0.37
+	range - 270
+	respawnTimeF - 606
+	respawnTimeS - 20.20
+	attackType - 範囲(Area Attack)
+	cost - 990
+
+
+Evolved:
+Version: Ver4.0
+Jap Name: ネコ漂流
+En Name: Castaway Cat
+Jp Desc: 荒波に巻き込まれ遠くまで流されたにゃんこ彼が見つけたい陸は案外近くにあるのかもしれないたまにエイリアンを停止、まれに生き残る（範囲攻撃）
+En Desc: Says he wants to escape his desert island, but he's secretly enjoying his permanent vacation. Might stop Aliens and survive lethal strikes. (Area Attack)
+Abilities: Alien:Freeze,Survive
+Combos: 	日光浴|Sunbathers  - ['007', '200']
+Stats: 	health - 2750.000
+	knockback - 4
+	attackRateF - 90
+	attackRateS - 3.00
+	attackPower - 1450.000
+	movementSpeed - 12
+	attackAnimF - 11
+	attackAnimS - 0.37
+	range - 270
+	respawnTimeF - 606
+	respawnTimeS - 20.20
+	attackType - 範囲(Area Attack)
+	cost - 990
+
+
+True:
+Version: Ver6.3
+Jap Name: ネコ漂流記
+En Name: Seafarer Cat
+Jp Desc: 海とは友人だ。時に寄り添い、時に牙を剥く。この友人と共に歩む事こそが、私の人生そのものなのだたまにエイリアンを停止、必ず生き残る（範囲攻撃）
+En Desc: Giving up on rescue, he is now married to the sea. Will the waves be kind or cruel today? Might stop Aliens, will 100% survive one lethal strike.
+Abilities: Alien:Freeze,Survive
+Combos: 
+Stats: 	health - 3875.000
+	knockback - 4
+	attackRateF - 90
+	attackRateS - 3.00
+	attackPower - 1450.000
+	movementSpeed - 12
+	attackAnimF - 11
+	attackAnimS - 0.37
+	range - 270
+	respawnTimeF - 606
+	respawnTimeS - 20.20
+	attackType - 範囲(Area Attack)
+	cost - 990
+
+

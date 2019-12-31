@@ -1,0 +1,59 @@
+158
+
+Normal:
+Version: 
+Jap Name: ヌボボ
+En Name: Nubobo
+Jp Desc: ドラゴンリーグコラボ
+En Desc: N/A
+Abilities: Angel:Resistant
+Combos: 
+Stats: 	health - 1412.500
+	knockback - 3
+	attackRateF - 81
+	attackRateS - 2.70
+	attackPower - 175.000
+	movementSpeed - 5
+	attackAnimF - 20
+	attackAnimS - 0.67
+	range - 125
+	respawnTimeF - 306
+	respawnTimeS - 10.20
+	attackType - 範囲(Area Attack)
+	cost - 225
+
+
+Evolved:
+Version: 
+Jap Name: ゴールボ
+En Name: Gorubo
+Jp Desc: ドラゴンリーグコラボ
+En Desc: N/A
+Abilities: Angel:Resistant
+Combos: 
+Stats: 	health - 1412.500
+	knockback - 3
+	attackRateF - 81
+	attackRateS - 2.70
+	attackPower - 175.000
+	movementSpeed - 5
+	attackAnimF - 20
+	attackAnimS - 0.67
+	range - 125
+	respawnTimeF - 306
+	respawnTimeS - 10.20
+	attackType - 範囲(Area Attack)
+	cost - 225
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

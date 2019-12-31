@@ -1,0 +1,71 @@
+059
+
+Normal:
+Version: Ver2.0
+Jap Name: ネコ魔剣士
+En Name: Swordsman Cat
+Jp Desc: 魔法と剣をたくみに使いこなす戦闘向きキャラクター炎の剣で赤い敵に超ダメージを与える
+En Desc: Trained in a certain game to become a magic swordsman. Very effective Battle Cat. Fire sword does massive damage to Red enemies.
+Abilities: Red:Massive Damage
+Combos: 
+Stats: 	health - 1375.000
+	knockback - 3
+	attackRateF - 33
+	attackRateS - 1.10
+	attackPower - 250.000
+	movementSpeed - 11
+	attackAnimF - 8
+	attackAnimS - 0.27
+	range - 155
+	respawnTimeF - 146
+	respawnTimeS - 4.87
+	attackType - 単体(Single Attack)
+	cost - 630
+
+
+Evolved:
+Version: Ver2.0
+Jap Name: 双剣ネコ魔剣士
+En Name: Sword Master Cat
+Jp Desc: 魔法と剣をたくみに使いこなす戦闘向きキャラクター炎の剣で赤い敵に超ダメージを与える
+En Desc: Mastered the art of dual wielding. Also can use magic. Scary combination. Flame swords do massive damage to Red enemies.
+Abilities: Red:Massive Damage
+Combos: 
+Stats: 	health - 1625.000
+	knockback - 3
+	attackRateF - 33
+	attackRateS - 1.10
+	attackPower - 275.000
+	movementSpeed - 11
+	attackAnimF - 8
+	attackAnimS - 0.27
+	range - 155
+	respawnTimeF - 146
+	respawnTimeS - 4.87
+	attackType - 単体(Single Attack)
+	cost - 630
+
+
+True:
+Version: Ver5.2
+Jap Name: 双炎舞ネコ魔剣士
+En Name: Elemental Duelist Cat
+Jp Desc: 特性「攻撃力低下耐性」追加
+En Desc: So in tune with his blades that he can now command the forces of nature themselves. Flames do massive damage to Red enemies.
+Abilities: Red:Massive Damage
+Combos: 
+Stats: 	health - 2500.000
+	knockback - 3
+	attackRateF - 33
+	attackRateS - 1.10
+	attackPower - 500.000
+	movementSpeed - 11
+	attackAnimF - 8
+	attackAnimS - 0.27
+	range - 155
+	respawnTimeF - 146
+	respawnTimeS - 4.87
+	attackType - 単体(Single Attack)
+	cost - 630
+
+

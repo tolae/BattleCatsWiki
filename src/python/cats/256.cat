@@ -1,0 +1,71 @@
+256
+
+Normal:
+Version: Ver4.6
+Jap Name: サイクロプス
+En Name: Cyclops
+Jp Desc: 城とドラゴンコラボ
+En Desc: N/A
+Abilities: None:
+Combos: 
+Stats: 	health - 3000.000
+	knockback - 2
+	attackRateF - 156
+	attackRateS - 5.20
+	attackPower - 1125.000
+	movementSpeed - 6
+	attackAnimF - 37
+	attackAnimS - 1.23
+	range - 400
+	respawnTimeF - 1426
+	respawnTimeS - 47.53
+	attackType - 単体(Single Attack)
+	cost - 2,250
+
+
+Evolved:
+Version: Ver4.6
+Jap Name: 鋼鉄のサイクロプス
+En Name: Cyclops of Steel
+Jp Desc: 城とドラゴンコラボ
+En Desc: N/A
+Abilities: None:
+Combos: 
+Stats: 	health - 3000.000
+	knockback - 2
+	attackRateF - 156
+	attackRateS - 5.20
+	attackPower - 1125.000
+	movementSpeed - 6
+	attackAnimF - 37
+	attackAnimS - 1.23
+	range - 400
+	respawnTimeF - 1426
+	respawnTimeS - 47.53
+	attackType - 単体(Single Attack)
+	cost - 2,250
+
+
+True:
+Version: Ver4.6
+Jap Name: 時空のサイクロプス
+En Name: Cyclops of Time-Space
+Jp Desc: 城とドラゴンコラボ
+En Desc: N/A
+Abilities: None:
+Combos: 
+Stats: 	health - 3000.000
+	knockback - 2
+	attackRateF - 156
+	attackRateS - 5.20
+	attackPower - 1125.000
+	movementSpeed - 6
+	attackAnimF - 37
+	attackAnimS - 1.23
+	range - 410
+	respawnTimeF - 1426
+	respawnTimeS - 47.53
+	attackType - 単体(Single Attack)
+	cost - 2,250
+
+

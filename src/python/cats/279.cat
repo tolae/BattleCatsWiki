@@ -1,0 +1,59 @@
+279
+
+Normal:
+Version: Ver5.2
+Jap Name: なめこタンク
+En Name: Tanky
+Jp Desc: NEOなめこ栽培キットコラボ
+En Desc: Thought about adding a harvester, but decided a tank was cooler. Great for long-distance combat.
+Abilities: None:
+Combos: 
+Stats: 	health - 1500.000
+	knockback - 3
+	attackRateF - 155
+	attackRateS - 5.17
+	attackPower - 500.000
+	movementSpeed - 6
+	attackAnimF - 36
+	attackAnimS - 1.20
+	range - 380
+	respawnTimeF - 406
+	respawnTimeS - 13.53
+	attackType - 単体(Single Attack)
+	cost - 900
+
+
+Evolved:
+Version: Ver5.2
+Jap Name: なめこタンク＆にゃんこ
+En Name: Tanky 'n' Cat
+Jp Desc: NEOなめこ栽培キットコラボ
+En Desc: A rowdy Cat took over the controls while no one was looking. Great for long-distance combat.
+Abilities: None:
+Combos: 
+Stats: 	health - 1500.000
+	knockback - 3
+	attackRateF - 155
+	attackRateS - 5.17
+	attackPower - 500.000
+	movementSpeed - 6
+	attackAnimF - 36
+	attackAnimS - 1.20
+	range - 380
+	respawnTimeF - 406
+	respawnTimeS - 13.53
+	attackType - 単体(Single Attack)
+	cost - 900
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

@@ -1,0 +1,71 @@
+305
+
+Normal:
+Version: Ver5.6
+Jap Name: 帝国陸軍カタパルズ
+En Name: Mighty Kat-A-Pult
+Jp Desc: 大陸全土を支配した巨大帝国の秘密兵器難攻不落の城壁をもたやすく粉砕する（遠方範囲攻撃）ゾンビに打たれ強く、たまに攻撃力を下げる
+En Desc: The spunky interns of Cat Corps of Engineers built an awesome land weapon! Powerful anti-Zombie long range attacks, might weaken!
+Abilities: Zombie:Resistant,Weaken,Zombie Killer,Long Distance (Area)
+Combos: 	名誉の負傷|Purple Heart - ['305', '080']
+Stats: 	health - 20000.000
+	knockback - 3
+	attackRateF - 252
+	attackRateS - 8.40
+	attackPower - 4000.000
+	movementSpeed - 5
+	attackAnimF - 93
+	attackAnimS - 3.10
+	range - 375
+	respawnTimeF - 5446
+	respawnTimeS - 181.53
+	attackType - 範囲(Area Attack)
+	cost - 4,875
+
+
+Evolved:
+Version: Ver5.6
+Jap Name: 撃滅戦車ギガパルド
+En Name: CAT-6 Siege Engine
+Jp Desc: 精鋭SCAT部隊が乗り込む帝国軍の超重量戦車極秘開発された大砲の威力は絶大（遠方範囲攻撃）ゾンビに打たれ強く、たまに攻撃力を下げる
+En Desc: Featuring thick armor, an arsenal of long-range cannons, and loaded with shock troops, CAT-6 is tough vs Zombies and weakens enemies.
+Abilities: Zombie:Resistant,Weaken,Zombie Killer,Long Distance (Area)
+Combos: 
+Stats: 	health - 20000.000
+	knockback - 3
+	attackRateF - 252
+	attackRateS - 8.40
+	attackPower - 4000.000
+	movementSpeed - 5
+	attackAnimF - 93
+	attackAnimS - 3.10
+	range - 375
+	respawnTimeF - 5446
+	respawnTimeS - 181.53
+	attackType - 範囲(Area Attack)
+	cost - 4,875
+
+
+True:
+Version: Ver8.4
+Jap Name: 超撃滅戦車ギガパルド
+En Name: CAT-8 Behemoth
+Jp Desc: 特性「動きを遅くする」追加
+En Desc: The culmination of centuries of feline technology, this near-indestructible superweight tank has high defense vs Zombies and weakens enemies.
+Abilities: Zombie:Resistant,Weaken,Zombie Killer,Long Distance (Area)
+Combos: 
+Stats: 	health - 20000.000
+	knockback - 3
+	attackRateF - 252
+	attackRateS - 8.40
+	attackPower - 4000.000
+	movementSpeed - 5
+	attackAnimF - 93
+	attackAnimS - 3.10
+	range - 400
+	respawnTimeF - 5446
+	respawnTimeS - 181.53
+	attackType - 範囲(Area Attack)
+	cost - 4,875
+
+

@@ -1,0 +1,74 @@
+071
+
+Normal:
+Version: Ver2.1
+Jap Name: ネコリーマン
+En Name: Salaryman Cat
+Jp Desc: 日々働いている人たちに感謝の思いを忘れない赤い敵にめっぽう強い勤労感謝ネコ伝家の宝刀｢DoGeZa｣が今日も炸裂する
+En Desc: Let's not forget who work hard everyday. These people pay Worker Cat's salary. Its last resort is a magnificent DoGeZa. Strong against Red Enemies.
+Abilities: Red:Strong
+Combos: 	出張辞令|Commuter Life - ['071', '285']
+	株式会社にゃんこ|Nyanko, Inc - ['071', '123']
+Stats: 	health - 1750.000
+	knockback - 1
+	attackRateF - 111
+	attackRateS - 3.70
+	attackPower - 400.000
+	movementSpeed - 8
+	attackAnimF - 22
+	attackAnimS - 0.73
+	range - 210
+	respawnTimeF - 186
+	respawnTimeS - 6.20
+	attackType - 単体(Single Attack)
+	cost - 1,366
+
+
+Evolved:
+Version: Ver2.1
+Jap Name: ネコ怨み
+En Name: Grudge Cat
+Jp Desc: 上司に怨みを抱く赤い敵にめっぽう強いオカルトネコ毛さえ用意すれば代理でも呪ってくれる伝家の宝釘｢GoSuN｣が今日も炸裂（範囲攻撃）
+En Desc: A Salaryman Cat who couldn't take the abuse from his boss and resorted to anti-Red occultism. Curse them all! (Area Attack)
+Abilities: Red:Strong
+Combos: 	うーらーめーしーにゃ|Curses!!! - ['129', '071']
+	はちまき|Headband - ['064', '071', '137']
+	呪われた力|Cursed Strength - ['071', '058']
+Stats: 	health - 1750.000
+	knockback - 1
+	attackRateF - 111
+	attackRateS - 3.70
+	attackPower - 400.000
+	movementSpeed - 8
+	attackAnimF - 22
+	attackAnimS - 0.73
+	range - 210
+	respawnTimeF - 186
+	respawnTimeS - 6.20
+	attackType - 範囲(Area Attack)
+	cost - 1,366
+
+
+True:
+Version: Ver5.5
+Jap Name: ネコ火祭り
+En Name: Ritual Cat
+Jp Desc: 言いたいことも言えないこんな世の中に憤るネコブログ名を教えれば代理で炎上させてくれる伝家の投稿｢BouGen｣が今日も炸裂（範囲攻撃）
+En Desc: This world is too brutal and unfair to tolerate! Primitive rage has overtaken him. Why flame on social media when you can flame IRL? (Area Atk)
+Abilities: Red:Strong,Strengthen
+Combos: 	大炎上| - ['358', '071']
+Stats: 	health - 3000.000
+	knockback - 2
+	attackRateF - 111
+	attackRateS - 3.70
+	attackPower - 800.000
+	movementSpeed - 8
+	attackAnimF - 22
+	attackAnimS - 0.73
+	range - 210
+	respawnTimeF - 186
+	respawnTimeS - 6.20
+	attackType - 範囲(Area Attack)
+	cost - 1,366
+
+

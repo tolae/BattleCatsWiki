@@ -1,0 +1,59 @@
+436
+
+Normal:
+Version: Ver8.0
+Jap Name: ちびネコヴァルキリー
+En Name: Li'l Valkyrie
+Jp Desc: ネコヴァルキリーの妹であり世界各国でスパイ活動を行う天界の極秘エージェント（範囲攻撃）波動ダメージを無効にし、たまにバリアを貫く
+En Desc: Valkyrie's younger sister. Top agent of Valhalla, entrusted with high-risk missions to defend the mortal realms. Area atk might break Barriers.
+Abilities: Zombie:Zombie Killer,Barrier Breaker,Immune to Waves,Immune to Knockback,Immune to Freeze,Immune to Slow,Immune to Weaken,Warp Blocker,Immune to Curse
+Combos: 
+Stats: 	health - 5250.000
+	knockback - 2
+	attackRateF - 129
+	attackRateS - 4.30
+	attackPower - 7250.000
+	movementSpeed - 32
+	attackAnimF - 36
+	attackAnimS - 1.20
+	range - 345
+	respawnTimeF - 1546
+	respawnTimeS - 51.53
+	attackType - 範囲(Area Attack)
+	cost - 4,200
+
+
+Evolved:
+Version: Ver8.0
+Jap Name: ちびネコヴァルキリー・華
+En Name: Wind Dancer Valkyrie
+Jp Desc: アジアで潜入捜査を行う天界の極秘エージェント現地に合わせた衣装は神さまが買ってくれた（範囲攻撃）波動ダメージを無効にし、たまにバリアを貫く
+En Desc: Valkyrie's youngest sister. Nature itself has blessed her with command over all forces of the Earth. Area atk might break Barriers.
+Abilities: Zombie:Zombie Killer,Barrier Breaker,Immune to Waves,Immune to Knockback,Immune to Freeze,Immune to Slow,Immune to Weaken,Warp Blocker,Immune to Curse
+Combos: 
+Stats: 	health - 5250.000
+	knockback - 2
+	attackRateF - 129
+	attackRateS - 4.30
+	attackPower - 7250.000
+	movementSpeed - 32
+	attackAnimF - 36
+	attackAnimS - 1.20
+	range - 345
+	respawnTimeF - 1546
+	respawnTimeS - 51.53
+	attackType - 範囲(Area Attack)
+	cost - 4,200
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

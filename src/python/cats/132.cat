@@ -1,0 +1,59 @@
+132
+
+Normal:
+Version: 
+Jap Name: ねねこ
+En Name: Neneko
+Jp Desc: アイドルを夢見る妹型にゃんこでも歌いたくても勇気がでない…憧れの人はもねこ（たまにクリティカル）
+En Desc: A kid sister type who dreams of stardom. If only she had the guts to actually sing! Admires Moneko. (Might perform Critical Attacks)
+Abilities: None:Critical
+Combos: 	アイドル志望|Sister Act  - ['017', '132']
+Stats: 	health - 1250.000
+	knockback - 3
+	attackRateF - 127
+	attackRateS - 4.23
+	attackPower - 250.000
+	movementSpeed - 5
+	attackAnimF - 28
+	attackAnimS - 0.93
+	range - 310
+	respawnTimeF - 1744
+	respawnTimeS - 58.13
+	attackType - 単体(Single Attack)
+	cost - 148
+
+
+Evolved:
+Version: 
+Jap Name: スターねねこ
+En Name: Miss NENEKO
+Jp Desc: 歌えないのにスターにさせられたねねこ本当は歌いたくて仕方が無いのにいまだに人前で歌えない（たまにクリティカル）
+En Desc: Made to perform despite her stage fright. Still wants to sing but her voice won't come out onstage. (Might perform Critical Attacks)
+Abilities: None:Critical
+Combos: 
+Stats: 	health - 2250.000
+	knockback - 3
+	attackRateF - 127
+	attackRateS - 4.23
+	attackPower - 375.000
+	movementSpeed - 5
+	attackAnimF - 28
+	attackAnimS - 0.93
+	range - 310
+	respawnTimeF - 1744
+	respawnTimeS - 58.13
+	attackType - 単体(Single Attack)
+	cost - 148
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

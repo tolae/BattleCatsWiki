@@ -1,0 +1,71 @@
+061
+
+Normal:
+Version: Ver2.0
+Jap Name: ネコブ・ロンズ
+En Name: Bronze Cat
+Jp Desc: 体力を多く備えた盾用のキャラ攻撃力もけっこうある感じたまにメタルの敵をふっとばす（範囲攻撃）
+En Desc: A good defensive cat with ridiculous health and and very decent offensive ability. Might knockback Metal enemies (Area Attack)
+Abilities: Metal:Knockback
+Combos: 	暴風一家|Eye of the Storm - ['061', '089', '079', '127', '155']
+Stats: 	health - 1500.000
+	knockback - 2
+	attackRateF - 51
+	attackRateS - 1.70
+	attackPower - 244.853
+	movementSpeed - 8
+	attackAnimF - 12
+	attackAnimS - 0.40
+	range - 160
+	respawnTimeF - 312
+	respawnTimeS - 10.40
+	attackType - 範囲(Area Attack)
+	cost - 630
+
+
+Evolved:
+Version: Ver2.0
+Jap Name: 芸術のネコスタチュ
+En Name: Michaelangelo Cat
+Jp Desc: かの有名な彫像のフリをしたアートネコ攻撃力もけっこうある感じたまにメタルの敵をふっとばす（範囲攻撃）
+En Desc: Sucked into the world of art and mastered everything about sculpting. Might knockback Metal enemies (Area Attack)
+Abilities: Metal:Knockback
+Combos: 	美術教室|Art History - ['149', '061']
+Stats: 	health - 2250.000
+	knockback - 2
+	attackRateF - 51
+	attackRateS - 1.70
+	attackPower - 319.853
+	movementSpeed - 8
+	attackAnimF - 12
+	attackAnimS - 0.40
+	range - 160
+	respawnTimeF - 312
+	respawnTimeS - 10.40
+	attackType - 範囲(Area Attack)
+	cost - 630
+
+
+True:
+Version: Ver7.4
+Jap Name: ネコクイズ王
+En Name: Quizmaster Cat
+Jp Desc: 長寿クイズ番組を支えてきた頭脳派ネコ最近はおバカタレントの台頭で人気が落ち気味たまにメタルの敵をふっとばす（範囲攻撃）
+En Desc: Has the longest winning streak on a popular quiz show, although the questions are pretty easy. Might knockback Metal enemies (Area Attack)
+Abilities: Metal:Knockback
+Combos: 
+Stats: 	health - 2250.000
+	knockback - 2
+	attackRateF - 142
+	attackRateS - 4.73
+	attackPower - 469.853
+	movementSpeed - 8
+	attackAnimF - 27
+	attackAnimS - 0.90
+	range - 190
+	respawnTimeF - 312
+	respawnTimeS - 10.40
+	attackType - 範囲(Area Attack)
+	cost - 630
+
+

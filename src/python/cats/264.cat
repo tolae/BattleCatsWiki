@@ -1,0 +1,59 @@
+264
+
+Normal:
+Version: Ver4.7
+Jap Name: ポチ
+En Name: Pochi
+Jp Desc: にゃんパズルコラボ
+En Desc: N/A
+Abilities: None:Critical
+Combos: 
+Stats: 	health - 1125.000
+	knockback - 2
+	attackRateF - 67
+	attackRateS - 2.23
+	attackPower - 225.000
+	movementSpeed - 7
+	attackAnimF - 20
+	attackAnimS - 0.67
+	range - 150
+	respawnTimeF - 226
+	respawnTimeS - 7.53
+	attackType - 単体(Single Attack)
+	cost - 510
+
+
+Evolved:
+Version: Ver4.7
+Jap Name: タンクポチ
+En Name: Tank Pochi
+Jp Desc: にゃんパズルコラボ
+En Desc: N/A
+Abilities: None:Critical
+Combos: 
+Stats: 	health - 1500.000
+	knockback - 2
+	attackRateF - 67
+	attackRateS - 2.23
+	attackPower - 300.000
+	movementSpeed - 7
+	attackAnimF - 20
+	attackAnimS - 0.67
+	range - 150
+	respawnTimeF - 226
+	respawnTimeS - 7.53
+	attackType - 単体(Single Attack)
+	cost - 510
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

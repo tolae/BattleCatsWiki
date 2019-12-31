@@ -1,0 +1,71 @@
+146
+
+Normal:
+Version: Ver3.0
+Jap Name: ねこガンマン
+En Name: Cat Gunslinger
+Jp Desc: 弱きを助け強きをくじく伝説のガンマン今日も保安官に犯罪者を引き渡すたまに黒い敵の動きを遅くする
+En Desc: Nameless legend of the Western frontier. Today, he's bringing out bandits to justice. Sometimes slows Black enemies.
+Abilities: Black:Slow
+Combos: 
+Stats: 	health - 775.000
+	knockback - 3
+	attackRateF - 81
+	attackRateS - 2.70
+	attackPower - 200.000
+	movementSpeed - 9
+	attackAnimF - 4
+	attackAnimS - 0.13
+	range - 290
+	respawnTimeF - 206
+	respawnTimeS - 6.87
+	attackType - 単体(Single Attack)
+	cost - 645
+
+
+Evolved:
+Version: Ver3.0
+Jap Name: ねこウエスタン
+En Name: Cat Eastwood
+Jp Desc: 自己保身のため権力に屈服することもいとわない伝説のガンマン。今日も保安官に小銭を差し出すたまに黒い敵の動きを遅くする
+En Desc: A wandering gunman of legend, wielding his pistol for justice! Italian is his first language. Sometimes slows Black enemies.
+Abilities: Black:Slow
+Combos: 	カウボーイ|Rawhide - ['005', '146']
+Stats: 	health - 900.000
+	knockback - 3
+	attackRateF - 81
+	attackRateS - 2.70
+	attackPower - 232.353
+	movementSpeed - 9
+	attackAnimF - 4
+	attackAnimS - 0.13
+	range - 290
+	respawnTimeF - 206
+	respawnTimeS - 6.87
+	attackType - 単体(Single Attack)
+	cost - 645
+
+
+True:
+Version: Ver7.0
+Jap Name: ねこロデオ
+En Name: Rodeo Cat
+Jp Desc: 特性「古代の呪い耐性」追加
+En Desc: Retired from the desperado life and now in training to win the big bullriding competition. Sometimes slows Black enemies.
+Abilities: Black:Slow
+Combos: 
+Stats: 	health - 1150.000
+	knockback - 3
+	attackRateF - 83
+	attackRateS - 2.77
+	attackPower - 265.000
+	movementSpeed - 9
+	attackAnimF - 4
+	attackAnimS - 0.13
+	range - 320
+	respawnTimeF - 206
+	respawnTimeS - 6.87
+	attackType - 単体(Single Attack)
+	cost - 645
+
+

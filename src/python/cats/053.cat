@@ -1,0 +1,72 @@
+053
+
+Normal:
+Version: Ver2.0
+Jap Name: ネコシャーマン
+En Name: Shaman Cat
+Jp Desc: シャーマンとは超自然的存在と接触できる者と某ネット辞書に書いてあったごくたまに浮いてる敵の動きを一瞬止める
+En Desc: Able to communicate with the supernatural... is what it says on the Wiki. Might stop Floating enemies.
+Abilities: Float:Freeze
+Combos: 
+Stats: 	health - 790.000
+	knockback - 3
+	attackRateF - 54
+	attackRateS - 1.80
+	attackPower - 112.500
+	movementSpeed - 10
+	attackAnimF - 23
+	attackAnimS - 0.77
+	range - 250
+	respawnTimeF - 186
+	respawnTimeS - 6.20
+	attackType - 単体(Single Attack)
+	cost - 510
+
+
+Evolved:
+Version: Ver2.0
+Jap Name: ネコラマンサー
+En Name: Necromancer Cat
+Jp Desc: 超自然的存在に逆に操られてしまった哀れなキャラクターごくたまに浮いてる敵の動きを一瞬止める
+En Desc: Turns out it was the supernatural that was controlling this Cat in the end. Might stop floating enemies.
+Abilities: Float:Freeze
+Combos: 	ほねほねボーン|Bony Bone - ['053', '020']
+	操り職人|Pulling Strings - ['053', '127']
+Stats: 	health - 925.000
+	knockback - 3
+	attackRateF - 54
+	attackRateS - 1.80
+	attackPower - 137.500
+	movementSpeed - 10
+	attackAnimF - 23
+	attackAnimS - 0.77
+	range - 250
+	respawnTimeF - 186
+	respawnTimeS - 6.20
+	attackType - 単体(Single Attack)
+	cost - 510
+
+
+True:
+Version: Ver6.7
+Jap Name: ネコオドラマンサー
+En Name: Necro-Dancer Cat
+Jp Desc: 超自然的存在と踊り狂うキャラクターことわざ「踊れば友なり」の語源と言われているごくたまに浮いてる敵の動きを止める
+En Desc: His bewitching dance is fueled by dark powers. Can you resist his devilish groove? Might freeze Floating enemies for longer.
+Abilities: Float:Freeze
+Combos: 
+Stats: 	health - 925.000
+	knockback - 3
+	attackRateF - 54
+	attackRateS - 1.80
+	attackPower - 187.500
+	movementSpeed - 10
+	attackAnimF - 23
+	attackAnimS - 0.77
+	range - 300
+	respawnTimeF - 186
+	respawnTimeS - 6.20
+	attackType - 単体(Single Attack)
+	cost - 510
+
+

@@ -1,0 +1,63 @@
+506
+
+Normal:
+Version: Ver8.10
+Jap Name: 角龍グラディオス
+En Name: Relentless Gladios
+Jp Desc: 天を貫く巨大な矛を携え、地を闊歩する伝説の角龍族圧倒的な破壊力で敵を攻撃する（範囲攻撃）たまに属性を持たない敵をふっとばして遅くする
+En Desc: Gargantuan horned beast, spitting vicious
+thunderbolts that shake the very firmament.
+Chance to Knockback/Slow Traitless enemies.
+Abilities: White:Knockback,Slow
+Combos: 	ほこ×たて| - ['506', '211']
+Stats: 	health - 12000.000
+	knockback - 3
+	attackRateF - 277
+	attackRateS - 9.23
+	attackPower - 6500.000
+	movementSpeed - 4
+	attackAnimF - 60
+	attackAnimS - 2.00
+	range - 440
+	respawnTimeF - 4646
+	respawnTimeS - 154.87
+	attackType - 範囲(Area Attack)
+	cost - 5,625
+
+
+Evolved:
+Version: Ver8.10
+Jap Name: 角龍王グラディオス
+En Name: Gladios the Annihilator
+Jp Desc: 輝ける滅びの光を自らの力に変えた伝説の角龍族圧倒的な破壊力で敵を攻撃する（範囲攻撃）たまに属性を持たない敵をふっとばして遅くする
+En Desc: None may stand against the horned king bearing
+the soul of storms and impenetrable ebony armor.
+Chance to Knockback/Slow Traitless enemies.
+Abilities: White:Knockback,Slow
+Combos: 
+Stats: 	health - 12000.000
+	knockback - 3
+	attackRateF - 277
+	attackRateS - 9.23
+	attackPower - 6500.000
+	movementSpeed - 4
+	attackAnimF - 60
+	attackAnimS - 2.00
+	range - 440
+	respawnTimeF - 4646
+	respawnTimeS - 154.87
+	attackType - 範囲(Area Attack)
+	cost - 5,625
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

@@ -1,0 +1,59 @@
+242
+
+Normal:
+Version: Ver4.5
+Jap Name: 雪だるまのスノーカイ
+En Name: Frosty Kai
+Jp Desc: クリスマス限定スタイルの天然うっかり少女雪だるまから放たれる超近射ビームは圧倒的エイリアンと天使に打たれ強い（範囲攻撃）
+En Desc: A clumsy gal, dressed up just for Xmas! Fires a powerful, short-range ice beam. Resistant to Aliens/Angels. (Area Atk.)
+Abilities: Angel,Alien:Resistant
+Combos: 
+Stats: 	health - 10000.000
+	knockback - 2
+	attackRateF - 158
+	attackRateS - 5.27
+	attackPower - 3887.500
+	movementSpeed - 15
+	attackAnimF - 51
+	attackAnimS - 1.70
+	range - 175
+	respawnTimeF - 2146
+	respawnTimeS - 71.53
+	attackType - 範囲(Area Attack)
+	cost - 3,990
+
+
+Evolved:
+Version: Ver4.5
+Jap Name: 雪だるまのスノーカイμ
+En Name: Frosty Kai, Type μ
+Jp Desc: 優しくされると誰でも好きになってしまうクリスマス少女急降下する恋愛ハードルはゲレンデマジックのせい！？エイリアンと天使に打たれ強い（範囲攻撃）
+En Desc: Crushes on any skier who is nice to her. Falling in love, or just slipping on ice? Resistant to Aliens/Angels. (Area Atk.)
+Abilities: Angel,Alien:Resistant
+Combos: 
+Stats: 	health - 13000.000
+	knockback - 2
+	attackRateF - 158
+	attackRateS - 5.27
+	attackPower - 6237.500
+	movementSpeed - 15
+	attackAnimF - 51
+	attackAnimS - 1.70
+	range - 175
+	respawnTimeF - 2146
+	respawnTimeS - 71.53
+	attackType - 範囲(Area Attack)
+	cost - 3,990
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

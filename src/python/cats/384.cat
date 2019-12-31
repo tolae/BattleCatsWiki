@@ -1,0 +1,59 @@
+384
+
+Normal:
+Version: Ver6.7
+Jap Name: 謎仮面のウララー
+En Name: Masked Yulala
+Jp Desc: 強い者にはひれ伏すのが我が家のオキテ！と、勝手な家訓でにゃんこ軍団に加入した（遠方範囲攻撃）
+En Desc: Joined the Cat Army, saying "The Law of my clan is to serve the strongest of warriors!" Cool story, bro. Powerful long-range area attacks!
+Abilities: None:Long Distance (Area)
+Combos: 
+Stats: 	health - 5000.000
+	knockback - 2
+	attackRateF - 61
+	attackRateS - 2.03
+	attackPower - 1250.000
+	movementSpeed - 20
+	attackAnimF - 39
+	attackAnimS - 1.30
+	range - 350
+	respawnTimeF - 2846
+	respawnTimeS - 94.87
+	attackType - 範囲(Area Attack)
+	cost - 4,200
+
+
+Evolved:
+Version: Ver6.7
+Jap Name: ネコ仮面のウララー
+En Name: Mystic Yulala
+Jp Desc: にゃんこ軍団から友好の証にそれっぽい仮面を作ってもらったキャラクターじつは中学二年生の娘がいる。（遠方範囲攻撃）
+En Desc: Remade his holy mask in the image of his new Cat Army comrades. It really embarrasses his 12-year old daughter. Long-range area attacks.
+Abilities: None:Long Distance (Area)
+Combos: 
+Stats: 	health - 5000.000
+	knockback - 2
+	attackRateF - 61
+	attackRateS - 2.03
+	attackPower - 1250.000
+	movementSpeed - 20
+	attackAnimF - 39
+	attackAnimS - 1.30
+	range - 350
+	respawnTimeF - 2846
+	respawnTimeS - 94.87
+	attackType - 範囲(Area Attack)
+	cost - 4,200
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

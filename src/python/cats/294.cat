@@ -1,0 +1,59 @@
+294
+
+Normal:
+Version: Ver5.5
+Jap Name: キュゥべえ
+En Name: Kyubey
+Jp Desc: 魔法少女まどか☆マギカコラボ
+En Desc: From Madoka Magica The Movie -Rebellion-! Make a contract with him and your wish will come true. Tough vs. Aliens, might survive a lethal attack
+Abilities: Alien:Resistant,Survive
+Combos: 
+Stats: 	health - 2475.000
+	knockback - 3
+	attackRateF - 51
+	attackRateS - 1.70
+	attackPower - 975.000
+	movementSpeed - 9
+	attackAnimF - 26
+	attackAnimS - 0.87
+	range - 220
+	respawnTimeF - 186
+	respawnTimeS - 6.20
+	attackType - 単体(Single Attack)
+	cost - 660
+
+
+Evolved:
+Version: Ver5.5
+Jap Name: キュゥべえ＆ネコ
+En Name: Kyubey & Cat
+Jp Desc: 魔法少女まどか☆マギカコラボ
+En Desc: From Madoka Magica The Movie -Rebellion-! He seeks pure-hearted girls dreaming of a miracle. Tough vs. Aliens, might survive a lethal attack
+Abilities: Alien:Resistant,Survive
+Combos: 
+Stats: 	health - 2475.000
+	knockback - 3
+	attackRateF - 51
+	attackRateS - 1.70
+	attackPower - 975.000
+	movementSpeed - 9
+	attackAnimF - 26
+	attackAnimS - 0.87
+	range - 220
+	respawnTimeF - 186
+	respawnTimeS - 6.20
+	attackType - 単体(Single Attack)
+	cost - 660
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

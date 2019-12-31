@@ -1,0 +1,74 @@
+080
+
+Normal:
+Version: 
+Jap Name: にゃんこ成人
+En Name: Adult Cat
+Jp Desc: 立派な成人式を迎えたにゃんこお酒は二十歳になってから！｢赤い敵｣にめっぽう強い
+En Desc: This cat reached legal age and started to drink. Don't mind the ropes. Strong against red enemies.
+Abilities: Red:Strong
+Combos: 	なまけ者たち|Lazing About - ['034', '080']
+	花見|Blossoming - ['073', '080']
+	酒乱若人|Liver Trouble - ['080', '011']
+Stats: 	health - 1375.000
+	knockback - 2
+	attackRateF - 141
+	attackRateS - 4.70
+	attackPower - 875.000
+	movementSpeed - 5
+	attackAnimF - 22
+	attackAnimS - 0.73
+	range - 120
+	respawnTimeF - 186
+	respawnTimeS - 6.20
+	attackType - 単体(Single Attack)
+	cost - 1,035
+
+
+Evolved:
+Version: 
+Jap Name: にゃんこ病人
+En Name: Sick Cat
+Jp Desc: 調子にのってムチャしすぎたにゃんこなにごともほどほどに！｢赤い敵｣にめっぽう強い
+En Desc: This Cat drank a little too much. Everything in moderation! Strong against red enemies.
+Abilities: Red:Strong
+Combos: 	お薬出しておきますね|Special Treatment - ['144', '080']
+	名誉の負傷|Purple Heart - ['305', '080']
+Stats: 	health - 1375.000
+	knockback - 2
+	attackRateF - 141
+	attackRateS - 4.70
+	attackPower - 875.000
+	movementSpeed - 5
+	attackAnimF - 22
+	attackAnimS - 0.73
+	range - 120
+	respawnTimeF - 186
+	respawnTimeS - 6.20
+	attackType - 単体(Single Attack)
+	cost - 1,035
+
+
+True:
+Version: 
+Jap Name: にゃんこ囚人
+En Name: Prisoner Cat
+Jp Desc: ムチャしすぎてお縄についたにゃんこお酒は飲んでも飲まれるな！遠方攻撃を取得し｢赤い敵｣にめっぽう強いが近くの敵を攻撃出来ない
+En Desc: After the 20th wine cooler, he had to be tied up for his own good! Somehow gained long distance attacks, strong against Red!
+Abilities: Red:Strong,Long Distance (Single)
+Combos: 	タイホしちゃうぞ☆|Under Arrest - ['213', '080']
+Stats: 	health - 1375.000
+	knockback - 2
+	attackRateF - 141
+	attackRateS - 4.70
+	attackPower - 875.000
+	movementSpeed - 5
+	attackAnimF - 32
+	attackAnimS - 1.07
+	range - 475
+	respawnTimeF - 846
+	respawnTimeS - 28.20
+	attackType - 単体(Single Attack)
+	cost - 1,035
+
+

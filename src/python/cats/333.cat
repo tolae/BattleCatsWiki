@@ -1,0 +1,59 @@
+333
+
+Normal:
+Version: Ver5.10
+Jap Name: イースターねねこ
+En Name: Easter Neneko
+Jp Desc: イースター限定スタイルの妹型にゃんこタマゴを隠したいけどいい場所が思いつかない…憧れの人はもねこ（たまにクリティカル）
+En Desc: The adorable idol gets a new springtime look! Always overthinks where to hide the eggs and ends up panicking. Might critical attack.
+Abilities: None:Critical
+Combos: 
+Stats: 	health - 1250.000
+	knockback - 3
+	attackRateF - 77
+	attackRateS - 2.57
+	attackPower - 250.000
+	movementSpeed - 5
+	attackAnimF - 28
+	attackAnimS - 0.93
+	range - 310
+	respawnTimeF - 1744
+	respawnTimeS - 58.13
+	attackType - 単体(Single Attack)
+	cost - 148
+
+
+Evolved:
+Version: Ver5.10
+Jap Name: イースターバニーねねこ
+En Name: Hoppity Neneko
+Jp Desc: 姉の代わりにカーニバルに参加させられたねねこ可愛い衣装は好きだけど自分で着るのはちょっと恥ずかしい（たまにクリティカル）
+En Desc: Moneko was busy, so Nene stands in! Loves cute cosplay, but the attention always embarrasses her. Might critical attack.
+Abilities: None:Critical
+Combos: 
+Stats: 	health - 2250.000
+	knockback - 3
+	attackRateF - 77
+	attackRateS - 2.57
+	attackPower - 375.000
+	movementSpeed - 5
+	attackAnimF - 28
+	attackAnimS - 0.93
+	range - 310
+	respawnTimeF - 1744
+	respawnTimeS - 58.13
+	attackType - 単体(Single Attack)
+	cost - 148
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

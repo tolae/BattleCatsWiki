@@ -1,0 +1,71 @@
+335
+
+Normal:
+Version: Ver6.0
+Jap Name: 狐娘ヒメユリ
+En Name: Trickster Himeyuri
+Jp Desc: ガルズモンズコラボ
+En Desc: Elusive vixen from a mystic team. Hiding her true face, she wanders mortal realms hunting for the weak-willed. Area atks might slow Floating/Angels.
+Abilities: Float,Angel:Multi-Hit,Slow
+Combos: 
+Stats: 	health - 4700.000
+	knockback - 5
+	attackRateF - 285
+	attackRateS - 9.50
+	attackPower - 4425.000
+	movementSpeed - 11
+	attackAnimF - 60
+	attackAnimS - 2.00
+	range - 445
+	respawnTimeF - 3446
+	respawnTimeS - 114.87
+	attackType - 範囲(Area Attack)
+	cost - 4,740
+
+
+Evolved:
+Version: Ver6.0
+Jap Name: 九尾の狐姫ヒメユリ
+En Name: Himeyuri Ninetails
+Jp Desc: ガルズモンズコラボ
+En Desc: Her glorious true nature is revealed! Her mood has improved with everyone's praise for her cute tails. Area Attacks might slow Floating/Angels.
+Abilities: Float,Angel:Multi-Hit,Slow
+Combos: 
+Stats: 	health - 6675.000
+	knockback - 5
+	attackRateF - 285
+	attackRateS - 9.50
+	attackPower - 6300.000
+	movementSpeed - 11
+	attackAnimF - 60
+	attackAnimS - 2.00
+	range - 445
+	respawnTimeF - 3446
+	respawnTimeS - 114.87
+	attackType - 範囲(Area Attack)
+	cost - 4,740
+
+
+True:
+Version: Ver8.9
+Jap Name: 豊穣の狐姫ヒメユリ
+En Name: Fox Queen Himeyuri
+Jp Desc: ガルズモンズコラボ
+En Desc: The lost harvest goddess has finally cast aside her mask and blessed the earth with her true face.  Area Attacks might slow Floating/Angels.
+Abilities: Float,Angel:Multi-Hit,Slow
+Combos: 
+Stats: 	health - 7675.000
+	knockback - 5
+	attackRateF - 249
+	attackRateS - 8.30
+	attackPower - 7050.000
+	movementSpeed - 11
+	attackAnimF - 60
+	attackAnimS - 2.00
+	range - 445
+	respawnTimeF - 3446
+	respawnTimeS - 114.87
+	attackType - 範囲(Area Attack)
+	cost - 4,740
+
+

@@ -1,0 +1,59 @@
+176
+
+Normal:
+Version: 
+Jap Name: にゃんぼう
+En Name: Meowla Meowla
+Jp Desc: 生きろ！マンボウ！コラボ
+En Desc: A cat trained by Molas for marine combat. Still kinda wishes he became a meteorologist. Resistant to Red enemies attacks.
+Abilities: Red:Resistant
+Combos: 
+Stats: 	health - 750.000
+	knockback - 4
+	attackRateF - 89
+	attackRateS - 2.97
+	attackPower - 350.000
+	movementSpeed - 9
+	attackAnimF - 30
+	attackAnimS - 1.00
+	range - 140
+	respawnTimeF - 86
+	respawnTimeS - 2.87
+	attackType - 範囲(Area Attack)
+	cost - 450
+
+
+Evolved:
+Version: 
+Jap Name: ネコトーピード
+En Name: Catorpedo
+Jp Desc: 生きろ！マンボウ！コラボ
+En Desc: Evolved arms instead of legs... weird. Hates being stepped all over. Stop it!!! Resistant to Red enemies attacks.
+Abilities: Red:Resistant
+Combos: 
+Stats: 	health - 750.000
+	knockback - 4
+	attackRateF - 89
+	attackRateS - 2.97
+	attackPower - 350.000
+	movementSpeed - 9
+	attackAnimF - 30
+	attackAnimS - 1.00
+	range - 140
+	respawnTimeF - 86
+	respawnTimeS - 2.87
+	attackType - 範囲(Area Attack)
+	cost - 450
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

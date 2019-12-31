@@ -1,0 +1,59 @@
+495
+
+Normal:
+Version: Ver8.8
+Jap Name: 潮風のセーラーカッパー
+En Name: Seabreeze Coppermine
+Jp Desc: 一日艦長に就任したマジカル美女。これでもかとネコを乗せ、沈みゆく船の舵を取る（範囲攻撃）たまに赤、黒、メタルな敵の動きをしばらく止める
+En Desc: A cool beauty who gained command of her own ship! Now she just has to keep Cats from sinking it. Might freeze Red, Black or Metal enemies!
+Abilities: Red,Black,Metal:Freeze
+Combos: 
+Stats: 	health - 4050.000
+	knockback - 3
+	attackRateF - 189
+	attackRateS - 6.30
+	attackPower - 3225.000
+	movementSpeed - 7
+	attackAnimF - 100
+	attackAnimS - 3.33
+	range - 375
+	respawnTimeF - 1986
+	respawnTimeS - 66.20
+	attackType - 範囲(Area Attack)
+	cost - 3,720
+
+
+Evolved:
+Version: Ver8.8
+Jap Name: 潮風のセーラーカッパーκ
+En Name: Seabreeze Coppermine κ
+Jp Desc: クルーからの支持を受け任期を延長した一日艦長水平線に沈む夕日をネコと眺めるのが至福（範囲攻撃）たまに赤、黒、メタルな敵の動きをしばらく止める
+En Desc: Her Cat crew's recommendation earned her another tour of duty. Ah, nothing like a lovely sunset with a Cat. Might freeze Red, Black or Metal enemies!
+Abilities: Red,Black,Metal:Freeze
+Combos: 
+Stats: 	health - 5750.000
+	knockback - 3
+	attackRateF - 189
+	attackRateS - 6.30
+	attackPower - 4375.000
+	movementSpeed - 7
+	attackAnimF - 100
+	attackAnimS - 3.33
+	range - 375
+	respawnTimeF - 1986
+	respawnTimeS - 66.20
+	attackType - 範囲(Area Attack)
+	cost - 3,720
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

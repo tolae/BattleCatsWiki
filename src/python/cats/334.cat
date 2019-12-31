@@ -1,0 +1,63 @@
+334
+
+Normal:
+Version: Ver5.10
+Jap Name: 黒獣ガオウ
+En Name: Shadow Gao
+Jp Desc: 冷たい世界に生まれたもう一匹のガオウの姿強大な力を求め彷徨う属性を持たない敵に超ダメージを与える（範囲攻撃）
+En Desc: Alternate-dimension Gao from the darkest timeline.
+Seeks power at any cost. (Area Atk)
+Massive damage vs non-attribute enemies.
+Abilities: White:Massive Damage,Immune to Waves,Immune to Knockback
+Combos: 
+Stats: 	health - 9500.000
+	knockback - 4
+	attackRateF - 187
+	attackRateS - 6.23
+	attackPower - 4500.000
+	movementSpeed - 9
+	attackAnimF - 38
+	attackAnimS - 1.27
+	range - 480
+	respawnTimeF - 4746
+	respawnTimeS - 158.20
+	attackType - 範囲(Area Attack)
+	cost - 6,000
+
+
+Evolved:
+Version: Ver5.10
+Jap Name: 皇獣ガオウダーク
+En Name: Diabolic Gao
+Jp Desc: 自らの無力さに絶望する者の前にのみ現れる幻のネコ属性を持たない敵に超ダメージを与え必ず動きを一瞬止める（範囲攻撃）
+En Desc: Appears only to those who have known true despair.
+Massive damage vs non-attribute enemies.
+Freezes enemy briefly (Area Atk)
+Abilities: White:Massive Damage,Freeze,Immune to Waves,Immune to Knockback
+Combos: 
+Stats: 	health - 14250.000
+	knockback - 4
+	attackRateF - 187
+	attackRateS - 6.23
+	attackPower - 5750.000
+	movementSpeed - 9
+	attackAnimF - 38
+	attackAnimS - 1.27
+	range - 480
+	respawnTimeF - 4746
+	respawnTimeS - 158.20
+	attackType - 範囲(Area Attack)
+	cost - 6,000
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

@@ -1,0 +1,59 @@
+369
+
+Normal:
+Version: Ver6.6
+Jap Name: ギルガメッシュ
+En Name: Gilgamesh
+Jp Desc: 劇場版 Fate stay nightコラボ
+En Desc: Joining the fight from Fate/stay night [HF]! Inscrutible young man with an air of invincibility. Long-range Area attacks get stronger after taking damage!
+Abilities: None:Multi-Hit,Strengthen,Long Distance (Area)
+Combos: 
+Stats: 	health - 6250.000
+	knockback - 4
+	attackRateF - 261
+	attackRateS - 8.70
+	attackPower - 3975.000
+	movementSpeed - 10
+	attackAnimF - 64
+	attackAnimS - 2.13
+	range - 390
+	respawnTimeF - 3546
+	respawnTimeS - 118.20
+	attackType - 範囲(Area Attack)
+	cost - 4,500
+
+
+Evolved:
+Version: Ver6.6
+Jap Name: ギルガメッシュCC
+En Name: Gilgamesh CC
+Jp Desc: 劇場版 Fate stay nightコラボ
+En Desc: Joining the fight from Fate/stay night [HF]! 8th incarnation of a Spirit that shouldn't exist.  Long-range attacks get stronger after taking damage!
+Abilities: None:Multi-Hit,Strengthen,Long Distance (Area)
+Combos: 
+Stats: 	health - 9000.000
+	knockback - 4
+	attackRateF - 261
+	attackRateS - 8.70
+	attackPower - 5775.000
+	movementSpeed - 10
+	attackAnimF - 64
+	attackAnimS - 2.13
+	range - 390
+	respawnTimeF - 3546
+	respawnTimeS - 118.20
+	attackType - 範囲(Area Attack)
+	cost - 4,500
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

@@ -1,0 +1,71 @@
+144
+
+Normal:
+Version: 
+Jap Name: ねこナース
+En Name: Nurse Cat
+Jp Desc: 優しい瞳に暖かな笑顔。心温まる癒しオーラでにゃんこ印の注射器をぶっ刺す健気なナース（範囲攻撃）浮いてる・黒い敵をたまにふっとばして移動を遅くする
+En Desc: Her warm smile and healing aura take away the sting of her piercing syringe. (Area attack) Might knock back Black/Floating enemies.
+Abilities: Black,Float:Knockback,Slow
+Combos: 	お薬出しておきますね|Special Treatment - ['144', '080']
+Stats: 	health - 2625.000
+	knockback - 3
+	attackRateF - 198
+	attackRateS - 6.60
+	attackPower - 2637.500
+	movementSpeed - 6
+	attackAnimF - 99
+	attackAnimS - 3.30
+	range - 435
+	respawnTimeF - 3646
+	respawnTimeS - 121.53
+	attackType - 範囲(Area Attack)
+	cost - 4,350
+
+
+Evolved:
+Version: 
+Jap Name: ハートフルねこナース
+En Name: Heartful Nurse Cat
+Jp Desc: 皆を救うために注射器をふるう戦場のナース絶対領域も防御力アップで、もうなにも怖くない（範囲攻撃）浮いてる・黒い敵をたまにふっとばして移動を遅くする
+En Desc: A battlefield nurse saving lives with a syringe. Defensive power/area increased. (Area attack) Might knock back Black/Floating enemies.
+Abilities: Black,Float:Knockback,Slow
+Combos: 
+Stats: 	health - 5625.000
+	knockback - 3
+	attackRateF - 198
+	attackRateS - 6.60
+	attackPower - 5012.500
+	movementSpeed - 6
+	attackAnimF - 99
+	attackAnimS - 3.30
+	range - 435
+	respawnTimeF - 3646
+	respawnTimeS - 121.53
+	attackType - 範囲(Area Attack)
+	cost - 4,350
+
+
+True:
+Version: Ver6.7
+Jap Name: ジョイフルねこナース
+En Name: Joyful Nurse Cat
+Jp Desc: 数々の現場で活躍した経験豊富な強きナース特大お注射もひとりで刺せるもん（範囲攻撃）浮いてる・黒い敵をたまにふっとばして移動を遅くする
+En Desc: A beloved medic & veteran of many Cat campaigns. Area attacks deliver vital medicine. Might knockback/slow Black/Floating enemies.
+Abilities: Black,Float:Knockback,Slow
+Combos: 
+Stats: 	health - 7125.000
+	knockback - 3
+	attackRateF - 198
+	attackRateS - 6.60
+	attackPower - 5637.500
+	movementSpeed - 12
+	attackAnimF - 99
+	attackAnimS - 3.30
+	range - 460
+	respawnTimeF - 3646
+	respawnTimeS - 121.53
+	attackType - 範囲(Area Attack)
+	cost - 4,350
+
+

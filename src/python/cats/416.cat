@@ -1,0 +1,59 @@
+416
+
+Normal:
+Version: Ver6.10
+Jap Name: ネコシンジ
+En Name: Shinji Cat
+Jp Desc: エヴァンゲリオンコラボ
+En Desc: A Cat who becomes paralyzed by fear. When bullied, Eva comes to his defense! Knocks back Metal/Black, with Wave Attack!
+Abilities: Black,Metal:Knockback,Wave Attack
+Combos: 
+Stats: 	health - 14250.000
+	knockback - 2
+	attackRateF - 199
+	attackRateS - 6.63
+	attackPower - 5625.000
+	movementSpeed - 9
+	attackAnimF - 60
+	attackAnimS - 2.00
+	range - 240
+	respawnTimeF - 1746
+	respawnTimeS - 58.20
+	attackType - 範囲(Area Attack)
+	cost - 3,000
+
+
+Evolved:
+Version: Ver6.10
+Jap Name: ネコトウジ＆ネコケンスケ
+En Name: Toji & Kensuke Cats
+Jp Desc: エヴァンゲリオンコラボ
+En Desc: Cats who can't resist their curious nature. When bullied, Eva comes to their defense! Knocks back Metal/Black, with Wave Attack!
+Abilities: Black,Metal:Knockback,Wave Attack
+Combos: 
+Stats: 	health - 14250.000
+	knockback - 2
+	attackRateF - 199
+	attackRateS - 6.63
+	attackPower - 5625.000
+	movementSpeed - 9
+	attackAnimF - 60
+	attackAnimS - 2.00
+	range - 240
+	respawnTimeF - 1746
+	respawnTimeS - 58.20
+	attackType - 範囲(Area Attack)
+	cost - 3,000
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

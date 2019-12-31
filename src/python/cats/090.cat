@@ -1,0 +1,59 @@
+090
+
+Normal:
+Version: 
+Jap Name: ニムエ
+En Name: Nimue
+Jp Desc: ミリオンアーサーコラボ
+En Desc: A limited character of Million Arthur appears! Summons intense bullets of magic from a distance. Deals triple damage to red enemies (Area attack)
+Abilities: Red:Massive Damage
+Combos: 
+Stats: 	health - 1994.853
+	knockback - 5
+	attackRateF - 406
+	attackRateS - 13.53
+	attackPower - 3107.353
+	movementSpeed - 5
+	attackAnimF - 63
+	attackAnimS - 2.10
+	range - 408
+	respawnTimeF - 3190
+	respawnTimeS - 106.33
+	attackType - 範囲(Area Attack)
+	cost - 4,335
+
+
+Evolved:
+Version: 
+Jap Name: 帰化型ニムエ
+En Name: Neutralization Type Nimue
+Jp Desc: ミリオンアーサーコラボ
+En Desc: Now in full color. Summons intense bullets of magic from a distance. Deals triple damage to red enemies (Area attack)
+Abilities: Red:Massive Damage
+Combos: 
+Stats: 	health - 3719.853
+	knockback - 5
+	attackRateF - 406
+	attackRateS - 13.53
+	attackPower - 6350.000
+	movementSpeed - 5
+	attackAnimF - 63
+	attackAnimS - 2.10
+	range - 408
+	respawnTimeF - 3190
+	respawnTimeS - 106.33
+	attackType - 範囲(Area Attack)
+	cost - 4,335
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

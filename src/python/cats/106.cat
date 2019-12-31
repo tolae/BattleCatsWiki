@@ -1,0 +1,71 @@
+106
+
+Normal:
+Version: 
+Jap Name: 猿帝のクウ
+En Name: Kuu
+Jp Desc: 不思議な妖術を使いこなす熱血ギャル遠距離からの如意棒アタックは超破壊力を誇る赤い敵と黒い敵にめっぽう強い（範囲攻撃）
+En Desc: Zealous user of strange witchcraft to control her staff for great damage from a distance. Strong against Black/Red enemies (Area Attack)
+Abilities: Red,Black:Strong
+Combos: 	犬猿の仲|Jungle Women - ['131', '106']
+Stats: 	health - 3500.000
+	knockback - 5
+	attackRateF - 539
+	attackRateS - 17.97
+	attackPower - 5850.000
+	movementSpeed - 13
+	attackAnimF - 60
+	attackAnimS - 2.00
+	range - 380
+	respawnTimeF - 3946
+	respawnTimeS - 131.53
+	attackType - 範囲(Area Attack)
+	cost - 4,200
+
+
+Evolved:
+Version: 
+Jap Name: 猿帝のクウγ
+En Name: Kuu, type γ
+Jp Desc: 不思議な妖術を使いこなす熱血ギャル男性の前だと緊張しすぎて暴言しか出てこない赤い敵と黒い敵にめっぽう強い（範囲攻撃）
+En Desc: Zealous user of strange witchcraft. Not good with men, ends with verbal abuse. Strong against Black/Red enemies (Area Attack)
+Abilities: Red,Black:Strong
+Combos: 
+Stats: 	health - 5750.000
+	knockback - 5
+	attackRateF - 539
+	attackRateS - 17.97
+	attackPower - 9250.000
+	movementSpeed - 13
+	attackAnimF - 60
+	attackAnimS - 2.00
+	range - 380
+	respawnTimeF - 3946
+	respawnTimeS - 131.53
+	attackType - 範囲(Area Attack)
+	cost - 4,200
+
+
+True:
+Version: Ver5.2
+Jap Name: 金猿帝のクウγ
+En Name: Divine Kuu
+Jp Desc: 特性「攻撃力低下」追加
+En Desc: Treat her like a weakling and you'll know true pain. Your apologies will only make the staff smash down harder. Strong against Red/Black (Area Attack).
+Abilities: Red,Black:Strong,Immune to Weaken
+Combos: 
+Stats: 	health - 10750.000
+	knockback - 5
+	attackRateF - 459
+	attackRateS - 15.30
+	attackPower - 11750.000
+	movementSpeed - 13
+	attackAnimF - 60
+	attackAnimS - 2.00
+	range - 410
+	respawnTimeF - 3946
+	respawnTimeS - 131.53
+	attackType - 範囲(Area Attack)
+	cost - 4,200
+
+

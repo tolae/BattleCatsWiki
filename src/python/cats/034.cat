@@ -1,0 +1,71 @@
+034
+
+Normal:
+Version: Ver2.0
+Jap Name: ねこタツ
+En Name: Kotatsu Cat
+Jp Desc: 冬場に向けて機能性を向上させたキャラ浮いてる敵に打たれ強くたまに｢浮いてる敵｣の攻撃力を下げる
+En Desc: Very effective in winter... not that it matters. Damage from Floating enemies greatly reduced. Might weaken Floating enemies.
+Abilities: Float:Resistant,Weaken
+Combos: 	なまけ者たち|Lazing About - ['034', '080']
+Stats: 	health - 3000.000
+	knockback - 1
+	attackRateF - 51
+	attackRateS - 1.70
+	attackPower - 250.000
+	movementSpeed - 10
+	attackAnimF - 42
+	attackAnimS - 1.40
+	range - 130
+	respawnTimeF - 306
+	respawnTimeS - 10.20
+	attackType - 単体(Single Attack)
+	cost - 720
+
+
+Evolved:
+Version: Ver2.0
+Jap Name: ねこTV
+En Name: Sadako Cat
+Jp Desc: 人を驚かせる為にTVに入りこんで以来、そのまま出れなくなった自縛霊浮いてる敵に打たれ強く、たまに攻撃力を下げる
+En Desc: Hid in a TV to scare people for fun. Was never able to get out. Haunts TVs now. Strong against + might weaken Floating.
+Abilities: Float:Resistant,Weaken
+Combos: 	ホラー映画|Horror Movies - ['020', '129', '034']
+Stats: 	health - 4000.000
+	knockback - 1
+	attackRateF - 51
+	attackRateS - 1.70
+	attackPower - 500.000
+	movementSpeed - 10
+	attackAnimF - 42
+	attackAnimS - 1.40
+	range - 130
+	respawnTimeF - 306
+	respawnTimeS - 10.20
+	attackType - 単体(Single Attack)
+	cost - 720
+
+
+True:
+Version: Ver6.6
+Jap Name: ねこタコつぼ
+En Name: Octopus Cat
+Jp Desc: 特性「攻撃力低下」強化
+En Desc: Extra-flexible cat who feels most comfortable in small, dark places. Cancels wave attacks. Tough vs Floating, might weaken enemies.
+Abilities: Float:Resistant,Weaken,Wave Shield
+Combos: 
+Stats: 	health - 4000.000
+	knockback - 1
+	attackRateF - 63
+	attackRateS - 2.10
+	attackPower - 750.000
+	movementSpeed - 10
+	attackAnimF - 42
+	attackAnimS - 1.40
+	range - 130
+	respawnTimeF - 306
+	respawnTimeS - 10.20
+	attackType - 単体(Single Attack)
+	cost - 720
+
+

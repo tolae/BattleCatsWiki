@@ -1,0 +1,59 @@
+422
+
+Normal:
+Version: Ver7.0
+Jap Name: ココ
+En Name: Coco
+Jp Desc: ポコパンコラボ
+En Desc: Joining the fight from LINE Pokopang! A burly bear who lives for peace, flowers and tasty fish! Might weaken Black!
+Abilities: Black:Weaken
+Combos: 
+Stats: 	health - 1050.000
+	knockback - 3
+	attackRateF - 97
+	attackRateS - 3.23
+	attackPower - 125.000
+	movementSpeed - 8
+	attackAnimF - 50
+	attackAnimS - 1.67
+	range - 300
+	respawnTimeF - 346
+	respawnTimeS - 11.53
+	attackType - 単体(Single Attack)
+	cost - 555
+
+
+Evolved:
+Version: Ver7.0
+Jap Name: ココCC
+En Name: Coco CC
+Jp Desc: ポコパンコラボ
+En Desc: Joining the fight from LINE Pokopang! Despite tough looks, loves a nice cup of herbal tea most. Might weaken Black!
+Abilities: Black:Weaken
+Combos: 
+Stats: 	health - 1050.000
+	knockback - 3
+	attackRateF - 97
+	attackRateS - 3.23
+	attackPower - 125.000
+	movementSpeed - 8
+	attackAnimF - 50
+	attackAnimS - 1.67
+	range - 300
+	respawnTimeF - 346
+	respawnTimeS - 11.53
+	attackType - 単体(Single Attack)
+	cost - 555
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

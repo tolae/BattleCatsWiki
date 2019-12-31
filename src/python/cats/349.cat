@@ -1,0 +1,59 @@
+349
+
+Normal:
+Version: Ver6.2
+Jap Name: ぐでたまプレート
+En Name: Gudetama Plate
+Jp Desc: 倒された時、独自グラフィック（アニメーション）
+En Desc: N/A
+Abilities: Float:Resistant
+Combos: 
+Stats: 	health - 1500.000
+	knockback - 1
+	attackRateF - 118
+	attackRateS - 3.93
+	attackPower - 600.000
+	movementSpeed - 12
+	attackAnimF - 21
+	attackAnimS - 0.70
+	range - 150
+	respawnTimeF - 126
+	respawnTimeS - 4.20
+	attackType - 単体(Single Attack)
+	cost - 360
+
+
+Evolved:
+Version: Ver6.2
+Jap Name: ぐでたまベーコンプレート
+En Name: Gudetama Bacon Plate
+Jp Desc: 倒された時、独自グラフィック（アニメーション）
+En Desc: N/A
+Abilities: Float:Resistant
+Combos: 
+Stats: 	health - 1500.000
+	knockback - 1
+	attackRateF - 118
+	attackRateS - 3.93
+	attackPower - 600.000
+	movementSpeed - 12
+	attackAnimF - 21
+	attackAnimS - 0.70
+	range - 150
+	respawnTimeF - 126
+	respawnTimeS - 4.20
+	attackType - 単体(Single Attack)
+	cost - 360
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

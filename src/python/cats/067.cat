@@ -1,0 +1,71 @@
+067
+
+Normal:
+Version: Ver2.1
+Jap Name: KHM48
+En Name: KHM48
+Jp Desc: ケリ姫スイーツコラボ
+En Desc: Kerihime (Princess Punt) carried by 48 cats. Kicks a cat unit for a long distance and can stop the movements of black enemies occasionally. (Area attack)
+Abilities: Black:Freeze
+Combos: 
+Stats: 	health - 1000.000
+	knockback - 2
+	attackRateF - 205
+	attackRateS - 6.83
+	attackPower - 450.000
+	movementSpeed - 6
+	attackAnimF - 26
+	attackAnimS - 0.87
+	range - 380
+	respawnTimeF - 1526
+	respawnTimeS - 50.87
+	attackType - 範囲(Area Attack)
+	cost - 2,100
+
+
+Evolved:
+Version: Ver2.1
+Jap Name: ダークKHM48
+En Name: Dark KHM48
+Jp Desc: ケリ姫スイーツコラボ
+En Desc: Black cats who have escaped from the tyranny of the Dark Emperor Nyandum. Kicks a cat unit for a long distance and can stop the movements of black enemies occasionally. (Area attack)
+Abilities: Black:Freeze
+Combos: 
+Stats: 	health - 2250.000
+	knockback - 2
+	attackRateF - 205
+	attackRateS - 6.83
+	attackPower - 1209.853
+	movementSpeed - 6
+	attackAnimF - 26
+	attackAnimS - 0.87
+	range - 380
+	respawnTimeF - 1526
+	respawnTimeS - 50.87
+	attackType - 範囲(Area Attack)
+	cost - 2,100
+
+
+True:
+Version: Ver6.1
+Jap Name: KHM46
+En Name: KHM46
+Jp Desc: ケリ姫スイーツコラボ
+En Desc: ?
+Abilities: Black:Freeze
+Combos: 
+Stats: 	health - 2250.000
+	knockback - 2
+	attackRateF - 115
+	attackRateS - 3.83
+	attackPower - 1209.853
+	movementSpeed - 6
+	attackAnimF - 26
+	attackAnimS - 0.87
+	range - 380
+	respawnTimeF - 636
+	respawnTimeS - 21.20
+	attackType - 範囲(Area Attack)
+	cost - 2,100
+
+

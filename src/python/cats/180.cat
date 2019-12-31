@@ -1,0 +1,71 @@
+180
+
+Normal:
+Version: 
+Jap Name: タクヤとユキ
+En Name: タクヤとユキ
+Jp Desc: 消滅都市コラボ
+En Desc: N/A
+Abilities: Float:Resistant
+Combos: 
+Stats: 	health - 1125.000
+	knockback - 2
+	attackRateF - 101
+	attackRateS - 3.37
+	attackPower - 209.853
+	movementSpeed - 25
+	attackAnimF - 22
+	attackAnimS - 0.73
+	range - 190
+	respawnTimeF - 106
+	respawnTimeS - 3.53
+	attackType - 範囲(Area Attack)
+	cost - 450
+
+
+Evolved:
+Version: 
+Jap Name: タクヤとユキとネコ
+En Name: Takuya, Yuki and Cat
+Jp Desc: 消滅都市コラボ
+En Desc: N/A
+Abilities: Float:Resistant
+Combos: 
+Stats: 	health - 1125.000
+	knockback - 2
+	attackRateF - 101
+	attackRateS - 3.37
+	attackPower - 209.853
+	movementSpeed - 25
+	attackAnimF - 22
+	attackAnimS - 0.73
+	range - 190
+	respawnTimeF - 106
+	respawnTimeS - 3.53
+	attackType - 範囲(Area Attack)
+	cost - 450
+
+
+True:
+Version: Ver5.1
+Jap Name: タクヤとビューティユキ
+En Name: Takuya and Beauty Yuki
+Jp Desc: 消滅都市コラボ
+En Desc: N/A
+Abilities: Float:Resistant,Extra Money
+Combos: 
+Stats: 	health - 1500.000
+	knockback - 2
+	attackRateF - 101
+	attackRateS - 3.37
+	attackPower - 209.853
+	movementSpeed - 25
+	attackAnimF - 22
+	attackAnimS - 0.73
+	range - 190
+	respawnTimeF - 106
+	respawnTimeS - 3.53
+	attackType - 範囲(Area Attack)
+	cost - 450
+
+

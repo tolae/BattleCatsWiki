@@ -1,0 +1,71 @@
+150
+
+Normal:
+Version: Ver3.0
+Jap Name: ねこ人魚
+En Name: Mer-Cat
+Jp Desc: 海で助けた王子様を忘れられず陸にあがった人魚肺呼吸はロングブレスで取得浮いてる敵にめっぽう強く、まれに生き残る
+En Desc: A mermaid who came onshore to meet a prince. Survives on land by taking long breaths. Strong vs floating, might survive a lethal strike.
+Abilities: Float:Strong,Survive
+Combos: 
+Stats: 	health - 800.000
+	knockback - 4
+	attackRateF - 104
+	attackRateS - 3.47
+	attackPower - 675.000
+	movementSpeed - 4
+	attackAnimF - 25
+	attackAnimS - 0.83
+	range - 190
+	respawnTimeF - 126
+	respawnTimeS - 4.20
+	attackType - 単体(Single Attack)
+	cost - 540
+
+
+Evolved:
+Version: Ver3.0
+Jap Name: ねこソルジャー
+En Name: Commando Cat
+Jp Desc: 王子様がテロ組織に誘拐されたと聞き、魔女に足をもらって4年間過酷な訓練を受けた人魚浮いてる敵にめっぽう強く、まれに生き残る
+En Desc: Hearing her prince got kidnapped by terrorists, Mer-Cat joined the Green Berets to save him. Strong vs floating, might survive a lethal strike.
+Abilities: Float:Strong,Survive
+Combos: 
+Stats: 	health - 950.000
+	knockback - 4
+	attackRateF - 104
+	attackRateS - 3.47
+	attackPower - 825.000
+	movementSpeed - 4
+	attackAnimF - 25
+	attackAnimS - 0.83
+	range - 190
+	respawnTimeF - 126
+	respawnTimeS - 4.20
+	attackType - 単体(Single Attack)
+	cost - 540
+
+
+True:
+Version: Ver5.5
+Jap Name: ネコカメラマン
+En Name: Cameraman Cat
+Jp Desc: 特性「生き残る」強化
+En Desc: Putting her life on the line to tell the truth of the Great Cat War. Journalistic integrity causes huge area dmg vs Floating, might survive once.
+Abilities: Float:Strong,Survive
+Combos: 
+Stats: 	health - 1425.000
+	knockback - 4
+	attackRateF - 105
+	attackRateS - 3.50
+	attackPower - 825.000
+	movementSpeed - 6
+	attackAnimF - 26
+	attackAnimS - 0.87
+	range - 250
+	respawnTimeF - 126
+	respawnTimeS - 4.20
+	attackType - 範囲(Area Attack)
+	cost - 540
+
+

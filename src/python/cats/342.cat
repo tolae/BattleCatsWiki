@@ -1,0 +1,71 @@
+342
+
+Normal:
+Version: Ver6.1
+Jap Name: 失われし世界のユキ
+En Name: Lost World Yuki
+Jp Desc: 消滅都市コラボ
+En Desc: N/A
+Abilities: Angel,Alien:Massive Damage
+Combos: 
+Stats: 	health - 2500.000
+	knockback - 5
+	attackRateF - 236
+	attackRateS - 7.87
+	attackPower - 2125.000
+	movementSpeed - 10
+	attackAnimF - 43
+	attackAnimS - 1.43
+	range - 445
+	respawnTimeF - 3146
+	respawnTimeS - 104.87
+	attackType - 範囲(Area Attack)
+	cost - 4,320
+
+
+Evolved:
+Version: Ver6.1
+Jap Name: 失われし世界のユキ＆ネコ
+En Name: Lost World Yuki & Cat
+Jp Desc: 消滅都市コラボ
+En Desc: N/A
+Abilities: Angel,Alien:Massive Damage
+Combos: 
+Stats: 	health - 5000.000
+	knockback - 5
+	attackRateF - 235
+	attackRateS - 7.83
+	attackPower - 4125.000
+	movementSpeed - 10
+	attackAnimF - 56
+	attackAnimS - 1.87
+	range - 445
+	respawnTimeF - 3146
+	respawnTimeS - 104.87
+	attackType - 範囲(Area Attack)
+	cost - 4,320
+
+
+True:
+Version: Ver7.1
+Jap Name: 失われし世界のネコ耳ユキ
+En Name: Lost World Nekomimi Yuki
+Jp Desc: 消滅都市コラボ
+En Desc: N/A
+Abilities: Angel,Alien:Massive Damage,Barrier Breaker,Immune to Knockback
+Combos: 
+Stats: 	health - 6250.000
+	knockback - 5
+	attackRateF - 235
+	attackRateS - 7.83
+	attackPower - 5000.000
+	movementSpeed - 10
+	attackAnimF - 56
+	attackAnimS - 1.87
+	range - 445
+	respawnTimeF - 3146
+	respawnTimeS - 104.87
+	attackType - 範囲(Area Attack)
+	cost - 4,320
+
+

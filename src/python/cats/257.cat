@@ -1,0 +1,71 @@
+257
+
+Normal:
+Version: Ver4.6
+Jap Name: ゴーレム
+En Name: Golem
+Jp Desc: 城とドラゴンコラボ
+En Desc: N/A
+Abilities: All (w/o Metal/White):Slow
+Combos: 
+Stats: 	health - 3750.000
+	knockback - 1
+	attackRateF - 365
+	attackRateS - 12.17
+	attackPower - 2187.500
+	movementSpeed - 4
+	attackAnimF - 16
+	attackAnimS - 0.53
+	range - 415
+	respawnTimeF - 2146
+	respawnTimeS - 71.53
+	attackType - 範囲(Area Attack)
+	cost - 2,400
+
+
+Evolved:
+Version: Ver4.6
+Jap Name: うさぎゴーレム
+En Name: Rabbit Golem
+Jp Desc: 城とドラゴンコラボ
+En Desc: N/A
+Abilities: All (w/o Metal/White):Slow
+Combos: 
+Stats: 	health - 3750.000
+	knockback - 1
+	attackRateF - 365
+	attackRateS - 12.17
+	attackPower - 2187.500
+	movementSpeed - 4
+	attackAnimF - 16
+	attackAnimS - 0.53
+	range - 415
+	respawnTimeF - 2146
+	respawnTimeS - 71.53
+	attackType - 範囲(Area Attack)
+	cost - 2,400
+
+
+True:
+Version: Ver4.6
+Jap Name: ボルケーノゴーレム
+En Name: Volcano Golem
+Jp Desc: 城とドラゴンコラボ
+En Desc: N/A
+Abilities: All (w/o Metal/White):Slow
+Combos: 
+Stats: 	health - 3750.000
+	knockback - 1
+	attackRateF - 365
+	attackRateS - 12.17
+	attackPower - 2187.500
+	movementSpeed - 4
+	attackAnimF - 16
+	attackAnimS - 0.53
+	range - 415
+	respawnTimeF - 2146
+	respawnTimeS - 71.53
+	attackType - 範囲(Area Attack)
+	cost - 2,400
+
+

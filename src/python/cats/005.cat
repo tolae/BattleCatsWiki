@@ -1,0 +1,74 @@
+005
+
+Normal:
+Version: Ver1.0
+Jap Name: ウシネコ
+En Name: Cow Cat
+Jp Desc: 俊敏な動きで移動力に優れたキャラ攻撃回数もハンパない
+En Desc: Thinks quick, acts quick, and uses his head. Runs like the wind!
+Abilities: None:
+Combos: 	にゃんこ軍団|Cat Army - ['001', '002', '003', '004', '005']
+	カウボーイ|Rawhide - ['005', '146']
+	チームヘッドバンギング|Headbanger's Ball - ['005', '096', '149']
+Stats: 	health - 1250.000
+	knockback - 5
+	attackRateF - 10
+	attackRateS - 0.33
+	attackPower - 32.440
+	movementSpeed - 30
+	attackAnimF - 6
+	attackAnimS - 0.20
+	range - 140
+	respawnTimeF - 60
+	respawnTimeS - 2.00
+	attackType - 単体(Single Attack)
+	cost - 750
+
+
+Evolved:
+Version: Ver1.0
+Jap Name: ネコキリン
+En Name: Giraffe Cat
+Jp Desc: 俊敏な動きで移動力に優れたキャラ長い首でのヘッドバンギングが笑える
+En Desc: Thinks quick, acts quick, and uses his head. Headbangs only to Rock'n'Roll!
+Abilities: None:
+Combos: 	ロングネック|Longnecks - ['005', '170']
+Stats: 	health - 1250.000
+	knockback - 5
+	attackRateF - 10
+	attackRateS - 0.33
+	attackPower - 32.440
+	movementSpeed - 30
+	attackAnimF - 6
+	attackAnimS - 0.20
+	range - 140
+	respawnTimeF - 60
+	respawnTimeS - 2.00
+	attackType - 単体(Single Attack)
+	cost - 750
+
+
+True:
+Version: 
+Jap Name: ネコライオン
+En Name: Lion Cat
+Jp Desc: 俊敏な動きで移動力に優れたキャラ頭のタテガミは拭き掃除にも使える
+En Desc: Thinks quick, acts quick, and uses his head. Uses his mane to clean the house.
+Abilities: None:
+Combos: 	にゃんこサーカス|Cat Circus - ['005', '131', '227']
+	獅子王|Lion King - ['005', '110']
+Stats: 	health - 2500.000
+	knockback - 5
+	attackRateF - 10
+	attackRateS - 0.33
+	attackPower - 65.000
+	movementSpeed - 30
+	attackAnimF - 6
+	attackAnimS - 0.20
+	range - 140
+	respawnTimeF - 136
+	respawnTimeS - 4.53
+	attackType - 単体(Single Attack)
+	cost - 750
+
+

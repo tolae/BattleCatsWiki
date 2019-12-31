@@ -1,0 +1,59 @@
+130
+
+Normal:
+Version: 
+Jap Name: 金ネコ
+En Name: Gold Cat
+Jp Desc: 金粉を身にまとい、超豪華になったネコもちろん性能はネコと同じXPにして他キャラをパワーアップだ！
+En Desc: Rolled in gold dust for a luxurious look. ...though it is just the same old cat. Exchange it for XP to level up other cats!
+Abilities: None:
+Combos: 	庶民と金持ち|Rich and Poor - ['001', '130']
+Stats: 	health - 250.000
+	knockback - 3
+	attackRateF - 37
+	attackRateS - 1.23
+	attackPower - 19.853
+	movementSpeed - 10
+	attackAnimF - 8
+	attackAnimS - 0.27
+	range - 140
+	respawnTimeF - 60
+	respawnTimeS - 2.00
+	attackType - 単体(Single Attack)
+	cost - 75
+
+
+Evolved:
+Version: 
+Jap Name: 金ネコビルダー
+En Name: Gold Macho Cat
+Jp Desc: 金粉を身にまとい、超豪華になったネコ本人はノースリーブ風だと言っているが絶対に塗り忘れだと思う
+En Desc: Rolled in gold dust for a luxurious look. Says it aimed for the no-sleeve look but painting its arms just slipped its mind.
+Abilities: None:
+Combos: 
+Stats: 	health - 250.000
+	knockback - 3
+	attackRateF - 37
+	attackRateS - 1.23
+	attackPower - 19.853
+	movementSpeed - 10
+	attackAnimF - 8
+	attackAnimS - 0.27
+	range - 140
+	respawnTimeF - 60
+	respawnTimeS - 2.00
+	attackType - 単体(Single Attack)
+	cost - 75
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

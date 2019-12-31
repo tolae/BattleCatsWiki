@@ -1,0 +1,71 @@
+040
+
+Normal:
+Version: Ver2.0
+Jap Name: ネコリンゴ
+En Name: Apple Cat
+Jp Desc: 川から流れてきた巨大なリンゴを身にまとったキャラクター赤い敵の動きをごくたまに一瞬止める
+En Desc: Found a giant apple floating in a river.Decided to use that as a costume.Might stop Red Enemies.
+Abilities: Red:Freeze
+Combos: 	みかんとリンゴ|Apples and Oranges  - ['015', '040']
+Stats: 	health - 2250.000
+	knockback - 3
+	attackRateF - 96
+	attackRateS - 3.20
+	attackPower - 475.000
+	movementSpeed - 12
+	attackAnimF - 6
+	attackAnimS - 0.20
+	range - 180
+	respawnTimeF - 386
+	respawnTimeS - 12.87
+	attackType - 単体(Single Attack)
+	cost - 825
+
+
+Evolved:
+Version: Ver2.0
+Jap Name: カオルくん
+En Name: Face Cat
+Jp Desc: 道ばたに落ちていた何かの残骸を身にまとったキャラクター赤い敵の動きをごくたまに一瞬止める
+En Desc: Found a giant head sitting on the road.Decided to use that as a costume.Might stop Red enemies.
+Abilities: Red:Freeze
+Combos: 
+Stats: 	health - 3000.000
+	knockback - 3
+	attackRateF - 96
+	attackRateS - 3.20
+	attackPower - 975.000
+	movementSpeed - 12
+	attackAnimF - 6
+	attackAnimS - 0.20
+	range - 180
+	respawnTimeF - 386
+	respawnTimeS - 12.87
+	attackType - 単体(Single Attack)
+	cost - 825
+
+
+True:
+Version: Ver5.7
+Jap Name: ネコアップル
+En Name: iCat
+Jp Desc: カラフルな巨大リンゴを身にまとったキャラクタータートルネックの似合う彼のひらめきで世界が変わる赤い敵の動きを必ず止める（範囲攻撃）
+En Desc: Found a colorful apple near Silicon Valley while turtleneck shopping one day. Area attack 100% stop Red enemies
+Abilities: Red:Freeze
+Combos: 
+Stats: 	health - 3000.000
+	knockback - 3
+	attackRateF - 96
+	attackRateS - 3.20
+	attackPower - 975.000
+	movementSpeed - 12
+	attackAnimF - 6
+	attackAnimS - 0.20
+	range - 180
+	respawnTimeF - 386
+	respawnTimeS - 12.87
+	attackType - 範囲(Area Attack)
+	cost - 825
+
+

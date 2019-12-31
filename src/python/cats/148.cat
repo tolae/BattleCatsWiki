@@ -1,0 +1,71 @@
+148
+
+Normal:
+Version: Ver3.0
+Jap Name: ブリキネコ
+En Name: Tin Cat
+Jp Desc: 最高の先進技術をもって懐かしのおもちゃに魂を封じ込められたにゃんこごくたまに黒い敵をふっとばす
+En Desc: Cutting-edge firepower masked by the soulful nostalgia of yesteryear. Knocks back Black enemies once in a while.
+Abilities: Black:Knockback
+Combos: 	おもちゃのチャチャチャ|Toying Around - ['148', '128', '082']
+Stats: 	health - 1512.500
+	knockback - 3
+	attackRateF - 76
+	attackRateS - 2.53
+	attackPower - 192.647
+	movementSpeed - 8
+	attackAnimF - 25
+	attackAnimS - 0.83
+	range - 295
+	respawnTimeF - 206
+	respawnTimeS - 6.87
+	attackType - 単体(Single Attack)
+	cost - 510
+
+
+Evolved:
+Version: Ver3.0
+Jap Name: プレーンネコ
+En Name: Plane Cat
+Jp Desc: 大空を夢見たにゃんこが世界最高峰の技術者たちに改造を依頼した、いわば技術の集大成ごくたまに黒い敵をふっとばす
+En Desc: Dreaming of the skies, he allowed the Cat Army engineers to install top-class tech in his body. Knocks back Black enemies once in a while.
+Abilities: Black:Knockback
+Combos: 
+Stats: 	health - 1875.000
+	knockback - 3
+	attackRateF - 76
+	attackRateS - 2.53
+	attackPower - 267.647
+	movementSpeed - 15
+	attackAnimF - 25
+	attackAnimS - 0.83
+	range - 295
+	respawnTimeF - 206
+	respawnTimeS - 6.87
+	attackType - 単体(Single Attack)
+	cost - 510
+
+
+True:
+Version: Ver5.6
+Jap Name: ネコロボット
+En Name: Robocat
+Jp Desc: 悪の組織に捕えられ、闇の技術者に大改造された太陽光発電で動く不老不死の殺戮ネコ、弱点は雨ごくたまに黒い敵をふっとばす
+En Desc: Captured by an evil organization and remade to be an unstoppable, merciless android who knocks back Black. (So cute, though!)
+Abilities: Black:Knockback
+Combos: 
+Stats: 	health - 2237.500
+	knockback - 3
+	attackRateF - 76
+	attackRateS - 2.53
+	attackPower - 342.647
+	movementSpeed - 10
+	attackAnimF - 25
+	attackAnimS - 0.83
+	range - 345
+	respawnTimeF - 206
+	respawnTimeS - 6.87
+	attackType - 単体(Single Attack)
+	cost - 510
+
+

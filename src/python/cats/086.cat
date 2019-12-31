@@ -1,0 +1,71 @@
+086
+
+Normal:
+Version: 
+Jap Name: 竜騎士バルス
+En Name: Vars
+Jp Desc: 数千匹ものドラゴンを従えた伝説の竜騎士圧倒的な破壊力で敵を攻撃する（範囲攻撃）たまに黒い敵をふっとばして移動を遅くする
+En Desc: Legendary Dragon Knight Vars. (Area Attack) Has ridden over a thousand dragons. Might knock back and slow black enemies.
+Abilities: Black:Knockback,Slow
+Combos: 	騎士道と菓子道|Chilvary and Candy - ['086', '021']
+Stats: 	health - 9000.000
+	knockback - 3
+	attackRateF - 162
+	attackRateS - 5.40
+	attackPower - 3494.853
+	movementSpeed - 9
+	attackAnimF - 43
+	attackAnimS - 1.43
+	range - 445
+	respawnTimeF - 4346
+	respawnTimeS - 144.87
+	attackType - 範囲(Area Attack)
+	cost - 5,610
+
+
+Evolved:
+Version: 
+Jap Name: 竜騎士王バルス
+En Name: Dragon King Vars
+Jp Desc: 戦闘能力を強化させた伝説の竜騎士圧倒的な破壊力で敵を攻撃する（範囲攻撃）たまに黒い敵をふっとばして移動を遅くする
+En Desc: Legendary Dragon Knight Vars. (Area Attack) Vars now unleashes all of his power. Might knock back and slow black enemies.
+Abilities: Black:Knockback,Slow
+Combos: 
+Stats: 	health - 9000.000
+	knockback - 3
+	attackRateF - 162
+	attackRateS - 5.40
+	attackPower - 3494.853
+	movementSpeed - 9
+	attackAnimF - 43
+	attackAnimS - 1.43
+	range - 445
+	respawnTimeF - 4346
+	respawnTimeS - 144.87
+	attackType - 範囲(Area Attack)
+	cost - 5,610
+
+
+True:
+Version: Ver5.1
+Jap Name: 竜騎士皇帝バルス
+En Name: God-Emperor Vars
+Jp Desc: 特性「ふっとばす」強化
+En Desc: Legendary Knight who has mastered even the most savage mount to rain down Area Attacks. Might knockback and slow black enemies.
+Abilities: Black:Knockback,Slow
+Combos: 
+Stats: 	health - 11250.000
+	knockback - 3
+	attackRateF - 162
+	attackRateS - 5.40
+	attackPower - 4369.853
+	movementSpeed - 9
+	attackAnimF - 43
+	attackAnimS - 1.43
+	range - 460
+	respawnTimeF - 4346
+	respawnTimeS - 144.87
+	attackType - 範囲(Area Attack)
+	cost - 5,610
+
+

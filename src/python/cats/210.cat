@@ -1,0 +1,72 @@
+210
+
+Normal:
+Version: Ver4.2
+Jap Name: ちびネコ
+En Name: Li'l Cat
+Jp Desc: 安価で生産できる基本キャラを目指して成長中のちびにゃんこ
+En Desc: A tiny guy with dreams of becoming that Cat famous for cost-efficiency.
+Abilities: None:
+Combos: 	子ネコの友情|Childhood Friends - ['270', '210']
+	進撃のちびネコ|Attack of the Li'ls - ['210', '211', '212', '246', '247']
+Stats: 	health - 217.647
+	knockback - 3
+	attackRateF - 37
+	attackRateS - 1.23
+	attackPower - 43.382
+	movementSpeed - 8
+	attackAnimF - 8
+	attackAnimS - 0.27
+	range - 130
+	respawnTimeF - 60
+	respawnTimeS - 2.00
+	attackType - 単体(Single Attack)
+	cost - 75
+
+
+Evolved:
+Version: Ver4.2
+Jap Name: ちびネコビルダー
+En Name: Li'l Macho Cat
+Jp Desc: 鍛えぬいた筋肉がチャームポイントの基本キャラを目指して成長中のちびにゃんこ
+En Desc: A tiny guy with dreams of becoming that Cat famous for glorious glistening biceps.
+Abilities: None:
+Combos: 
+Stats: 	health - 217.647
+	knockback - 3
+	attackRateF - 37
+	attackRateS - 1.23
+	attackPower - 43.382
+	movementSpeed - 8
+	attackAnimF - 8
+	attackAnimS - 0.27
+	range - 130
+	respawnTimeF - 60
+	respawnTimeS - 2.00
+	attackType - 単体(Single Attack)
+	cost - 75
+
+
+True:
+Version: Ver5.10
+Jap Name: ちびネコモヒカン
+En Name: Li'l Mohawk Cat
+Jp Desc: 鍛えぬいた筋肉に男前なツンツンヘアがチャームポイントの基本キャラ贅肉を削ぎ落としコスパがよくなった
+En Desc: A tiny guy with dreams of becoming that Cat famous for a totally sweet hairdo. Trimmed down for best cost performance.
+Abilities: None:
+Combos: 
+Stats: 	health - 870.588
+	knockback - 3
+	attackRateF - 37
+	attackRateS - 1.23
+	attackPower - 87.059
+	movementSpeed - 8
+	attackAnimF - 8
+	attackAnimS - 0.27
+	range - 130
+	respawnTimeF - 96
+	respawnTimeS - 3.20
+	attackType - 単体(Single Attack)
+	cost - 45
+
+

@@ -1,0 +1,71 @@
+337
+
+Normal:
+Version: Ver6.0
+Jap Name: ミイラ娘レイカ
+En Name: Queen Reika
+Jp Desc: ガルズモンズコラボ
+En Desc: A royal mummy from a mystic past. Actually, she mummified herself by over-applying foundation. Massive damage vs Aliens/Zombies (Area Atk)
+Abilities: Alien,Zombie:Multi-Hit,Massive Damage,Zombie Killer
+Combos: 
+Stats: 	health - 5050.000
+	knockback - 4
+	attackRateF - 289
+	attackRateS - 9.63
+	attackPower - 4350.000
+	movementSpeed - 9
+	attackAnimF - 40
+	attackAnimS - 1.33
+	range - 450
+	respawnTimeF - 3746
+	respawnTimeS - 124.87
+	attackType - 範囲(Area Attack)
+	cost - 4,980
+
+
+Evolved:
+Version: Ver6.0
+Jap Name: 玉座のミイラ姫レイカ
+En Name: Pharoah Reika
+Jp Desc: ガルズモンズコラボ
+En Desc: She may have died from it, but overdoing makeup keeps her looking stunning even 5000 years later. Massive damage vs Aliens/Zombies (Area Atk)
+Abilities: Alien,Zombie:Multi-Hit,Massive Damage,Zombie Killer
+Combos: 
+Stats: 	health - 7200.000
+	knockback - 4
+	attackRateF - 289
+	attackRateS - 9.63
+	attackPower - 6200.000
+	movementSpeed - 9
+	attackAnimF - 40
+	attackAnimS - 1.33
+	range - 450
+	respawnTimeF - 3746
+	respawnTimeS - 124.87
+	attackType - 範囲(Area Attack)
+	cost - 4,980
+
+
+True:
+Version: Ver9.0
+Jap Name: 黄金のミイラ姫レイカ
+En Name: 336-3
+Jp Desc: ガルズモンズコラボ
+En Desc: Charismatic royal corpse who will crumble to dust if she ever leaves her prescription beauty throne. Massive damage to Aliens/Zombies (Area Attack)
+Abilities: Alien,Zombie:Multi-Hit,Massive Damage,Zombie Killer
+Combos: 
+Stats: 	health - 7200.000
+	knockback - 6
+	attackRateF - 205
+	attackRateS - 6.83
+	attackPower - 6200.000
+	movementSpeed - 9
+	attackAnimF - 40
+	attackAnimS - 1.33
+	range - 450
+	respawnTimeF - 3746
+	respawnTimeS - 124.87
+	attackType - 範囲(Area Attack)
+	cost - 4,980
+
+

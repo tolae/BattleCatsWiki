@@ -1,0 +1,59 @@
+267
+
+Normal:
+Version: Ver4.7
+Jap Name: ねば～る君
+En Name: Nebaaru-kun
+Jp Desc: ねば～る君コラボ
+En Desc: N/A
+Abilities: Float:Slow
+Combos: 
+Stats: 	health - 1525.000
+	knockback - 3
+	attackRateF - 133
+	attackRateS - 4.43
+	attackPower - 775.000
+	movementSpeed - 9
+	attackAnimF - 28
+	attackAnimS - 0.93
+	range - 225
+	respawnTimeF - 386
+	respawnTimeS - 12.87
+	attackType - 範囲(Area Attack)
+	cost - 900
+
+
+Evolved:
+Version: Ver4.7
+Jap Name: ねば～る君とにゃんこ
+En Name: Nebaaru-kun and Cat
+Jp Desc: ねば～る君コラボ
+En Desc: N/A
+Abilities: Float:Slow
+Combos: 
+Stats: 	health - 2050.000
+	knockback - 3
+	attackRateF - 133
+	attackRateS - 4.43
+	attackPower - 1050.000
+	movementSpeed - 9
+	attackAnimF - 28
+	attackAnimS - 0.93
+	range - 225
+	respawnTimeF - 386
+	respawnTimeS - 12.87
+	attackType - 範囲(Area Attack)
+	cost - 900
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

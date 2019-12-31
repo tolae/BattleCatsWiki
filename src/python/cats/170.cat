@@ -1,0 +1,72 @@
+170
+
+Normal:
+Version: 
+Jap Name: クビルガ
+En Name: Kubiluga
+Jp Desc: ネコなのか何なのか、まったく正体不明の謎のキャラクター進化させると…
+En Desc: Not sure if this is a Cat.... There's just something about that neck....
+Abilities: None:
+Combos: 
+Stats: 	health - 1250.000
+	knockback - 5
+	attackRateF - 82
+	attackRateS - 2.73
+	attackPower - 375.000
+	movementSpeed - 4
+	attackAnimF - 13
+	attackAnimS - 0.43
+	range - 140
+	respawnTimeF - 746
+	respawnTimeS - 24.87
+	attackType - 単体(Single Attack)
+	cost - 4,500
+
+
+Evolved:
+Version: 
+Jap Name: クビランパサラン
+En Name: Kubilan Pasalan
+Jp Desc: ネコなのか何なのか、まったく正体不明の謎のキャラクター敵をふっとばす波動を放つ
+En Desc: You can't be serious. Really?! Seems like this one can hit enemies from afar.
+Abilities: All (w/o Metal):Knockback,Wave Attack
+Combos: 	O・ZI・GI|Take a Bow  - ['002', '170']
+	ロングネック|Longnecks - ['005', '170']
+Stats: 	health - 3000.000
+	knockback - 1
+	attackRateF - 384
+	attackRateS - 12.80
+	attackPower - 125.000
+	movementSpeed - 4
+	attackAnimF - 105
+	attackAnimS - 3.50
+	range - 450
+	respawnTimeF - 9746
+	respawnTimeS - 324.87
+	attackType - 単体(Single Attack)
+	cost - 4,500
+
+
+True:
+Version: Ver6.6
+Jap Name: E・クビランパサラン
+En Name: E. Kubilan Pasalan
+Jp Desc: ネコなのかストリートで戦うスモウレスラーなのか、まったく正体不明の謎のキャラクター必ずクリティカルの波動を放つ
+En Desc: A mighty sumo wrestler who sharpened his expert skills fighting on the streets. Wave attacks with 100% Critical chance!
+Abilities: None:Critical,Wave Attack
+Combos: 
+Stats: 	health - 3000.000
+	knockback - 1
+	attackRateF - 384
+	attackRateS - 12.80
+	attackPower - 125.000
+	movementSpeed - 4
+	attackAnimF - 105
+	attackAnimS - 3.50
+	range - 450
+	respawnTimeF - 9746
+	respawnTimeS - 324.87
+	attackType - 単体(Single Attack)
+	cost - 4,500
+
+

@@ -1,0 +1,71 @@
+475
+
+Normal:
+Version: Ver8.5
+Jap Name: 十字架天使
+En Name: Crucifix Angel
+Jp Desc: ビックリマンコラボ
+En Desc: N/A
+Abilities: Red:Weaken
+Combos: 
+Stats: 	health - 952.941
+	knockback - 3
+	attackRateF - 220
+	attackRateS - 7.33
+	attackPower - 178.676
+	movementSpeed - 8
+	attackAnimF - 37
+	attackAnimS - 1.23
+	range - 400
+	respawnTimeF - 746
+	respawnTimeS - 24.87
+	attackType - 単体(Single Attack)
+	cost - 600
+
+
+Evolved:
+Version: Ver8.5
+Jap Name: クロスエンジェル
+En Name: Cross Angel
+Jp Desc: ビックリマンコラボ
+En Desc: N/A
+Abilities: Red,Black:Weaken
+Combos: 
+Stats: 	health - 1191.176
+	knockback - 3
+	attackRateF - 220
+	attackRateS - 7.33
+	attackPower - 198.529
+	movementSpeed - 8
+	attackAnimF - 37
+	attackAnimS - 1.23
+	range - 400
+	respawnTimeF - 746
+	respawnTimeS - 24.87
+	attackType - 単体(Single Attack)
+	cost - 600
+
+
+True:
+Version: Ver8.5
+Jap Name: ストライク天使
+En Name: Strike Angel
+Jp Desc: ビックリマンコラボ
+En Desc: N/A
+Abilities: Red,Black,Zombie:Weaken,Zombie Killer
+Combos: 
+Stats: 	health - 1429.412
+	knockback - 3
+	attackRateF - 220
+	attackRateS - 7.33
+	attackPower - 218.382
+	movementSpeed - 8
+	attackAnimF - 37
+	attackAnimS - 1.23
+	range - 400
+	respawnTimeF - 746
+	respawnTimeS - 24.87
+	attackType - 単体(Single Attack)
+	cost - 600
+
+

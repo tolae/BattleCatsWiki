@@ -1,0 +1,63 @@
+529
+
+Normal:
+Version: Ver9.1
+Jap Name: ネコサック
+En Name: Cossack Cat
+Jp Desc: 極寒の地で流行りのダンスをマスターしたネコダンスで鍛えた足技の破壊力は恐ろしや古代種に超ダメージを与える
+En Desc: A Cat of the steppes, master of the dance.
+Years of practice developed powerful thighs
+to deliver massive damage to Relics.
+Abilities: Ancient:Multi-Hit,Massive Damage,Immune to Curse
+Combos: 
+Stats: 	health - 1687.500
+	knockback - 2
+	attackRateF - 0
+	attackRateS - 0.00
+	attackPower - 225.000
+	movementSpeed - 11
+	attackAnimF - 1
+	attackAnimS - 0.03
+	range - 130
+	respawnTimeF - 146
+	respawnTimeS - 4.87
+	attackType - 単体(Single Attack)
+	cost - 600
+
+
+Evolved:
+Version: Ver9.1
+Jap Name: ネコウォッカ
+En Name: Vodka Cat
+Jp Desc: 自家製ウォッカを飲み狂うちょっとお偉い兵隊ネコ酔いが回ると見境なくダンスを踊りまくる古代種に超ダメージを与える
+En Desc: On fearsome winter nights, enjoys a powerful
+liquor to warm himself and enhance his
+leg power. Massive damage to Relics!
+Abilities: Ancient:Multi-Hit,Massive Damage,Immune to Curse
+Combos: 
+Stats: 	health - 2250.000
+	knockback - 2
+	attackRateF - 0
+	attackRateS - 0.00
+	attackPower - 300.000
+	movementSpeed - 11
+	attackAnimF - 1
+	attackAnimS - 0.03
+	range - 130
+	respawnTimeF - 146
+	respawnTimeS - 4.87
+	attackType - 単体(Single Attack)
+	cost - 600
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

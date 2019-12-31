@@ -1,0 +1,59 @@
+311
+
+Normal:
+Version: Ver5.6
+Jap Name: ネコナースキャンドル
+En Name: Yuletide Nurse
+Jp Desc: クリスマス限定スタイルの健気なナース（範囲攻撃）聖なる炎を灯したキャンドルであらゆるネコの為に祈る天使・エイリアンをたまにふっとばして移動を遅くする
+En Desc: Everyone's favorite Nurse is feeling the Xmas spirit! Praying for health with a lucky holiday candle. Might slow Angels/Aliens.
+Abilities: Angel,Alien:Knockback,Slow
+Combos: 
+Stats: 	health - 4000.000
+	knockback - 3
+	attackRateF - 198
+	attackRateS - 6.60
+	attackPower - 3825.000
+	movementSpeed - 9
+	attackAnimF - 99
+	attackAnimS - 3.30
+	range - 445
+	respawnTimeF - 3646
+	respawnTimeS - 121.53
+	attackType - 範囲(Area Attack)
+	cost - 4,350
+
+
+Evolved:
+Version: Ver5.6
+Jap Name: ネコナースマリア
+En Name: Yule Knight Nurse
+Jp Desc: クリスマス限定スタイルの聖なるナース（範囲攻撃）美しい燭台に思いを込めて希望の光を灯す天使・エイリアンをたまにふっとばして移動を遅くする
+En Desc: The warrior-nurse of Xmas mercy! Her sword shines brighter than any candle. Might slow Angels and Aliens.
+Abilities: Angel,Alien:Knockback,Slow
+Combos: 
+Stats: 	health - 6250.000
+	knockback - 3
+	attackRateF - 198
+	attackRateS - 6.60
+	attackPower - 5325.000
+	movementSpeed - 9
+	attackAnimF - 99
+	attackAnimS - 3.30
+	range - 445
+	respawnTimeF - 3646
+	respawnTimeS - 121.53
+	attackType - 範囲(Area Attack)
+	cost - 4,350
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

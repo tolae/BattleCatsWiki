@@ -1,0 +1,73 @@
+011
+
+Normal:
+Version: Ver1.0
+Jap Name: カンフーにゃんこ
+En Name: Kung Fu Cat
+Jp Desc: ミドルレンジからの絶対的な破壊力を秘めたカンフーマスター。しかも範囲攻撃
+En Desc: Mid-range attack specialist. (Area Attack) Can fight off multiple enemies at once.
+Abilities: None:
+Combos: 	師範といっしょ|Master-Apprentice - ['011', '133']
+	最強格闘技決定戦|Contest of Champs - ['326', '022', '011', '101']
+	腕自慢|Arm Day Everyday - ['009', '011', '010', '171']
+Stats: 	health - 2250.000
+	knockback - 1
+	attackRateF - 210
+	attackRateS - 7.00
+	attackPower - 2750.000
+	movementSpeed - 9
+	attackAnimF - 11
+	attackAnimS - 0.37
+	range - 300
+	respawnTimeF - 606
+	respawnTimeS - 20.20
+	attackType - 範囲(Area Attack)
+	cost - 2,250
+
+
+Evolved:
+Version: Ver1.0
+Jap Name: 酔拳にゃんこ
+En Name: Drunken Master Cat
+Jp Desc: 酔えば酔うほど強くなることを信じる、伝説のカンフーマスター。しかも範囲攻撃
+En Desc: Adopted Drunken Fist style? ...or just on a bender? (Area Attack)
+Abilities: None:Multi-Hit
+Combos: 	酒乱若人|Liver Trouble - ['080', '011']
+Stats: 	health - 2250.000
+	knockback - 1
+	attackRateF - 210
+	attackRateS - 7.00
+	attackPower - 3025.000
+	movementSpeed - 9
+	attackAnimF - 11
+	attackAnimS - 0.37
+	range - 300
+	respawnTimeF - 606
+	respawnTimeS - 20.20
+	attackType - 範囲(Area Attack)
+	cost - 2,250
+
+
+True:
+Version: 
+Jap Name: ネコダンサー
+En Name: Dancer Cat
+Jp Desc: 武と芸の両刀使いになった天才にゃんこ極度の人見知りのため後ろ向きに歩く方法を習得伝説となることでリーチを伸ばした（範囲攻撃）
+En Desc: A legendary dancer who infuses his strikes with fiery passion. So shy that he mastered walking backwards to avoid eye contact. (Area)
+Abilities: None:Immune to Weaken
+Combos: 	ダンサーズ|Feel the Dance - ['023', '033', '011']
+Stats: 	health - 2250.000
+	knockback - 1
+	attackRateF - 210
+	attackRateS - 7.00
+	attackPower - 3025.000
+	movementSpeed - 9
+	attackAnimF - 35
+	attackAnimS - 1.17
+	range - 330
+	respawnTimeF - 606
+	respawnTimeS - 20.20
+	attackType - 範囲(Area Attack)
+	cost - 2,250
+
+

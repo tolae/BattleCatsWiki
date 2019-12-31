@@ -1,0 +1,71 @@
+058
+
+Normal:
+Version: Ver2.0
+Jap Name: ネコシュバリエ
+En Name: Marauder Cat
+Jp Desc: 呪われた剣によって通常攻撃は強くはないがたまにクリティカル攻撃を出すことができるメタルキラーにゃんこ
+En Desc: Its cursed sword reduces the offensive power but might deliver critical hits. Known as the "Metal Killer".
+Abilities: None:Critical
+Combos: 	呪われた力|Cursed Strength - ['071', '058']
+Stats: 	health - 3250.000
+	knockback - 3
+	attackRateF - 150
+	attackRateS - 5.00
+	attackPower - 500.000
+	movementSpeed - 7
+	attackAnimF - 31
+	attackAnimS - 1.03
+	range - 195
+	respawnTimeF - 1446
+	respawnTimeS - 48.20
+	attackType - 単体(Single Attack)
+	cost - 2,250
+
+
+Evolved:
+Version: Ver2.0
+Jap Name: ネコベルセルク
+En Name: Berserker Cat
+Jp Desc: 呪われた剣によって我を忘れたメタルキラーにゃんこたまにクリティカル攻撃を出すことができる（範囲攻撃）
+En Desc: The cursed sword has taken over and turned the Cat into the Cursed Knight. Known as the "Dark Metal Knight".
+Abilities: None:Critical
+Combos: 
+Stats: 	health - 4500.000
+	knockback - 3
+	attackRateF - 150
+	attackRateS - 5.00
+	attackPower - 750.000
+	movementSpeed - 7
+	attackAnimF - 31
+	attackAnimS - 1.03
+	range - 195
+	respawnTimeF - 1446
+	respawnTimeS - 48.20
+	attackType - 範囲(Area Attack)
+	cost - 2,250
+
+
+True:
+Version: Ver5.3
+Jap Name: ネコパラディン
+En Name: Paladin Cat
+Jp Desc: 剣の呪縛から解放され真の力を取り戻したにゃんこ聖なる槍でメタルな敵を討ち滅ぼすたまにクリティカル攻撃を出すことができる（範囲攻撃）
+En Desc: This Cat's righteous heart finally conquered the cursed sword, turning it into a holy axe. Might critical attack. (Area Attack)
+Abilities: None:Critical,Immune to Knockback
+Combos: 
+Stats: 	health - 5750.000
+	knockback - 3
+	attackRateF - 150
+	attackRateS - 5.00
+	attackPower - 1000.000
+	movementSpeed - 7
+	attackAnimF - 31
+	attackAnimS - 1.03
+	range - 245
+	respawnTimeF - 1446
+	respawnTimeS - 48.20
+	attackType - 範囲(Area Attack)
+	cost - 2,250
+
+

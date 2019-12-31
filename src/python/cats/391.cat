@@ -1,0 +1,71 @@
+391
+
+Normal:
+Version: Ver6.8
+Jap Name: 早川あおい
+En Name: Aoi Hayakawa
+Jp Desc: 実況パワフルプロ野球コラボ
+En Desc: Dropping in from PowerPro Baseball! So bad at cooking she could burn water. Massive anti-Alien area damage.
+Abilities: Alien:Massive Damage
+Combos: 
+Stats: 	health - 2400.000
+	knockback - 2
+	attackRateF - 111
+	attackRateS - 3.70
+	attackPower - 1200.000
+	movementSpeed - 19
+	attackAnimF - 20
+	attackAnimS - 0.67
+	range - 200
+	respawnTimeF - 706
+	respawnTimeS - 23.53
+	attackType - 範囲(Area Attack)
+	cost - 1,320
+
+
+Evolved:
+Version: Ver6.8
+Jap Name: 早川あおいCC
+En Name: Aoi Hayakawa CC
+Jp Desc: 実況パワフルプロ野球コラボ
+En Desc: Dropping in from PowerPro Baseball! Her flaw is too much earnest naivete. Massive anti-Alien area damage.
+Abilities: Alien:Massive Damage
+Combos: 
+Stats: 	health - 3200.000
+	knockback - 2
+	attackRateF - 111
+	attackRateS - 3.70
+	attackPower - 1600.000
+	movementSpeed - 19
+	attackAnimF - 20
+	attackAnimS - 0.67
+	range - 200
+	respawnTimeF - 706
+	respawnTimeS - 23.53
+	attackType - 範囲(Area Attack)
+	cost - 1,320
+
+
+True:
+Version: Ver6.8
+Jap Name: 野球マン1号CC
+En Name: Baseball Mask α
+Jp Desc: 実況パワフルプロ野球コラボ
+En Desc: Dropping in from PowerPro Baseball! Secretly Aoi Hayakawa. Massive anti-Alien long range area damage.
+Abilities: Alien:Massive Damage,Long Distance (Area)
+Combos: 
+Stats: 	health - 3200.000
+	knockback - 2
+	attackRateF - 161
+	attackRateS - 5.37
+	attackPower - 1600.000
+	movementSpeed - 19
+	attackAnimF - 28
+	attackAnimS - 0.93
+	range - 275
+	respawnTimeF - 706
+	respawnTimeS - 23.53
+	attackType - 範囲(Area Attack)
+	cost - 1,320
+
+

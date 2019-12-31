@@ -1,0 +1,71 @@
+139
+
+Normal:
+Version: 
+Jap Name: かぐやひめ
+En Name: Princess Kaguya
+Jp Desc: 月からの使命を受けた美しきにゃんこいまはまだその素性を隠している天使とメタルな敵の動きをたまに遅くする（範囲攻撃）
+En Desc: Beautiful Cat on assignment from the Moon. Her true nature is still top secret... Might slow down Angel/Metal enemies (Area).
+Abilities: Metal,Angel:Slow
+Combos: 	槍試合|Spearfight - ['139', '025']
+Stats: 	health - 1125.000
+	knockback - 3
+	attackRateF - 45
+	attackRateS - 1.50
+	attackPower - 625.000
+	movementSpeed - 8
+	attackAnimF - 6
+	attackAnimS - 0.20
+	range - 280
+	respawnTimeF - 226
+	respawnTimeS - 7.53
+	attackType - 範囲(Area Attack)
+	cost - 600
+
+
+Evolved:
+Version: 
+Jap Name: 破壊衛星デスムーン
+En Name: The Death Moon
+Jp Desc: かつて世界を滅ぼしたと伝えられる宇宙戦を得意とする超古代兵器のひとつ天使とメタルな敵の動きをたまに遅くする（範囲攻撃）
+En Desc: A prototype of one of many Ancient Cat Weapons made from stolen blueprints. Might slow down Angel/Metal enemies (Area).
+Abilities: Metal,Angel:Slow
+Combos: 	アポロ|Apollo Mission - ['079', '139']
+Stats: 	health - 5500.000
+	knockback - 4
+	attackRateF - 277
+	attackRateS - 9.23
+	attackPower - 6000.000
+	movementSpeed - 7
+	attackAnimF - 98
+	attackAnimS - 3.27
+	range - 425
+	respawnTimeF - 4246
+	respawnTimeS - 141.53
+	attackType - 範囲(Area Attack)
+	cost - 4,800
+
+
+True:
+Version: Ver5.2
+Jap Name: 破壊衛星カオスムーン
+En Name: The Chaos Moon
+Jp Desc: 特性「ふっとばす」追加
+En Desc: Almost annihilated the galaxy once... Oops. That can happens when you design an AI with no conscience. Slows Angels/Metal (Area Atk).
+Abilities: Metal,Angel:Slow
+Combos: 
+Stats: 	health - 7000.000
+	knockback - 4
+	attackRateF - 277
+	attackRateS - 9.23
+	attackPower - 7500.000
+	movementSpeed - 7
+	attackAnimF - 98
+	attackAnimS - 3.27
+	range - 455
+	respawnTimeF - 4246
+	respawnTimeS - 141.53
+	attackType - 範囲(Area Attack)
+	cost - 4,800
+
+

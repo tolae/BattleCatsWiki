@@ -1,0 +1,71 @@
+326
+
+Normal:
+Version: Ver5.9
+Jap Name: ネコボクサー
+En Name: Welterweight Cat
+Jp Desc: 髪型がそれっぽいという理由だけでボクシング界にスカウトされたネコたまにゾンビをふっとばす
+En Desc: Successor to a legendary Japanese boxer. Looks the part, but he's always KO'ed in the 2nd round. Might knockback Zombies.
+Abilities: Zombie:Multi-Hit,Knockback,Zombie Killer
+Combos: 	最強格闘技決定戦|Contest of Champs - ['326', '022', '011', '101']
+Stats: 	health - 900.000
+	knockback - 3
+	attackRateF - 55
+	attackRateS - 1.83
+	attackPower - 192.206
+	movementSpeed - 9
+	attackAnimF - 2
+	attackAnimS - 0.07
+	range - 250
+	respawnTimeF - 286
+	respawnTimeS - 9.53
+	attackType - 単体(Single Attack)
+	cost - 540
+
+
+Evolved:
+Version: Ver5.9
+Jap Name: ネコチャンピオン
+En Name: Heavyweight Cat
+Jp Desc: 世界チャンピオンとの激しい死闘の末に髪が燃え尽き、アフロ芸人として転身を果たしたネコたまにゾンビをふっとばす
+En Desc: Unorthodox technique, sure, but this afro'd hero always gets up before the 10-count. Might knockback Zombies.
+Abilities: Zombie:Multi-Hit,Knockback,Zombie Killer
+Combos: 
+Stats: 	health - 1200.000
+	knockback - 3
+	attackRateF - 55
+	attackRateS - 1.83
+	attackPower - 247.353
+	movementSpeed - 9
+	attackAnimF - 2
+	attackAnimS - 0.07
+	range - 250
+	respawnTimeF - 286
+	respawnTimeS - 9.53
+	attackType - 単体(Single Attack)
+	cost - 540
+
+
+True:
+Version: Ver7.5
+Jap Name: ネコリベンジ
+En Name: Ectoweight Cat
+Jp Desc: 不屈の闘志でボクシング界へ再起を目指すネコ極限の減量によって覚醒…した幻覚が見え始めたたまにゾンビをふっとばす
+En Desc: Had a near death experience trying to lose weight for the next bout, then revived after absorbing ghostly energy. Might knockback Zombies.
+Abilities: Zombie:Multi-Hit,Knockback,Zombie Killer
+Combos: 
+Stats: 	health - 2400.000
+	knockback - 3
+	attackRateF - 55
+	attackRateS - 1.83
+	attackPower - 247.353
+	movementSpeed - 9
+	attackAnimF - 2
+	attackAnimS - 0.07
+	range - 280
+	respawnTimeF - 286
+	respawnTimeS - 9.53
+	attackType - 単体(Single Attack)
+	cost - 540
+
+

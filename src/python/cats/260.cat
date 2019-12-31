@@ -1,0 +1,59 @@
+260
+
+Normal:
+Version: Ver4.6
+Jap Name: 美女神アフロディーテ
+En Name: Radiant Aphrodite
+Jp Desc: 誇り高き愛と美と性をつかさどる女神美の神器「黄金の弓」は近距離攻撃出来ないが超射程を持ち、エイリアンに超ダメージを与える（遠方範囲攻撃）
+En Desc: Deity of beauty, pride, love and... other stuff. Her Golden Bow always strikes from afar. Deals massive damage to Aliens. (Long Distance)
+Abilities: Alien:Massive Damage,Long Distance (Area)
+Combos: 	愛に生きる者|Living in Love - ['101', '260']
+Stats: 	health - 4875.000
+	knockback - 4
+	attackRateF - 359
+	attackRateS - 11.97
+	attackPower - 4500.000
+	movementSpeed - 7
+	attackAnimF - 122
+	attackAnimS - 4.07
+	range - 600
+	respawnTimeF - 3946
+	respawnTimeS - 131.53
+	attackType - 範囲(Area Attack)
+	cost - 4,500
+
+
+Evolved:
+Version: Ver4.6
+Jap Name: メガロディーテ
+En Name: Megaphrodite
+Jp Desc: 誇り高き愛と美と性をつかさどる女神究極美の神器「黄金の神弓」が崩壊と蘇生をもたらすエイリアンに超ダメージを与える（遠方範囲攻撃）
+En Desc: Her Brilliant Bow can grant long life, or take it all away... watch your mouth around this goddess! Deals massive damage to Aliens. (Long Distance)
+Abilities: Alien:Massive Damage,Long Distance (Area)
+Combos: 
+Stats: 	health - 6500.000
+	knockback - 4
+	attackRateF - 359
+	attackRateS - 11.97
+	attackPower - 6000.000
+	movementSpeed - 7
+	attackAnimF - 122
+	attackAnimS - 4.07
+	range - 600
+	respawnTimeF - 3946
+	respawnTimeS - 131.53
+	attackType - 範囲(Area Attack)
+	cost - 4,500
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

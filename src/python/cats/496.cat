@@ -1,0 +1,63 @@
+496
+
+Normal:
+Version: Ver9.0
+Jap Name: ネコマタドール
+En Name: Matador Cat
+Jp Desc: オーレ！の掛け声で華麗に舞う勇敢な闘牛士にゃんこ赤いマントをひるがえし敵の攻撃をひらりとかわすたまに赤い敵からの攻撃を無効化する
+En Desc: Fearless bullfighter dodging danger with a hearty Olé!
+Pacifist at heart, his only weapon is his crimson cape.
+Has a chance to dodge Red attacks.
+Abilities: Red:Multi-Hit
+Combos: 
+Stats: 	health - 1687.500
+	knockback - 3
+	attackRateF - 86
+	attackRateS - 2.87
+	attackPower - 350.000
+	movementSpeed - 14
+	attackAnimF - 34
+	attackAnimS - 1.13
+	range - 190
+	respawnTimeF - 126
+	respawnTimeS - 4.20
+	attackType - 単体(Single Attack)
+	cost - 540
+
+
+Evolved:
+Version: Ver9.0
+Jap Name: ネコフラメンコ
+En Name: Flamenco Cat
+Jp Desc: オーレ！の掛け声で華麗に舞う踊り子にゃんこ敵の攻撃も紳士のお誘いもひらりとかわすたまに赤い敵からの攻撃を無効化する
+En Desc: Graceful dancer dodging danger to hearty Olés!
+Well trained in the art of Dodging Red attacks (as
+well as unwanted advances from certain tomcats.)
+Abilities: Red:Multi-Hit
+Combos: 
+Stats: 	health - 2250.000
+	knockback - 3
+	attackRateF - 86
+	attackRateS - 2.87
+	attackPower - 475.000
+	movementSpeed - 14
+	attackAnimF - 34
+	attackAnimS - 1.13
+	range - 190
+	respawnTimeF - 126
+	respawnTimeS - 4.20
+	attackType - 単体(Single Attack)
+	cost - 540
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

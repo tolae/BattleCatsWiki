@@ -1,0 +1,59 @@
+331
+
+Normal:
+Version: Ver5.10
+Jap Name: 上杉謙信・春
+En Name: Springtime Kenshin
+Jp Desc: 春の陽気に酔いしれる戦国武将異国より伝わりし祭りを見よう見まねで楽しむ天使にめっぽう強く、必ずふっとばす（範囲攻撃）
+En Desc: Intoxicated by the warm weather and blooming flowers, she cruises around from picnic to picnic. Strong vs Angels, 100% knockback. (Area Atk)
+Abilities: Angel:Strong,Knockback
+Combos: 
+Stats: 	health - 7650.000
+	knockback - 3
+	attackRateF - 145
+	attackRateS - 4.83
+	attackPower - 2637.500
+	movementSpeed - 13
+	attackAnimF - 36
+	attackAnimS - 1.20
+	range - 410
+	respawnTimeF - 4346
+	respawnTimeS - 144.87
+	attackType - 範囲(Area Attack)
+	cost - 5,475
+
+
+Evolved:
+Version: Ver5.10
+Jap Name: 上杉謙信・春爛漫
+En Name: Full-Bloom Kenshin
+Jp Desc: 春の陽気で開放的になった戦国武将キュートな衣装で殿方の視線を絡めとる天使にめっぽう強く、必ずふっとばす（範囲攻撃）
+En Desc: Possessed by the spirit of nature, she grows vibrant and lively as she relaxes in the sunshine. Strong vs Angels, 100% knockback. (Area Atk)
+Abilities: Angel:Strong,Knockback
+Combos: 
+Stats: 	health - 9050.000
+	knockback - 3
+	attackRateF - 145
+	attackRateS - 4.83
+	attackPower - 4305.147
+	movementSpeed - 13
+	attackAnimF - 36
+	attackAnimS - 1.20
+	range - 410
+	respawnTimeF - 4346
+	respawnTimeS - 144.87
+	attackType - 範囲(Area Attack)
+	cost - 5,475
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

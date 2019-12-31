@@ -1,0 +1,59 @@
+472
+
+Normal:
+Version: Ver8.5
+Jap Name: ヘラクライスト
+En Name: Herchrist
+Jp Desc: ビックリマンコラボ
+En Desc: ?
+Abilities: Float:Strong,Immune to Slow,Warp Blocker
+Combos: 
+Stats: 	health - 15000.000
+	knockback - 2
+	attackRateF - 237
+	attackRateS - 7.90
+	attackPower - 22500.000
+	movementSpeed - 4
+	attackAnimF - 116
+	attackAnimS - 3.87
+	range - 360
+	respawnTimeF - 2246
+	respawnTimeS - 74.87
+	attackType - 単体(Single Attack)
+	cost - 4,500
+
+
+Evolved:
+Version: Ver8.5
+Jap Name: 完璧ヘラクライスト
+En Name: Perfect Herchrist
+Jp Desc: ビックリマンコラボ
+En Desc: ?
+Abilities: Alien:Strong,Immune to Slow,Warp Blocker
+Combos: 
+Stats: 	health - 15000.000
+	knockback - 2
+	attackRateF - 237
+	attackRateS - 7.90
+	attackPower - 22500.000
+	movementSpeed - 4
+	attackAnimF - 116
+	attackAnimS - 3.87
+	range - 360
+	respawnTimeF - 2246
+	respawnTimeS - 74.87
+	attackType - 単体(Single Attack)
+	cost - 4,500
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

@@ -1,0 +1,71 @@
+099
+
+Normal:
+Version: 
+Jap Name: 狂乱のネコトカゲ
+En Name: Crazed Lizard Cat
+Jp Desc: 遠くの敵を攻撃できる遠距離型キャラ単発だけなら攻撃力はピカイチ狂乱となることでグラフィックが向上した
+En Desc: Able to attack enemies from a distance. Powerful single shot long range attack. Crazed version supports High Definition.
+Abilities: None:
+Combos: 	火の用心|Firewatch - ['008', '099', '204']
+Stats: 	health - 4050.000
+	knockback - 3
+	attackRateF - 127
+	attackRateS - 4.23
+	attackPower - 1800.000
+	movementSpeed - 10
+	attackAnimF - 8
+	attackAnimS - 0.27
+	range - 400
+	respawnTimeF - 516
+	respawnTimeS - 17.20
+	attackType - 単体(Single Attack)
+	cost - 1,500
+
+
+Evolved:
+Version: 
+Jap Name: 狂乱のネコドラゴン
+En Name: Crazed Dragon Cat
+Jp Desc: 幻想世界から降臨した遠距離型キャラ単発だけなら攻撃力はピカイチ狂乱となることでグラフィックが向上した
+En Desc: Found its way here from a fantasy world. Powerful single shot long range attack. Crazed version supports High Definition.
+Abilities: None:
+Combos: 	モヒカン愛好家|Mo' Hawks - ['001', '099']
+Stats: 	health - 4050.000
+	knockback - 3
+	attackRateF - 127
+	attackRateS - 4.23
+	attackPower - 1800.000
+	movementSpeed - 10
+	attackAnimF - 8
+	attackAnimS - 0.27
+	range - 400
+	respawnTimeF - 516
+	respawnTimeS - 17.20
+	attackType - 単体(Single Attack)
+	cost - 1,500
+
+
+True:
+Version: Ver5.0
+Jap Name: 大狂乱のネコキングドラゴン
+En Name: Manic King Dragon
+Jp Desc: ドラゴン界のエリートまで上り詰めた遠距離型キャラ単発だけなら攻撃力はピカイチ。大狂乱となることでさらにグラフィックが向上し、能力もアップした
+En Desc: Even his frenzy can't stop him from joining the ranks of the elite! His criticals and attack power are unmatched. At least he says so.
+Abilities: None:
+Combos: 
+Stats: 	health - 4050.000
+	knockback - 3
+	attackRateF - 127
+	attackRateS - 4.23
+	attackPower - 2200.000
+	movementSpeed - 10
+	attackAnimF - 8
+	attackAnimS - 0.27
+	range - 415
+	respawnTimeF - 516
+	respawnTimeS - 17.20
+	attackType - 単体(Single Attack)
+	cost - 1,500
+
+

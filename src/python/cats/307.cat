@@ -1,0 +1,71 @@
+307
+
+Normal:
+Version: Ver5.6
+Jap Name: 飛空襲撃ボンバーズ
+En Name: Mighty Bomburr
+Jp Desc: 誰も成しえなかった大空を手中に収めた先進兵器空からの無慈悲な爆撃は地上を混乱に陥れるゾンビを必ずふっとばす（範囲攻撃）
+En Desc: The spunky interns of Cat Corps of Engineers built a super sweet tactical aircraft. Area atks knock back Zombie enemies with ease.
+Abilities: Zombie:Knockback,Zombie Killer
+Combos: 	ペダリング|Pedal Powered - ['307', '018']
+Stats: 	health - 10000.000
+	knockback - 5
+	attackRateF - 189
+	attackRateS - 6.30
+	attackPower - 4500.000
+	movementSpeed - 10
+	attackAnimF - 60
+	attackAnimS - 2.00
+	range - 450
+	respawnTimeF - 5546
+	respawnTimeS - 184.87
+	attackType - 範囲(Area Attack)
+	cost - 4,950
+
+
+Evolved:
+Version: Ver5.6
+Jap Name: 飛行戦艦ボルボンバー
+En Name: NEK-0 Sky Fortress
+Jp Desc: 大空を制する鋼の鷹は志高きクルーを配備し極秘兵器NE-K02で確実に敵地を壊滅に追い込むゾンビを必ずふっとばす（範囲攻撃）
+En Desc: The ultimate aerial threat, dropping endless megatons of munition on ground threats. Area attacks deliver powerful knockback vs Zombies.
+Abilities: Zombie:Knockback,Zombie Killer
+Combos: 
+Stats: 	health - 10000.000
+	knockback - 5
+	attackRateF - 189
+	attackRateS - 6.30
+	attackPower - 4500.000
+	movementSpeed - 10
+	attackAnimF - 60
+	attackAnimS - 2.00
+	range - 450
+	respawnTimeF - 5546
+	respawnTimeS - 184.87
+	attackType - 範囲(Area Attack)
+	cost - 4,950
+
+
+True:
+Version: Ver8.4
+Jap Name: 超飛行戦艦ボルボンバー
+En Name: NEK-02 Air Citadel
+Jp Desc: 大空を支配した鋼の鷹はより高き志を掲げる究極兵器NE-K02改で理想の世界を作りだすゾンビを必ずふっとばす（範囲攻撃）
+En Desc: A force of total aerial domination and a key weapon in the Cat's quest to create an ideal world. Area attacks have powerful knockback vs Zombies.
+Abilities: Zombie:Knockback,Zombie Killer
+Combos: 
+Stats: 	health - 10500.000
+	knockback - 7
+	attackRateF - 189
+	attackRateS - 6.30
+	attackPower - 4500.000
+	movementSpeed - 10
+	attackAnimF - 60
+	attackAnimS - 2.00
+	range - 450
+	respawnTimeF - 5546
+	respawnTimeS - 184.87
+	attackType - 範囲(Area Attack)
+	cost - 4,950
+
+

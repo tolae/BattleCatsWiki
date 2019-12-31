@@ -1,0 +1,59 @@
+111
+
+Normal:
+Version: 
+Jap Name: セレス
+En Name: Seresu
+Jp Desc: メルクストーリアコラボ
+En Desc: N/A
+Abilities: Red:Slow
+Combos: 
+Stats: 	health - 980.147
+	knockback - 3
+	attackRateF - 65
+	attackRateS - 2.17
+	attackPower - 117.647
+	movementSpeed - 9
+	attackAnimF - 26
+	attackAnimS - 0.87
+	range - 200
+	respawnTimeF - 126
+	respawnTimeS - 4.20
+	attackType - 単体(Single Attack)
+	cost - 435
+
+
+Evolved:
+Version: 
+Jap Name: セレスCC
+En Name: SeresuCC
+Jp Desc: メルクストーリアコラボ
+En Desc: N/A
+Abilities: Red:Slow
+Combos: 
+Stats: 	health - 1330.147
+	knockback - 3
+	attackRateF - 65
+	attackRateS - 2.17
+	attackPower - 219.853
+	movementSpeed - 9
+	attackAnimF - 26
+	attackAnimS - 0.87
+	range - 200
+	respawnTimeF - 126
+	respawnTimeS - 4.20
+	attackType - 単体(Single Attack)
+	cost - 435
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

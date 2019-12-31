@@ -1,0 +1,59 @@
+068
+
+Normal:
+Version: Ver2.1
+Jap Name: チビガウ
+En Name: Chibigau
+Jp Desc: ケリ姫スイーツコラボ
+En Desc: N/A
+Abilities: Black:Resistant
+Combos: 
+Stats: 	health - 1500.000
+	knockback - 1
+	attackRateF - 115
+	attackRateS - 3.83
+	attackPower - 500.000
+	movementSpeed - 8
+	attackAnimF - 56
+	attackAnimS - 1.87
+	range - 110
+	respawnTimeF - 76
+	respawnTimeS - 2.53
+	attackType - 単体(Single Attack)
+	cost - 300
+
+
+Evolved:
+Version: Ver2.1
+Jap Name: チビガウガウ
+En Name: Chibigaugau
+Jp Desc: ケリ姫スイーツコラボ
+En Desc: N/A
+Abilities: Black:Resistant
+Combos: 
+Stats: 	health - 2000.000
+	knockback - 1
+	attackRateF - 115
+	attackRateS - 3.83
+	attackPower - 617.647
+	movementSpeed - 8
+	attackAnimF - 56
+	attackAnimS - 1.87
+	range - 110
+	respawnTimeF - 76
+	respawnTimeS - 2.53
+	attackType - 単体(Single Attack)
+	cost - 300
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

@@ -1,0 +1,59 @@
+244
+
+Normal:
+Version: Ver4.5
+Jap Name: 聖夜のシスターカッパー
+En Name: Holy Coppermine
+Jp Desc: クリスマス限定スタイルのマジカル美女放たれる聖なる光は悪しき力を打ち砕く（範囲攻撃）エイリアンと天使の動きをたまにしばらく止める
+En Desc: A sacred guardian, dressed up for Xmas! Her holy blessings obliterate evil! Might Stop Aliens/Angels (Area Atk.)
+Abilities: Angel,Alien:Freeze
+Combos: 
+Stats: 	health - 4050.000
+	knockback - 3
+	attackRateF - 189
+	attackRateS - 6.30
+	attackPower - 3225.000
+	movementSpeed - 7
+	attackAnimF - 100
+	attackAnimS - 3.33
+	range - 375
+	respawnTimeF - 1744
+	respawnTimeS - 58.13
+	attackType - 範囲(Area Attack)
+	cost - 3,720
+
+
+Evolved:
+Version: Ver4.5
+Jap Name: 聖夜のシスターカッパーκ
+En Name: Holy Coppermine, Type κ
+Jp Desc: めったに笑顔を見せない彼女だがクリスマスだけは慈愛に満ちた微笑みを浮かべる（範囲攻撃）エイリアンと天使の動きをたまにしばらく止める
+En Desc: A girl who never smiles, but Xmas spirit always brings a gentle smirk to her face. Might Stop Aliens/Angels (Area Atk.)
+Abilities: Angel,Alien:Freeze
+Combos: 
+Stats: 	health - 5750.000
+	knockback - 3
+	attackRateF - 189
+	attackRateS - 6.30
+	attackPower - 4375.000
+	movementSpeed - 7
+	attackAnimF - 100
+	attackAnimS - 3.33
+	range - 375
+	respawnTimeF - 1744
+	respawnTimeS - 58.13
+	attackType - 範囲(Area Attack)
+	cost - 3,720
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

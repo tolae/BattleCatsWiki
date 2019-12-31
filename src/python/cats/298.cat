@@ -1,0 +1,63 @@
+298
+
+Normal:
+Version: Ver5.5
+Jap Name: ネコマミ
+En Name: Mami Cat
+Jp Desc: 魔法少女まどか☆マギカコラボ
+En Desc: A wise guardian Cat who admires Magical Girls.
+Gets excited whenever she sees a pretty ribbon.
+Delivers massive damage to Angels.
+Abilities: Angel:Massive Damage
+Combos: 
+Stats: 	health - 2000.000
+	knockback - 4
+	attackRateF - 95
+	attackRateS - 3.17
+	attackPower - 600.000
+	movementSpeed - 9
+	attackAnimF - 16
+	attackAnimS - 0.53
+	range - 200
+	respawnTimeF - 196
+	respawnTimeS - 6.53
+	attackType - 単体(Single Attack)
+	cost - 645
+
+
+Evolved:
+Version: Ver5.5
+Jap Name: 魔法少女ネコマミ
+En Name: Magical Girl Mami Cat
+Jp Desc: 魔法少女まどか☆マギカコラボ
+En Desc: This Magical Cat made a contract with a suspicious
+white creature. Gets dizzy after using Trio Finale.
+Delivers massive damage to Angels.
+Abilities: Angel:Massive Damage
+Combos: 
+Stats: 	health - 2000.000
+	knockback - 4
+	attackRateF - 95
+	attackRateS - 3.17
+	attackPower - 600.000
+	movementSpeed - 9
+	attackAnimF - 20
+	attackAnimS - 0.67
+	range - 250
+	respawnTimeF - 196
+	respawnTimeS - 6.53
+	attackType - 単体(Single Attack)
+	cost - 645
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

@@ -1,0 +1,72 @@
+137
+
+Normal:
+Version: 
+Jap Name: ももたろう
+En Name: Momotaro
+Jp Desc: 自分より強いやつを探し求め旅をする日本一を目指す桃尻にゃんこ天使と赤い敵の動きをたまに止める（範囲攻撃）
+En Desc: On a quest to find anyone stronger than him. Aim for the top! Watch the fans... Might stop Angel/Red enemies (Area attack).
+Abilities: Red,Angel:Freeze
+Combos: 	はちまき|Headband - ['064', '071', '137']
+	モモとバナナ|Peach 'n Banana - ['137', '015']
+Stats: 	health - 1800.000
+	knockback - 3
+	attackRateF - 79
+	attackRateS - 2.63
+	attackPower - 765.000
+	movementSpeed - 10
+	attackAnimF - 20
+	attackAnimS - 0.67
+	range - 280
+	respawnTimeF - 146
+	respawnTimeS - 4.87
+	attackType - 範囲(Area Attack)
+	cost - 900
+
+
+Evolved:
+Version: 
+Jap Name: 爆走兄弟ピーチスター
+En Name: The Peach Angels
+Jp Desc: 旅をするうちに努力と結果は比例しないことを悟ったにゃんこ愚連隊天使と赤い敵の動きをたまに止める（範囲攻撃）
+En Desc: A road gang of wild cats who realized that effort and results are two different things. Might stop Angel/Red enemies (Area attack).
+Abilities: Red,Angel:Freeze
+Combos: 
+Stats: 	health - 8000.000
+	knockback - 4
+	attackRateF - 135
+	attackRateS - 4.50
+	attackPower - 1875.000
+	movementSpeed - 44
+	attackAnimF - 36
+	attackAnimS - 1.20
+	range - 405
+	respawnTimeF - 1746
+	respawnTimeS - 58.20
+	attackType - 範囲(Area Attack)
+	cost - 3,600
+
+
+True:
+Version: Ver5.0
+Jap Name: 爆走兄弟ピーチジャスティス
+En Name: The Peach Devils
+Jp Desc: 特性「攻撃力低下」追加
+En Desc: Ends may not justify the means, but they definitively justify owning a sweet ride. Might freeze Angel/Red enemies (Area attack).
+Abilities: Red,Angel:Freeze
+Combos: 
+Stats: 	health - 10000.000
+	knockback - 4
+	attackRateF - 135
+	attackRateS - 4.50
+	attackPower - 2875.000
+	movementSpeed - 48
+	attackAnimF - 36
+	attackAnimS - 1.20
+	range - 435
+	respawnTimeF - 1746
+	respawnTimeS - 58.20
+	attackType - 範囲(Area Attack)
+	cost - 3,600
+
+

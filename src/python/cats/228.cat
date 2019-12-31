@@ -1,0 +1,59 @@
+228
+
+Normal:
+Version: Ver4.3
+Jap Name: にゃんぷきん
+En Name: Pumpcat
+Jp Desc: カボチャランタンをかぶったハロウィンにゃんこ火をともしに来た人を驚かせてイタズラするのが生きがい
+En Desc: A mischievious cat who hid inside a carved autumn squash. Lives to startle unsuspecting passersby.
+Abilities: None:
+Combos: 
+Stats: 	health - 300.000
+	knockback - 2
+	attackRateF - 44
+	attackRateS - 1.47
+	attackPower - 19.853
+	movementSpeed - 8
+	attackAnimF - 15
+	attackAnimS - 0.50
+	range - 140
+	respawnTimeF - 60
+	respawnTimeS - 2.00
+	attackType - 単体(Single Attack)
+	cost - 90
+
+
+Evolved:
+Version: Ver4.3
+Jap Name: ねこランタン
+En Name: Cat O'Lantern
+Jp Desc: イタズラばかりしたのでこの世をさまようことになったおばけにゃんこ、それでも懲りないにくいやつごくたまに黒い敵の動きを一瞬止める
+En Desc: Those who live only for pranks become cursed to wander the world as ghosts... but they still never learn. Might stop Black enemies briefly.
+Abilities: Black:Freeze
+Combos: 	カボチャパンツ|Pumpkinpants - ['004', '228']
+Stats: 	health - 975.000
+	knockback - 3
+	attackRateF - 183
+	attackRateS - 6.10
+	attackPower - 384.853
+	movementSpeed - 10
+	attackAnimF - 24
+	attackAnimS - 0.80
+	range - 350
+	respawnTimeF - 106
+	respawnTimeS - 3.53
+	attackType - 単体(Single Attack)
+	cost - 840
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

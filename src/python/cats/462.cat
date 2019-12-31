@@ -1,0 +1,59 @@
+462
+
+Normal:
+Version: Ver8.3
+Jap Name: レジェルガ
+En Name: Legeluga
+Jp Desc: 倒された時、独自グラフィック（アニメーション）
+En Desc: Not sure if this is a Cat… There's just something about that pandimensional crystal...
+Abilities: None:
+Combos: 
+Stats: 	health - 1250.000
+	knockback - 5
+	attackRateF - 150
+	attackRateS - 5.00
+	attackPower - 375.000
+	movementSpeed - 4
+	attackAnimF - 7
+	attackAnimS - 0.23
+	range - 140
+	respawnTimeF - 9746
+	respawnTimeS - 324.87
+	attackType - 単体(Single Attack)
+	cost - 4,500
+
+
+Evolved:
+Version: Ver8.3
+Jap Name: レジェランパサラン
+En Name: Legelan Pasalan
+Jp Desc: 倒された時、独自グラフィック（アニメーション）
+En Desc: Gaze upon its might and tremble! There's no doubt that this one is immune to Wave damage (Omni-Strike)
+Abilities: None:Long Distance (Omni),Immune to Waves,Immune to Knockback,Immune to Freeze,Immune to Slow,Immune to Weaken,Warp Blocker
+Combos: 
+Stats: 	health - 7500.000
+	knockback - 5
+	attackRateF - 105
+	attackRateS - 3.50
+	attackPower - 6250.000
+	movementSpeed - 20
+	attackAnimF - 5
+	attackAnimS - 0.17
+	range - 300
+	respawnTimeF - 3746
+	respawnTimeS - 124.87
+	attackType - 範囲(Area Attack)
+	cost - 4,500
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

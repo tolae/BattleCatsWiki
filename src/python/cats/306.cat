@@ -1,0 +1,71 @@
+306
+
+Normal:
+Version: Ver5.6
+Jap Name: 古代軍船ガレーズ
+En Name: Mighty Drednot
+Jp Desc: かつて北の海を荒らしまわった海賊の末裔達先祖が隠したという秘宝を探して世界の海を渡り歩く赤い敵とゾンビに超ダメージを与える（範囲攻撃）
+En Desc: The spunky interns of Cat Corps of Engineers built a retro battleship for marine dominance! Area atks deliver huge damage vs Red enemies.
+Abilities: Red,Zombie:Massive Damage,Zombie Killer
+Combos: 
+Stats: 	health - 12000.000
+	knockback - 3
+	attackRateF - 395
+	attackRateS - 13.17
+	attackPower - 9500.000
+	movementSpeed - 7
+	attackAnimF - 114
+	attackAnimS - 3.80
+	range - 440
+	respawnTimeF - 5346
+	respawnTimeS - 178.20
+	attackType - 範囲(Area Attack)
+	cost - 4,800
+
+
+Evolved:
+Version: Ver5.6
+Jap Name: 無敵艦隊シーガレオン
+En Name: B.C.S. Lionheart
+Jp Desc: エリート海兵UMINEKOを総動員した超巨大戦艦極秘技術で製造されたドリルはいかなる装甲も打ち破る赤い敵とゾンビに超ダメージを与える（範囲攻撃）
+En Desc: Boasting a complement of elite marines and a drill able to punch through any hull, the Lionheart delivers huge area damage vs Reds and Zombies.
+Abilities: Red,Zombie:Massive Damage,Zombie Killer
+Combos: 	魚群発見！！|Marine Tours - ['306', '007', '312']
+Stats: 	health - 12000.000
+	knockback - 3
+	attackRateF - 395
+	attackRateS - 13.17
+	attackPower - 9500.000
+	movementSpeed - 7
+	attackAnimF - 114
+	attackAnimS - 3.80
+	range - 440
+	respawnTimeF - 5346
+	respawnTimeS - 178.20
+	attackType - 範囲(Area Attack)
+	cost - 4,800
+
+
+True:
+Version: Ver8.4
+Jap Name: 超無敵艦隊シーガレオン
+En Name: B.C.S. Tigerclaw
+Jp Desc: 特性「攻撃無効」追加
+En Desc: Cat Army Special Forces use this Nekonium drill-equipped destroyer to stage marine assults.Huge area damage vs Reds and Zombies
+Abilities: Red,Zombie:Massive Damage,Zombie Killer
+Combos: 
+Stats: 	health - 12000.000
+	knockback - 3
+	attackRateF - 303
+	attackRateS - 10.10
+	attackPower - 9500.000
+	movementSpeed - 7
+	attackAnimF - 114
+	attackAnimS - 3.80
+	range - 440
+	respawnTimeF - 5346
+	respawnTimeS - 178.20
+	attackType - 範囲(Area Attack)
+	cost - 4,800
+
+

@@ -1,0 +1,59 @@
+364
+
+Normal:
+Version: Ver6.6
+Jap Name: 遠坂 凛
+En Name: Rin Tohsaka
+Jp Desc: 劇場版 Fate stay nightコラボ
+En Desc: Joining the fight from Fate/stay night [HF]! Seeks the Holy Grail with her summoned Archer. Chance to knockback Aliens/Zombies, with Area Attack!
+Abilities: Alien,Zombie:Knockback,Zombie Killer
+Combos: 
+Stats: 	health - 4625.000
+	knockback - 4
+	attackRateF - 201
+	attackRateS - 6.70
+	attackPower - 3750.000
+	movementSpeed - 11
+	attackAnimF - 88
+	attackAnimS - 2.93
+	range - 450
+	respawnTimeF - 3746
+	respawnTimeS - 124.87
+	attackType - 範囲(Area Attack)
+	cost - 4,260
+
+
+Evolved:
+Version: Ver6.6
+Jap Name: 遠坂 凛CC
+En Name: Rin Tohsaka CC
+Jp Desc: 劇場版 Fate stay nightコラボ
+En Desc: Joining the fight from Fate/stay night [HF]! Classmate of Shirou, heir to the Tohsaka lineage. Chance to knockback Aliens/Zombies, with Area Attack!
+Abilities: Alien,Zombie:Knockback,Zombie Killer
+Combos: 
+Stats: 	health - 6500.000
+	knockback - 4
+	attackRateF - 201
+	attackRateS - 6.70
+	attackPower - 5250.000
+	movementSpeed - 11
+	attackAnimF - 88
+	attackAnimS - 2.93
+	range - 450
+	respawnTimeF - 3746
+	respawnTimeS - 124.87
+	attackType - 範囲(Area Attack)
+	cost - 4,260
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

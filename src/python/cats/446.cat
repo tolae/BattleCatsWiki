@@ -1,0 +1,59 @@
+446
+
+Normal:
+Version: Ver8.0
+Jap Name: 戦隊チョキンドス
+En Name: Cutter Cat
+Jp Desc: 地底戦隊グランドンの切る担当と調理担当高速の食材カットマシン！赤い敵に超ダメージを与え体力低下で攻撃力が上昇、必ず生き残る（範囲攻撃）
+En Desc: Does double duty cutting and cooking for the Grandon Cats. Huge area damage vs red, Survives, gets stronger after taking damage.
+Abilities: Red:Massive Damage,Strengthen,Survive,Immune to Weaken
+Combos: 
+Stats: 	health - 600.000
+	knockback - 1
+	attackRateF - 121
+	attackRateS - 4.03
+	attackPower - 500.000
+	movementSpeed - 50
+	attackAnimF - 1
+	attackAnimS - 0.03
+	range - 170
+	respawnTimeF - 1246
+	respawnTimeS - 41.53
+	attackType - 範囲(Area Attack)
+	cost - 750
+
+
+Evolved:
+Version: Ver8.0
+Jap Name: 戦隊パワーチョキンドス
+En Name: Power Cutter Cat
+Jp Desc: 地底戦隊グランドンの切る担当と調理担当IH調理器具導入で効率UP！赤い敵に超ダメージを与え体力低下で攻撃力が上昇、必ず生き残る（範囲攻撃）
+En Desc: Gained a cutting-edge stove-top for more efficient meal prep. Huge Area damage vs Red, Survives, gets stronger after taking damage.
+Abilities: Red:Massive Damage,Strengthen,Survive,Immune to Weaken
+Combos: 
+Stats: 	health - 750.000
+	knockback - 1
+	attackRateF - 121
+	attackRateS - 4.03
+	attackPower - 625.000
+	movementSpeed - 50
+	attackAnimF - 1
+	attackAnimS - 0.03
+	range - 170
+	respawnTimeF - 1246
+	respawnTimeS - 41.53
+	attackType - 範囲(Area Attack)
+	cost - 750
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

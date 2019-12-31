@@ -1,0 +1,59 @@
+280
+
+Normal:
+Version: Ver5.2
+Jap Name: 白ネコなめこ
+En Name: White Cat
+Jp Desc: NEOなめこ栽培キットコラボ
+En Desc: Loves long baths in miso soup, always barely escaping when served. Master of powerful single strikes.
+Abilities: None:
+Combos: 
+Stats: 	health - 1000.000
+	knockback - 3
+	attackRateF - 113
+	attackRateS - 3.77
+	attackPower - 300.000
+	movementSpeed - 12
+	attackAnimF - 52
+	attackAnimS - 1.73
+	range - 175
+	respawnTimeF - 106
+	respawnTimeS - 3.53
+	attackType - 単体(Single Attack)
+	cost - 660
+
+
+Evolved:
+Version: Ver5.2
+Jap Name: キモ白ネコなめこ
+En Name: Gross White Cat
+Jp Desc: NEOなめこ栽培キットコラボ
+En Desc: A new brand of Cat Food caused some strange new growth patterns. Master of powerful single strikes.
+Abilities: None:
+Combos: 
+Stats: 	health - 1000.000
+	knockback - 3
+	attackRateF - 131
+	attackRateS - 4.37
+	attackPower - 300.000
+	movementSpeed - 12
+	attackAnimF - 52
+	attackAnimS - 1.73
+	range - 350
+	respawnTimeF - 106
+	respawnTimeS - 3.53
+	attackType - 単体(Single Attack)
+	cost - 660
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

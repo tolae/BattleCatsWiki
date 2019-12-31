@@ -1,0 +1,59 @@
+437
+
+Normal:
+Version: Ver7.2
+Jap Name: ノビルガ
+En Name: Nobiluga
+Jp Desc: ネコなのか何なのか、まったく正体不明の謎のキャラクター進化させると…
+En Desc: Not sure if this is a Cat... There's just something about that cool 'stache...
+Abilities: None:
+Combos: 	伸縮性と弾力性|Soft and Flexible - ['437', '177']
+Stats: 	health - 1250.000
+	knockback - 5
+	attackRateF - 82
+	attackRateS - 2.73
+	attackPower - 375.000
+	movementSpeed - 4
+	attackAnimF - 13
+	attackAnimS - 0.43
+	range - 140
+	respawnTimeF - 746
+	respawnTimeS - 24.87
+	attackType - 単体(Single Attack)
+	cost - 4,500
+
+
+Evolved:
+Version: Ver7.2
+Jap Name: ノビランパサラン
+En Name: Nobilan Pasalan
+Jp Desc: ネコなのか何なのか、まったく正体不明の謎のキャラクター波動によるダメージを無効にする（遠方範囲攻撃）
+En Desc: I can't stand it anymore... Seems like this one is immune to Wave attacks.
+Abilities: None:Multi-Hit,Long Distance (Area),Immune to Waves,Immune to Knockback,Immune to Freeze,Immune to Slow,Immune to Weaken,Warp Blocker,Immune to Curse
+Combos: 
+Stats: 	health - 4500.000
+	knockback - 1
+	attackRateF - 429
+	attackRateS - 14.30
+	attackPower - 6000.000
+	movementSpeed - 4
+	attackAnimF - 47
+	attackAnimS - 1.57
+	range - 500
+	respawnTimeF - 9746
+	respawnTimeS - 324.87
+	attackType - 範囲(Area Attack)
+	cost - 4,500
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

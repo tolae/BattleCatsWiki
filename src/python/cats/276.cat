@@ -1,0 +1,59 @@
+276
+
+Normal:
+Version: Ver5.2
+Jap Name: 真夏のホワイトラビット
+En Name: Midsummer Rabbit
+Jp Desc: 夏限定スタイル！秘密警察「ラビッツ」のメンバー最強のコスプレは水着だと悟ったコスプレ刑事天使と黒い敵の動きを必ず遅くする（範囲攻撃）
+En Desc: Wearing her undercover(?) Rabbit uniform, used for tracking villains on sunny Mediterranean beaches. 100% Slow against Angels/Black (Area Attack)
+Abilities: Black,Angel:Slow
+Combos: 
+Stats: 	health - 7200.000
+	knockback - 6
+	attackRateF - 282
+	attackRateS - 9.40
+	attackPower - 5700.000
+	movementSpeed - 11
+	attackAnimF - 43
+	attackAnimS - 1.43
+	range - 465
+	respawnTimeF - 3946
+	respawnTimeS - 131.53
+	attackType - 範囲(Area Attack)
+	cost - 4,950
+
+
+Evolved:
+Version: Ver5.2
+Jap Name: 真夏のブラックキャット
+En Name: Midsummer Cat
+Jp Desc: ハニートラップ強化中！暗殺黒猫団「キャッツ」の一員波打ち際でも決して足跡を残さない妖艶な殺し屋天使と黒い敵にめっぽう強い（範囲攻撃）
+En Desc: After identifying the target, she slips into another summer outfit made for stealth. Time to move in for the kill! Strong against Angels/Black (Area Atk)
+Abilities: Black,Angel:Strong
+Combos: 
+Stats: 	health - 7200.000
+	knockback - 6
+	attackRateF - 282
+	attackRateS - 9.40
+	attackPower - 5700.000
+	movementSpeed - 11
+	attackAnimF - 43
+	attackAnimS - 1.43
+	range - 465
+	respawnTimeF - 3946
+	respawnTimeS - 131.53
+	attackType - 範囲(Area Attack)
+	cost - 4,950
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

@@ -1,0 +1,73 @@
+073
+
+Normal:
+Version: Ver2.1
+Jap Name: 前田慶次
+En Name: Maeda Keiji
+Jp Desc: 伝説の武具「にゃん籠手」の呪いによって虎の姿へと変えられた戦国武将（範囲攻撃）黒い敵に打たれ強く、体力減少で攻撃力大幅上昇
+En Desc: A warrior that was transformed by the Legendary Cat Armour into a Tiger-type General (Area Attack). Resistant to Black, more damage when hurt.
+Abilities: Black:Resistant,Strengthen
+Combos: 
+Stats: 	health - 3750.000
+	knockback - 2
+	attackRateF - 190
+	attackRateS - 6.33
+	attackPower - 1625.000
+	movementSpeed - 8
+	attackAnimF - 11
+	attackAnimS - 0.37
+	range - 250
+	respawnTimeF - 2046
+	respawnTimeS - 68.20
+	attackType - 範囲(Area Attack)
+	cost - 3,585
+
+
+Evolved:
+Version: Ver2.1
+Jap Name: 武神・前田慶次
+En Name: Wargod Keiji
+Jp Desc: 伝説の武具「にゃん籠手」の呪いによって頭から桜の木が生えてきた（範囲攻撃）黒い敵に打たれ強く、体力減少で攻撃力大幅上昇
+En Desc: The Legendary Cat Armor evolved and sprouted a Cherry Tree from his head (Area Attack). Resistant to Black, more damage when hurt.
+Abilities: Black:Resistant,Strengthen
+Combos: 	オハナガサイタ|In Bloom - ['073', '128']
+	斧の達人|Choppers  - ['014', '003', '073']
+	花見|Blossoming - ['073', '080']
+Stats: 	health - 9500.000
+	knockback - 2
+	attackRateF - 190
+	attackRateS - 6.33
+	attackPower - 3250.000
+	movementSpeed - 8
+	attackAnimF - 11
+	attackAnimS - 0.37
+	range - 250
+	respawnTimeF - 2046
+	respawnTimeS - 68.20
+	attackType - 範囲(Area Attack)
+	cost - 3,585
+
+
+True:
+Version: Ver5.0
+Jap Name: 憤怒の武神・前田慶次
+En Name: Immortal Keiji
+Jp Desc: 特性「攻撃力上昇」強化
+En Desc: As the cherries blossom, so does Keiji's battle fury. Resistant to Black, immune to Wave attacks. Area attacks grow stronger as he takes damage.
+Abilities: Black:Resistant,Strengthen,Immune to Waves
+Combos: 
+Stats: 	health - 14500.000
+	knockback - 2
+	attackRateF - 110
+	attackRateS - 3.67
+	attackPower - 3250.000
+	movementSpeed - 8
+	attackAnimF - 11
+	attackAnimS - 0.37
+	range - 320
+	respawnTimeF - 2046
+	respawnTimeS - 68.20
+	attackType - 範囲(Area Attack)
+	cost - 3,585
+
+

@@ -1,0 +1,72 @@
+123
+
+Normal:
+Version: 
+Jap Name: 女王様の休日
+En Name: Vacation Queen
+Jp Desc: 普段はOLをしている中距離型キャラ今日は連休を利用してのバカンス中～｢赤い敵｣にめっぽう強い
+En Desc: A timid office worker and midrange attacker. Likes to break bad while on vacation! Fast attack and strong against Red enemies.
+Abilities: Red:Strong
+Combos: 
+Stats: 	health - 1747.353
+	knockback - 2
+	attackRateF - 197
+	attackRateS - 6.57
+	attackPower - 1450.000
+	movementSpeed - 6
+	attackAnimF - 78
+	attackAnimS - 2.60
+	range - 220
+	respawnTimeF - 186
+	respawnTimeS - 6.20
+	attackType - 単体(Single Attack)
+	cost - 1,440
+
+
+Evolved:
+Version: 
+Jap Name: いつものOL
+En Name: Office Lady Cat
+Jp Desc: 普段通り出勤してくるいつものOLもちろんアフター5は誰にも言えない｢赤い敵｣にめっぽう強い
+En Desc: Just like it says - a typical office worker. But what happens after work...? Fast attack speed, strong against Red enemies.
+Abilities: Red:Multi-Hit,Strong
+Combos: 	ムチ使い|Watch Me Whip - ['014', '123']
+	株式会社にゃんこ|Nyanko, Inc - ['071', '123']
+Stats: 	health - 1747.353
+	knockback - 2
+	attackRateF - 197
+	attackRateS - 6.57
+	attackPower - 1594.706
+	movementSpeed - 6
+	attackAnimF - 78
+	attackAnimS - 2.60
+	range - 220
+	respawnTimeF - 186
+	respawnTimeS - 6.20
+	attackType - 単体(Single Attack)
+	cost - 1,440
+
+
+True:
+Version: Ver5.2
+Jap Name: コールセンターのOL
+En Name: Call Center Cat
+Jp Desc: 普段通り仕事をしているいつものOL取引先の顧客と今日もアフター5にミーティング｢赤い敵｣にめっぽう強く、たまにふっとばす
+En Desc: Takes abuse from customers and bosses all day. After she clocks out, the story is very different... Strong against Red enemies, might knockback.
+Abilities: Red:Strong,Knockback
+Combos: 
+Stats: 	health - 1747.353
+	knockback - 2
+	attackRateF - 116
+	attackRateS - 3.87
+	attackPower - 1594.853
+	movementSpeed - 9
+	attackAnimF - 80
+	attackAnimS - 2.67
+	range - 250
+	respawnTimeF - 186
+	respawnTimeS - 6.20
+	attackType - 単体(Single Attack)
+	cost - 1,440
+
+

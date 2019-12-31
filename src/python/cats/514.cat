@@ -1,0 +1,63 @@
+514
+
+Normal:
+Version: Ver8.10.5
+Jap Name: ガイル
+En Name: Guile
+Jp Desc: ストリートファイターV AEコラボ
+En Desc: Joining the fight from Street Fighter V AE!
+Hardened soldier seeking peace for his home. 
+Tough vs Floating, 100% Slow/Weaken
+Abilities: Float:Multi-Hit,Resistant,Slow,Weaken
+Combos: 
+Stats: 	health - 8000.000
+	knockback - 2
+	attackRateF - 204
+	attackRateS - 6.80
+	attackPower - 5375.000
+	movementSpeed - 21
+	attackAnimF - 25
+	attackAnimS - 0.83
+	range - 380
+	respawnTimeF - 3746
+	respawnTimeS - 124.87
+	attackType - 範囲(Area Attack)
+	cost - 4,200
+
+
+Evolved:
+Version: Ver8.10.5
+Jap Name: ガイルCC
+En Name: Guile CC
+Jp Desc: ストリートファイターV AEコラボ
+En Desc: Joining the fight from Street Fighter V AE!
+Crush villains with a Somersault Kick! 
+Tough vs Floating, 100% Slow/Weaken
+Abilities: Float:Multi-Hit,Resistant,Slow,Weaken
+Combos: 
+Stats: 	health - 8000.000
+	knockback - 2
+	attackRateF - 204
+	attackRateS - 6.80
+	attackPower - 5375.000
+	movementSpeed - 21
+	attackAnimF - 25
+	attackAnimS - 0.83
+	range - 380
+	respawnTimeF - 3746
+	respawnTimeS - 124.87
+	attackType - 範囲(Area Attack)
+	cost - 4,200
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

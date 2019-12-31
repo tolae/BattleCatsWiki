@@ -1,0 +1,71 @@
+474
+
+Normal:
+Version: Ver8.5
+Jap Name: ヤマト王子
+En Name: Yamato Ouji
+Jp Desc: ビックリマンコラボ
+En Desc: N/A
+Abilities: Alien,Zombie:Massive Damage,Zombie Killer
+Combos: 
+Stats: 	health - 1000.000
+	knockback - 3
+	attackRateF - 131
+	attackRateS - 4.37
+	attackPower - 400.000
+	movementSpeed - 35
+	attackAnimF - 2
+	attackAnimS - 0.07
+	range - 250
+	respawnTimeF - 946
+	respawnTimeS - 31.53
+	attackType - 範囲(Area Attack)
+	cost - 900
+
+
+Evolved:
+Version: Ver8.5
+Jap Name: ヤマト神帝
+En Name: Holy Emperor Yamato
+Jp Desc: ビックリマンコラボ
+En Desc: N/A
+Abilities: Alien,Zombie:Massive Damage,Zombie Killer
+Combos: 
+Stats: 	health - 1125.000
+	knockback - 3
+	attackRateF - 131
+	attackRateS - 4.37
+	attackPower - 500.000
+	movementSpeed - 35
+	attackAnimF - 2
+	attackAnimS - 0.07
+	range - 250
+	respawnTimeF - 946
+	respawnTimeS - 31.53
+	attackType - 範囲(Area Attack)
+	cost - 900
+
+
+True:
+Version: Ver8.5
+Jap Name: ヤマト爆神
+En Name: Yamato Devil
+Jp Desc: ビックリマンコラボ
+En Desc: N/A
+Abilities: Alien,Zombie:Massive Damage,Zombie Killer
+Combos: 
+Stats: 	health - 1250.000
+	knockback - 3
+	attackRateF - 131
+	attackRateS - 4.37
+	attackPower - 600.000
+	movementSpeed - 35
+	attackAnimF - 2
+	attackAnimS - 0.07
+	range - 250
+	respawnTimeF - 946
+	respawnTimeS - 31.53
+	attackType - 範囲(Area Attack)
+	cost - 900
+
+

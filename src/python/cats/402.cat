@@ -1,0 +1,71 @@
+402
+
+Normal:
+Version: Ver6.9
+Jap Name: 雷の精霊ボルト
+En Name: Voli
+Jp Desc: 宇宙の果てからやって来た雷の精霊降り立った星に雷の源を宿すと言われているたまにエイリアンの動きを止める
+En Desc: Cosmic thunder, brought to life! Summons lightning for a chance to freeze Aliens with Area attacks.
+Abilities: Alien:Freeze,Warp Blocker
+Combos: 	暴走高圧バッテリー|High Voltage - ['402', '261']
+Stats: 	health - 2750.000
+	knockback - 3
+	attackRateF - 179
+	attackRateS - 5.97
+	attackPower - 1937.500
+	movementSpeed - 15
+	attackAnimF - 60
+	attackAnimS - 2.00
+	range - 320
+	respawnTimeF - 496
+	respawnTimeS - 16.53
+	attackType - 範囲(Area Attack)
+	cost - 1,125
+
+
+Evolved:
+Version: Ver6.9
+Jap Name: 天雷の精霊ピカボルト
+En Name: Volta
+Jp Desc: 月を引き裂くほどの迅雷を操る精霊荒れ狂うイカヅチはバリアをも貫く力を持つエイリアンに打たれ強く、動きを必ず止める
+En Desc: With lightning that rends the sky, it annihilates enemy Barriers. Freezes Aliens with Area attacks.
+Abilities: Alien:Resistant,Freeze,Barrier Breaker,Warp Blocker
+Combos: 
+Stats: 	health - 6500.000
+	knockback - 3
+	attackRateF - 179
+	attackRateS - 5.97
+	attackPower - 3687.500
+	movementSpeed - 20
+	attackAnimF - 60
+	attackAnimS - 2.00
+	range - 370
+	respawnTimeF - 2496
+	respawnTimeS - 83.20
+	attackType - 範囲(Area Attack)
+	cost - 3,825
+
+
+True:
+Version: Ver8.8
+Jap Name: 天雷の精霊王ギガボルト
+En Name: 401-3
+Jp Desc: 宇宙の果てまで照らす強大な力を持つ迅雷の精霊王宇宙を横断する雷光はバリアを貫く力を持ちエイリアンに打たれ強く、動きを必ず止める
+En Desc: A mighty spirit who channels power from the storm that will eventually consume the cosmos. Tough vs Aliens, 100% chance to Freeze.
+Abilities: Alien:Resistant,Freeze,Barrier Breaker,Warp Blocker
+Combos: 
+Stats: 	health - 8000.000
+	knockback - 3
+	attackRateF - 179
+	attackRateS - 5.97
+	attackPower - 5000.000
+	movementSpeed - 20
+	attackAnimF - 60
+	attackAnimS - 2.00
+	range - 370
+	respawnTimeF - 2496
+	respawnTimeS - 83.20
+	attackType - 範囲(Area Attack)
+	cost - 3,825
+
+

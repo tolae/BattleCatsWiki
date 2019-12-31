@@ -1,0 +1,71 @@
+078
+
+Normal:
+Version: Ver2.1
+Jap Name: ドロイド
+En Name: Droid Cat
+Jp Desc: Googleコラボ
+En Desc: A strong defensive cat modeled after a phone. A phone... really? Dances better than Tank Cat. Resistant to Metal attacks (Area Attack).
+Abilities: Metal:Resistant
+Combos: 
+Stats: 	health - 1257.353
+	knockback - 2
+	attackRateF - 251
+	attackRateS - 8.37
+	attackPower - 150.000
+	movementSpeed - 5
+	attackAnimF - 8
+	attackAnimS - 0.27
+	range - 110
+	respawnTimeF - 646
+	respawnTimeS - 21.53
+	attackType - 範囲(Area Attack)
+	cost - 150
+
+
+Evolved:
+Version: Ver2.1
+Jap Name: ニャンドロイド
+En Name: Droid Cat Mk2
+Jp Desc: Googleコラボ
+En Desc: The Cats managed to use magic marker. So now it's water resistant too. Resistant to Metal attacks (Area Attack).
+Abilities: Metal:Resistant
+Combos: 
+Stats: 	health - 1257.353
+	knockback - 2
+	attackRateF - 251
+	attackRateS - 8.37
+	attackPower - 150.000
+	movementSpeed - 5
+	attackAnimF - 8
+	attackAnimS - 0.27
+	range - 110
+	respawnTimeF - 646
+	respawnTimeS - 21.53
+	attackType - 範囲(Area Attack)
+	cost - 150
+
+
+True:
+Version: 
+Jap Name: ハルドロイド
+En Name: SpringDroid
+Jp Desc: Googleコラボ
+En Desc: A durable shield character in stylish seasonal colors. Made of all-new material for improved Resistance to metal enemies. (Area Attack)
+Abilities: Metal:Resistant
+Combos: 
+Stats: 	health - 1257.353
+	knockback - 2
+	attackRateF - 251
+	attackRateS - 8.37
+	attackPower - 150.000
+	movementSpeed - 5
+	attackAnimF - 8
+	attackAnimS - 0.27
+	range - 110
+	respawnTimeF - 346
+	respawnTimeS - 11.53
+	attackType - 範囲(Area Attack)
+	cost - 150
+
+

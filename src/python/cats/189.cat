@@ -1,0 +1,63 @@
+189
+
+Normal:
+Version: Ver3.8
+Jap Name: ミスティカ
+En Name: Misutika
+Jp Desc: メルクストーリアコラボ
+En Desc: Participation from Merc Storia!
+Mysterious Girl who contracted with "night creatures"
+Confoundedly long range, strong against Black Enemies.
+Abilities: Black:Strong
+Combos: 
+Stats: 	health - 3000.000
+	knockback - 3
+	attackRateF - 389
+	attackRateS - 12.97
+	attackPower - 2450.000
+	movementSpeed - 14
+	attackAnimF - 70
+	attackAnimS - 2.33
+	range - 690
+	respawnTimeF - 3846
+	respawnTimeS - 128.20
+	attackType - 範囲(Area Attack)
+	cost - 5,700
+
+
+Evolved:
+Version: Ver3.8
+Jap Name: ミスティカCC
+En Name: MisutikaCC
+Jp Desc: メルクストーリアコラボ
+En Desc: Participation from Merc Storia!
+It says, we're going to get dust by Touching that coffin of hers.
+Confoundedly long range, strong against Black Enemies.
+Abilities: Black:Strong
+Combos: 
+Stats: 	health - 3750.000
+	knockback - 3
+	attackRateF - 389
+	attackRateS - 12.97
+	attackPower - 3200.000
+	movementSpeed - 14
+	attackAnimF - 70
+	attackAnimS - 2.33
+	range - 690
+	respawnTimeF - 3846
+	respawnTimeS - 128.20
+	attackType - 範囲(Area Attack)
+	cost - 5,700
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

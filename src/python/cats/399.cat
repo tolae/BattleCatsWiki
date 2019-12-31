@@ -1,0 +1,59 @@
+399
+
+Normal:
+Version: Ver6.8
+Jap Name: ハニトンくん
+En Name: Honeyto-kun
+Jp Desc: パセラリゾーツコラボ
+En Desc: N/A
+Abilities: Alien:Strong
+Combos: 
+Stats: 	health - 1500.000
+	knockback - 2
+	attackRateF - 33
+	attackRateS - 1.10
+	attackPower - 165.000
+	movementSpeed - 9
+	attackAnimF - 8
+	attackAnimS - 0.27
+	range - 120
+	respawnTimeF - 226
+	respawnTimeS - 7.53
+	attackType - 単体(Single Attack)
+	cost - 300
+
+
+Evolved:
+Version: Ver6.8
+Jap Name: ハニトンくん＆にゃんこ
+En Name: Honeyto-Kun & Cat
+Jp Desc: パセラリゾーツコラボ
+En Desc: N/A
+Abilities: Alien:Strong
+Combos: 
+Stats: 	health - 1500.000
+	knockback - 2
+	attackRateF - 33
+	attackRateS - 1.10
+	attackPower - 165.000
+	movementSpeed - 9
+	attackAnimF - 8
+	attackAnimS - 0.27
+	range - 120
+	respawnTimeF - 226
+	respawnTimeS - 7.53
+	attackType - 単体(Single Attack)
+	cost - 300
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

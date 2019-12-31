@@ -1,0 +1,60 @@
+124
+
+Normal:
+Version: 
+Jap Name: マメマメにゃんこ
+En Name: Bean Cats
+Jp Desc: 仲良しにゃんこがマメの中で楽しく遊ぶごくたまに赤い敵をふっとばす
+En Desc: Said to also have the "MeowMeow" alias. Always play nice with each other. Might knock back Red enemies.
+Abilities: Red:Knockback
+Combos: 	二人一組|Team of Two - ['153', '082', '124', '105', '089']
+	完全一心同体|Two As One - ['352', '124']
+Stats: 	health - 637.500
+	knockback - 3
+	attackRateF - 99
+	attackRateS - 3.30
+	attackPower - 137.500
+	movementSpeed - 8
+	attackAnimF - 40
+	attackAnimS - 1.33
+	range - 230
+	respawnTimeF - 294
+	respawnTimeS - 9.80
+	attackType - 単体(Single Attack)
+	cost - 495
+
+
+Evolved:
+Version: 
+Jap Name: ラブラブにゃんこ
+En Name: Brah Cats
+Jp Desc: 仲良しにゃんこがフランス製女性下着の中で楽しく遊ぶごくたまに赤い敵をふっとばす
+En Desc: Earned the nickname "Sweater Brahs" when they traded their bean pod for fine French silk. Might knock back Red enemies.
+Abilities: Red:Knockback
+Combos: 	ブラパンツ|Lingerie Special - ['124', '016']
+Stats: 	health - 1009.853
+	knockback - 3
+	attackRateF - 99
+	attackRateS - 3.30
+	attackPower - 262.500
+	movementSpeed - 8
+	attackAnimF - 40
+	attackAnimS - 1.33
+	range - 230
+	respawnTimeF - 294
+	respawnTimeS - 9.80
+	attackType - 単体(Single Attack)
+	cost - 495
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

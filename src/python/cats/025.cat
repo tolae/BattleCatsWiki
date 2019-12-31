@@ -1,0 +1,72 @@
+025
+
+Normal:
+Version: Ver1.0
+Jap Name: ネコヴァルキリー
+En Name: Valkyrie Cat
+Jp Desc: 天界より降臨した戦う女神神さまから授かった最強の槍ニャングリルは敵をまとめて攻撃する（範囲攻撃）
+En Desc: Descended from the fields of Valhalla to provide salvation for the Battle Cats! Uses the Heavenly Spear Meownir. (Area Attack)
+Abilities: None:
+Combos: 	ライバル宣言|Rivalry - ['269', '025']
+	槍試合|Spearfight - ['139', '025']
+Stats: 	health - 3500.000
+	knockback - 2
+	attackRateF - 129
+	attackRateS - 4.30
+	attackPower - 1250.000
+	movementSpeed - 20
+	attackAnimF - 20
+	attackAnimS - 0.67
+	range - 350
+	respawnTimeF - 1946
+	respawnTimeS - 64.87
+	attackType - 範囲(Area Attack)
+	cost - 3,000
+
+
+Evolved:
+Version: Ver1.0
+Jap Name: ネコヴァルキリー・真
+En Name: True Valkyrie Cat
+Jp Desc: 真の姿にクラスチェンジした戦う女神ちなみに神さまがしつこく言い寄ってきて困っている敵をまとめて攻撃可能（範囲攻撃）
+En Desc: Changed to her final form. Troubled because God keeps hitting on her. Uses the Heavenly Spear Meownir. (Area Attack)
+Abilities: None:
+Combos: 
+Stats: 	health - 3500.000
+	knockback - 2
+	attackRateF - 129
+	attackRateS - 4.30
+	attackPower - 1250.000
+	movementSpeed - 20
+	attackAnimF - 20
+	attackAnimS - 0.67
+	range - 350
+	respawnTimeF - 1946
+	respawnTimeS - 64.87
+	attackType - 範囲(Area Attack)
+	cost - 3,000
+
+
+True:
+Version: 
+Jap Name: ネコヴァルキリー・聖
+En Name: Holy Valkyrie Cat
+Jp Desc: にゃんこ達の力で本来の姿を取り戻した戦う女神神さまから新たなる槍、聖ニャングリルを授かり敵を討つたまに敵をしばらく止める（範囲攻撃）
+En Desc: The curse is broken, and the savior of Catkind has returned! The restored Meownir pierces foes, freezing them in their tracks. (Area Attack)
+Abilities: All (w/o Metal):Freeze
+Combos: 	聖なる力|Blessed Strength - ['025', '085']
+Stats: 	health - 3500.000
+	knockback - 2
+	attackRateF - 129
+	attackRateS - 4.30
+	attackPower - 1800.000
+	movementSpeed - 20
+	attackAnimF - 20
+	attackAnimS - 0.67
+	range - 350
+	respawnTimeF - 1946
+	respawnTimeS - 64.87
+	attackType - 範囲(Area Attack)
+	cost - 3,000
+
+

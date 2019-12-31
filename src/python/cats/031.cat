@@ -1,0 +1,71 @@
+031
+
+Normal:
+Version: Ver2.0
+Jap Name: ネコぼさつ
+En Name: Bodhisattva Cat
+Jp Desc: 心を鍛えることで肉体をも強化させた奇跡のにゃんこ浮いてる敵の移動をたまに遅くする（範囲攻撃）
+En Desc: A Cat that has reached a state of peace and pushed its body beyond physical limits. Might slow Floating Enemies (Area Attack).
+Abilities: Float:Slow
+Combos: 	救いの手|Helping Hand - ['031', '010']
+Stats: 	health - 2400.000
+	knockback - 2
+	attackRateF - 74
+	attackRateS - 2.47
+	attackPower - 737.500
+	movementSpeed - 7
+	attackAnimF - 45
+	attackAnimS - 1.50
+	range - 270
+	respawnTimeF - 1186
+	respawnTimeS - 39.53
+	attackType - 範囲(Area Attack)
+	cost - 1,650
+
+
+Evolved:
+Version: Ver2.0
+Jap Name: ネコせんじゅ
+En Name: Avalokitesvara Cat
+Jp Desc: 鍛え上げた心と張りぼての腕を背中に装着した奇跡のにゃんこ浮いてる敵の移動をたまに遅くする（範囲攻撃）
+En Desc: A Bodhisattva Cat who has shown compassion to many and all Battle Cats. Might slow Floating Enemies (Area Attack).
+Abilities: Float:Slow
+Combos: 
+Stats: 	health - 2900.000
+	knockback - 2
+	attackRateF - 74
+	attackRateS - 2.47
+	attackPower - 1237.500
+	movementSpeed - 7
+	attackAnimF - 45
+	attackAnimS - 1.50
+	range - 270
+	respawnTimeF - 1186
+	respawnTimeS - 39.53
+	attackType - 範囲(Area Attack)
+	cost - 1,650
+
+
+True:
+Version: Ver5.0
+Jap Name: ネコにょらい
+En Name: Tathagata Cat
+Jp Desc: 特性「攻撃力低下」強化
+En Desc: Enlightened compassion flows from this Cat. But they say even the Buddha has a breaking point. Area attacks might weaken/slow Floating.
+Abilities: Float:Slow,Weaken
+Combos: 
+Stats: 	health - 2900.000
+	knockback - 2
+	attackRateF - 74
+	attackRateS - 2.47
+	attackPower - 1237.500
+	movementSpeed - 7
+	attackAnimF - 45
+	attackAnimS - 1.50
+	range - 300
+	respawnTimeF - 1186
+	respawnTimeS - 39.53
+	attackType - 範囲(Area Attack)
+	cost - 1,650
+
+

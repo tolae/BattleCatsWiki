@@ -1,0 +1,59 @@
+220
+
+Normal:
+Version: Ver4.3
+Jap Name: SV-001
+En Name: SV-001
+Jp Desc: メタルスラッグディフェンスコラボ
+En Desc: Recruited from Metal Slug Defense! A small, high-performance single-passenger tank. (Area Atk)
+Abilities: None:
+Combos: 
+Stats: 	health - 1400.000
+	knockback - 3
+	attackRateF - 64
+	attackRateS - 2.13
+	attackPower - 380.147
+	movementSpeed - 15
+	attackAnimF - 15
+	attackAnimS - 0.50
+	range - 355
+	respawnTimeF - 426
+	respawnTimeS - 14.20
+	attackType - 範囲(Area Attack)
+	cost - 1,365
+
+
+Evolved:
+Version: Ver4.3
+Jap Name: SV-001CC
+En Name: SV-001 CC
+Jp Desc: メタルスラッグディフェンスコラボ
+En Desc: Recruited from Metal Slug Defense! Battle-tested model with superior mobility and firepower. (Area Atk)
+Abilities: None:
+Combos: 
+Stats: 	health - 1700.000
+	knockback - 3
+	attackRateF - 64
+	attackRateS - 2.13
+	attackPower - 534.853
+	movementSpeed - 15
+	attackAnimF - 15
+	attackAnimS - 0.50
+	range - 355
+	respawnTimeF - 426
+	respawnTimeS - 14.20
+	attackType - 範囲(Area Attack)
+	cost - 1,365
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

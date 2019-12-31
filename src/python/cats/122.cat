@@ -1,0 +1,71 @@
+122
+
+Normal:
+Version: 
+Jap Name: メルク
+En Name: Merc
+Jp Desc: メルクストーリアコラボ
+En Desc: N/A
+Abilities: None:Critical
+Combos: 
+Stats: 	health - 250.000
+	knockback - 2
+	attackRateF - 201
+	attackRateS - 6.70
+	attackPower - 212.500
+	movementSpeed - 34
+	attackAnimF - 1
+	attackAnimS - 0.03
+	range - 155
+	respawnTimeF - 926
+	respawnTimeS - 30.87
+	attackType - 単体(Single Attack)
+	cost - 570
+
+
+Evolved:
+Version: 
+Jap Name: メルクCC
+En Name: MercCC
+Jp Desc: メルクストーリアコラボ
+En Desc: N/A
+Abilities: None:Critical
+Combos: 
+Stats: 	health - 250.000
+	knockback - 2
+	attackRateF - 201
+	attackRateS - 6.70
+	attackPower - 212.500
+	movementSpeed - 34
+	attackAnimF - 1
+	attackAnimS - 0.03
+	range - 155
+	respawnTimeF - 926
+	respawnTimeS - 30.87
+	attackType - 単体(Single Attack)
+	cost - 570
+
+
+True:
+Version: Ver6.2
+Jap Name: にゃんことメルクCC
+En Name: Nyanko MercCC
+Jp Desc: メルクストーリアコラボ
+En Desc: N/A
+Abilities: None:Critical
+Combos: 
+Stats: 	health - 1250.000
+	knockback - 2
+	attackRateF - 159
+	attackRateS - 5.30
+	attackPower - 212.500
+	movementSpeed - 34
+	attackAnimF - 1
+	attackAnimS - 0.03
+	range - 155
+	respawnTimeF - 336
+	respawnTimeS - 11.20
+	attackType - 単体(Single Attack)
+	cost - 570
+
+

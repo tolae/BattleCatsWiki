@@ -1,0 +1,59 @@
+440
+
+Normal:
+Version: Ver7.3
+Jap Name: 時空神クロノス
+En Name: Empress Chronos
+Jp Desc: 混沌より生まれた時間を支配する女神時の神器「運命の時計盤」はすべての因果を律する属性を持つ敵の動きを一瞬止める（遠方範囲攻撃）
+En Desc: An almighty Titaness who rescued the universe from chaos, keeping order with her Timepiece of Destiny. Freezes any traited enemy with long-range area attacks.
+Abilities: All (w/o White):Multi-Hit,Freeze,Long Distance (Area),Immune to Freeze
+Combos: 	運命の車輪（ロンド）|Wheels of Fate - ['440', '018', '015']
+Stats: 	health - 5000.000
+	knockback - 3
+	attackRateF - 309
+	attackRateS - 10.30
+	attackPower - 4000.000
+	movementSpeed - 8
+	attackAnimF - 20
+	attackAnimS - 0.67
+	range - 450
+	respawnTimeF - 3746
+	respawnTimeS - 124.87
+	attackType - 範囲(Area Attack)
+	cost - 4,050
+
+
+Evolved:
+Version: Ver7.3
+Jap Name: クロノストリガー
+En Name: Chronos the Infinite
+Jp Desc: 混沌より生まれた悠久の時を支配する女神永遠の神器「運命の神時計盤」は全ての因果を超越属性を持つ敵の動きを一瞬止める（遠方範囲攻撃）
+En Desc: Molded our reality from primordial matter using her mastery of the Divine Timepiece. Don't mess with her. Freezes any traited enemy with long-range area attacks.
+Abilities: All (w/o White):Multi-Hit,Freeze,Long Distance (Area),Immune to Freeze
+Combos: 
+Stats: 	health - 6750.000
+	knockback - 3
+	attackRateF - 309
+	attackRateS - 10.30
+	attackPower - 5225.000
+	movementSpeed - 8
+	attackAnimF - 20
+	attackAnimS - 0.67
+	range - 450
+	respawnTimeF - 3746
+	respawnTimeS - 124.87
+	attackType - 範囲(Area Attack)
+	cost - 4,050
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

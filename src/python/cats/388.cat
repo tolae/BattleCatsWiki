@@ -1,0 +1,59 @@
+388
+
+Normal:
+Version: Ver6.8
+Jap Name: 紺野美崎
+En Name: Misaki Konno
+Jp Desc: 実況パワフルプロ野球コラボ
+En Desc: Dropping in from PowerPro Baseball! A bright and energetic manager. Tough defense vs. Alien Enemies.
+Abilities: Alien:Resistant
+Combos: 
+Stats: 	health - 2250.000
+	knockback - 1
+	attackRateF - 65
+	attackRateS - 2.17
+	attackPower - 625.000
+	movementSpeed - 10
+	attackAnimF - 28
+	attackAnimS - 0.93
+	range - 125
+	respawnTimeF - 446
+	respawnTimeS - 14.87
+	attackType - 単体(Single Attack)
+	cost - 450
+
+
+Evolved:
+Version: Ver6.8
+Jap Name: 紺野美崎CC
+En Name: Misaki Konno CC
+Jp Desc: 実況パワフルプロ野球コラボ
+En Desc: Dropping in from PowerPro Baseball! No one can motivate a player like her! Tough defense vs. Alien Enemies.
+Abilities: Alien:Resistant
+Combos: 
+Stats: 	health - 2250.000
+	knockback - 1
+	attackRateF - 65
+	attackRateS - 2.17
+	attackPower - 625.000
+	movementSpeed - 10
+	attackAnimF - 28
+	attackAnimS - 0.93
+	range - 125
+	respawnTimeF - 446
+	respawnTimeS - 14.87
+	attackType - 単体(Single Attack)
+	cost - 450
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

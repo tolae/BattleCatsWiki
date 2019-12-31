@@ -1,0 +1,63 @@
+120
+
+Normal:
+Version: 
+Jap Name: ワイバーン
+En Name: Wyburn
+Jp Desc: メルクストーリアコラボ
+En Desc: Joined the war from Merck Storia!
+Pays out intense blow from the air.
+Super-damage is given to a black enemy (area attack).
+Abilities: Black:Massive Damage
+Combos: 
+Stats: 	health - 3125.000
+	knockback - 3
+	attackRateF - 121
+	attackRateS - 4.03
+	attackPower - 2675.000
+	movementSpeed - 8
+	attackAnimF - 55
+	attackAnimS - 1.83
+	range - 370
+	respawnTimeF - 2846
+	respawnTimeS - 94.87
+	attackType - 範囲(Area Attack)
+	cost - 4,470
+
+
+Evolved:
+Version: 
+Jap Name: ニャイバーン
+En Name: Nyaiban
+Jp Desc: メルクストーリアコラボ
+En Desc: Role model  Wyvern of the Merck Storia.
+Synthetic beast by which cats made a series of research in top secret.
+Super-damage is given to a black enemy (area attack).
+Abilities: Black:Massive Damage
+Combos: 
+Stats: 	health - 5750.000
+	knockback - 3
+	attackRateF - 121
+	attackRateS - 4.03
+	attackPower - 3950.000
+	movementSpeed - 8
+	attackAnimF - 55
+	attackAnimS - 1.83
+	range - 370
+	respawnTimeF - 2846
+	respawnTimeS - 94.87
+	attackType - 範囲(Area Attack)
+	cost - 4,470
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

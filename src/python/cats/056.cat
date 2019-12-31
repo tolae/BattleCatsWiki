@@ -1,0 +1,74 @@
+056
+
+Normal:
+Version: Ver2.0
+Jap Name: ネコ魔女
+En Name: Witch Cat
+Jp Desc: 魔法少女にあこがれるマジカルにゃんこ赤い敵の移動をごくたまに遅くする
+En Desc: A Magical Cat that would rather be a Magical Girl than a Witch.
+Might slow Red enemies.
+Abilities: Red:Slow
+Combos: 	スタジオニャブリ|Jibbly Studio - ['006', '009', '056']
+Stats: 	health - 950.000
+	knockback - 3
+	attackRateF - 43
+	attackRateS - 1.43
+	attackPower - 92.647
+	movementSpeed - 10
+	attackAnimF - 22
+	attackAnimS - 0.73
+	range - 200
+	respawnTimeF - 126
+	respawnTimeS - 4.20
+	attackType - 単体(Single Attack)
+	cost - 495
+
+
+Evolved:
+Version: Ver2.0
+Jap Name: ネコマージョ
+En Name: Sorceress Cat
+Jp Desc: 本格的な魔法を通信教育で学んだ魔女ネコ忘年会では多彩な芸を披露可能赤い敵の移動をごくたまに遅くする
+En Desc: Obtained magic skills from online courses. Really popular at parties, but doesn't get paid.
+Might slow Red enemies.
+Abilities: Red:Slow
+Combos: 
+Stats: 	health - 1100.000
+	knockback - 3
+	attackRateF - 43
+	attackRateS - 1.43
+	attackPower - 117.647
+	movementSpeed - 10
+	attackAnimF - 22
+	attackAnimS - 0.73
+	range - 200
+	respawnTimeF - 126
+	respawnTimeS - 4.20
+	attackType - 単体(Single Attack)
+	cost - 495
+
+
+True:
+Version: Ver5.3
+Jap Name: ネコビマージョ
+En Name: Enchantress Cat
+Jp Desc: 特性「動きを遅くする」強化
+En Desc: Used her clairvoyant powers to scry the best way to make it big on TV.
+Her star power might slow Red enemy movement.
+Abilities: Red:Slow
+Combos: 
+Stats: 	health - 1650.000
+	knockback - 3
+	attackRateF - 43
+	attackRateS - 1.43
+	attackPower - 117.647
+	movementSpeed - 10
+	attackAnimF - 22
+	attackAnimS - 0.73
+	range - 250
+	respawnTimeF - 126
+	respawnTimeS - 4.20
+	attackType - 単体(Single Attack)
+	cost - 495
+
+

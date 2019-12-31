@@ -1,0 +1,74 @@
+128
+
+Normal:
+Version: 
+Jap Name: ネコフラワー
+En Name: Flower Cat
+Jp Desc: お花が大好きなネコフラワー毎日の水やりはかかさないごくたまに黒い敵の動きを一瞬止める
+En Desc: Fascinated by pretty petals. Never forgets to water every day. Might stop Black enemies.
+Abilities: Black:Freeze
+Combos: 	おもちゃのチャチャチャ|Toying Around - ['148', '128', '082']
+	オハナガサイタ|In Bloom - ['073', '128']
+	ガーデニング|Green Thumb - ['309', '128']
+Stats: 	health - 375.000
+	knockback - 5
+	attackRateF - 83
+	attackRateS - 2.77
+	attackPower - 50.000
+	movementSpeed - 16
+	attackAnimF - 12
+	attackAnimS - 0.40
+	range - 240
+	respawnTimeF - 186
+	respawnTimeS - 6.20
+	attackType - 単体(Single Attack)
+	cost - 510
+
+
+Evolved:
+Version: 
+Jap Name: にゃんこ扇風
+En Name: Cooldown Cat
+Jp Desc: お風呂上がりは扇風機を占領したいそんな想いが彼を行動に移したごくたまに黒い敵の動きを一瞬止める
+En Desc: Hogs the fan after getting out of a hot bath. Attack style shows his aggressive selfishness. Might stop Black enemies.
+Abilities: Black:Freeze
+Combos: 	暑い日も涼しく|Cool in the Heat - ['043', '128']
+	真夏の太陽|Midsummer Sun - ['128', '039']
+Stats: 	health - 887.500
+	knockback - 5
+	attackRateF - 85
+	attackRateS - 2.83
+	attackPower - 122.353
+	movementSpeed - 16
+	attackAnimF - 12
+	attackAnimS - 0.40
+	range - 240
+	respawnTimeF - 186
+	respawnTimeS - 6.20
+	attackType - 単体(Single Attack)
+	cost - 510
+
+
+True:
+Version: Ver6.2
+Jap Name: ネコボンバー
+En Name: Bombercat
+Jp Desc: 日々のストレスを思う存分爆発させるネコ日常にはないスリルとショックが病みつきに必ず黒い敵の動きを一瞬止める（範囲攻撃）
+En Desc: Daily stress can cause you to want to explode, whether or not your job is carting cartoon bombs all day. Area attacks 100% freeze Black enemies.
+Abilities: Black:Freeze
+Combos: 
+Stats: 	health - 887.500
+	knockback - 5
+	attackRateF - 83
+	attackRateS - 2.77
+	attackPower - 122.353
+	movementSpeed - 16
+	attackAnimF - 12
+	attackAnimS - 0.40
+	range - 240
+	respawnTimeF - 186
+	respawnTimeS - 6.20
+	attackType - 範囲(Area Attack)
+	cost - 510
+
+

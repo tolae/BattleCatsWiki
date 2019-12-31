@@ -1,0 +1,61 @@
+375
+
+Normal:
+Version: Ver6.6
+Jap Name: ちび桜
+En Name: Li'l Sakura
+Jp Desc: 劇場版 Fate stay nightコラボ
+En Desc: Joining the fight from Fate/stay night [HF]!
+Admires Shirou, takes care of the Emiya household. Area attacks might Critical.
+Abilities: None:Critical
+Combos: 
+Stats: 	health - 1500.000
+	knockback - 4
+	attackRateF - 129
+	attackRateS - 4.30
+	attackPower - 250.000
+	movementSpeed - 8
+	attackAnimF - 44
+	attackAnimS - 1.47
+	range - 190
+	respawnTimeF - 746
+	respawnTimeS - 24.87
+	attackType - 範囲(Area Attack)
+	cost - 600
+
+
+Evolved:
+Version: Ver6.6
+Jap Name: ちび桜CC
+En Name: Li'l Sakura CC
+Jp Desc: 劇場版 Fate stay nightコラボ
+En Desc: Joining the fight from Fate/stay night [HF]! "If I became a bad person, would you forgive me?"
+Area Attacks might Critical.
+Abilities: None:Critical
+Combos: 
+Stats: 	health - 1500.000
+	knockback - 4
+	attackRateF - 129
+	attackRateS - 4.30
+	attackPower - 250.000
+	movementSpeed - 8
+	attackAnimF - 44
+	attackAnimS - 1.47
+	range - 190
+	respawnTimeF - 746
+	respawnTimeS - 24.87
+	attackType - 範囲(Area Attack)
+	cost - 600
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

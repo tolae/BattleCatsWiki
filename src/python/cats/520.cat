@@ -1,0 +1,63 @@
+520
+
+Normal:
+Version: Ver9.0
+Jap Name: ラスヴォース
+En Name: Lasvoss
+Jp Desc: 光の住人を根絶やしにすべく闇より現れた悪の化身たまに圧倒的な負の力を込めた渾身の一撃を放ち1度だけ生き残り、体力減少で攻撃力上昇（範囲攻撃）
+En Desc: Incarnation of evil summoned to eradicate the forces
+of Good. May strike a Savage Blow imbued with dark
+power. Survives once, stronger after taking damage
+Abilities: None:Strengthen,Survive,Immune to Waves,Immune to Knockback,Immune to Freeze,Immune to Slow,Immune to Weaken,Warp Blocker,Immune to Curse
+Combos: 	悪に染まりし者達| - ['520', '173', '320']
+Stats: 	health - 5000.000
+	knockback - 2
+	attackRateF - 500
+	attackRateS - 16.67
+	attackPower - 15000.000
+	movementSpeed - 8
+	attackAnimF - 77
+	attackAnimS - 2.57
+	range - 320
+	respawnTimeF - 2146
+	respawnTimeS - 71.53
+	attackType - 範囲(Area Attack)
+	cost - 5,400
+
+
+Evolved:
+Version: Ver9.0
+Jap Name: ファイナルラスヴォース
+En Name: Ultimate Lasvoss
+Jp Desc: 正義の光に追い詰められ最終形態を見せた悪の幻影一度だけ蘇生した死の淵から猛攻を繰り出し、時として冒険者達に怨念を込めた一撃を与える
+En Desc: His final form, revealed for the final confrontation with
+the heroes. Smites adventurers with Save Blows,
+Survives once, stronger after taking damage.
+Abilities: None:Strengthen,Survive,Immune to Waves,Immune to Knockback,Immune to Freeze,Immune to Slow,Immune to Weaken,Warp Blocker,Immune to Curse
+Combos: 
+Stats: 	health - 5000.000
+	knockback - 2
+	attackRateF - 500
+	attackRateS - 16.67
+	attackPower - 15000.000
+	movementSpeed - 8
+	attackAnimF - 77
+	attackAnimS - 2.57
+	range - 320
+	respawnTimeF - 2146
+	respawnTimeS - 71.53
+	attackType - 範囲(Area Attack)
+	cost - 5,400
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

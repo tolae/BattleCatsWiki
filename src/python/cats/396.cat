@@ -1,0 +1,71 @@
+396
+
+Normal:
+Version: Ver6.8
+Jap Name: 小山雅
+En Name: Miyabi Oyama
+Jp Desc: 実況パワフルプロ野球コラボ
+En Desc: Dropping in from PowerPro Baseball! Reliable and respected shortstop. Area attack power increases after taking damage.
+Abilities: None:Strengthen
+Combos: 
+Stats: 	health - 5775.000
+	knockback - 4
+	attackRateF - 189
+	attackRateS - 6.30
+	attackPower - 3550.000
+	movementSpeed - 12
+	attackAnimF - 20
+	attackAnimS - 0.67
+	range - 380
+	respawnTimeF - 3346
+	respawnTimeS - 111.53
+	attackType - 範囲(Area Attack)
+	cost - 4,020
+
+
+Evolved:
+Version: Ver6.8
+Jap Name: 小山雅CC
+En Name: Miyabi Oyama CC
+Jp Desc: 実況パワフルプロ野球コラボ
+En Desc: Dropping in from PowerPro Baseball! No worries about seeming boyish if it helps to win! Area attack power increases after taking damage.
+Abilities: None:Strengthen
+Combos: 
+Stats: 	health - 7000.000
+	knockback - 4
+	attackRateF - 189
+	attackRateS - 6.30
+	attackPower - 4225.000
+	movementSpeed - 12
+	attackAnimF - 20
+	attackAnimS - 0.67
+	range - 380
+	respawnTimeF - 3346
+	respawnTimeS - 111.53
+	attackType - 範囲(Area Attack)
+	cost - 4,020
+
+
+True:
+Version: Ver6.8
+Jap Name: 野球マン5号CC
+En Name: Baseball Mask δ
+Jp Desc: 実況パワフルプロ野球コラボ
+En Desc: Dropping in from PowerPro Baseball! Just between us, it's Miyabi... Immune to Waves. Attack power increases after taking damage.
+Abilities: None:Strengthen,Immune to Waves
+Combos: 
+Stats: 	health - 9450.000
+	knockback - 4
+	attackRateF - 189
+	attackRateS - 6.30
+	attackPower - 5575.000
+	movementSpeed - 12
+	attackAnimF - 20
+	attackAnimS - 0.67
+	range - 380
+	respawnTimeF - 3346
+	respawnTimeS - 111.53
+	attackType - 範囲(Area Attack)
+	cost - 4,020
+
+

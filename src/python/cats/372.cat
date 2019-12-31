@@ -1,0 +1,63 @@
+372
+
+Normal:
+Version: Ver6.6
+Jap Name: ネコ凛
+En Name: Rin the Cat
+Jp Desc: 劇場版 Fate stay nightコラボ
+En Desc: An Cat possessing elegance unrivaled at her
+school. Beauty extends to behavior befitting
+an honor student. Might knockback Aliens.
+Abilities: Alien:Knockback
+Combos: 
+Stats: 	health - 2025.000
+	knockback - 3
+	attackRateF - 91
+	attackRateS - 3.03
+	attackPower - 375.000
+	movementSpeed - 10
+	attackAnimF - 12
+	attackAnimS - 0.40
+	range - 275
+	respawnTimeF - 226
+	respawnTimeS - 7.53
+	attackType - 単体(Single Attack)
+	cost - 525
+
+
+Evolved:
+Version: Ver6.6
+Jap Name: 魔術師ネコ凛
+En Name: Mage Rin Cat
+Jp Desc: 劇場版 Fate stay nightコラボ
+En Desc: Endlessly seeks to improve on herself.
+Lashes out when she feels her weakness
+might be exposed. Might knockback Aliens.
+Abilities: Alien:Knockback
+Combos: 
+Stats: 	health - 2025.000
+	knockback - 3
+	attackRateF - 91
+	attackRateS - 3.03
+	attackPower - 375.000
+	movementSpeed - 10
+	attackAnimF - 12
+	attackAnimS - 0.40
+	range - 275
+	respawnTimeF - 226
+	respawnTimeS - 7.53
+	attackType - 単体(Single Attack)
+	cost - 525
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

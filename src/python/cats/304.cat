@@ -1,0 +1,59 @@
+304
+
+Normal:
+Version: Ver5.5
+Jap Name: ネコ屋台
+En Name: Food Stall Cat
+Jp Desc: イカゲソたっぷりの斬新な明石焼き風たこ焼きで一攫千金を狙う脱サラネコ天使に超ダメージを与える
+En Desc: Planning to corner the grilled calamari market. Forgot to pay taxes, so now business takes place on the run. Massive damage vs Angels.
+Abilities: Angel:Massive Damage
+Combos: 	飲食業|Hot, Fresh 'n' Fast - ['304', '284']
+Stats: 	health - 1387.500
+	knockback - 4
+	attackRateF - 83
+	attackRateS - 2.77
+	attackPower - 500.000
+	movementSpeed - 21
+	attackAnimF - 12
+	attackAnimS - 0.40
+	range - 200
+	respawnTimeF - 186
+	respawnTimeS - 6.20
+	attackType - 単体(Single Attack)
+	cost - 525
+
+
+Evolved:
+Version: Ver5.5
+Jap Name: ネコの宅配便
+En Name: Delivery Cat
+Jp Desc: 着払いで神さまからの荷物を届ける神対応ネコ荷物の中身について口外すると天罰が下るらしい天使に超ダメージを与える
+En Desc: Brings gifts from the Cat God for you! Of course, its all cash-on-delivery. Best pay up or risk divine wrath. Massive damage vs Angels.
+Abilities: Angel:Massive Damage
+Combos: 
+Stats: 	health - 1387.500
+	knockback - 4
+	attackRateF - 83
+	attackRateS - 2.77
+	attackPower - 500.000
+	movementSpeed - 21
+	attackAnimF - 12
+	attackAnimS - 0.40
+	range - 200
+	respawnTimeF - 186
+	respawnTimeS - 6.20
+	attackType - 単体(Single Attack)
+	cost - 525
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

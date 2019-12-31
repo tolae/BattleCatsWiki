@@ -1,0 +1,59 @@
+426
+
+Normal:
+Version: Ver7.0
+Jap Name: 太秦麗＆ネコ
+En Name: Rei Uzumasa & Cat
+Jp Desc: 地下鉄に乗るっコラボ
+En Desc: N/A
+Abilities: None:Critical
+Combos: 
+Stats: 	health - 750.000
+	knockback - 3
+	attackRateF - 383
+	attackRateS - 12.77
+	attackPower - 90.000
+	movementSpeed - 9
+	attackAnimF - 68
+	attackAnimS - 2.27
+	range - 300
+	respawnTimeF - 946
+	respawnTimeS - 31.53
+	attackType - 単体(Single Attack)
+	cost - 450
+
+
+Evolved:
+Version: Ver7.0
+Jap Name: 太秦麗＆ネコCC
+En Name: Rei Uzumasa & Cat CC
+Jp Desc: 地下鉄に乗るっコラボ
+En Desc: N/A
+Abilities: None:Critical
+Combos: 
+Stats: 	health - 750.000
+	knockback - 3
+	attackRateF - 283
+	attackRateS - 9.43
+	attackPower - 90.000
+	movementSpeed - 9
+	attackAnimF - 68
+	attackAnimS - 2.27
+	range - 300
+	respawnTimeF - 946
+	respawnTimeS - 31.53
+	attackType - 単体(Single Attack)
+	cost - 450
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

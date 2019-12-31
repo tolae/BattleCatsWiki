@@ -1,0 +1,59 @@
+419
+
+Normal:
+Version: Ver6.10
+Jap Name: 狂乱のもねこ
+En Name: Crazed Moneko
+Jp Desc: 倒された時、独自グラフィック（アニメーション）
+En Desc: Everyone's favourite girl-next door popstar finally snapped under the stress of stardom. Even an evil idol has nothing but love for her fans.
+Abilities: None:Multi-Hit,Critical
+Combos: 
+Stats: 	health - 2500.000
+	knockback - 4
+	attackRateF - 181
+	attackRateS - 6.03
+	attackPower - 1125.000
+	movementSpeed - 10
+	attackAnimF - 4
+	attackAnimS - 0.13
+	range - 210
+	respawnTimeF - 1078
+	respawnTimeS - 35.93
+	attackType - 単体(Single Attack)
+	cost - 148
+
+
+Evolved:
+Version: Ver6.10
+Jap Name: 狂乱のスターもねこ
+En Name: Corrupted Moneko
+Jp Desc: 倒された時、独自グラフィック（アニメーション）
+En Desc: Global superstar who uses her charisma to whip her adoring audiences into a crazed fury. Her thankful bow delivers big critical damage!
+Abilities: None:Multi-Hit,Critical
+Combos: 
+Stats: 	health - 3750.000
+	knockback - 4
+	attackRateF - 181
+	attackRateS - 6.03
+	attackPower - 1500.000
+	movementSpeed - 10
+	attackAnimF - 4
+	attackAnimS - 0.13
+	range - 210
+	respawnTimeF - 1078
+	respawnTimeS - 35.93
+	attackType - 単体(Single Attack)
+	cost - 148
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

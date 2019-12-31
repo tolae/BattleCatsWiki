@@ -1,0 +1,63 @@
+457
+
+Normal:
+Version: Ver8.2
+Jap Name: 間桐 桜
+En Name: Sakura Matou
+Jp Desc: 劇場版 Fate stay nightコラボ
+En Desc: Fate/Stay night [HF] from war!
+A girl who visits Emiya's residence and is in charge of housework.
+Resistant to Black, Alien, and Zombie enimies (Area Attack)
+Abilities: Black,Alien,Zombie:Resistant,Zombie Killer,Immune to Waves
+Combos: 
+Stats: 	health - 13500.000
+	knockback - 4
+	attackRateF - 212
+	attackRateS - 7.07
+	attackPower - 4250.000
+	movementSpeed - 8
+	attackAnimF - 37
+	attackAnimS - 1.23
+	range - 350
+	respawnTimeF - 3346
+	respawnTimeS - 111.53
+	attackType - 範囲(Area Attack)
+	cost - 4,200
+
+
+Evolved:
+Version: Ver8.2
+Jap Name: 間桐 桜CC
+En Name: Sakura Matou CC
+Jp Desc: 劇場版 Fate stay nightコラボ
+En Desc: Fate/Stay night [HF] from war!
+She’s really worried about Shiro might get hurt in the Holy Grail War.
+Resistant to Black, Alien, and Zombie enemies (Area Attack)
+Abilities: Black,Alien,Zombie:Resistant,Zombie Killer,Immune to Waves
+Combos: 
+Stats: 	health - 18000.000
+	knockback - 4
+	attackRateF - 212
+	attackRateS - 7.07
+	attackPower - 5250.000
+	movementSpeed - 8
+	attackAnimF - 37
+	attackAnimS - 1.23
+	range - 350
+	respawnTimeF - 3346
+	respawnTimeS - 111.53
+	attackType - 範囲(Area Attack)
+	cost - 4,200
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

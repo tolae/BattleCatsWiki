@@ -1,0 +1,73 @@
+003
+
+Normal:
+Version: Ver1.0
+Jap Name: バトルネコ
+En Name: Axe Cat
+Jp Desc: 戦闘向きのキャラ｢赤い敵｣にめっぽう強い
+En Desc: Combat maniac. Strong against Red enemies.
+Abilities: Red:Strong
+Combos: 	にゃんこ軍団|Cat Army - ['001', '002', '003', '004', '005']
+	戦闘狂の集い|Lust for Battle - ['003', '131', '045']
+	斧の達人|Choppers  - ['014', '003', '073']
+Stats: 	health - 500.000
+	knockback - 3
+	attackRateF - 27
+	attackRateS - 0.90
+	attackPower - 62.500
+	movementSpeed - 12
+	attackAnimF - 8
+	attackAnimS - 0.27
+	range - 150
+	respawnTimeF - 60
+	respawnTimeS - 2.00
+	attackType - 単体(Single Attack)
+	cost - 300
+
+
+Evolved:
+Version: Ver1.0
+Jap Name: 勇者ネコ
+En Name: Brave Cat
+Jp Desc: 勇者にあこがれる戦闘向きのキャラ｢赤い敵｣にめっぽう強い
+En Desc: Hero wannabe. Strong against Red enemies.
+Abilities: Red:Strong
+Combos: 	龍退治ごっこ|Playing Slayer - ['003', '178']
+Stats: 	health - 500.000
+	knockback - 3
+	attackRateF - 27
+	attackRateS - 0.90
+	attackPower - 62.500
+	movementSpeed - 12
+	attackAnimF - 8
+	attackAnimS - 0.27
+	range - 150
+	respawnTimeF - 60
+	respawnTimeS - 2.00
+	attackType - 単体(Single Attack)
+	cost - 300
+
+
+True:
+Version: 
+Jap Name: 暗黒ネコ
+En Name: Dark Cat
+Jp Desc: ダークヒーローにも憧れた戦闘向きのキャラ｢赤い敵｣にめっぽう強い
+En Desc: Dark Knight wannabeDecent Battle CatStrong against Red enemies.
+Abilities: Red:Strong
+Combos: 	暗黒の力|Power of Darkness - ['003', '014']
+Stats: 	health - 1000.000
+	knockback - 3
+	attackRateF - 27
+	attackRateS - 0.90
+	attackPower - 125.000
+	movementSpeed - 12
+	attackAnimF - 8
+	attackAnimS - 0.27
+	range - 150
+	respawnTimeF - 60
+	respawnTimeS - 2.00
+	attackType - 単体(Single Attack)
+	cost - 300
+
+

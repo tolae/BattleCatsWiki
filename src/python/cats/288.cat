@@ -1,0 +1,71 @@
+288
+
+Normal:
+Version: Ver5.4
+Jap Name: ネコ球児
+En Name: Little Leaguer Cat
+Jp Desc: 幼い頃から野球の英才教育を施されたネコ百裂千本ノックで県大会を5位に導いた名コーチエイリアンに打たれ強い（遠方範囲攻撃）
+En Desc: Young, but full of raw potential. Recruited straight from Tee-Ball to the local champs. Resistant to Aliens, Long-Range/Area Atks.
+Abilities: Alien:Resistant,Long Distance (Area)
+Combos: 	真夏の甲子園|Take Me Out - ['202', '288', '039']
+Stats: 	health - 1725.000
+	knockback - 2
+	attackRateF - 105
+	attackRateS - 3.50
+	attackPower - 725.000
+	movementSpeed - 10
+	attackAnimF - 30
+	attackAnimS - 1.00
+	range - 275
+	respawnTimeF - 406
+	respawnTimeS - 13.53
+	attackType - 範囲(Area Attack)
+	cost - 1,200
+
+
+Evolved:
+Version: Ver5.4
+Jap Name: ネコリーガー
+En Name: Major Leaguer Cat
+Jp Desc: メジャーで殿堂入りを果たした伝説のプレーヤーにそっくりな完璧スイングを披露する小太りネコエイリアンに打たれ強くたまにバリアを貫く（遠方範囲攻撃）
+En Desc: This team legend is now too chubby to run, but his batting average is out of this world. Resists Aliens, might break barriers, Long-range.
+Abilities: Alien:Resistant,Barrier Breaker,Long Distance (Area)
+Combos: 
+Stats: 	health - 2225.000
+	knockback - 2
+	attackRateF - 105
+	attackRateS - 3.50
+	attackPower - 975.000
+	movementSpeed - 10
+	attackAnimF - 30
+	attackAnimS - 1.00
+	range - 275
+	respawnTimeF - 406
+	respawnTimeS - 13.53
+	attackType - 範囲(Area Attack)
+	cost - 1,200
+
+
+True:
+Version: Ver8.6
+Jap Name: ネコゴルファー
+En Name: Golfer Cat
+Jp Desc: 野球で培った経験を元に編み出した独自の打法で次々にホールインワンを決める河川敷の長打王エイリアンに打たれ強くたまにバリアを貫く（遠方範囲攻撃）
+En Desc: Hole-in-One king of the local park. Interesting fairway technique inspired by his past career. Resists Aliens, might break barriers, Long-range.
+Abilities: Alien:Resistant,Barrier Breaker,Long Distance (Area)
+Combos: 
+Stats: 	health - 2725.000
+	knockback - 2
+	attackRateF - 105
+	attackRateS - 3.50
+	attackPower - 975.000
+	movementSpeed - 10
+	attackAnimF - 30
+	attackAnimS - 1.00
+	range - 275
+	respawnTimeF - 406
+	respawnTimeS - 13.53
+	attackType - 範囲(Area Attack)
+	cost - 1,200
+
+

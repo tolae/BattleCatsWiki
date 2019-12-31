@@ -1,0 +1,59 @@
+491
+
+Normal:
+Version: Ver8.7.5
+Jap Name: ちびリツコ
+En Name: Ritsuko Akagi
+Jp Desc: エヴァンゲリオンコラボ
+En Desc: Recruited from Evangelion! Cool researcher from NERV's technical development team. Area attacks might weaken Aliens.
+Abilities: Alien:Weaken,Immune to Weaken,Warp Blocker
+Combos: 
+Stats: 	health - 4000.000
+	knockback - 3
+	attackRateF - 190
+	attackRateS - 6.33
+	attackPower - 3000.000
+	movementSpeed - 9
+	attackAnimF - 67
+	attackAnimS - 2.23
+	range - 300
+	respawnTimeF - 606
+	respawnTimeS - 20.20
+	attackType - 範囲(Area Attack)
+	cost - 1,125
+
+
+Evolved:
+Version: Ver8.7.5
+Jap Name: ヴンダー副長のちびリツコ
+En Name: First Officer Ritsuko
+Jp Desc: エヴァンゲリオンコラボ
+En Desc: Recruited from Evangelion! After becoming a WILLE officer, treated Shinji coolly. Area attacks might weaken Aliens.
+Abilities: Alien:Weaken,Immune to Weaken,Warp Blocker
+Combos: 
+Stats: 	health - 4000.000
+	knockback - 3
+	attackRateF - 190
+	attackRateS - 6.33
+	attackPower - 3000.000
+	movementSpeed - 9
+	attackAnimF - 67
+	attackAnimS - 2.23
+	range - 300
+	respawnTimeF - 606
+	respawnTimeS - 20.20
+	attackType - 範囲(Area Attack)
+	cost - 1,125
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

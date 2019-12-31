@@ -1,0 +1,59 @@
+115
+
+Normal:
+Version: 
+Jap Name: よいち
+En Name: Yoichi
+Jp Desc: メルクストーリアコラボ
+En Desc: N/A
+Abilities: Black:Slow
+Combos: 
+Stats: 	health - 487.500
+	knockback - 4
+	attackRateF - 73
+	attackRateS - 2.43
+	attackPower - 244.853
+	movementSpeed - 9
+	attackAnimF - 34
+	attackAnimS - 1.13
+	range - 340
+	respawnTimeF - 346
+	respawnTimeS - 11.53
+	attackType - 単体(Single Attack)
+	cost - 1,110
+
+
+Evolved:
+Version: 
+Jap Name: よいちCC
+En Name: YoichiCC
+Jp Desc: メルクストーリアコラボ
+En Desc: N/A
+Abilities: Black:Slow
+Combos: 
+Stats: 	health - 662.500
+	knockback - 4
+	attackRateF - 73
+	attackRateS - 2.43
+	attackPower - 344.853
+	movementSpeed - 9
+	attackAnimF - 34
+	attackAnimS - 1.13
+	range - 340
+	respawnTimeF - 346
+	respawnTimeS - 11.53
+	attackType - 単体(Single Attack)
+	cost - 1,110
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

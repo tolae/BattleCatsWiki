@@ -1,0 +1,59 @@
+505
+
+Normal:
+Version: Ver8.9
+Jap Name: おやじネコ（店主）
+En Name: Fatherly Cat
+Jp Desc: 新人ネコに泥棒のアレコレを教える世話好きおやじ口は悪いがサングラスの奥につぶらな瞳を隠している敵を倒したときにお金を多くもらえる
+En Desc: N/A
+Abilities: None:Extra Money
+Combos: 
+Stats: 	health - 1250.000
+	knockback - 5
+	attackRateF - 224
+	attackRateS - 7.47
+	attackPower - 1250.000
+	movementSpeed - 8
+	attackAnimF - 13
+	attackAnimS - 0.43
+	range - 200
+	respawnTimeF - 386
+	respawnTimeS - 12.87
+	attackType - 単体(Single Attack)
+	cost - 540
+
+
+Evolved:
+Version: Ver8.9
+Jap Name: おやじネコ（現役）
+En Name: Fatherly Cat
+Jp Desc: 自称、伝説の泥棒団を束ねていたリーダーガマトトの脱退直後に膝を痛めて自らも引退敵を倒したときにお金を多くもらえる
+En Desc: N/A
+Abilities: None:Extra Money
+Combos: 
+Stats: 	health - 1250.000
+	knockback - 5
+	attackRateF - 224
+	attackRateS - 7.47
+	attackPower - 1250.000
+	movementSpeed - 16
+	attackAnimF - 13
+	attackAnimS - 0.43
+	range - 200
+	respawnTimeF - 386
+	respawnTimeS - 12.87
+	attackType - 単体(Single Attack)
+	cost - 540
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

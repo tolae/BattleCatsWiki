@@ -1,0 +1,71 @@
+254
+
+Normal:
+Version: Ver4.6
+Jap Name: ドラゴンライダー
+En Name: Dragon Rider
+Jp Desc: 城とドラゴンコラボ
+En Desc: N/A
+Abilities: None:
+Combos: 
+Stats: 	health - 1125.000
+	knockback - 3
+	attackRateF - 62
+	attackRateS - 2.07
+	attackPower - 150.000
+	movementSpeed - 12
+	attackAnimF - 23
+	attackAnimS - 0.77
+	range - 330
+	respawnTimeF - 116
+	respawnTimeS - 3.87
+	attackType - 単体(Single Attack)
+	cost - 675
+
+
+Evolved:
+Version: Ver4.6
+Jap Name: ボーンドラゴンライダー
+En Name: Horn Dragon Rider
+Jp Desc: 城とドラゴンコラボ
+En Desc: N/A
+Abilities: None:
+Combos: 
+Stats: 	health - 1125.000
+	knockback - 3
+	attackRateF - 62
+	attackRateS - 2.07
+	attackPower - 150.000
+	movementSpeed - 12
+	attackAnimF - 23
+	attackAnimS - 0.77
+	range - 330
+	respawnTimeF - 116
+	respawnTimeS - 3.87
+	attackType - 単体(Single Attack)
+	cost - 675
+
+
+True:
+Version: Ver4.6
+Jap Name: フレイムドラゴンライダー
+En Name: Flame Dragon Rider
+Jp Desc: 城とドラゴンコラボ
+En Desc: N/A
+Abilities: None:
+Combos: 
+Stats: 	health - 1125.000
+	knockback - 3
+	attackRateF - 62
+	attackRateS - 2.07
+	attackPower - 300.000
+	movementSpeed - 12
+	attackAnimF - 23
+	attackAnimS - 0.77
+	range - 330
+	respawnTimeF - 116
+	respawnTimeS - 3.87
+	attackType - 単体(Single Attack)
+	cost - 675
+
+

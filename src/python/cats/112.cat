@@ -1,0 +1,59 @@
+112
+
+Normal:
+Version: 
+Jap Name: ノノ
+En Name: Nono
+Jp Desc: メルクストーリアコラボ
+En Desc: N/A
+Abilities: Black:Resistant
+Combos: 
+Stats: 	health - 1594.853
+	knockback - 1
+	attackRateF - 111
+	attackRateS - 3.70
+	attackPower - 75.000
+	movementSpeed - 11
+	attackAnimF - 22
+	attackAnimS - 0.73
+	range - 190
+	respawnTimeF - 76
+	respawnTimeS - 2.53
+	attackType - 単体(Single Attack)
+	cost - 315
+
+
+Evolved:
+Version: 
+Jap Name: ノノCC
+En Name: NonoCC
+Jp Desc: メルクストーリアコラボ
+En Desc: N/A
+Abilities: Black:Resistant
+Combos: 
+Stats: 	health - 1867.647
+	knockback - 1
+	attackRateF - 111
+	attackRateS - 3.70
+	attackPower - 119.853
+	movementSpeed - 11
+	attackAnimF - 22
+	attackAnimS - 0.73
+	range - 190
+	respawnTimeF - 76
+	respawnTimeS - 2.53
+	attackType - 単体(Single Attack)
+	cost - 315
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

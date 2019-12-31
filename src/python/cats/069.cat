@@ -1,0 +1,71 @@
+069
+
+Normal:
+Version: Ver2.1
+Jap Name: 執行者
+En Name: Enforcer
+Jp Desc: ケリ姫スイーツコラボ
+En Desc: N/A
+Abilities: Black:Slow
+Combos: 
+Stats: 	health - 1000.000
+	knockback - 3
+	attackRateF - 184
+	attackRateS - 6.13
+	attackPower - 500.000
+	movementSpeed - 7
+	attackAnimF - 25
+	attackAnimS - 0.83
+	range - 360
+	respawnTimeF - 946
+	respawnTimeS - 31.53
+	attackType - 範囲(Area Attack)
+	cost - 750
+
+
+Evolved:
+Version: Ver2.1
+Jap Name: 執行者999
+En Name: Enforcer 999
+Jp Desc: ケリ姫スイーツコラボ
+En Desc: N/A
+Abilities: Black:Slow
+Combos: 
+Stats: 	health - 1750.000
+	knockback - 3
+	attackRateF - 184
+	attackRateS - 6.13
+	attackPower - 750.000
+	movementSpeed - 7
+	attackAnimF - 25
+	attackAnimS - 0.83
+	range - 360
+	respawnTimeF - 946
+	respawnTimeS - 31.53
+	attackType - 範囲(Area Attack)
+	cost - 750
+
+
+True:
+Version: Ver7.3
+Jap Name: ジャッジメント
+En Name: Judgement
+Jp Desc: ケリ姫スイーツコラボ
+En Desc: N/A
+Abilities: Black:Multi-Hit,Slow
+Combos: 
+Stats: 	health - 2500.000
+	knockback - 3
+	attackRateF - 184
+	attackRateS - 6.13
+	attackPower - 2250.000
+	movementSpeed - 7
+	attackAnimF - 57
+	attackAnimS - 1.90
+	range - 360
+	respawnTimeF - 946
+	respawnTimeS - 31.53
+	attackType - 範囲(Area Attack)
+	cost - 750
+
+

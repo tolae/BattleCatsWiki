@@ -1,0 +1,59 @@
+284
+
+Normal:
+Version: Ver5.3
+Jap Name: 猫飯拳パイパイ
+En Name: Pai-Pai
+Jp Desc: 福を招くと言われている家宝「紅撃ニャンマー」を振り回し今日もお客を呼び込む中華飯店の看板娘赤い敵に打たれ強く、超ダメージを与える（範囲攻撃）
+En Desc: Poster girl for a famous dim sum restaurant. Always carries her heirloom Scarlet Hammer. Resists Red attacks, delivers massive damage.
+Abilities: Red:Massive Damage,Resistant,Immune to Weaken
+Combos: 	飲食業|Hot, Fresh 'n' Fast - ['304', '284']
+Stats: 	health - 7000.000
+	knockback - 3
+	attackRateF - 317
+	attackRateS - 10.57
+	attackPower - 7500.000
+	movementSpeed - 20
+	attackAnimF - 76
+	attackAnimS - 2.53
+	range - 440
+	respawnTimeF - 3346
+	respawnTimeS - 111.53
+	attackType - 範囲(Area Attack)
+	cost - 4,500
+
+
+Evolved:
+Version: Ver5.3
+Jap Name: 猫飯拳パイパイZ
+En Name: Pai-Pai Z
+Jp Desc: リミッター解除した家宝「紅撃ニャンマー・熊猫」と色気でさらなる商売繁盛を狙う中華飯店の看板娘赤い敵に打たれ強く、超ダメージを与える（範囲攻撃）
+En Desc: Mystic seals were broken, unleashing the sexy power of the Red Panda Hammer. Resists Red attacks, delivers massive damage.
+Abilities: Red:Massive Damage,Resistant,Immune to Weaken
+Combos: 
+Stats: 	health - 7000.000
+	knockback - 3
+	attackRateF - 317
+	attackRateS - 10.57
+	attackPower - 7500.000
+	movementSpeed - 20
+	attackAnimF - 76
+	attackAnimS - 2.53
+	range - 440
+	respawnTimeF - 3346
+	respawnTimeS - 111.53
+	attackType - 範囲(Area Attack)
+	cost - 4,500
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

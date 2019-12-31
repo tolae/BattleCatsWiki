@@ -1,0 +1,59 @@
+429
+
+Normal:
+Version: Ver7.1
+Jap Name: そうまにゃん
+En Name: Soumanyan
+Jp Desc: 消滅都市コラボ
+En Desc: N/A
+Abilities: None:Wave Attack
+Combos: 
+Stats: 	health - 1800.000
+	knockback - 3
+	attackRateF - 140
+	attackRateS - 4.67
+	attackPower - 500.000
+	movementSpeed - 10
+	attackAnimF - 41
+	attackAnimS - 1.37
+	range - 300
+	respawnTimeF - 498
+	respawnTimeS - 16.60
+	attackType - 単体(Single Attack)
+	cost - 600
+
+
+Evolved:
+Version: Ver7.1
+Jap Name: スマートそうまにゃん
+En Name: Sumaato Soumanyan
+Jp Desc: 消滅都市コラボ
+En Desc: N/A
+Abilities: None:Wave Attack
+Combos: 
+Stats: 	health - 1800.000
+	knockback - 3
+	attackRateF - 140
+	attackRateS - 4.67
+	attackPower - 500.000
+	movementSpeed - 10
+	attackAnimF - 41
+	attackAnimS - 1.37
+	range - 300
+	respawnTimeF - 498
+	respawnTimeS - 16.60
+	attackType - 単体(Single Attack)
+	cost - 600
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

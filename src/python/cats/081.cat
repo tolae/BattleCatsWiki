@@ -1,0 +1,75 @@
+081
+
+Normal:
+Version: 
+Jap Name: 吾輩は鬼である
+En Name: Evil Cat
+Jp Desc: 節分のマメが欲しくて鬼のかっこうをしたにゃんこ赤い敵の動きをごくたまに一瞬止める
+En Desc: Hides his weakness by wearing the mask of the demon. Might stop Red enemies.
+Abilities: Red:Freeze
+Combos: 	仮面舞踏会|Masquerade - ['131', '014', '081']
+	百鬼夜行|Paranormal Activity - ['039', '129', '081']
+	鬼と呼ばれて|Speak of the Devil - ['045', '081']
+Stats: 	health - 1747.353
+	knockback - 3
+	attackRateF - 59
+	attackRateS - 1.97
+	attackPower - 500.000
+	movementSpeed - 8
+	attackAnimF - 16
+	attackAnimS - 0.53
+	range - 150
+	respawnTimeF - 146
+	respawnTimeS - 4.87
+	attackType - 単体(Single Attack)
+	cost - 1,125
+
+
+Evolved:
+Version: 
+Jap Name: ネコ紳士
+En Name: Gentleman Cat
+Jp Desc: 紳士的に服を着たにゃんこときおり我慢しきれなくてがばっと脱ぐ赤い敵の動きをごくたまに一瞬止める
+En Desc: A very well clothed cat. Until... Just call the Police. Might stop Red enemies.
+Abilities: Red:Freeze
+Combos: 	ジェントルマン|Gentlemen - ['081', '050']
+	変態紳士に天罰を|Punish the Lewd - ['081', '258']
+	露出狂|Flash in the Pan - ['033', '081']
+Stats: 	health - 1747.353
+	knockback - 3
+	attackRateF - 59
+	attackRateS - 1.97
+	attackPower - 500.000
+	movementSpeed - 8
+	attackAnimF - 16
+	attackAnimS - 0.53
+	range - 150
+	respawnTimeF - 146
+	respawnTimeS - 4.87
+	attackType - 単体(Single Attack)
+	cost - 1,125
+
+
+True:
+Version: Ver4.7
+Jap Name: ネコ紳士同盟
+En Name: Gentleman Bros.
+Jp Desc: 紳士的な所作を完璧にこなす息ぴったりの二人羽織ネコ。たまにバリアを貫き、赤い敵の動きを止め、生産性もアップ
+En Desc: A gentleman's agreement makes life easier for everyone. But whoever's on bottom has it worse. Might stop Red and break Barriers!
+Abilities: Red:Freeze,Barrier Breaker
+Combos: 	ネコ＆タンクネコ|Cats 'n Tanks - ['064', '082', '081']
+Stats: 	health - 1747.353
+	knockback - 3
+	attackRateF - 59
+	attackRateS - 1.97
+	attackPower - 500.000
+	movementSpeed - 8
+	attackAnimF - 16
+	attackAnimS - 0.53
+	range - 150
+	respawnTimeF - 146
+	respawnTimeS - 4.87
+	attackType - 単体(Single Attack)
+	cost - 375
+
+

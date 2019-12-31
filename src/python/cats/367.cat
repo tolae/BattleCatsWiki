@@ -1,0 +1,59 @@
+367
+
+Normal:
+Version: Ver6.6
+Jap Name: ランサー
+En Name: Lancer
+Jp Desc: 劇場版 Fate stay nightコラボ
+En Desc: ?
+Abilities: None:Barrier Breaker
+Combos: 
+Stats: 	health - 4750.000
+	knockback - 4
+	attackRateF - 135
+	attackRateS - 4.50
+	attackPower - 2250.000
+	movementSpeed - 13
+	attackAnimF - 44
+	attackAnimS - 1.47
+	range - 480
+	respawnTimeF - 3846
+	respawnTimeS - 128.20
+	attackType - 範囲(Area Attack)
+	cost - 4,350
+
+
+Evolved:
+Version: Ver6.6
+Jap Name: ランサーCC
+En Name: Lancer CC
+Jp Desc: 劇場版 Fate stay nightコラボ
+En Desc: ?
+Abilities: None:Barrier Breaker
+Combos: 
+Stats: 	health - 7250.000
+	knockback - 4
+	attackRateF - 135
+	attackRateS - 4.50
+	attackPower - 3375.000
+	movementSpeed - 13
+	attackAnimF - 44
+	attackAnimS - 1.47
+	range - 480
+	respawnTimeF - 3846
+	respawnTimeS - 128.20
+	attackType - 範囲(Area Attack)
+	cost - 4,350
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

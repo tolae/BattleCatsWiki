@@ -1,0 +1,59 @@
+209
+
+Normal:
+Version: Ver4.2
+Jap Name: キリンネコ
+En Name: Kirin Neko
+Jp Desc: モンハン大狩猟クエストコラボ
+En Desc: N/A
+Abilities: Float:Resistant
+Combos: 
+Stats: 	health - 225.000
+	knockback - 4
+	attackRateF - 37
+	attackRateS - 1.23
+	attackPower - 17.647
+	movementSpeed - 12
+	attackAnimF - 8
+	attackAnimS - 0.27
+	range - 140
+	respawnTimeF - 60
+	respawnTimeS - 2.00
+	attackType - 単体(Single Attack)
+	cost - 75
+
+
+Evolved:
+Version: Ver4.2
+Jap Name: キリンネコキリン
+En Name: Kirin Neko Kirin
+Jp Desc: モンハン大狩猟クエストコラボ
+En Desc: N/A
+Abilities: Float:Resistant
+Combos: 
+Stats: 	health - 1125.000
+	knockback - 6
+	attackRateF - 10
+	attackRateS - 0.33
+	attackPower - 30.147
+	movementSpeed - 36
+	attackAnimF - 6
+	attackAnimS - 0.20
+	range - 140
+	respawnTimeF - 60
+	respawnTimeS - 2.00
+	attackType - 単体(Single Attack)
+	cost - 750
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

@@ -1,0 +1,59 @@
+413
+
+Normal:
+Version: Ver6.10
+Jap Name: エヴァ零号機
+En Name: Eva Unit-00
+Jp Desc: エヴァンゲリオンコラボ
+En Desc: Recruited from Evangelion! A humanoid superweapon prototype. Tough vs Angel/Floating, negates waves.
+Abilities: Float,Angel,Apostle:Resistant,Eva Angel Killer,Wave Shield
+Combos: 
+Stats: 	health - 18750.000
+	knockback - 2
+	attackRateF - 292
+	attackRateS - 9.73
+	attackPower - 6875.000
+	movementSpeed - 11
+	attackAnimF - 51
+	attackAnimS - 1.70
+	range - 350
+	respawnTimeF - 5246
+	respawnTimeS - 174.87
+	attackType - 範囲(Area Attack)
+	cost - 4,425
+
+
+Evolved:
+Version: Ver6.10
+Jap Name: エヴァ零号機＆ネコ
+En Name: Eva Unit-00 & Cat
+Jp Desc: エヴァンゲリオンコラボ
+En Desc: Recruited from Evangelion! Notorious for violent incidents in testing. Tough vs Angel/Floating, negates waves.
+Abilities: Float,Angel,Apostle:Resistant,Eva Angel Killer,Wave Shield
+Combos: 
+Stats: 	health - 18750.000
+	knockback - 2
+	attackRateF - 292
+	attackRateS - 9.73
+	attackPower - 6875.000
+	movementSpeed - 11
+	attackAnimF - 51
+	attackAnimS - 1.70
+	range - 350
+	respawnTimeF - 5246
+	respawnTimeS - 174.87
+	attackType - 範囲(Area Attack)
+	cost - 4,425
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

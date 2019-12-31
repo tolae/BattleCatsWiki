@@ -1,0 +1,59 @@
+490
+
+Normal:
+Version: Ver8.7.5
+Jap Name: ちびミサト
+En Name: Misato Katsuragi
+Jp Desc: エヴァンゲリオンコラボ
+En Desc: Recruited from Evangelion! A bright and charismatic officer who acts as Shinji's guardian. Might break Barriers and Slow Aliens!
+Abilities: Alien:Slow,Barrier Breaker,Immune to Slow
+Combos: 
+Stats: 	health - 4125.000
+	knockback - 3
+	attackRateF - 156
+	attackRateS - 5.20
+	attackPower - 2450.000
+	movementSpeed - 10
+	attackAnimF - 45
+	attackAnimS - 1.50
+	range - 300
+	respawnTimeF - 666
+	respawnTimeS - 22.20
+	attackType - 範囲(Area Attack)
+	cost - 1,155
+
+
+Evolved:
+Version: Ver8.7.5
+Jap Name: ヴンダー艦長のちびミサト
+En Name: Captain Misato
+Jp Desc: エヴァンゲリオンコラボ
+En Desc: Recruited from Evangelion! The ruthless leader of the anti-NERV organization WILLE. Might break Barriers and Slow Aliens!
+Abilities: Alien:Slow,Barrier Breaker,Immune to Slow
+Combos: 
+Stats: 	health - 4125.000
+	knockback - 3
+	attackRateF - 156
+	attackRateS - 5.20
+	attackPower - 2450.000
+	movementSpeed - 10
+	attackAnimF - 45
+	attackAnimS - 1.50
+	range - 300
+	respawnTimeF - 666
+	respawnTimeS - 22.20
+	attackType - 範囲(Area Attack)
+	cost - 1,155
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

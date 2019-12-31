@@ -1,0 +1,59 @@
+435
+
+Normal:
+Version: Ver7.2
+Jap Name: 白にゃんこ剣士
+En Name: Shiro Nyanko Kenshi
+Jp Desc: 城とドラゴンコラボ
+En Desc: N/A
+Abilities: Zombie:Resistant
+Combos: 
+Stats: 	health - 875.000
+	knockback - 1
+	attackRateF - 58
+	attackRateS - 1.93
+	attackPower - 25.000
+	movementSpeed - 8
+	attackAnimF - 11
+	attackAnimS - 0.37
+	range - 110
+	respawnTimeF - 60
+	respawnTimeS - 2.00
+	attackType - 単体(Single Attack)
+	cost - 150
+
+
+Evolved:
+Version: Ver7.2
+Jap Name: 黒にゃんこ剣士
+En Name: Kuro Nyanko Kenshi
+Jp Desc: 城とドラゴンコラボ
+En Desc: N/A
+Abilities: Zombie:Resistant
+Combos: 
+Stats: 	health - 875.000
+	knockback - 1
+	attackRateF - 58
+	attackRateS - 1.93
+	attackPower - 25.000
+	movementSpeed - 8
+	attackAnimF - 11
+	attackAnimS - 0.37
+	range - 110
+	respawnTimeF - 60
+	respawnTimeS - 2.00
+	attackType - 単体(Single Attack)
+	cost - 150
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

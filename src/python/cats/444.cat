@@ -1,0 +1,59 @@
+444
+
+Normal:
+Version: Ver8.0
+Jap Name: 戦隊ドリラ
+En Name: Driller Cat
+Jp Desc: 地底戦隊グランドンの穴掘り担当最新型ドリルで世界の裏側まで到達可能属性を持たない敵の攻撃力を必ず下げる（遠方攻撃）
+En Desc: The heart of the Grandon mining team, his dream is to drill right to the Earth's core.
+Abilities: White:Weaken,Long Distance (Single)
+Combos: 
+Stats: 	health - 900.000
+	knockback - 3
+	attackRateF - 183
+	attackRateS - 6.10
+	attackPower - 800.000
+	movementSpeed - 10
+	attackAnimF - 16
+	attackAnimS - 0.53
+	range - 460
+	respawnTimeF - 2146
+	respawnTimeS - 71.53
+	attackType - 単体(Single Attack)
+	cost - 1,200
+
+
+Evolved:
+Version: Ver8.0
+Jap Name: 戦隊パワードリラ
+En Name: Power Driller Cat
+Jp Desc: 地底戦隊グランドンの穴掘り担当アンテナを使って徳長埋蔵金を探している属性を持たない敵の攻撃力を必ず下げる（遠方攻撃）
+En Desc: Digging specialist of the brave Grandon Cats. His antenna is detecting a long-buried treasure! Long-range attacks Weaken Traitless enemies.
+Abilities: White:Weaken,Long Distance (Single)
+Combos: 
+Stats: 	health - 1125.000
+	knockback - 3
+	attackRateF - 183
+	attackRateS - 6.10
+	attackPower - 1000.000
+	movementSpeed - 10
+	attackAnimF - 16
+	attackAnimS - 0.53
+	range - 460
+	respawnTimeF - 2146
+	respawnTimeS - 71.53
+	attackType - 単体(Single Attack)
+	cost - 1,200
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

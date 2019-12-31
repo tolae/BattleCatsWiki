@@ -1,0 +1,72 @@
+211
+
+Normal:
+Version: Ver4.2
+Jap Name: ちびタンクネコ
+En Name: Li'l Tank Cat
+Jp Desc: 体力を多く備えた盾用のキャラ攻撃力はスズメの涙ほど、なキャラを目指して成長中のちびにゃんこ（範囲攻撃）
+En Desc: A tiny guy with dreams of becoming that cat strong enough to move a pebble. Tough. High Health. (Area Attack).
+Abilities: None:
+Combos: 	ほこ×たて| - ['506', '211']
+	進撃のちびネコ|Attack of the Li'ls - ['210', '211', '212', '246', '247']
+Stats: 	health - 870.588
+	knockback - 1
+	attackRateF - 67
+	attackRateS - 2.23
+	attackPower - 11.029
+	movementSpeed - 6
+	attackAnimF - 8
+	attackAnimS - 0.27
+	range - 100
+	respawnTimeF - 60
+	respawnTimeS - 2.00
+	attackType - 範囲(Area Attack)
+	cost - 150
+
+
+Evolved:
+Version: Ver4.2
+Jap Name: ちびネコカベ
+En Name: Li'l Wall Cat
+Jp Desc: まさにカベに徹する為の盾専用キャラ攻撃力はあいかわらず、なキャラを目指して成長中のちびにゃんこ（範囲攻撃）
+En Desc: A tiny guy with dreams of becoming that cat strong enough to move a small rock. Rigid defense. Now with corners (Area Attack).
+Abilities: None:
+Combos: 
+Stats: 	health - 870.588
+	knockback - 1
+	attackRateF - 67
+	attackRateS - 2.23
+	attackPower - 11.029
+	movementSpeed - 6
+	attackAnimF - 8
+	attackAnimS - 0.27
+	range - 100
+	respawnTimeF - 60
+	respawnTimeS - 2.00
+	attackType - 範囲(Area Attack)
+	cost - 150
+
+
+True:
+Version: Ver5.10
+Jap Name: ちびゴムネコ
+En Name: Li'l Eraser Cat
+Jp Desc: ゴム製の盾専用キャラに成長したちびにゃんこ成長して性格が丸くなったが攻撃力はあいかわらず（範囲攻撃）
+En Desc: A tiny guy with dreams of becoming that cat famous for Really Good Defense. Same attack power as always. (Area Attack.)
+Abilities: None:Immune to Freeze
+Combos: 
+Stats: 	health - 2611.765
+	knockback - 1
+	attackRateF - 67
+	attackRateS - 2.23
+	attackPower - 21.618
+	movementSpeed - 6
+	attackAnimF - 8
+	attackAnimS - 0.27
+	range - 100
+	respawnTimeF - 60
+	respawnTimeS - 2.00
+	attackType - 範囲(Area Attack)
+	cost - 150
+
+

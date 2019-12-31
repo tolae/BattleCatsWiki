@@ -1,0 +1,63 @@
+521
+
+Normal:
+Version: Ver9.0
+Jap Name: ネコ七福神
+En Name: Good-Luck Ebisu
+Jp Desc: 七つのありがたいご利益を一身に集めた福の神集めた福でみんなに幸せを振りまく、つもりはない属性を持つ敵に色んな妨害効果をたまに与える（遠方攻撃）
+En Desc: Happy-go-lucky Cat representing the Gods of Fortune.
+No more blessings to share, sorry. Long-range attacks
+may inflict various negative effects on traited enemies.
+Abilities: All (w/o White):Multi-Hit,Knockback,Freeze,Slow,Weaken,Extra Money,Long Distance (Single)
+Combos: 
+Stats: 	health - 4000.000
+	knockback - 3
+	attackRateF - 124
+	attackRateS - 4.13
+	attackPower - 1575.000
+	movementSpeed - 9
+	attackAnimF - 27
+	attackAnimS - 0.90
+	range - 400
+	respawnTimeF - 1346
+	respawnTimeS - 44.87
+	attackType - 単体(Single Attack)
+	cost - 2,400
+
+
+Evolved:
+Version: Ver9.0
+Jap Name: ネコ七福邪神
+En Name: Bad-Luck Ebisu
+Jp Desc: ご利益に溺れ、道を踏み外した元・福の神盗んだバイクで夜の街を爆走し爆音と福を振りまく属性を持つ敵に色んな妨害効果をたまに与える（遠方攻撃）
+En Desc: Lock your doors if you hear him coming, he’s got lots
+of misfortune to share. Long-range attacks may
+inflict various negative rebuffs on traited enemies.
+Abilities: All (w/o White):Multi-Hit,Knockback,Freeze,Slow,Weaken,Extra Money,Long Distance (Single)
+Combos: 
+Stats: 	health - 4000.000
+	knockback - 3
+	attackRateF - 124
+	attackRateS - 4.13
+	attackPower - 1575.000
+	movementSpeed - 9
+	attackAnimF - 27
+	attackAnimS - 0.90
+	range - 400
+	respawnTimeF - 1346
+	respawnTimeS - 44.87
+	attackType - 単体(Single Attack)
+	cost - 2,400
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

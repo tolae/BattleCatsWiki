@@ -1,0 +1,59 @@
+205
+
+Normal:
+Version: Ver4.2
+Jap Name: アイルー
+En Name: Airou
+Jp Desc: モンハン大狩猟クエストコラボ
+En Desc: N/A
+Abilities: Black:Weaken
+Combos: 
+Stats: 	health - 625.000
+	knockback - 3
+	attackRateF - 49
+	attackRateS - 1.63
+	attackPower - 137.500
+	movementSpeed - 12
+	attackAnimF - 12
+	attackAnimS - 0.40
+	range - 160
+	respawnTimeF - 60
+	respawnTimeS - 2.00
+	attackType - 単体(Single Attack)
+	cost - 375
+
+
+Evolved:
+Version: Ver4.2
+Jap Name: アイルー＆メラルー
+En Name: Airou & Melaleu
+Jp Desc: モンハン大狩猟クエストコラボ
+En Desc: N/A
+Abilities: Red:Weaken
+Combos: 
+Stats: 	health - 625.000
+	knockback - 3
+	attackRateF - 49
+	attackRateS - 1.63
+	attackPower - 137.500
+	movementSpeed - 12
+	attackAnimF - 12
+	attackAnimS - 0.40
+	range - 160
+	respawnTimeF - 60
+	respawnTimeS - 2.00
+	attackType - 単体(Single Attack)
+	cost - 375
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

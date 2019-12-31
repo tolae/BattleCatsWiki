@@ -1,0 +1,59 @@
+430
+
+Normal:
+Version: Ver7.1
+Jap Name: オタネコギーク
+En Name: Otanekogiiku
+Jp Desc: 消滅都市コラボ
+En Desc: N/A
+Abilities: All (w/o Metal):Weaken,Long Distance (Single)
+Combos: 
+Stats: 	health - 500.000
+	knockback - 1
+	attackRateF - 241
+	attackRateS - 8.03
+	attackPower - 1000.000
+	movementSpeed - 4
+	attackAnimF - 72
+	attackAnimS - 2.40
+	range - 1,000
+	respawnTimeF - 4746
+	respawnTimeS - 158.20
+	attackType - 単体(Single Attack)
+	cost - 3,750
+
+
+Evolved:
+Version: Ver7.1
+Jap Name: ギークネコハッカー
+En Name: Giikunekohakkaa
+Jp Desc: 消滅都市コラボ
+En Desc: N/A
+Abilities: All (w/o Metal):Weaken,Long Distance (Area)
+Combos: 
+Stats: 	health - 500.000
+	knockback - 1
+	attackRateF - 241
+	attackRateS - 8.03
+	attackPower - 1000.000
+	movementSpeed - 4
+	attackAnimF - 72
+	attackAnimS - 2.40
+	range - 1,000
+	respawnTimeF - 4746
+	respawnTimeS - 158.20
+	attackType - 範囲(Area Attack)
+	cost - 3,750
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

@@ -1,0 +1,71 @@
+411
+
+Normal:
+Version: Ver6.10
+Jap Name: ちびアスカ
+En Name: Asuka Langley
+Jp Desc: エヴァンゲリオンコラボ
+En Desc: Recruited from Evangelion! A prideful and hot-tempered prodigy. Strong vs. Red Enemies (Area Attack)
+Abilities: Red,Apostle:Strong,Eva Angel Killer,Immune to Slow
+Combos: 
+Stats: 	health - 3900.000
+	knockback - 2
+	attackRateF - 144
+	attackRateS - 4.80
+	attackPower - 1950.000
+	movementSpeed - 10
+	attackAnimF - 39
+	attackAnimS - 1.30
+	range - 315
+	respawnTimeF - 596
+	respawnTimeS - 19.87
+	attackType - 範囲(Area Attack)
+	cost - 1,140
+
+
+Evolved:
+Version: Ver6.10
+Jap Name: プラグスーツのちびアスカ
+En Name: Plug Suit Asuka
+Jp Desc: エヴァンゲリオンコラボ
+En Desc: Recruited from Evangelion! Warming up to the idea of teamwork. Strong vs. Red Enemies (Area Attack)
+Abilities: Red,Apostle:Strong,Eva Angel Killer,Immune to Slow
+Combos: 
+Stats: 	health - 3900.000
+	knockback - 2
+	attackRateF - 144
+	attackRateS - 4.80
+	attackPower - 1950.000
+	movementSpeed - 10
+	attackAnimF - 39
+	attackAnimS - 1.30
+	range - 315
+	respawnTimeF - 596
+	respawnTimeS - 19.87
+	attackType - 範囲(Area Attack)
+	cost - 1,140
+
+
+True:
+Version: Ver8.7.5
+Jap Name: 眼帯のちびアスカ
+En Name: Eyepatch Li'l Asuka
+Jp Desc: エヴァンゲリオンコラボ
+En Desc: Recruited from Evangelion! Eva 02's pilot, member of anti-NERV organization WILLE. Strong vs Red Enemies, Area Atks might Knockback.
+Abilities: Red,Apostle:Strong,Knockback,Eva Angel Killer,Immune to Slow
+Combos: 
+Stats: 	health - 4300.000
+	knockback - 2
+	attackRateF - 144
+	attackRateS - 4.80
+	attackPower - 2200.000
+	movementSpeed - 10
+	attackAnimF - 39
+	attackAnimS - 1.30
+	range - 315
+	respawnTimeF - 596
+	respawnTimeS - 19.87
+	attackType - 範囲(Area Attack)
+	cost - 1,140
+
+

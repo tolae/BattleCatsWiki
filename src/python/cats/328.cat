@@ -1,0 +1,59 @@
+328
+
+Normal:
+Version: Ver5.10
+Jap Name: ベリアル
+En Name: Belial
+Jp Desc: クラッシュフィーバーコラボ
+En Desc: An AI who ruthlessly hunts down all threats to the peace of ALICE, dropping in from Crash Fever. Grows much stronger as he takes damage. (Area)
+Abilities: None:Strengthen
+Combos: 
+Stats: 	health - 2375.000
+	knockback - 6
+	attackRateF - 121
+	attackRateS - 4.03
+	attackPower - 750.000
+	movementSpeed - 33
+	attackAnimF - 56
+	attackAnimS - 1.87
+	range - 300
+	respawnTimeF - 1546
+	respawnTimeS - 51.53
+	attackType - 範囲(Area Attack)
+	cost - 1,800
+
+
+Evolved:
+Version: Ver5.10
+Jap Name: 猛進の大逆者ベリアル
+En Name: Reckless Belial
+Jp Desc: クラッシュフィーバーコラボ
+En Desc: A fierce, fanatical guardian of ALICE's order. A special guest from Crash Fever. Grows much stronger as he takes damage. (Area Atk)
+Abilities: None:Strengthen
+Combos: 
+Stats: 	health - 3625.000
+	knockback - 6
+	attackRateF - 121
+	attackRateS - 4.03
+	attackPower - 1125.000
+	movementSpeed - 33
+	attackAnimF - 56
+	attackAnimS - 1.87
+	range - 300
+	respawnTimeF - 1546
+	respawnTimeS - 51.53
+	attackType - 範囲(Area Attack)
+	cost - 1,800
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

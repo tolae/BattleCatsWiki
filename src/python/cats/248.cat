@@ -1,0 +1,71 @@
+248
+
+Normal:
+Version: Ver4.5
+Jap Name: ちびネコノトリ
+En Name: Li'l Bird Cat
+Jp Desc: 体力は少ないが敵をまとめて一掃する超破壊力を持ったキャラを目指して成長中のちびにゃんこ（範囲攻撃）
+En Desc: A tiny guy with dreams of becoming that Cat with the health of a pea and exceptional attack power (Area Atk.)
+Abilities: None:
+Combos: 
+Stats: 	health - 652.941
+	knockback - 4
+	attackRateF - 49
+	attackRateS - 1.63
+	attackPower - 761.765
+	movementSpeed - 8
+	attackAnimF - 10
+	attackAnimS - 0.33
+	range - 160
+	respawnTimeF - 60
+	respawnTimeS - 2.00
+	attackType - 範囲(Area Attack)
+	cost - 975
+
+
+Evolved:
+Version: Ver4.5
+Jap Name: ちびネコUFO
+En Name: Li'l UFO Cat
+Jp Desc: 重力を超越した改造にゃんこ敵をまとめてお仕置き可能を目指して成長中のちびにゃんこ（範囲攻撃）
+En Desc: A tiny guy with dreams of becoming that Cat who overcame gravity and is good against multiple enemies (Area Atk.)
+Abilities: None:
+Combos: 	インディペンデンスな日|Independence Day - ['356', '006', '248']
+Stats: 	health - 652.941
+	knockback - 4
+	attackRateF - 57
+	attackRateS - 1.90
+	attackPower - 897.794
+	movementSpeed - 8
+	attackAnimF - 18
+	attackAnimS - 0.60
+	range - 160
+	respawnTimeF - 60
+	respawnTimeS - 2.00
+	attackType - 範囲(Area Attack)
+	cost - 975
+
+
+True:
+Version: Ver5.10
+Jap Name: 天空のちびネコ
+En Name: Li'l Flying Cat
+Jp Desc: 都市型空中庭園に成長したちびにゃんこ世界をお花で埋め尽くすのが夢ゾンビにめっぽう強い（範囲攻撃）
+En Desc: A tiny guy with dreams of becoming that Cat who destroyed a city with its beams of lights. (Area Atk.)
+Abilities: Zombie:Strong,Zombie Killer
+Combos: 
+Stats: 	health - 2611.765
+	knockback - 4
+	attackRateF - 57
+	attackRateS - 1.90
+	attackPower - 1795.588
+	movementSpeed - 8
+	attackAnimF - 18
+	attackAnimS - 0.60
+	range - 170
+	respawnTimeF - 116
+	respawnTimeS - 3.87
+	attackType - 範囲(Area Attack)
+	cost - 975
+
+

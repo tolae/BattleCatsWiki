@@ -1,0 +1,63 @@
+299
+
+Normal:
+Version: Ver5.5
+Jap Name: ネコ杏子
+En Name: Kyoko Cat
+Jp Desc: 魔法少女まどか☆マギカコラボ
+En Desc: A Cat who admires Magical Girls with endless
+appetite. Don't waste good food or you'll get it!
+Might Weaken Red enemies.
+Abilities: Red:Weaken
+Combos: 
+Stats: 	health - 2312.500
+	knockback - 3
+	attackRateF - 72
+	attackRateS - 2.40
+	attackPower - 562.500
+	movementSpeed - 9
+	attackAnimF - 23
+	attackAnimS - 0.77
+	range - 150
+	respawnTimeF - 176
+	respawnTimeS - 5.87
+	attackType - 単体(Single Attack)
+	cost - 615
+
+
+Evolved:
+Version: Ver5.5
+Jap Name: 魔法少女ネコ杏子
+En Name: Magical Girl Kyouko Cat
+Jp Desc: 魔法少女まどか☆マギカコラボ
+En Desc: This Magical Girl Cat made a contract with a suspicious
+white creature. Made her spear in shop class.
+Might Weaken Red enemies.
+Abilities: Red:Weaken
+Combos: 
+Stats: 	health - 2312.500
+	knockback - 3
+	attackRateF - 72
+	attackRateS - 2.40
+	attackPower - 562.500
+	movementSpeed - 9
+	attackAnimF - 15
+	attackAnimS - 0.50
+	range - 200
+	respawnTimeF - 176
+	respawnTimeS - 5.87
+	attackType - 単体(Single Attack)
+	cost - 615
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

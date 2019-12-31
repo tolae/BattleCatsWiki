@@ -1,0 +1,71 @@
+406
+
+Normal:
+Version: Ver6.10
+Jap Name: ちびカヲル
+En Name: Kaworu & Cat
+Jp Desc: エヴァンゲリオンコラボ
+En Desc: Recruited from Evangelion! A strange boy with a mysterious smirk. Massive damage to Black enemies.
+Abilities: Black,Apostle:Massive Damage,Eva Angel Killer
+Combos: 
+Stats: 	health - 1425.000
+	knockback - 3
+	attackRateF - 151
+	attackRateS - 5.03
+	attackPower - 637.500
+	movementSpeed - 8
+	attackAnimF - 48
+	attackAnimS - 1.60
+	range - 175
+	respawnTimeF - 746
+	respawnTimeS - 24.87
+	attackType - 単体(Single Attack)
+	cost - 450
+
+
+Evolved:
+Version: Ver6.10
+Jap Name: プラグスーツのちびカヲル
+En Name: Plug Suit Kaworu
+Jp Desc: エヴァンゲリオンコラボ
+En Desc: Recruited from Evangelion! Thought by others to be an Eva pilot. Massive damage to Black enemies.
+Abilities: Black,Apostle:Massive Damage,Eva Angel Killer
+Combos: 
+Stats: 	health - 1425.000
+	knockback - 3
+	attackRateF - 151
+	attackRateS - 5.03
+	attackPower - 637.500
+	movementSpeed - 8
+	attackAnimF - 48
+	attackAnimS - 1.60
+	range - 175
+	respawnTimeF - 746
+	respawnTimeS - 24.87
+	attackType - 単体(Single Attack)
+	cost - 450
+
+
+True:
+Version: Ver6.10
+Jap Name: 月の少年ちびカヲル
+En Name: Moon Kaworu
+Jp Desc: エヴァンゲリオンコラボ
+En Desc: Recruited from Evangelion! Seems to have known Shinji for a long while. Massive area damage to Black.
+Abilities: Black,Apostle:Massive Damage,Eva Angel Killer
+Combos: 
+Stats: 	health - 1425.000
+	knockback - 3
+	attackRateF - 167
+	attackRateS - 5.57
+	attackPower - 637.500
+	movementSpeed - 8
+	attackAnimF - 60
+	attackAnimS - 2.00
+	range - 250
+	respawnTimeF - 746
+	respawnTimeS - 24.87
+	attackType - 範囲(Area Attack)
+	cost - 450
+
+

@@ -1,0 +1,59 @@
+410
+
+Normal:
+Version: Ver6.10
+Jap Name: ちびレイ
+En Name: Rei Ayanami
+Jp Desc: エヴァンゲリオンコラボ
+En Desc: Recruited from Evangelion! An aloof girl who guards her emotions. Area attack might weaken Angels.
+Abilities: Angel,Apostle:Weaken,Eva Angel Killer,Immune to Weaken
+Combos: 
+Stats: 	health - 3625.000
+	knockback - 3
+	attackRateF - 170
+	attackRateS - 5.67
+	attackPower - 2475.000
+	movementSpeed - 8
+	attackAnimF - 45
+	attackAnimS - 1.50
+	range - 300
+	respawnTimeF - 546
+	respawnTimeS - 18.20
+	attackType - 範囲(Area Attack)
+	cost - 1,170
+
+
+Evolved:
+Version: Ver6.10
+Jap Name: プラグスーツのちびレイ
+En Name: Plug Suit Rei
+Jp Desc: エヴァンゲリオンコラボ
+En Desc: Recruited from Evangelion! Feels a strong bond with her fellow pilots. Area attack might weaken Angels.
+Abilities: Angel,Apostle:Weaken,Eva Angel Killer,Immune to Weaken
+Combos: 
+Stats: 	health - 3625.000
+	knockback - 3
+	attackRateF - 170
+	attackRateS - 5.67
+	attackPower - 2475.000
+	movementSpeed - 8
+	attackAnimF - 45
+	attackAnimS - 1.50
+	range - 300
+	respawnTimeF - 546
+	respawnTimeS - 18.20
+	attackType - 範囲(Area Attack)
+	cost - 1,170
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

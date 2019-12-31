@@ -1,0 +1,72 @@
+312
+
+Normal:
+Version: Ver5.7
+Jap Name: ちびネコフィッシュ
+En Name: Li'l Fish Cat
+Jp Desc: 戦闘向きの高級キャラを目指して成長中のちびにゃんこ｢赤い敵｣にはめっぽう強い
+En Desc: A tiny guy with dreams of becoming that Cat with exceptional melee capability. Strong against Red enemies.
+Abilities: Red:Strong
+Combos: 	とれたてピッチピチ|Fresh Catch - ['336', '007', '312', '075']
+	魚群発見！！|Marine Tours - ['306', '007', '312']
+Stats: 	health - 1523.529
+	knockback - 3
+	attackRateF - 53
+	attackRateS - 1.77
+	attackPower - 979.412
+	movementSpeed - 8
+	attackAnimF - 10
+	attackAnimS - 0.33
+	range - 140
+	respawnTimeF - 136
+	respawnTimeS - 4.53
+	attackType - 単体(Single Attack)
+	cost - 1,200
+
+
+Evolved:
+Version: Ver5.7
+Jap Name: ちびネコクジラ
+En Name: Li'l Whale Cat
+Jp Desc: 肉食クジラに進化した高級戦闘キャラを目指して成長中のちびにゃんこ｢赤い敵｣にはめっぽう強い
+En Desc: A tiny guy with dreams of becoming that Cat that managed to become a carnivorous whale. Strong against Red enemies.
+Abilities: Red:Strong
+Combos: 
+Stats: 	health - 1523.529
+	knockback - 3
+	attackRateF - 53
+	attackRateS - 1.77
+	attackPower - 979.412
+	movementSpeed - 8
+	attackAnimF - 10
+	attackAnimS - 0.33
+	range - 140
+	respawnTimeF - 136
+	respawnTimeS - 4.53
+	attackType - 単体(Single Attack)
+	cost - 1,200
+
+
+True:
+Version: Ver5.10
+Jap Name: ちびネコ島
+En Name: Li'l Island Cat
+Jp Desc: にゃんこ達の夏休みの思い出の場所に最適な形状にまで成長したちびにゃんこ赤い敵にめっぽう強く、ごくたまにクリティカルを放つ
+En Desc: A tiny guy with dreams of becoming that Cat who can perfect his form while on vacation. Strong against Red enemies, might critical.
+Abilities: Red:Strong,Critical
+Combos: 
+Stats: 	health - 6094.118
+	knockback - 3
+	attackRateF - 53
+	attackRateS - 1.77
+	attackPower - 1958.824
+	movementSpeed - 8
+	attackAnimF - 10
+	attackAnimS - 0.33
+	range - 140
+	respawnTimeF - 256
+	respawnTimeS - 8.53
+	attackType - 単体(Single Attack)
+	cost - 1,200
+
+

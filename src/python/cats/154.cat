@@ -1,0 +1,71 @@
+154
+
+Normal:
+Version: Ver3.0
+Jap Name: ネコトースター
+En Name: Cat Toaster
+Jp Desc: 毎日パンばかり焼かされてストを起こしたトースターお父さんの顔目がけてパンを吹き飛ばすのが生きがいごくたまに天使の動きを遅くする（範囲攻撃）
+En Desc: Fed up with making toast everyday, went on strike by firing bread at Dad's face. Might slow Angelic Enemies. (Area Attack)
+Abilities: Angel:Slow
+Combos: 	純喫茶|Brunch Rush - ['274', '154']
+Stats: 	health - 1550.000
+	knockback - 3
+	attackRateF - 136
+	attackRateS - 4.53
+	attackPower - 825.000
+	movementSpeed - 11
+	attackAnimF - 37
+	attackAnimS - 1.23
+	range - 330
+	respawnTimeF - 546
+	respawnTimeS - 18.20
+	attackType - 範囲(Area Attack)
+	cost - 1,200
+
+
+Evolved:
+Version: Ver3.0
+Jap Name: ネコ映写機
+En Name: Projector Cat
+Jp Desc: かつては名優達を映していたが、デジタルに取って代わられたためやけくそになった呪いの映写機ごくたまに天使の動きを遅くする（範囲攻撃）
+En Desc: Used to projecting Hollywood stars, now worries it might be obsolete thanks to digital video. Might slow Angelic Enemies. (Area Attack)
+Abilities: Angel:Slow
+Combos: 	銀幕のスター|Silver Screen - ['154', '010']
+Stats: 	health - 1800.000
+	knockback - 3
+	attackRateF - 136
+	attackRateS - 4.53
+	attackPower - 1000.000
+	movementSpeed - 11
+	attackAnimF - 37
+	attackAnimS - 1.23
+	range - 330
+	respawnTimeF - 546
+	respawnTimeS - 18.20
+	attackType - 範囲(Area Attack)
+	cost - 1,200
+
+
+True:
+Version: Ver5.1
+Jap Name: ネコクラシック
+En Name: Catophone
+Jp Desc: 特性「バリアブレイカー」強化
+En Desc: Melancholy melodies strip enemies of their will to fight, before they are struck with sharp notes! Might slow Angelic enemies. (Area Attack)
+Abilities: Angel:Slow,Barrier Breaker
+Combos: 
+Stats: 	health - 2700.000
+	knockback - 3
+	attackRateF - 136
+	attackRateS - 4.53
+	attackPower - 1500.000
+	movementSpeed - 11
+	attackAnimF - 37
+	attackAnimS - 1.23
+	range - 330
+	respawnTimeF - 546
+	respawnTimeS - 18.20
+	attackType - 範囲(Area Attack)
+	cost - 1,200
+
+

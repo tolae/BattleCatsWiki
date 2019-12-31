@@ -1,0 +1,60 @@
+289
+
+Normal:
+Version: Ver5.5
+Jap Name: 鹿目まどか
+En Name: Madoka Kaname
+Jp Desc: 魔法少女まどか☆マギカコラボ
+En Desc: Mahou Shoujo Madoka ☆ Magica enters war! A magical girl with a gentle mind with a friendly feeling Strongly suffocating to the floating enemy, slowing down the movement (far range attack)
+Abilities: Float,Witch:Strong,Slow,Witch Killer,Long Distance (Area)
+Combos: 
+Stats: 	health - 6375.000
+	knockback - 4
+	attackRateF - 243
+	attackRateS - 8.10
+	attackPower - 4125.000
+	movementSpeed - 20
+	attackAnimF - 44
+	attackAnimS - 1.47
+	range - 550
+	respawnTimeF - 4146
+	respawnTimeS - 138.20
+	attackType - 範囲(Area Attack)
+	cost - 4,350
+
+
+Evolved:
+Version: Ver5.5
+Jap Name: まどか＆ネコ
+En Name: Madoka & Cat
+Jp Desc: 魔法少女まどか☆マギカコラボ
+En Desc: Participation from the magical girl Madoka ☆ Magica!
+Magical girl with friendliness and tremendous qualities. Strong against enemy floating and slowing movement (far-range attack)
+Abilities: Float,Witch:Strong,Slow,Witch Killer,Long Distance (Area)
+Combos: 
+Stats: 	health - 6375.000
+	knockback - 4
+	attackRateF - 243
+	attackRateS - 8.10
+	attackPower - 4125.000
+	movementSpeed - 20
+	attackAnimF - 44
+	attackAnimS - 1.47
+	range - 550
+	respawnTimeF - 4146
+	respawnTimeS - 138.20
+	attackType - 範囲(Area Attack)
+	cost - 4,350
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

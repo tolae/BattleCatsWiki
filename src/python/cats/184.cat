@@ -1,0 +1,71 @@
+184
+
+Normal:
+Version: Ver3.7
+Jap Name: にゃんこカートR
+En Name: Cat Kart R
+Jp Desc: Nintendoコラボ
+En Desc: Celebrate "The Battle Cats POP! on 3DS! Other hobbies: Parties, Tennis, Medicine. Gets lots of money from defeated enemies!
+Abilities: None:Extra Money
+Combos: 
+Stats: 	health - 975.000
+	knockback - 4
+	attackRateF - 108
+	attackRateS - 3.60
+	attackPower - 150.000
+	movementSpeed - 24
+	attackAnimF - 39
+	attackAnimS - 1.30
+	range - 320
+	respawnTimeF - 286
+	respawnTimeS - 9.53
+	attackType - 単体(Single Attack)
+	cost - 510
+
+
+Evolved:
+Version: Ver3.7
+Jap Name: にゃんこカートG
+En Name: Cat Kart G
+Jp Desc: Nintendoコラボ
+En Desc: Celebrate "The Battle Cats POP! on 3DS! Has a complex thanks to his popular brother. Gets lots of money from defeated enemies!
+Abilities: None:Extra Money
+Combos: 
+Stats: 	health - 975.000
+	knockback - 4
+	attackRateF - 108
+	attackRateS - 3.60
+	attackPower - 150.000
+	movementSpeed - 24
+	attackAnimF - 39
+	attackAnimS - 1.30
+	range - 320
+	respawnTimeF - 286
+	respawnTimeS - 9.53
+	attackType - 単体(Single Attack)
+	cost - 510
+
+
+True:
+Version: Ver6.1
+Jap Name: にゃんこカートP
+En Name: Cat Kart P
+Jp Desc: Nintendoコラボ
+En Desc: Celebrate "The Battle Cats POP!" on 3DS! This Cat always seems to be in another castle. Gets lots of money from defeated enemies!
+Abilities: None:Multi-Hit,Extra Money
+Combos: 
+Stats: 	health - 975.000
+	knockback - 4
+	attackRateF - 179
+	attackRateS - 5.97
+	attackPower - 450.000
+	movementSpeed - 24
+	attackAnimF - 25
+	attackAnimS - 0.83
+	range - 320
+	respawnTimeF - 286
+	respawnTimeS - 9.53
+	attackType - 単体(Single Attack)
+	cost - 510
+
+

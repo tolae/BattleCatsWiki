@@ -1,0 +1,71 @@
+363
+
+Normal:
+Version: Ver6.6
+Jap Name: セイバー
+En Name: Saber
+Jp Desc: 劇場版 Fate stay nightコラボ
+En Desc: Joining the fight from Fate/Stay night [HF]! Her sword is pledged to her master, Shirou Emiya. Massive long-range area damage vs. floating!
+Abilities: Float:Massive Damage,Long Distance (Area)
+Combos: 
+Stats: 	health - 4500.000
+	knockback - 6
+	attackRateF - 70
+	attackRateS - 2.33
+	attackPower - 1125.000
+	movementSpeed - 36
+	attackAnimF - 15
+	attackAnimS - 0.50
+	range - 325
+	respawnTimeF - 2146
+	respawnTimeS - 71.53
+	attackType - 範囲(Area Attack)
+	cost - 3,900
+
+
+Evolved:
+Version: Ver6.6
+Jap Name: セイバーCC
+En Name: Saber CC
+Jp Desc: 劇場版 Fate stay nightコラボ
+En Desc: Joining the fight from Fate/stay night [HF]! Peerless warrior in possession of a Noble Phantasm. Massive long-range area damage vs. floating!
+Abilities: Float:Massive Damage,Long Distance (Area)
+Combos: 
+Stats: 	health - 6000.000
+	knockback - 6
+	attackRateF - 70
+	attackRateS - 2.33
+	attackPower - 1500.000
+	movementSpeed - 36
+	attackAnimF - 15
+	attackAnimS - 0.50
+	range - 325
+	respawnTimeF - 2146
+	respawnTimeS - 71.53
+	attackType - 範囲(Area Attack)
+	cost - 3,900
+
+
+True:
+Version: Ver6.6
+Jap Name: セイバーオルタCC
+En Name: Saber Alter CC
+Jp Desc: 劇場版 Fate stay nightコラボ
+En Desc: Joining the fight from Fate/stay night [HF]! A menacing swordwoman who resembles Saber... Massive long range area damage vs floating!
+Abilities: Float:Massive Damage,Long Distance (Area)
+Combos: 
+Stats: 	health - 7500.000
+	knockback - 6
+	attackRateF - 69
+	attackRateS - 2.30
+	attackPower - 1875.000
+	movementSpeed - 36
+	attackAnimF - 15
+	attackAnimS - 0.50
+	range - 350
+	respawnTimeF - 2146
+	respawnTimeS - 71.53
+	attackType - 範囲(Area Attack)
+	cost - 3,900
+
+

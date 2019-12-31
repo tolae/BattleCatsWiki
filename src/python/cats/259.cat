@@ -1,0 +1,59 @@
+259
+
+Normal:
+Version: Ver4.6
+Jap Name: 守護神アヌビス
+En Name: Anubis the Protector
+Jp Desc: 人間の魂を冥界へと運ぶ死者の神死の神器「冥界の杖」が罪深き者の魂を消滅させる波動によるダメージを無効にする（範囲攻撃）
+En Desc: God of Death who escorts human souls to the underworld. His Nether Staff purges mortals of sin. Unharmed by wave attacks (Area Attack).
+Abilities: Zombie:Zombie Killer,Immune to Waves,Immune to Slow
+Combos: 	犬神様|Dog Gods - ['131', '259']
+Stats: 	health - 6000.000
+	knockback - 3
+	attackRateF - 267
+	attackRateS - 8.90
+	attackPower - 5250.000
+	movementSpeed - 18
+	attackAnimF - 116
+	attackAnimS - 3.87
+	range - 425
+	respawnTimeF - 4146
+	respawnTimeS - 138.20
+	attackType - 範囲(Area Attack)
+	cost - 4,200
+
+
+Evolved:
+Version: Ver4.6
+Jap Name: パーフェクトアヌビス
+En Name: Anubis the Unblemished
+Jp Desc: 冥界を支配する完璧な力を手に入れた死者の神絶命の神器「冥界の神杖」がすべての命を根絶させる波動によるダメージを無効にする（範囲攻撃）
+En Desc: His dominance of the underworld is complete. A single touch from his Sacred Staff will extinguish any life. Unharmed by wave attacks (Area Attack).
+Abilities: Zombie:Zombie Killer,Immune to Waves,Immune to Slow
+Combos: 
+Stats: 	health - 8000.000
+	knockback - 3
+	attackRateF - 267
+	attackRateS - 8.90
+	attackPower - 7000.000
+	movementSpeed - 18
+	attackAnimF - 116
+	attackAnimS - 3.87
+	range - 425
+	respawnTimeF - 4146
+	respawnTimeS - 138.20
+	attackType - 範囲(Area Attack)
+	cost - 4,200
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

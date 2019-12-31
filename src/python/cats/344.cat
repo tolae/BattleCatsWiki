@@ -1,0 +1,59 @@
+344
+
+Normal:
+Version: Ver6.1
+Jap Name: なめネコ
+En Name: Slug Jockey Cat
+Jp Desc: 雨上がりの日に出会って意気投合したなめとネコ粘り強い勝負が得意だが塩には弱い敵の動きを一瞬遅くする（範囲攻撃）
+En Desc: One rainy day a Slug befriended a Cat. Her will is strong but her body is weak (to salt). Area attack Slows enemies for a moment.
+Abilities: All (w/o Metal/White):Slow
+Combos: 	土砂降りに唄えば|Meowin' in the Rain - ['361', '344']
+Stats: 	health - 1500.000
+	knockback - 2
+	attackRateF - 186
+	attackRateS - 6.20
+	attackPower - 150.000
+	movementSpeed - 12
+	attackAnimF - 27
+	attackAnimS - 0.90
+	range - 210
+	respawnTimeF - 706
+	respawnTimeS - 23.53
+	attackType - 範囲(Area Attack)
+	cost - 630
+
+
+Evolved:
+Version: Ver6.1
+Jap Name: ネコなめ
+En Name: Slugcat
+Jp Desc: 更なる高みを目指すため、乗り手を交替したなめとネコ先行逃げ切りが得意だがやっぱり塩には弱い敵の動きを一瞬遅くする（範囲攻撃）
+En Desc: They thought it wasn't fair for the Cat to always ride so now they take turns. No effect on race times. Area attack Slows enemies for a moment.
+Abilities: All (w/o Metal/White):Slow
+Combos: 
+Stats: 	health - 1500.000
+	knockback - 2
+	attackRateF - 186
+	attackRateS - 6.20
+	attackPower - 150.000
+	movementSpeed - 12
+	attackAnimF - 27
+	attackAnimS - 0.90
+	range - 210
+	respawnTimeF - 706
+	respawnTimeS - 23.53
+	attackType - 範囲(Area Attack)
+	cost - 630
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

@@ -1,0 +1,59 @@
+401
+
+Normal:
+Version: Ver6.9
+Jap Name: イモウト
+En Name: Imoto
+Jp Desc: めんトリコラボ
+En Desc: Dropping in from MENTORI! Mentori’s sharp-tongued kid sis is never not macho! Chance of critical attacks.
+Abilities: None:Critical
+Combos: 
+Stats: 	health - 1200.000
+	knockback - 2
+	attackRateF - 60
+	attackRateS - 2.00
+	attackPower - 250.000
+	movementSpeed - 8
+	attackAnimF - 15
+	attackAnimS - 0.50
+	range - 170
+	respawnTimeF - 226
+	respawnTimeS - 7.53
+	attackType - 単体(Single Attack)
+	cost - 480
+
+
+Evolved:
+Version: Ver6.9
+Jap Name: イモウトCC
+En Name: Imoto CC
+Jp Desc: めんトリコラボ
+En Desc: Dropping in from MENTORI! Just that age where it’s sarcasm all the time. Chance of critical attacks.
+Abilities: None:Critical
+Combos: 
+Stats: 	health - 1200.000
+	knockback - 2
+	attackRateF - 60
+	attackRateS - 2.00
+	attackPower - 250.000
+	movementSpeed - 8
+	attackAnimF - 15
+	attackAnimS - 0.50
+	range - 170
+	respawnTimeF - 226
+	respawnTimeS - 7.53
+	attackType - 単体(Single Attack)
+	cost - 480
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

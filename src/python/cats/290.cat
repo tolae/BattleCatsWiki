@@ -1,0 +1,61 @@
+290
+
+Normal:
+Version: Ver5.5
+Jap Name: 暁美ほむら
+En Name: Homura Akemi
+Jp Desc: 魔法少女まどか☆マギカコラボ
+En Desc: Participation from the magical girl Madoka ☆ Magica!
+A cool magic girl with many mysteries in behavior Stops the movement of black enemies
+Abilities: Black,Witch:Freeze,Witch Killer
+Combos: 
+Stats: 	health - 7075.000
+	knockback - 3
+	attackRateF - 199
+	attackRateS - 6.63
+	attackPower - 5075.000
+	movementSpeed - 11
+	attackAnimF - 30
+	attackAnimS - 1.00
+	range - 455
+	respawnTimeF - 3946
+	respawnTimeS - 131.53
+	attackType - 範囲(Area Attack)
+	cost - 4,470
+
+
+Evolved:
+Version: Ver5.5
+Jap Name: ほむら＆ネコ
+En Name: Homura & Cat
+Jp Desc: 魔法少女まどか☆マギカコラボ
+En Desc: Participation from the magical girl Madoka ☆ Magica!
+Magical girl who manipulates time Sometimes stop black enemy's movement (range attack)
+Abilities: Black,Witch:Freeze,Witch Killer
+Combos: 
+Stats: 	health - 7075.000
+	knockback - 3
+	attackRateF - 199
+	attackRateS - 6.63
+	attackPower - 5075.000
+	movementSpeed - 11
+	attackAnimF - 30
+	attackAnimS - 1.00
+	range - 455
+	respawnTimeF - 3946
+	respawnTimeS - 131.53
+	attackType - 範囲(Area Attack)
+	cost - 4,470
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

@@ -1,0 +1,59 @@
+216
+
+Normal:
+Version: Ver4.3
+Jap Name: マルコ
+En Name: MARCO
+Jp Desc: メタルスラッグディフェンスコラボ
+En Desc: Recruited from Metal Slug Defense! This major excels at programming recruits. Might temporarily freeze Aliens.
+Abilities: Alien:Freeze
+Combos: 
+Stats: 	health - 462.500
+	knockback - 3
+	attackRateF - 59
+	attackRateS - 1.97
+	attackPower - 162.500
+	movementSpeed - 9
+	attackAnimF - 2
+	attackAnimS - 0.07
+	range - 330
+	respawnTimeF - 346
+	respawnTimeS - 11.53
+	attackType - 単体(Single Attack)
+	cost - 990
+
+
+Evolved:
+Version: Ver4.3
+Jap Name: マルコCC
+En Name: MARCO CC
+Jp Desc: メタルスラッグディフェンスコラボ
+En Desc: Recruited from Metal Slug Defense! A top intel officer who lets loose with artillery. Might temporarily freeze Aliens.
+Abilities: Alien:Freeze
+Combos: 
+Stats: 	health - 619.853
+	knockback - 3
+	attackRateF - 59
+	attackRateS - 1.97
+	attackPower - 230.147
+	movementSpeed - 9
+	attackAnimF - 2
+	attackAnimS - 0.07
+	range - 330
+	respawnTimeF - 346
+	respawnTimeS - 11.53
+	attackType - 単体(Single Attack)
+	cost - 990
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

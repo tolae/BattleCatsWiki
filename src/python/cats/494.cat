@@ -1,0 +1,59 @@
+494
+
+Normal:
+Version: Ver8.7
+Jap Name: 創造神ガイア
+En Name: Gaia the Creator
+Jp Desc: 倒された時、独自グラフィック（アニメーション）
+En Desc: The origin of all life... and she can choose to undo it all whenever she pleases. Long range area attacks deal extreme damage to traited.
+Abilities: All (w/o White):Multi-Hit,Insane Damage,Long Distance (Area)
+Combos: 
+Stats: 	health - 10000.000
+	knockback - 2
+	attackRateF - 300
+	attackRateS - 10.00
+	attackPower - 6975.000
+	movementSpeed - 8
+	attackAnimF - 47
+	attackAnimS - 1.57
+	range - 400
+	respawnTimeF - 3706
+	respawnTimeS - 123.53
+	attackType - 範囲(Area Attack)
+	cost - 4,470
+
+
+Evolved:
+Version: Ver8.7
+Jap Name: ゴッドガイア
+En Name: Gaia the Supreme
+Jp Desc: 倒された時、独自グラフィック（アニメーション）
+En Desc: The ultimate goddess, who directs mana birthed from the world tree to annihilate enemies of good. Extreme damage to traited (long range - area attacks)
+Abilities: All (w/o White):Multi-Hit,Insane Damage,Long Distance (Area)
+Combos: 
+Stats: 	health - 10000.000
+	knockback - 2
+	attackRateF - 300
+	attackRateS - 10.00
+	attackPower - 6975.000
+	movementSpeed - 8
+	attackAnimF - 47
+	attackAnimS - 1.57
+	range - 400
+	respawnTimeF - 3706
+	respawnTimeS - 123.53
+	attackType - 範囲(Area Attack)
+	cost - 4,470
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

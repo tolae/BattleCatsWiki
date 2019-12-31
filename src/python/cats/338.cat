@@ -1,0 +1,71 @@
+338
+
+Normal:
+Version: Ver6.0
+Jap Name: プリンセスケリ姫号
+En Name: Princess Ship
+Jp Desc: ケリ姫スイーツコラボ
+En Desc: ?
+Abilities: None:Extra Money
+Combos: 
+Stats: 	health - 3000.000
+	knockback - 3
+	attackRateF - 154
+	attackRateS - 5.13
+	attackPower - 1137.500
+	movementSpeed - 10
+	attackAnimF - 49
+	attackAnimS - 1.63
+	range - 410
+	respawnTimeF - 2306
+	respawnTimeS - 76.87
+	attackType - 範囲(Area Attack)
+	cost - 3,150
+
+
+Evolved:
+Version: Ver6.0
+Jap Name: プリンセスケリ姫号CC
+En Name: Princess ShipCC
+Jp Desc: ケリ姫スイーツコラボ
+En Desc: ?
+Abilities: None:Extra Money
+Combos: 
+Stats: 	health - 5000.000
+	knockback - 3
+	attackRateF - 154
+	attackRateS - 5.13
+	attackPower - 1887.500
+	movementSpeed - 10
+	attackAnimF - 49
+	attackAnimS - 1.63
+	range - 410
+	respawnTimeF - 2306
+	respawnTimeS - 76.87
+	attackType - 範囲(Area Attack)
+	cost - 3,150
+
+
+True:
+Version: Ver7.3
+Jap Name: プレミアムケリ姫号CC
+En Name: Premium Ship CC
+Jp Desc: ケリ姫スイーツコラボ
+En Desc: ?
+Abilities: None:Extra Money
+Combos: 
+Stats: 	health - 7000.000
+	knockback - 3
+	attackRateF - 154
+	attackRateS - 5.13
+	attackPower - 3012.500
+	movementSpeed - 15
+	attackAnimF - 49
+	attackAnimS - 1.63
+	range - 410
+	respawnTimeF - 2306
+	respawnTimeS - 76.87
+	attackType - 範囲(Area Attack)
+	cost - 3,150
+
+

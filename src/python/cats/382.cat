@@ -1,0 +1,59 @@
+382
+
+Normal:
+Version: Ver6.7
+Jap Name: ねこ農家
+En Name: Farmer Cat
+Jp Desc: たくさんの民から選び抜かれたネコ人々に幸せを分け与えるため畑を耕し続ける敵を倒したときにお金を多くもらえる
+En Desc: A humble cat who grows tasty things to make others happy. Selected for the Cat Army from many others. Collects extra money when defeating enemies.
+Abilities: None:Extra Money
+Combos: 
+Stats: 	health - 1425.000
+	knockback - 3
+	attackRateF - 61
+	attackRateS - 2.03
+	attackPower - 350.000
+	movementSpeed - 8
+	attackAnimF - 30
+	attackAnimS - 1.00
+	range - 180
+	respawnTimeF - 226
+	respawnTimeS - 7.53
+	attackType - 単体(Single Attack)
+	cost - 540
+
+
+Evolved:
+Version: Ver6.7
+Jap Name: ねこカブ農家
+En Name: Harvest Cat
+Jp Desc: たくさんの民から選び抜かれたネコカブが儲かるという噂を聞いて手を出した敵を倒したときにお金を多くもらえる
+En Desc: Heard that the turnip market was booming. Time to profit off her crops! A respected Cat Army veteran. Collects extra money when defeating enemies.
+Abilities: None:Extra Money
+Combos: 
+Stats: 	health - 1425.000
+	knockback - 3
+	attackRateF - 61
+	attackRateS - 2.03
+	attackPower - 350.000
+	movementSpeed - 8
+	attackAnimF - 30
+	attackAnimS - 1.00
+	range - 180
+	respawnTimeF - 226
+	respawnTimeS - 7.53
+	attackType - 単体(Single Attack)
+	cost - 540
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

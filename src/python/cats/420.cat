@@ -1,0 +1,59 @@
+420
+
+Normal:
+Version: Ver7.0
+Jap Name: ポコタ
+En Name: Pokota
+Jp Desc: ポコパンコラボ
+En Desc: Joining the fight from LINE Pokopang! Rabbity defender of justice who'll do anything to protect his friends!
+Abilities: None:Multi-Hit
+Combos: 
+Stats: 	health - 1125.000
+	knockback - 3
+	attackRateF - 154
+	attackRateS - 5.13
+	attackPower - 400.000
+	movementSpeed - 9
+	attackAnimF - 52
+	attackAnimS - 1.73
+	range - 375
+	respawnTimeF - 276
+	respawnTimeS - 9.20
+	attackType - 単体(Single Attack)
+	cost - 675
+
+
+Evolved:
+Version: Ver7.0
+Jap Name: ポコタCC
+En Name: Pokota CC
+Jp Desc: ポコパンコラボ
+En Desc: Joining the fight from LINE Pokopang! His mission in life is to bring joy to his fellow woodland creatures.
+Abilities: None:Multi-Hit
+Combos: 
+Stats: 	health - 1125.000
+	knockback - 3
+	attackRateF - 154
+	attackRateS - 5.13
+	attackPower - 400.000
+	movementSpeed - 9
+	attackAnimF - 52
+	attackAnimS - 1.73
+	range - 375
+	respawnTimeF - 276
+	respawnTimeS - 9.20
+	attackType - 単体(Single Attack)
+	cost - 675
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

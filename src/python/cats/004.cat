@@ -1,0 +1,74 @@
+004
+
+Normal:
+Version: Ver1.0
+Jap Name: キモネコ
+En Name: Gross Cat
+Jp Desc: 遠くの敵を攻撃できる遠距離型キャラ単発だけなら攻撃力はハイクラス
+En Desc: Able to do a very powerful long range attack. Exceptional attack power and range.
+Abilities: None:
+Combos: 	にゃんこ軍団|Cat Army - ['001', '002', '003', '004', '005']
+	アシナガおじさん|Long-Legged - ['004', '169']
+	キモモモ|Gross!!! - ['004', '095', '177']
+Stats: 	health - 1000.000
+	knockback - 3
+	attackRateF - 127
+	attackRateS - 4.23
+	attackPower - 250.000
+	movementSpeed - 10
+	attackAnimF - 8
+	attackAnimS - 0.27
+	range - 350
+	respawnTimeF - 76
+	respawnTimeS - 2.53
+	attackType - 単体(Single Attack)
+	cost - 600
+
+
+Evolved:
+Version: Ver1.0
+Jap Name: 美脚ネコ
+En Name: Sexy Legs Cat
+Jp Desc: 美しすぎる足が自慢の遠距離型キャラ単発だけなら攻撃力はハイクラス
+En Desc: Has pride in his overly beautiful legs. Exceptional attack power and range.
+Abilities: None:
+Combos: 	カボチャパンツ|Pumpkinpants - ['004', '228']
+	ビューティフルレッグス|Legs for Days - ['004', '095']
+Stats: 	health - 1000.000
+	knockback - 3
+	attackRateF - 125
+	attackRateS - 4.17
+	attackPower - 250.000
+	movementSpeed - 10
+	attackAnimF - 6
+	attackAnimS - 0.20
+	range - 350
+	respawnTimeF - 76
+	respawnTimeS - 2.53
+	attackType - 単体(Single Attack)
+	cost - 600
+
+
+True:
+Version: 
+Jap Name: ムキあしネコ
+En Name: Macho Leg Cat
+Jp Desc: 筋肉美が自慢の遠距離型キャラ単発だけなら攻撃力はハイクラス｢エイリアン｣にめっぽう強い
+En Desc: Every day is Leg Day. Mastered the Art of Leg. Exceptional attack power and range. Strong against Aliens!
+Abilities: Alien:Strong
+Combos: 	マッチョマン|Macho Man - ['004', '010']
+Stats: 	health - 2000.000
+	knockback - 3
+	attackRateF - 125
+	attackRateS - 4.17
+	attackPower - 500.000
+	movementSpeed - 10
+	attackAnimF - 6
+	attackAnimS - 0.20
+	range - 350
+	respawnTimeF - 236
+	respawnTimeS - 7.87
+	attackType - 単体(Single Attack)
+	cost - 600
+
+

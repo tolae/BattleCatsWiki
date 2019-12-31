@@ -1,0 +1,74 @@
+268
+
+Normal:
+Version: Ver4.7
+Jap Name: ネコタイフーン
+En Name: Catornado
+Jp Desc: 学校を休みたい一心で台風になったネコ全国の学生の期待を背負って北上中超高速で攻撃、たまにクリティカル（範囲攻撃）
+En Desc: Wanted to skip school so badly, he became a typhoon to cause a national weather alert. Super high-speed Area attacks with Critical.
+Abilities: None:Critical
+Combos: 	ぐるぐる大回転|Like a Record, Baby - ['125', '268', '089']
+	ダブルタイフーン|Double Typhoon - ['076', '268']
+	爆風ときどき竜巻|Chance of Tornado - ['362', '268']
+	風のイタズラ|Trick of the Wind - ['268', '024']
+Stats: 	health - 1725.000
+	knockback - 3
+	attackRateF - 6
+	attackRateS - 0.20
+	attackPower - 59.853
+	movementSpeed - 9
+	attackAnimF - 1
+	attackAnimS - 0.03
+	range - 180
+	respawnTimeF - 586
+	respawnTimeS - 19.53
+	attackType - 範囲(Area Attack)
+	cost - 1,350
+
+
+Evolved:
+Version: Ver4.7
+Jap Name: ネコハリケーン
+En Name: Hurricat
+Jp Desc: エルニーニョ現象で巨大化した台風ネコ畑の様子を見に来たネコを仲間に巻き込み成長中超高速で攻撃、たまにクリティカル（範囲攻撃）
+En Desc: A side effect of El Nino. Dangerously curious; sucks up anything he tries to get a peek at. Super high-speed Area attacks with Critical.
+Abilities: None:Critical
+Combos: 
+Stats: 	health - 2250.000
+	knockback - 3
+	attackRateF - 6
+	attackRateS - 0.20
+	attackPower - 75.000
+	movementSpeed - 9
+	attackAnimF - 1
+	attackAnimS - 0.03
+	range - 180
+	respawnTimeF - 586
+	respawnTimeS - 19.53
+	attackType - 範囲(Area Attack)
+	cost - 1,350
+
+
+True:
+Version: Ver8.3
+Jap Name: ネコあらし
+En Name: Catyphoon
+Jp Desc: 体中に風を集めて嵐を巻き起こすネコ雨降りのバス停も吹き飛ばして素敵な冒険が始まる超高速で攻撃、たまにクリティカル（範囲攻撃）
+En Desc: Swept up a storm along with the rest of town. Used to it by now, so he came prepared for weather. Super high-speed Area attacks with Critical.
+Abilities: None:Critical
+Combos: 
+Stats: 	health - 3825.000
+	knockback - 3
+	attackRateF - 6
+	attackRateS - 0.20
+	attackPower - 75.000
+	movementSpeed - 14
+	attackAnimF - 1
+	attackAnimS - 0.03
+	range - 180
+	respawnTimeF - 586
+	respawnTimeS - 19.53
+	attackType - 範囲(Area Attack)
+	cost - 1,350
+
+

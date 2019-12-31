@@ -1,0 +1,59 @@
+449
+
+Normal:
+Version: Ver8.0
+Jap Name: 宮本武蔵
+En Name: Musashi Miyamoto
+Jp Desc: 倒された時、独自グラフィック（アニメーション）
+En Desc: A wandering swordsman who has traveled to the realm of carnage to master the Nichirin Blade. Tough vs. / Insane Damage vs. Black.
+Abilities: Black:Multi-Hit,Insane Damage,Resistant
+Combos: 
+Stats: 	health - 12200.000
+	knockback - 4
+	attackRateF - 66
+	attackRateS - 2.20
+	attackPower - 2994.706
+	movementSpeed - 10
+	attackAnimF - 9
+	attackAnimS - 0.30
+	range - 400
+	respawnTimeF - 2746
+	respawnTimeS - 91.53
+	attackType - 単体(Single Attack)
+	cost - 4,275
+
+
+Evolved:
+Version: Ver8.0
+Jap Name: 剣神・宮本武蔵
+En Name: Wargod Miyamoto
+Jp Desc: 倒された時、独自グラフィック（アニメーション）
+En Desc: The blood on his hands transformed the Nichirin into a cursed Getsurin sword. You have no chance. Tough vs. / Insane Damage vs. Black.
+Abilities: Black:Multi-Hit,Insane Damage,Resistant
+Combos: 
+Stats: 	health - 12200.000
+	knockback - 4
+	attackRateF - 66
+	attackRateS - 2.20
+	attackPower - 2994.706
+	movementSpeed - 10
+	attackAnimF - 9
+	attackAnimS - 0.30
+	range - 400
+	respawnTimeF - 2746
+	respawnTimeS - 91.53
+	attackType - 単体(Single Attack)
+	cost - 4,275
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

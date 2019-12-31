@@ -1,0 +1,71 @@
+108
+
+Normal:
+Version: 
+Jap Name: 宝杖のカッパーマイン
+En Name: Coppermine
+Jp Desc: 魔力をブーストさせる杖で戦うマジカル美女放たれる光弾は悪しき力を打ち砕く（範囲攻撃）浮いてる敵の動きをたまにしばらく止める
+En Desc: Magical beauty powered by her staff. Releases beams of light (Area attack). Might stop floating enemies.
+Abilities: Float:Freeze
+Combos: 
+Stats: 	health - 3175.000
+	knockback - 3
+	attackRateF - 189
+	attackRateS - 6.30
+	attackPower - 2650.000
+	movementSpeed - 7
+	attackAnimF - 100
+	attackAnimS - 3.33
+	range - 335
+	respawnTimeF - 1986
+	respawnTimeS - 66.20
+	attackType - 範囲(Area Attack)
+	cost - 3,720
+
+
+Evolved:
+Version: 
+Jap Name: 宝杖のカッパーκ
+En Name: Coppermine, type κ
+Jp Desc: めったに笑顔を見せない彼女だがネコの前では誰にも見せたことのない表情を見せる（範囲攻撃）浮いてる敵の動きをたまにしばらく止める
+En Desc: Doesn't smile that often. (Area Attack) In front of cats, however.. different story. Might stop floating enemies.
+Abilities: Float:Freeze
+Combos: 	ネコの前で見せる笑顔|Smiles at Cats - ['001', '108']
+Stats: 	health - 4900.000
+	knockback - 3
+	attackRateF - 189
+	attackRateS - 6.30
+	attackPower - 3800.000
+	movementSpeed - 7
+	attackAnimF - 100
+	attackAnimS - 3.33
+	range - 335
+	respawnTimeF - 1986
+	respawnTimeS - 66.20
+	attackType - 範囲(Area Attack)
+	cost - 3,720
+
+
+True:
+Version: Ver5.5
+Jap Name: 光宝杖のカッパーκ
+En Name: Divine Coppermine
+Jp Desc: 異性の好意をすべて事務的に受け流してしまうマジカル鈍感美女。ネコと2人きりの休日が至福浮いてる敵の動きをたまにしばらく止める（範囲攻撃）
+En Desc: What can you do for her that her favorite Cat doesn't already? Come back in 100 years, kid. Might stop Floating (Area Attack).
+Abilities: Float:Freeze,Immune to Freeze
+Combos: 
+Stats: 	health - 6625.000
+	knockback - 3
+	attackRateF - 189
+	attackRateS - 6.30
+	attackPower - 4950.000
+	movementSpeed - 7
+	attackAnimF - 100
+	attackAnimS - 3.33
+	range - 410
+	respawnTimeF - 1986
+	respawnTimeS - 66.20
+	attackType - 範囲(Area Attack)
+	cost - 3,720
+
+

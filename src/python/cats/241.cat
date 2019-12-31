@@ -1,0 +1,71 @@
+241
+
+Normal:
+Version: Ver4.4
+Jap Name: トゲルガ
+En Name: Togeluga
+Jp Desc: ネコなのか何なのか、まったく正体不明の謎のキャラクター進化させると…
+En Desc: Not sure if this is a Cat... There's just something about those... spikes???
+Abilities: None:
+Combos: 
+Stats: 	health - 1250.000
+	knockback - 5
+	attackRateF - 82
+	attackRateS - 2.73
+	attackPower - 375.000
+	movementSpeed - 4
+	attackAnimF - 13
+	attackAnimS - 0.43
+	range - 140
+	respawnTimeF - 746
+	respawnTimeS - 24.87
+	attackType - 単体(Single Attack)
+	cost - 4,500
+
+
+Evolved:
+Version: Ver4.4
+Jap Name: トゲランパサラン
+En Name: Togelan Pasalan
+Jp Desc: ネコなのか何なのか、まったく正体不明の謎のキャラクター1度だけ生き残り、体力減少で攻撃力超上昇（範囲攻撃）
+En Desc: No. Way. This can't be right... Survives one lethal strike, get stronger the more damage he takes. (Area Attack)
+Abilities: None:Strengthen,Survive
+Combos: 	ツンツンツン|Pointy Bits - ['241', '008']
+Stats: 	health - 125.000
+	knockback - 1
+	attackRateF - 600
+	attackRateS - 20.00
+	attackPower - 7500.000
+	movementSpeed - 4
+	attackAnimF - 105
+	attackAnimS - 3.50
+	range - 445
+	respawnTimeF - 4746
+	respawnTimeS - 158.20
+	attackType - 範囲(Area Attack)
+	cost - 4,500
+
+
+True:
+Version: Ver5.8
+Jap Name: デイダラトゲラン
+En Name: Shishilan Pasalan
+Jp Desc: ネコなのか生と死を司る古の神なのか、まったく正体不明の謎のキャラクター1度だけ生き残り、体力減少で攻撃力超上昇（範囲攻撃）
+En Desc: Ancient god who bridges the worlds of the living and the dead. Survives once, grows stronger as he takes more damage. (Area Attack)
+Abilities: None:Strengthen,Survive,Immune to Waves
+Combos: 
+Stats: 	health - 7500.000
+	knockback - 100
+	attackRateF - 510
+	attackRateS - 17.00
+	attackPower - 7500.000
+	movementSpeed - 4
+	attackAnimF - 105
+	attackAnimS - 3.50
+	range - 445
+	respawnTimeF - 4746
+	respawnTimeS - 158.20
+	attackType - 範囲(Area Attack)
+	cost - 4,500
+
+

@@ -1,0 +1,59 @@
+504
+
+Normal:
+Version: Ver8.9
+Jap Name: ネコ2D
+En Name: 2D Cat
+Jp Desc: ドットヒーローズコラボ
+En Desc: N/A
+Abilities: None:
+Combos: 
+Stats: 	health - 250.000
+	knockback - 3
+	attackRateF - 37
+	attackRateS - 1.23
+	attackPower - 19.853
+	movementSpeed - 8
+	attackAnimF - 6
+	attackAnimS - 0.20
+	range - 140
+	respawnTimeF - 60
+	respawnTimeS - 2.00
+	attackType - 単体(Single Attack)
+	cost - 75
+
+
+Evolved:
+Version: Ver8.9
+Jap Name: ネコ3D
+En Name: 3D Cat
+Jp Desc: ドットヒーローズコラボ
+En Desc: N/A
+Abilities: None:
+Combos: 
+Stats: 	health - 250.000
+	knockback - 3
+	attackRateF - 37
+	attackRateS - 1.23
+	attackPower - 19.853
+	movementSpeed - 8
+	attackAnimF - 8
+	attackAnimS - 0.27
+	range - 140
+	respawnTimeF - 60
+	respawnTimeS - 2.00
+	attackType - 単体(Single Attack)
+	cost - 75
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

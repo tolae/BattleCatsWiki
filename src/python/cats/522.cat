@@ -1,0 +1,63 @@
+522
+
+Normal:
+Version: Ver9.0
+Jap Name: ネコメデューサ
+En Name: Medusa Cat
+Jp Desc: 個性的な髪型が自慢のキャラクター髪の毛の重さはヘビー級古代種の動きを一瞬止める（遠方範囲攻撃）
+En Desc: Fiercely proud of her edgy hairstyle. Uses extra
+spray to prevent her locks from slithering out of
+place. Long-range área attacks may Freeze Relics.
+Abilities: Ancient:Freeze,Long Distance (Area),Immune to Curse
+Combos: 
+Stats: 	health - 1425.000
+	knockback - 3
+	attackRateF - 99
+	attackRateS - 3.30
+	attackPower - 300.000
+	movementSpeed - 8
+	attackAnimF - 24
+	attackAnimS - 0.80
+	range - 350
+	respawnTimeF - 246
+	respawnTimeS - 8.20
+	attackType - 範囲(Area Attack)
+	cost - 750
+
+
+Evolved:
+Version: Ver9.0
+Jap Name: ネコツインテール
+En Name: Twintail Medusa Cat
+Jp Desc: 髪の毛をツインテールにした本気モードお嬢様魔力とリボンの重さはスーパーヘビー級古代種の動きを一瞬止める（遠方範囲攻撃）
+En Desc: The spray couldn’t hold them down, so she had to
+tie her unruly locks up to keep them under control.
+Long-range área attacks may Freeze Relics.
+Abilities: Ancient:Freeze,Long Distance (Area),Immune to Curse
+Combos: 
+Stats: 	health - 1425.000
+	knockback - 3
+	attackRateF - 99
+	attackRateS - 3.30
+	attackPower - 300.000
+	movementSpeed - 8
+	attackAnimF - 24
+	attackAnimS - 0.80
+	range - 350
+	respawnTimeF - 246
+	respawnTimeS - 8.20
+	attackType - 範囲(Area Attack)
+	cost - 750
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

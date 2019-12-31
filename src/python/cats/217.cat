@@ -1,0 +1,59 @@
+217
+
+Normal:
+Version: Ver4.3
+Jap Name: ターマ
+En Name: TARMA
+Jp Desc: メタルスラッグディフェンスコラボ
+En Desc: Recruited from Metal Slug Defense! This captain takes pride in his trademark shades. Might knock back Aliens (Area Atk)
+Abilities: Alien:Knockback
+Combos: 
+Stats: 	health - 675.000
+	knockback - 3
+	attackRateF - 119
+	attackRateS - 3.97
+	attackPower - 127.500
+	movementSpeed - 9
+	attackAnimF - 2
+	attackAnimS - 0.07
+	range - 315
+	respawnTimeF - 346
+	respawnTimeS - 11.53
+	attackType - 範囲(Area Attack)
+	cost - 997
+
+
+Evolved:
+Version: Ver4.3
+Jap Name: ターマCC
+En Name: TARMA CC
+Jp Desc: メタルスラッグディフェンスコラボ
+En Desc: Recruited from Metal Slug Defense! Master of the shotgun, Marco's best friend. Might knock back Aliens (Area Atk)
+Abilities: Alien:Knockback
+Combos: 
+Stats: 	health - 800.000
+	knockback - 3
+	attackRateF - 119
+	attackRateS - 3.97
+	attackPower - 182.353
+	movementSpeed - 9
+	attackAnimF - 2
+	attackAnimS - 0.07
+	range - 315
+	respawnTimeF - 346
+	respawnTimeS - 11.53
+	attackType - 範囲(Area Attack)
+	cost - 997
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

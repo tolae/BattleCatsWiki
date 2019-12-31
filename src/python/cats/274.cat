@@ -1,0 +1,72 @@
+274
+
+Normal:
+Version: Ver5.6
+Jap Name: チアにゃんこ
+En Name: Cheerleader Cat
+Jp Desc: 青春のすべてをチアに捧げたキャラクター短い手足で描くのは「L・O・V・E」の文字必ずクリティカル攻撃を放つ
+En Desc: Leaping about on the football field, her youthful songs fill the Battle Cats with determination. 100% chance of a Critical Attack!
+Abilities: Zombie:Zombie Killer,Critical
+Combos: 
+Stats: 	health - 1500.000
+	knockback - 3
+	attackRateF - 609
+	attackRateS - 20.30
+	attackPower - 750.000
+	movementSpeed - 10
+	attackAnimF - 130
+	attackAnimS - 4.33
+	range - 350
+	respawnTimeF - 946
+	respawnTimeS - 31.53
+	attackType - 単体(Single Attack)
+	cost - 900
+
+
+Evolved:
+Version: Ver5.6
+Jap Name: ネコウエイトレス
+En Name: Waitress Cat
+Jp Desc: 青春のすべてを喫茶店バイトに捧げたキャラクター素早い動きでお出しするのは「お・も・て・な・し」の心必ずクリティカル攻撃を放つ
+En Desc: The real world called, but her enthusiasm remains! Her speed service fills the cat with determination! 100% Critical chance.
+Abilities: Zombie:Zombie Killer,Critical
+Combos: 	バイト仲間|Part-Time Coworkers - ['398', '274']
+	純喫茶|Brunch Rush - ['274', '154']
+Stats: 	health - 2000.000
+	knockback - 3
+	attackRateF - 609
+	attackRateS - 20.30
+	attackPower - 1000.000
+	movementSpeed - 10
+	attackAnimF - 130
+	attackAnimS - 4.33
+	range - 350
+	respawnTimeF - 946
+	respawnTimeS - 31.53
+	attackType - 単体(Single Attack)
+	cost - 900
+
+
+True:
+Version: Ver8.4
+Jap Name: にゃんこそば
+En Name: Soba Cat
+Jp Desc: 青春のすべてをバイト先での恋に捧げたキャラクター華麗に差し出す蕎麦は「ア・イ・シ・テ・ル」のサイン必ずクリティカル攻撃を放つ
+En Desc: Finally saved enough to buy her own restaurant! Her noodles are the best in the city, and her service never lacks style. 100% Critical chance.
+Abilities: Zombie:Zombie Killer,Critical
+Combos: 
+Stats: 	health - 2500.000
+	knockback - 3
+	attackRateF - 609
+	attackRateS - 20.30
+	attackPower - 1250.000
+	movementSpeed - 10
+	attackAnimF - 130
+	attackAnimS - 4.33
+	range - 350
+	respawnTimeF - 946
+	respawnTimeS - 31.53
+	attackType - 単体(Single Attack)
+	cost - 900
+
+

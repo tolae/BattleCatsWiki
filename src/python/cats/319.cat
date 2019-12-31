@@ -1,0 +1,59 @@
+319
+
+Normal:
+Version: Ver5.8
+Jap Name: 巫女姫ミタマ
+En Name: Miko Mitama
+Jp Desc: ねこの神様に愛された小さな巫女自分の中に眠っているチカラをまだ知る由もない属性を持つ敵に打たれ強い（遠方範囲攻撃）
+En Desc: Chosen as a holy servant by the God of Cats, infinite power lies hidden within her. Strong defense vs. all enemies with traits. (Long Range/Area Atk)
+Abilities: All (w/o White):Resistant,Long Distance (Area),Immune to Waves,Immune to Knockback,Immune to Freeze,Immune to Slow,Immune to Weaken
+Combos: 
+Stats: 	health - 1250.000
+	knockback - 8
+	attackRateF - 151
+	attackRateS - 5.03
+	attackPower - 1250.000
+	movementSpeed - 8
+	attackAnimF - 15
+	attackAnimS - 0.50
+	range - 250
+	respawnTimeF - 466
+	respawnTimeS - 15.53
+	attackType - 範囲(Area Attack)
+	cost - 750
+
+
+Evolved:
+Version: Ver5.8
+Jap Name: 白無垢のミタマ
+En Name: Mitama the Oracle
+Jp Desc: 朝と夜の境目に現れるという純白の花嫁彼女がどこへ嫁いでいくのか、誰も知らない（遠方範囲攻撃）属性を持つ敵に打たれ強く、必ず動きを遅くする
+En Desc: Dressed in bridal gowns, she appears to the blessed as a sign of Cat God's favor. Her groom's identity is unknown... Strong defense vs all traits, 100% chance to Slow.
+Abilities: All (w/o White):Resistant,Slow,Long Distance (Area),Immune to Waves,Immune to Knockback,Immune to Freeze,Immune to Slow,Immune to Weaken
+Combos: 
+Stats: 	health - 4375.000
+	knockback - 15
+	attackRateF - 151
+	attackRateS - 5.03
+	attackPower - 3125.000
+	movementSpeed - 6
+	attackAnimF - 15
+	attackAnimS - 0.50
+	range - 350
+	respawnTimeF - 4746
+	respawnTimeS - 158.20
+	attackType - 範囲(Area Attack)
+	cost - 5,250
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

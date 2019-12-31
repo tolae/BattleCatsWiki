@@ -1,0 +1,59 @@
+263
+
+Normal:
+Version: Ver4.7
+Jap Name: ニャームス
+En Name: Nyamusu
+Jp Desc: にゃんパズルコラボ
+En Desc: N/A
+Abilities: Red:Freeze
+Combos: 
+Stats: 	health - 1300.000
+	knockback - 3
+	attackRateF - 149
+	attackRateS - 4.97
+	attackPower - 600.000
+	movementSpeed - 8
+	attackAnimF - 50
+	attackAnimS - 1.67
+	range - 300
+	respawnTimeF - 346
+	respawnTimeS - 11.53
+	attackType - 範囲(Area Attack)
+	cost - 840
+
+
+Evolved:
+Version: Ver4.7
+Jap Name: ネコニャームス
+En Name: Neko Nyamusu
+Jp Desc: にゃんパズルコラボ
+En Desc: N/A
+Abilities: Red:Freeze
+Combos: 
+Stats: 	health - 1750.000
+	knockback - 3
+	attackRateF - 149
+	attackRateS - 4.97
+	attackPower - 800.000
+	movementSpeed - 8
+	attackAnimF - 50
+	attackAnimS - 1.67
+	range - 300
+	respawnTimeF - 346
+	respawnTimeS - 11.53
+	attackType - 範囲(Area Attack)
+	cost - 840
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

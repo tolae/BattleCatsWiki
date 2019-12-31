@@ -1,0 +1,60 @@
+320
+
+Normal:
+Version: Ver5.8
+Jap Name: 殺意のネコ
+En Name: Killer Cat
+Jp Desc: 野生の本能を解放したネコ従えるには少々お金がかかる
+En Desc: Opened his heart to the savage beast within. Costs a bit extra to recruit to fight for you.
+Abilities: None:
+Combos: 	ブラック＆ホワイト|Black & White - ['320', '001']
+	悪に染まりし者達| - ['520', '173', '320']
+Stats: 	health - 250.000
+	knockback - 3
+	attackRateF - 37
+	attackRateS - 1.23
+	attackPower - 19.853
+	movementSpeed - 10
+	attackAnimF - 8
+	attackAnimS - 0.27
+	range - 140
+	respawnTimeF - 60
+	respawnTimeS - 2.00
+	attackType - 単体(Single Attack)
+	cost - 7,500
+
+
+Evolved:
+Version: Ver5.8
+Jap Name: 真・殺意のネコ
+En Name: True Killer Cat
+Jp Desc: 本能の覚醒が止まらないネコ従えるには少々お金がかかる
+En Desc: This savage beast is consumed by thirst for battle! Costs a bit extra to recruit to fight for you.
+Abilities: None:
+Combos: 
+Stats: 	health - 250.000
+	knockback - 3
+	attackRateF - 37
+	attackRateS - 1.23
+	attackPower - 19.853
+	movementSpeed - 10
+	attackAnimF - 8
+	attackAnimS - 0.27
+	range - 140
+	respawnTimeF - 60
+	respawnTimeS - 2.00
+	attackType - 単体(Single Attack)
+	cost - 7,500
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

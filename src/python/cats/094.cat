@@ -1,0 +1,71 @@
+094
+
+Normal:
+Version: 
+Jap Name: 狂乱のバトルネコ
+En Name: Crazed Axe Cat
+Jp Desc: 戦闘向きのキャラ｢赤い敵｣にめっぽう強い狂乱となることで攻撃力が増加した
+En Desc: Combat Manic. Strong against Red enemies. Crazed version increases attack power.
+Abilities: Red:Strong
+Combos: 	進撃の狂乱ネコ|Crazy Hearts - ['092', '093', '094', '095', '096']
+Stats: 	health - 1800.000
+	knockback - 3
+	attackRateF - 27
+	attackRateS - 0.90
+	attackPower - 325.000
+	movementSpeed - 12
+	attackAnimF - 8
+	attackAnimS - 0.27
+	range - 150
+	respawnTimeF - 60
+	respawnTimeS - 2.00
+	attackType - 単体(Single Attack)
+	cost - 300
+
+
+Evolved:
+Version: 
+Jap Name: 狂乱の勇者ネコ
+En Name: Crazed Brave Cat
+Jp Desc: 勇者にあこがれる戦闘向きのキャラ｢赤い敵｣にめっぽう強い狂乱となることで攻撃力が増加した
+En Desc: Hero wannabe. Strong against Red enemies. Crazed version increases attack power.
+Abilities: Red:Strong
+Combos: 
+Stats: 	health - 1800.000
+	knockback - 3
+	attackRateF - 27
+	attackRateS - 0.90
+	attackPower - 325.000
+	movementSpeed - 12
+	attackAnimF - 8
+	attackAnimS - 0.27
+	range - 150
+	respawnTimeF - 60
+	respawnTimeS - 2.00
+	attackType - 単体(Single Attack)
+	cost - 300
+
+
+True:
+Version: Ver5.0
+Jap Name: 大狂乱の暗黒ネコ
+En Name: Manic Dark Cat
+Jp Desc: カリスマ暗黒騎士に弟子入りした戦闘向きのキャラ｢赤い敵｣にめっぽう強い大狂乱となることでさらに体力と攻撃力がアップ
+En Desc: A charismatic knight who thirsts for battle, mighty against Red enemies. Manic for better defense and attack.
+Abilities: Red:Strong
+Combos: 
+Stats: 	health - 2175.000
+	knockback - 3
+	attackRateF - 27
+	attackRateS - 0.90
+	attackPower - 550.000
+	movementSpeed - 12
+	attackAnimF - 8
+	attackAnimS - 0.27
+	range - 150
+	respawnTimeF - 60
+	respawnTimeS - 2.00
+	attackType - 単体(Single Attack)
+	cost - 300
+
+

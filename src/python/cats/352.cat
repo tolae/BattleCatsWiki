@@ -1,0 +1,71 @@
+352
+
+Normal:
+Version: Ver6.2
+Jap Name: 双掌星のシシル＆コマリ
+En Name: Twinstars
+Jp Desc: 双掌技をマスターした無邪気な双子阿吽の呼吸で肉球メカを操り、放たれる素早い連撃は黒い敵とエイリアンに超ダメージを与える（範囲攻撃）
+En Desc: The two purehearted sisters, Cici and Koma. Divine breath controls their mighty mecha claws. Massive area damage to Aliens/Black.
+Abilities: Black,Alien:Multi-Hit,Massive Damage
+Combos: 	完全一心同体|Two As One - ['352', '124']
+Stats: 	health - 2750.000
+	knockback - 4
+	attackRateF - 121
+	attackRateS - 4.03
+	attackPower - 2325.000
+	movementSpeed - 22
+	attackAnimF - 20
+	attackAnimS - 0.67
+	range - 350
+	respawnTimeF - 2146
+	respawnTimeS - 71.53
+	attackType - 範囲(Area Attack)
+	cost - 3,900
+
+
+Evolved:
+Version: Ver6.2
+Jap Name: 双掌星のシシル＆コマリΦ
+En Name: Twinstars, type Ф
+Jp Desc: 格闘技を極めた、いつも仲良しの双子阿吽の拳で校門前の先生をぶっ飛ばし、皆勤賞を狙う黒い敵とエイリアンに超ダメージを与える（範囲攻撃）
+En Desc: The mechanical catpaws "AH" and "UN" sweetly sweep away any threat to these cutie-pie demigods. Massive area damage to Aliens/Black.
+Abilities: Black,Alien:Multi-Hit,Massive Damage
+Combos: 
+Stats: 	health - 5500.000
+	knockback - 4
+	attackRateF - 121
+	attackRateS - 4.03
+	attackPower - 3450.000
+	movementSpeed - 22
+	attackAnimF - 20
+	attackAnimS - 0.67
+	range - 350
+	respawnTimeF - 2146
+	respawnTimeS - 71.53
+	attackType - 範囲(Area Attack)
+	cost - 3,900
+
+
+True:
+Version: Ver8.1
+Jap Name: 双輝星のシシル＆コマリΦ
+En Name: Ultima Twinstars, type Ф
+Jp Desc: 双掌技の極意を伝承した選ばれし双子洗練された阿吽の攻撃は校舎を粉々に破壊する黒い敵とエイリアンに超ダメージを与える（範囲攻撃）
+En Desc: Undisputed masters of the coordinated assault. They skipped detention today to join the battle! Massive area damage to Aliens/Black.
+Abilities: Black,Alien:Multi-Hit,Massive Damage,Immune to Weaken
+Combos: 
+Stats: 	health - 5500.000
+	knockback - 4
+	attackRateF - 121
+	attackRateS - 4.03
+	attackPower - 4200.000
+	movementSpeed - 32
+	attackAnimF - 20
+	attackAnimS - 0.67
+	range - 350
+	respawnTimeF - 1846
+	respawnTimeS - 61.53
+	attackType - 範囲(Area Attack)
+	cost - 3,900
+
+

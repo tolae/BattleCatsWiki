@@ -1,0 +1,59 @@
+215
+
+Normal:
+Version: Ver4.3
+Jap Name: 百太郎
+En Name: HYAKUTARO
+Jp Desc: メタルスラッグディフェンスコラボ
+En Desc: Recruited from Metal Slug Defense! An elite commando masked as a typical POW. Might survive lethal attacks. (Area Atk)
+Abilities: None:Survive
+Combos: 
+Stats: 	health - 1200.000
+	knockback - 2
+	attackRateF - 118
+	attackRateS - 3.93
+	attackPower - 200.000
+	movementSpeed - 12
+	attackAnimF - 39
+	attackAnimS - 1.30
+	range - 190
+	respawnTimeF - 146
+	respawnTimeS - 4.87
+	attackType - 範囲(Area Attack)
+	cost - 450
+
+
+Evolved:
+Version: Ver4.3
+Jap Name: 百太郎CC
+En Name: HYAKUTARO CC
+Jp Desc: メタルスラッグディフェンスコラボ
+En Desc: Recruited from Metal Slug Defense! Lays down cover fire for the Cats with gas bombs. Might survive lethal attacks. (Area Atk)
+Abilities: None:Survive
+Combos: 
+Stats: 	health - 1200.000
+	knockback - 2
+	attackRateF - 118
+	attackRateS - 3.93
+	attackPower - 200.000
+	movementSpeed - 12
+	attackAnimF - 39
+	attackAnimS - 1.30
+	range - 190
+	respawnTimeF - 146
+	respawnTimeS - 4.87
+	attackType - 範囲(Area Attack)
+	cost - 450
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

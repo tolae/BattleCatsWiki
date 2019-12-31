@@ -1,0 +1,71 @@
+309
+
+Normal:
+Version: Ver5.6
+Jap Name: ネコバサミ
+En Name: Gardener Cat
+Jp Desc: 通販番組で枝切りバサミを購入したネコネコ基地近辺に枝がなくクーリングオフを検討中ごくたまにゾンビの動きを一瞬止める
+En Desc: Bought lovely bonsai shears by mail-order. Now there are no more branches left in reach by the Cat Base. Might freeze Zombies.
+Abilities: Zombie:Freeze,Zombie Killer
+Combos: 	ガーデニング|Green Thumb - ['309', '128']
+Stats: 	health - 1000.000
+	knockback - 3
+	attackRateF - 9
+	attackRateS - 0.30
+	attackPower - 37.500
+	movementSpeed - 9
+	attackAnimF - 1
+	attackAnimS - 0.03
+	range - 200
+	respawnTimeF - 346
+	respawnTimeS - 11.53
+	attackType - 単体(Single Attack)
+	cost - 540
+
+
+Evolved:
+Version: Ver5.6
+Jap Name: ネコチェーンソー
+En Name: Lumbercat
+Jp Desc: 恐るべき敵の襲来に備えチェーンソーを手にしたネコ開かないドアもこれ一つで簡単に開けられるごくたまにゾンビの動きを一瞬止める
+En Desc: Kept this key weapon in an anti-Zombie kit, instead of doing something useless like cutting down trees. Might stop Zombie movement.
+Abilities: Zombie:Freeze,Zombie Killer
+Combos: 
+Stats: 	health - 1250.000
+	knockback - 3
+	attackRateF - 9
+	attackRateS - 0.30
+	attackPower - 50.000
+	movementSpeed - 9
+	attackAnimF - 1
+	attackAnimS - 0.03
+	range - 200
+	respawnTimeF - 346
+	respawnTimeS - 11.53
+	attackType - 単体(Single Attack)
+	cost - 540
+
+
+True:
+Version: Ver7.4
+Jap Name: 草刈りネコ
+En Name: Weedwacker Cat
+Jp Desc: ネット通販で強そうなマシンを購入したネコ本来の用途を知らず使ってるが格好は様になっているごくたまにゾンビの動きを止める
+En Desc: Ordered a fierce-looking trimmer online. He's never actually used this tool to cut plants. Might freeze Zombies for a bit longer.
+Abilities: Zombie:Freeze,Zombie Killer
+Combos: 
+Stats: 	health - 2500.000
+	knockback - 3
+	attackRateF - 9
+	attackRateS - 0.30
+	attackPower - 50.000
+	movementSpeed - 9
+	attackAnimF - 1
+	attackAnimS - 0.03
+	range - 250
+	respawnTimeF - 346
+	respawnTimeS - 11.53
+	attackType - 単体(Single Attack)
+	cost - 540
+
+

@@ -1,0 +1,59 @@
+359
+
+Normal:
+Version: Ver6.4
+Jap Name: ゾンビ娘ヴェルヴェーヌ
+En Name: Graveflower Verbena
+Jp Desc: ガルズモンズコラボ
+En Desc: A lost soul who came home from the other side. Hunting for a groom to fill her heart... or stomach. Might deliver critical strikes (Area Attacks)
+Abilities: None:Multi-Hit,Critical
+Combos: 
+Stats: 	health - 5500.000
+	knockback - 3
+	attackRateF - 221
+	attackRateS - 7.37
+	attackPower - 1650.000
+	movementSpeed - 10
+	attackAnimF - 40
+	attackAnimS - 1.33
+	range - 345
+	respawnTimeF - 2746
+	respawnTimeS - 91.53
+	attackType - 範囲(Area Attack)
+	cost - 3,750
+
+
+Evolved:
+Version: Ver6.4
+Jap Name: 死霊の花嫁ヴェルヴェーヌ
+En Name: Verbena the Bride
+Jp Desc: ガルズモンズコラボ
+En Desc: Her hunger sated, she now looks forward to the wedding day of her undead dreams. Might deliver critical strikes (Area Attacks)
+Abilities: None:Multi-Hit,Critical
+Combos: 
+Stats: 	health - 7500.000
+	knockback - 3
+	attackRateF - 221
+	attackRateS - 7.37
+	attackPower - 2250.000
+	movementSpeed - 10
+	attackAnimF - 40
+	attackAnimS - 1.33
+	range - 345
+	respawnTimeF - 2746
+	respawnTimeS - 91.53
+	attackType - 範囲(Area Attack)
+	cost - 3,750
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

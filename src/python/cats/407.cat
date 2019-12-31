@@ -1,0 +1,59 @@
+407
+
+Normal:
+Version: Ver6.10
+Jap Name: ネコレイ
+En Name: Rei Cat
+Jp Desc: エヴァンゲリオンコラボ
+En Desc: Cat who pilots Eva Unit-00. Gendo's glasses are her cherished treasure. Tough vs / Massive Damage to Angels.
+Abilities: Angel:Massive Damage,Resistant
+Combos: 
+Stats: 	health - 1437.500
+	knockback - 3
+	attackRateF - 85
+	attackRateS - 2.83
+	attackPower - 562.500
+	movementSpeed - 8
+	attackAnimF - 28
+	attackAnimS - 0.93
+	range - 190
+	respawnTimeF - 216
+	respawnTimeS - 7.20
+	attackType - 単体(Single Attack)
+	cost - 615
+
+
+Evolved:
+Version: Ver6.10
+Jap Name: ネコアヤナミレイ（仮称）
+En Name: Ayanami Cat
+Jp Desc: エヴァンゲリオンコラボ
+En Desc: She lost all her memory of the black plugsuit. There is nothing for her but her duty. Tough vs / Massive Damage to Angels.
+Abilities: Angel:Massive Damage,Resistant
+Combos: 
+Stats: 	health - 1437.500
+	knockback - 3
+	attackRateF - 85
+	attackRateS - 2.83
+	attackPower - 562.500
+	movementSpeed - 8
+	attackAnimF - 28
+	attackAnimS - 0.93
+	range - 190
+	respawnTimeF - 216
+	respawnTimeS - 7.20
+	attackType - 単体(Single Attack)
+	cost - 615
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

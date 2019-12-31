@@ -1,0 +1,59 @@
+379
+
+Normal:
+Version: Ver6.6
+Jap Name: 黒無垢のミタマ
+En Name: Dark Mitama
+Jp Desc: 大切な者を失ったもう一人のミタマの姿葬列がどこに向かうのか、誰も知らない（遠方範囲攻撃）属性を持たない敵に打たれ強く、必ず動きを遅くする
+En Desc: Mitama has been betrayed by this cruel world and has embraced darkness. (Long Range Atk) Tough vs. traitless enemies and 100% Slow chance.
+Abilities: White:Resistant,Slow,Long Distance (Area),Immune to Waves,Immune to Knockback,Immune to Freeze,Immune to Slow,Immune to Weaken
+Combos: 
+Stats: 	health - 4375.000
+	knockback - 15
+	attackRateF - 151
+	attackRateS - 5.03
+	attackPower - 3125.000
+	movementSpeed - 6
+	attackAnimF - 15
+	attackAnimS - 0.50
+	range - 375
+	respawnTimeF - 4946
+	respawnTimeS - 164.87
+	attackType - 範囲(Area Attack)
+	cost - 5,250
+
+
+Evolved:
+Version: Ver6.6
+Jap Name: 黒蝶のミタマダーク
+En Name: Gothic Mitama
+Jp Desc: 失った愛を探しさまよう未亡人。愛しい人との思い出に今も囚われ続ける。属性を持たない敵に打たれ強く必ず動きを遅くし攻撃力を下げる（遠方範囲攻撃）
+En Desc: Like a widow mourning her lost love, she is trapped within her memories. (Long Range Atk) Tough vs traitless enemies and 100% Slow/Weaken chance.
+Abilities: White:Resistant,Slow,Weaken,Long Distance (Area),Immune to Waves,Immune to Knockback,Immune to Freeze,Immune to Slow,Immune to Weaken
+Combos: 
+Stats: 	health - 6562.500
+	knockback - 15
+	attackRateF - 151
+	attackRateS - 5.03
+	attackPower - 4000.000
+	movementSpeed - 6
+	attackAnimF - 15
+	attackAnimS - 0.50
+	range - 375
+	respawnTimeF - 4946
+	respawnTimeS - 164.87
+	attackType - 範囲(Area Attack)
+	cost - 5,250
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

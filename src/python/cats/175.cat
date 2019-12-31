@@ -1,0 +1,59 @@
+175
+
+Normal:
+Version: 
+Jap Name: マンボ王
+En Name: Mola King
+Jp Desc: 生きろ！マンボウ！コラボ
+En Desc: Dropping in from "Survive! Mola Mola!" His size is almost without equal, and so is his royal arrogance. (Area Attack)
+Abilities: None:
+Combos: 
+Stats: 	health - 19.853
+	knockback - 1
+	attackRateF - 320
+	attackRateS - 10.67
+	attackPower - 3050.000
+	movementSpeed - 6
+	attackAnimF - 11
+	attackAnimS - 0.37
+	range - 491
+	respawnTimeF - 2546
+	respawnTimeS - 84.87
+	attackType - 範囲(Area Attack)
+	cost - 4,200
+
+
+Evolved:
+Version: 
+Jap Name: 生ける伝説
+En Name: Living Legend
+Jp Desc: 生きろ！マンボウ！コラボ
+En Desc: Bears the burden of a watery destiny, Regrets? A good long scream can take care of doubt and worries! (Area Attack)
+Abilities: None:
+Combos: 
+Stats: 	health - 25.000
+	knockback - 1
+	attackRateF - 320
+	attackRateS - 10.67
+	attackPower - 4050.000
+	movementSpeed - 6
+	attackAnimF - 11
+	attackAnimS - 0.37
+	range - 491
+	respawnTimeF - 2546
+	respawnTimeS - 84.87
+	attackType - 範囲(Area Attack)
+	cost - 4,200
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

@@ -1,0 +1,59 @@
+278
+
+Normal:
+Version: Ver5.2
+Jap Name: なめこ
+En Name: Funghi
+Jp Desc: NEOなめこ栽培キットコラボ
+En Desc: Edible fungus aiming to rule the table as the staple food. Cheap to produce, so send 'em en masse!
+Abilities: None:
+Combos: 
+Stats: 	health - 275.000
+	knockback - 3
+	attackRateF - 113
+	attackRateS - 3.77
+	attackPower - 50.000
+	movementSpeed - 9
+	attackAnimF - 52
+	attackAnimS - 1.73
+	range - 150
+	respawnTimeF - 60
+	respawnTimeS - 2.00
+	attackType - 単体(Single Attack)
+	cost - 90
+
+
+Evolved:
+Version: Ver5.2
+Jap Name: なめこ＆にゃんこ
+En Name: Funghi 'n' Cat
+Jp Desc: NEOなめこ栽培キットコラボ
+En Desc: Cutting-edge science allowed him to grow a Cat? Cheap to produce, so send 'em en masse!
+Abilities: None:
+Combos: 
+Stats: 	health - 275.000
+	knockback - 3
+	attackRateF - 171
+	attackRateS - 5.70
+	attackPower - 25.000
+	movementSpeed - 9
+	attackAnimF - 52
+	attackAnimS - 1.73
+	range - 200
+	respawnTimeF - 60
+	respawnTimeS - 2.00
+	attackType - 単体(Single Attack)
+	cost - 90
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

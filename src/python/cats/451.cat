@@ -1,0 +1,59 @@
+451
+
+Normal:
+Version: Ver8.0
+Jap Name: 天城龍バベル
+En Name: High Lord Babel
+Jp Desc: 倒された時、独自グラフィック（アニメーション）
+En Desc: The original dragon who became one with the heavenly castle that controls the mortal realms. Insanely tough vs. Red/Floating (Area Attack).
+Abilities: Red,Float:Insanely Tough,Immune to Freeze,Immune to Slow
+Combos: 
+Stats: 	health - 37500.000
+	knockback - 2
+	attackRateF - 360
+	attackRateS - 12.00
+	attackPower - 12500.000
+	movementSpeed - 8
+	attackAnimF - 113
+	attackAnimS - 3.77
+	range - 390
+	respawnTimeF - 4746
+	respawnTimeS - 158.20
+	attackType - 範囲(Area Attack)
+	cost - 6,750
+
+
+Evolved:
+Version: Ver8.0
+Jap Name: 魔城龍バベル
+En Name: Babel the Darkflame
+Jp Desc: 倒された時、独自グラフィック（アニメーション）
+En Desc: His dragonic nature has been slowly corrupting the heavenly castle over many millennia... Insanely tough vs. Red/Floating (Area Attack)
+Abilities: Red,Float:Insanely Tough,Immune to Freeze,Immune to Slow
+Combos: 
+Stats: 	health - 37500.000
+	knockback - 2
+	attackRateF - 360
+	attackRateS - 12.00
+	attackPower - 12500.000
+	movementSpeed - 8
+	attackAnimF - 113
+	attackAnimS - 3.77
+	range - 390
+	respawnTimeF - 4746
+	respawnTimeS - 158.20
+	attackType - 範囲(Area Attack)
+	cost - 6,750
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

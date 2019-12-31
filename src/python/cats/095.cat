@@ -1,0 +1,72 @@
+095
+
+Normal:
+Version: 
+Jap Name: 狂乱のキモネコ
+En Name: Crazed Gross Cat
+Jp Desc: 遠くの敵を攻撃できる遠距離型キャラ狂乱となることで波動をマスターしたが生産力が落ちてしまっている
+En Desc: Able to do a very powerful long range attack. Crazed version grants Wave attack, but increases production time.
+Abilities: None:Wave Attack
+Combos: 	キモモモ|Gross!!! - ['004', '095', '177']
+	進撃の狂乱ネコ|Crazy Hearts - ['092', '093', '094', '095', '096']
+Stats: 	health - 3600.000
+	knockback - 3
+	attackRateF - 125
+	attackRateS - 4.17
+	attackPower - 900.000
+	movementSpeed - 10
+	attackAnimF - 6
+	attackAnimS - 0.20
+	range - 350
+	respawnTimeF - 874
+	respawnTimeS - 29.13
+	attackType - 単体(Single Attack)
+	cost - 600
+
+
+Evolved:
+Version: 
+Jap Name: 狂乱の美脚ネコ
+En Name: Crazed Sexy Legs Cat
+Jp Desc: 美しすぎる足が自慢の遠距離型キャラ狂乱となることで波動をマスターしたが生産力が落ちてしまっている
+En Desc: Has pride in his overly beautiful legs. Crazed version grants Wave attack, but increases production time.
+Abilities: None:Wave Attack
+Combos: 	ビューティフルレッグス|Legs for Days - ['004', '095']
+Stats: 	health - 3600.000
+	knockback - 3
+	attackRateF - 125
+	attackRateS - 4.17
+	attackPower - 900.000
+	movementSpeed - 10
+	attackAnimF - 6
+	attackAnimS - 0.20
+	range - 350
+	respawnTimeF - 874
+	respawnTimeS - 29.13
+	attackType - 単体(Single Attack)
+	cost - 600
+
+
+True:
+Version: Ver5.0
+Jap Name: 大狂乱のムキあしネコ
+En Name: Manic Macho Legs
+Jp Desc: 筋肉美が自慢の遠距離型キャラ大狂乱となることで体力と波動攻撃が強化されたが人気が大幅ダウンしてしまっている
+En Desc: Frenzy has enhanced the beauty of his legs and the power of his long-distance attacks even more. Popularity is down, though.
+Abilities: None:Wave Attack
+Combos: 
+Stats: 	health - 4375.000
+	knockback - 3
+	attackRateF - 125
+	attackRateS - 4.17
+	attackPower - 900.000
+	movementSpeed - 10
+	attackAnimF - 6
+	attackAnimS - 0.20
+	range - 350
+	respawnTimeF - 874
+	respawnTimeS - 29.13
+	attackType - 単体(Single Attack)
+	cost - 600
+
+

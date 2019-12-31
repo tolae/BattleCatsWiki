@@ -1,0 +1,59 @@
+235
+
+Normal:
+Version: Ver4.4
+Jap Name: 神徒スルズ
+En Name: Kamito Suruzu , 神徒スルズ , God's disciple - Suruzu
+Jp Desc: ゆるドラシルコラボ
+En Desc: N/A
+Abilities: Red:Freeze
+Combos: 
+Stats: 	health - 1187.500
+	knockback - 2
+	attackRateF - 78
+	attackRateS - 2.60
+	attackPower - 287.500
+	movementSpeed - 9
+	attackAnimF - 9
+	attackAnimS - 0.30
+	range - 270
+	respawnTimeF - 226
+	respawnTimeS - 7.53
+	attackType - 単体(Single Attack)
+	cost - 540
+
+
+Evolved:
+Version: Ver4.4
+Jap Name: 神徒スルズCC
+En Name: Kamito Suruzu CC
+Jp Desc: ゆるドラシルコラボ
+En Desc: N/A
+Abilities: Red:Freeze
+Combos: 
+Stats: 	health - 1637.500
+	knockback - 2
+	attackRateF - 78
+	attackRateS - 2.60
+	attackPower - 350.000
+	movementSpeed - 9
+	attackAnimF - 9
+	attackAnimS - 0.30
+	range - 270
+	respawnTimeF - 226
+	respawnTimeS - 7.53
+	attackType - 単体(Single Attack)
+	cost - 540
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

@@ -1,0 +1,59 @@
+102
+
+Normal:
+Version: 
+Jap Name: 弱酸性エル
+En Name: Clone Elle
+Jp Desc: ミリオンアーサーコラボ
+En Desc: N/A
+Abilities: Red:Strong
+Combos: 
+Stats: 	health - 500.000
+	knockback - 5
+	attackRateF - 87
+	attackRateS - 2.90
+	attackPower - 122.353
+	movementSpeed - 12
+	attackAnimF - 36
+	attackAnimS - 1.20
+	range - 150
+	respawnTimeF - 142
+	respawnTimeS - 4.73
+	attackType - 範囲(Area Attack)
+	cost - 300
+
+
+Evolved:
+Version: 
+Jap Name: 弱酸性エルCC
+En Name: Clone ElleCC
+Jp Desc: ミリオンアーサーコラボ
+En Desc: N/A
+Abilities: Red:Strong
+Combos: 
+Stats: 	health - 500.000
+	knockback - 5
+	attackRateF - 87
+	attackRateS - 2.90
+	attackPower - 122.353
+	movementSpeed - 12
+	attackAnimF - 36
+	attackAnimS - 1.20
+	range - 150
+	respawnTimeF - 142
+	respawnTimeS - 4.73
+	attackType - 範囲(Area Attack)
+	cost - 300
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

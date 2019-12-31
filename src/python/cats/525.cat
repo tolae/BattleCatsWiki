@@ -1,0 +1,59 @@
+525
+
+Normal:
+Version: Ver9.0
+Jap Name: ソラカラちゃん
+En Name: Sorakara
+Jp Desc: 東京スカイツリーコラボ
+En Desc: N/A
+Abilities: None:
+Combos: 
+Stats: 	health - 1584.853
+	knockback - 3
+	attackRateF - 110
+	attackRateS - 3.67
+	attackPower - 315.000
+	movementSpeed - 10
+	attackAnimF - 33
+	attackAnimS - 1.10
+	range - 350
+	respawnTimeF - 246
+	respawnTimeS - 8.20
+	attackType - 単体(Single Attack)
+	cost - 750
+
+
+Evolved:
+Version: Ver9.0
+Jap Name: ソラカラちゃん＆ネコ
+En Name: Sorakara & Cat
+Jp Desc: 東京スカイツリーコラボ
+En Desc: N/A
+Abilities: None:
+Combos: 
+Stats: 	health - 1584.853
+	knockback - 3
+	attackRateF - 110
+	attackRateS - 3.67
+	attackPower - 315.000
+	movementSpeed - 10
+	attackAnimF - 33
+	attackAnimS - 1.10
+	range - 350
+	respawnTimeF - 246
+	respawnTimeS - 8.20
+	attackType - 単体(Single Attack)
+	cost - 750
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

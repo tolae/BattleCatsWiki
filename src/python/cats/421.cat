@@ -1,0 +1,59 @@
+421
+
+Normal:
+Version: Ver7.0
+Jap Name: オビス
+En Name: Ovis
+Jp Desc: ポコパンコラボ
+En Desc: Joining the fight from LINE Pokopang! A stoic sheep who loves to collect unusual objects! Tough vs Red!
+Abilities: Red:Resistant
+Combos: 
+Stats: 	health - 2000.000
+	knockback - 2
+	attackRateF - 81
+	attackRateS - 2.70
+	attackPower - 275.000
+	movementSpeed - 7
+	attackAnimF - 27
+	attackAnimS - 0.90
+	range - 175
+	respawnTimeF - 186
+	respawnTimeS - 6.20
+	attackType - 単体(Single Attack)
+	cost - 540
+
+
+Evolved:
+Version: Ver7.0
+Jap Name: オビスCC
+En Name: Ovis CC
+Jp Desc: ポコパンコラボ
+En Desc: Joining the fight from LINE Pokopang! Hides his scavenged treasures in his fluffy wool for safekeeping. Tough vs Red!
+Abilities: Red:Resistant
+Combos: 
+Stats: 	health - 2000.000
+	knockback - 2
+	attackRateF - 81
+	attackRateS - 2.70
+	attackPower - 275.000
+	movementSpeed - 7
+	attackAnimF - 27
+	attackAnimS - 0.90
+	range - 175
+	respawnTimeF - 186
+	respawnTimeS - 6.20
+	attackType - 単体(Single Attack)
+	cost - 540
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

@@ -1,0 +1,63 @@
+187
+
+Normal:
+Version: Ver3.8
+Jap Name: コーネリア
+En Name: Kooneria
+Jp Desc: メルクストーリアコラボ
+En Desc: Participation from Merck Storia!
+The lady who dreams of a bridge in heaven with the admiration of Flying Dragon.
+Sometimes stops the movement  of black enemy and red enemy (area attack).
+Abilities: Red,Black:Freeze
+Combos: 
+Stats: 	health - 3500.000
+	knockback - 4
+	attackRateF - 152
+	attackRateS - 5.07
+	attackPower - 1750.000
+	movementSpeed - 27
+	attackAnimF - 53
+	attackAnimS - 1.77
+	range - 410
+	respawnTimeF - 1846
+	respawnTimeS - 61.53
+	attackType - 範囲(Area Attack)
+	cost - 3,750
+
+
+Evolved:
+Version: Ver3.8
+Jap Name: コーネリアCC
+En Name: KooneriaCC
+Jp Desc: メルクストーリアコラボ
+En Desc: Participation from Merck Storia!
+Now has  a weakness to dragon scales, which becomes the material of the bridge in heaven eventually.
+Sometimes stops the movement  of black enemy and red enemy (area attack).
+Abilities: Red,Black:Freeze
+Combos: 
+Stats: 	health - 4000.000
+	knockback - 4
+	attackRateF - 152
+	attackRateS - 5.07
+	attackPower - 2300.000
+	movementSpeed - 27
+	attackAnimF - 53
+	attackAnimS - 1.77
+	range - 410
+	respawnTimeF - 1846
+	respawnTimeS - 61.53
+	attackType - 範囲(Area Attack)
+	cost - 3,750
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

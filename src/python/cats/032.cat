@@ -1,0 +1,71 @@
+032
+
+Normal:
+Version: Ver2.0
+Jap Name: ネコ番長
+En Name: Delinquent Cat
+Jp Desc: 学校では敵無しのちょいワルにゃんこ浮いてる敵をたまに一瞬止める（範囲攻撃）
+En Desc: Known as the Bancho of Cat School. Might stop Floating enemies (Area Attack)
+Abilities: Float:Multi-Hit,Freeze
+Combos: 	にゃんこ学園|Cat High - ['202', '032', '101']
+Stats: 	health - 2500.000
+	knockback - 3
+	attackRateF - 97
+	attackRateS - 3.23
+	attackPower - 1087.500
+	movementSpeed - 8
+	attackAnimF - 18
+	attackAnimS - 0.60
+	range - 250
+	respawnTimeF - 1466
+	respawnTimeS - 48.87
+	attackType - 範囲(Area Attack)
+	cost - 1,500
+
+
+Evolved:
+Version: Ver2.0
+Jap Name: 怒りのネコ番長
+En Name: Angry Delinquent Cat
+Jp Desc: 冷蔵庫のアイスクリームを父親に食べられて怒りに目覚めたちょいワルにゃんこ浮いてる敵をたまに一瞬止める（範囲攻撃）
+En Desc: Throwing a fit of rage because his dad ate his ice cream that was in the fridge. Might freeze Floating enemies (Area Attack)
+Abilities: Float:Multi-Hit,Freeze,Immune to Freeze
+Combos: 
+Stats: 	health - 3000.000
+	knockback - 3
+	attackRateF - 101
+	attackRateS - 3.37
+	attackPower - 1912.500
+	movementSpeed - 8
+	attackAnimF - 18
+	attackAnimS - 0.60
+	range - 250
+	respawnTimeF - 1466
+	respawnTimeS - 48.87
+	attackType - 範囲(Area Attack)
+	cost - 1,500
+
+
+True:
+Version: Ver7.2
+Jap Name: 押忍！ネコ番長
+En Name: Ultra Delinquent Cat
+Jp Desc: 怒りを拳に込めて戦うちょいワルにゃんこ今日も拾い集めたパチンコ玉をアイスと交換浮いてる敵と古代種をたまに一瞬止める（範囲攻撃）
+En Desc: A naughty Cat known as king of the Angry Fist. Loves pachinko, trades his winnings for ice cream. Might freeze Floating/Relics (Area Attack)
+Abilities: Float,Ancient:Multi-Hit,Freeze,Immune to Freeze,Immune to Curse
+Combos: 
+Stats: 	health - 4500.000
+	knockback - 3
+	attackRateF - 97
+	attackRateS - 3.23
+	attackPower - 1912.500
+	movementSpeed - 8
+	attackAnimF - 18
+	attackAnimS - 0.60
+	range - 280
+	respawnTimeF - 1036
+	respawnTimeS - 34.53
+	attackType - 範囲(Area Attack)
+	cost - 1,500
+
+

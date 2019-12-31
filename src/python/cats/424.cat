@@ -1,0 +1,59 @@
+424
+
+Normal:
+Version: Ver7.0
+Jap Name: 松賀咲＆ネコ
+En Name: Saki Matsuga & Cat
+Jp Desc: 地下鉄に乗るっコラボ
+En Desc: N/A
+Abilities: Red:Weaken
+Combos: 
+Stats: 	health - 1200.000
+	knockback - 4
+	attackRateF - 190
+	attackRateS - 6.33
+	attackPower - 200.000
+	movementSpeed - 16
+	attackAnimF - 55
+	attackAnimS - 1.83
+	range - 260
+	respawnTimeF - 466
+	respawnTimeS - 15.53
+	attackType - 単体(Single Attack)
+	cost - 480
+
+
+Evolved:
+Version: Ver7.0
+Jap Name: 松賀咲＆ネコCC
+En Name: Saki Matsuga & Cat CC
+Jp Desc: 地下鉄に乗るっコラボ
+En Desc: N/A
+Abilities: Red:Weaken
+Combos: 
+Stats: 	health - 1200.000
+	knockback - 4
+	attackRateF - 190
+	attackRateS - 6.33
+	attackPower - 200.000
+	movementSpeed - 16
+	attackAnimF - 55
+	attackAnimS - 1.83
+	range - 260
+	respawnTimeF - 466
+	respawnTimeS - 15.53
+	attackType - 単体(Single Attack)
+	cost - 480
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

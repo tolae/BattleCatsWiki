@@ -1,0 +1,63 @@
+518
+
+Normal:
+Version: Ver8.10.5
+Jap Name: ケン
+En Name: Ken
+Jp Desc: ストリートファイターV AEコラボ
+En Desc: Joining the fight from Street Fighter V AE!
+Like a brother to Ryu, and his greatest rival. 
+Knockback/Strong vs Red, Floating and Angels (Omni)
+Abilities: Red,Float,Angel:Multi-Hit,Strong,Knockback,Long Distance (Omni)
+Combos: 
+Stats: 	health - 12000.000
+	knockback - 3
+	attackRateF - 179
+	attackRateS - 5.97
+	attackPower - 5400.000
+	movementSpeed - 19
+	attackAnimF - 6
+	attackAnimS - 0.20
+	range - 250
+	respawnTimeF - 2546
+	respawnTimeS - 84.87
+	attackType - 範囲(Area Attack)
+	cost - 3,600
+
+
+Evolved:
+Version: Ver8.10.5
+Jap Name: ケンCC
+En Name: Ken CC
+Jp Desc: ストリートファイターV AEコラボ
+En Desc: Joining the fight from Street Fighter V AE!
+Ryu's ultimate rival, master of the shoryuken. 
+Knockback/Strong vs Red, Floating and Angels (Omni)
+Abilities: Red,Float,Angel:Multi-Hit,Strong,Knockback,Long Distance (Omni)
+Combos: 
+Stats: 	health - 12000.000
+	knockback - 3
+	attackRateF - 179
+	attackRateS - 5.97
+	attackPower - 5400.000
+	movementSpeed - 19
+	attackAnimF - 6
+	attackAnimS - 0.20
+	range - 250
+	respawnTimeF - 2546
+	respawnTimeS - 84.87
+	attackType - 範囲(Area Attack)
+	cost - 3,600
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

@@ -1,0 +1,71 @@
+027
+
+Normal:
+Version: Ver1.4
+Jap Name: ケリ姫
+En Name: Kerihime
+Jp Desc: ケリ姫スイーツコラボ
+En Desc: N/A
+Abilities: None:
+Combos: 
+Stats: 	health - 1500.000
+	knockback - 1
+	attackRateF - 241
+	attackRateS - 8.03
+	attackPower - 1000.000
+	movementSpeed - 35
+	attackAnimF - 4
+	attackAnimS - 0.13
+	range - 140
+	respawnTimeF - 546
+	respawnTimeS - 18.20
+	attackType - 単体(Single Attack)
+	cost - 675
+
+
+Evolved:
+Version: Ver1.4
+Jap Name: フルカラーケリ姫
+En Name: Full Color Kerihime
+Jp Desc: ケリ姫スイーツコラボ
+En Desc: N/A
+Abilities: None:
+Combos: 
+Stats: 	health - 1500.000
+	knockback - 1
+	attackRateF - 241
+	attackRateS - 8.03
+	attackPower - 1000.000
+	movementSpeed - 35
+	attackAnimF - 4
+	attackAnimS - 0.13
+	range - 140
+	respawnTimeF - 546
+	respawnTimeS - 18.20
+	attackType - 単体(Single Attack)
+	cost - 675
+
+
+True:
+Version: Ver6.0
+Jap Name: ウェディングケリ姫
+En Name: Wedding Kerihime
+Jp Desc: ケリ姫スイーツコラボ
+En Desc: N/A
+Abilities: None:
+Combos: 
+Stats: 	health - 1500.000
+	knockback - 1
+	attackRateF - 181
+	attackRateS - 6.03
+	attackPower - 2000.000
+	movementSpeed - 40
+	attackAnimF - 4
+	attackAnimS - 0.13
+	range - 140
+	respawnTimeF - 546
+	respawnTimeS - 18.20
+	attackType - 単体(Single Attack)
+	cost - 675
+
+

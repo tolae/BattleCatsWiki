@@ -1,0 +1,74 @@
+133
+
+Normal:
+Version: 
+Jap Name: カンフーにゃんこG
+En Name: Kung Fu Cat X
+Jp Desc: ミドルレンジからの絶対的な破壊力を極めんと人生をカンフーにささげたにゃんこ破壊力を向上させるため単体攻撃となった
+En Desc: A Cat who has devoted his life to perfecting the mighty midrange attacks of kung fu.
+Improved destructive power in a single strike.
+Abilities: None:
+Combos: 	孫という名の宝物|Treasured Grandchild - ['060', '133']
+	師範といっしょ|Master-Apprentice - ['011', '133']
+Stats: 	health - 2497.353
+	knockback - 1
+	attackRateF - 210
+	attackRateS - 7.00
+	attackPower - 3200.000
+	movementSpeed - 8
+	attackAnimF - 11
+	attackAnimS - 0.37
+	range - 300
+	respawnTimeF - 606
+	respawnTimeS - 20.20
+	attackType - 単体(Single Attack)
+	cost - 2,340
+
+
+Evolved:
+Version: 
+Jap Name: 酔拳にゃんこG
+En Name: Drunken Master Cat X
+Jp Desc: いくつになってもお酒はやめられない伝説のカンフーマスター破壊力を向上させるため単体攻撃となった
+En Desc: A legendary kung-fu master whose age doesn't weaken his drinking prowess.
+Improved destructive power in a single strike.
+Abilities: None:Multi-Hit
+Combos: 
+Stats: 	health - 2497.353
+	knockback - 1
+	attackRateF - 210
+	attackRateS - 7.00
+	attackPower - 3520.147
+	movementSpeed - 8
+	attackAnimF - 11
+	attackAnimS - 0.37
+	range - 300
+	respawnTimeF - 606
+	respawnTimeS - 20.20
+	attackType - 単体(Single Attack)
+	cost - 2,340
+
+
+True:
+Version: Ver5.3
+Jap Name: 剛拳にゃんこG
+En Name: Iron Claw X
+Jp Desc: 剛の拳により究極奥義を強奪したにゃんこその分いろいろ犠牲にした生涯には後悔も多い破壊力を向上させるため単体攻撃となった
+En Desc: Mystical martial mastery has been achieved after sacrificing years to training in Iron Claw style. Mighty, focused single-target attacks.
+Abilities: None:Multi-Hit,Immune to Weaken,Warp Blocker
+Combos: 
+Stats: 	health - 2497.353
+	knockback - 1
+	attackRateF - 180
+	attackRateS - 6.00
+	attackPower - 4619.706
+	movementSpeed - 8
+	attackAnimF - 11
+	attackAnimS - 0.37
+	range - 300
+	respawnTimeF - 606
+	respawnTimeS - 20.20
+	attackType - 単体(Single Attack)
+	cost - 2,340
+
+

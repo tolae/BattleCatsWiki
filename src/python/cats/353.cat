@@ -1,0 +1,59 @@
+353
+
+Normal:
+Version: Ver6.2
+Jap Name: ネコ仙人
+En Name: Hermit Cat
+Jp Desc: 豆大福1個でにゃんこ軍団に入った伝説の仙人最近物忘れが激しいが、武術の極意は忘れない素早い連撃で波動を放つ（範囲攻撃）
+En Desc: A legendary sage who infiltrated the Cat Base. Memory might be going, but true strength cannot be forgotten. Rapid area attacks fire powerful waves.
+Abilities: None:Multi-Hit,Wave Attack
+Combos: 
+Stats: 	health - 4500.000
+	knockback - 3
+	attackRateF - 127
+	attackRateS - 4.23
+	attackPower - 1800.000
+	movementSpeed - 8
+	attackAnimF - 27
+	attackAnimS - 0.90
+	range - 255
+	respawnTimeF - 1546
+	respawnTimeS - 51.53
+	attackType - 範囲(Area Attack)
+	cost - 2,400
+
+
+Evolved:
+Version: Ver6.2
+Jap Name: ネコ老師
+En Name: Grandmaster Cat
+Jp Desc: アレ1個でなんちゃら軍団に入った伝説の老師最近物忘れが激しいが、アレの極意は忘れない素早いアレでアレを放つ（範囲攻撃）
+En Desc: Captured an enemy base with nothing but one sweet rice cake. Imagine what happens when he gets angry. Rapid area attacks fire powerful waves.
+Abilities: None:Multi-Hit,Wave Attack
+Combos: 
+Stats: 	health - 4500.000
+	knockback - 3
+	attackRateF - 127
+	attackRateS - 4.23
+	attackPower - 1800.000
+	movementSpeed - 8
+	attackAnimF - 27
+	attackAnimS - 0.90
+	range - 255
+	respawnTimeF - 1546
+	respawnTimeS - 51.53
+	attackType - 範囲(Area Attack)
+	cost - 2,400
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

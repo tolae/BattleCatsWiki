@@ -1,0 +1,59 @@
+482
+
+Normal:
+Version: Ver8.6
+Jap Name: 超越科学者ヘヴン博士
+En Name: Doktor Heaven
+Jp Desc: 倒された時、独自グラフィック（アニメーション）
+En Desc: A fearsome scientist obsessed with using extra-dimensional power to instantly sublimate matter. Tough vs Black & Aliens with Area Attacks.
+Abilities: Black,Alien:Insanely Tough
+Combos: 
+Stats: 	health - 27500.000
+	knockback - 3
+	attackRateF - 140
+	attackRateS - 4.67
+	attackPower - 6775.000
+	movementSpeed - 8
+	attackAnimF - 61
+	attackAnimS - 2.03
+	range - 400
+	respawnTimeF - 5046
+	respawnTimeS - 168.20
+	attackType - 範囲(Area Attack)
+	cost - 5,400
+
+
+Evolved:
+Version: Ver8.6
+Jap Name: 時空科学者アビス博士
+En Name: Professor Abyss
+Jp Desc: 倒された時、独自グラフィック（アニメーション）
+En Desc: Renowned temporal researcher who has harnessed arcane crystal power that obliterates mundane matter. Area Attacks deal massive damage to Black & Aliens.
+Abilities: Black,Alien:Insane Damage
+Combos: 
+Stats: 	health - 27500.000
+	knockback - 3
+	attackRateF - 140
+	attackRateS - 4.67
+	attackPower - 6775.000
+	movementSpeed - 8
+	attackAnimF - 61
+	attackAnimS - 2.03
+	range - 400
+	respawnTimeF - 5046
+	respawnTimeS - 168.20
+	attackType - 範囲(Area Attack)
+	cost - 5,400
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

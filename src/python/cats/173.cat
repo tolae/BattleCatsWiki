@@ -1,0 +1,73 @@
+173
+
+Normal:
+Version: 
+Jap Name: コニャンダム
+En Name: Li'l Nyandam
+Jp Desc: 時空の歪みによって子供に戻ってしまったニャンダム老け顔のせいで友達がよりつかない。根はまじめたまに敵の動きを遅くする（範囲攻撃）
+En Desc: A quantum blip transformed Nyandam into a toddler with a super old face. Creeps everyone out, for real. Sometimes slows enemies (Area Attack)
+Abilities: All (w/o Metal/White):Slow
+Combos: 	ぺろきゃん愛好家|Lolly Fanciers - ['016', '173']
+	悪に染まりし者達| - ['520', '173', '320']
+	昨日の敵は今日の友|Yesterday's Enemy - ['131', '173', '269']
+Stats: 	health - 3000.000
+	knockback - 2
+	attackRateF - 436
+	attackRateS - 14.53
+	attackPower - 2300.000
+	movementSpeed - 5
+	attackAnimF - 77
+	attackAnimS - 2.57
+	range - 551
+	respawnTimeF - 5046
+	respawnTimeS - 168.20
+	attackType - 範囲(Area Attack)
+	cost - 4,350
+
+
+Evolved:
+Version: 
+Jap Name: ネコニャンダム
+En Name: Dark Emperor Catdam
+Jp Desc: 夏休みにプールで排水口に挟まっていたネコを救助して以来、学校への登校はいつも一緒たまに敵の動きを遅くする（範囲攻撃）
+En Desc: Since rescuing a kitten from the drain of the school pool, it follows him to school each day. Sometimes slows enemies (Area Attack)
+Abilities: All (w/o Metal/White):Slow
+Combos: 
+Stats: 	health - 3000.000
+	knockback - 2
+	attackRateF - 436
+	attackRateS - 14.53
+	attackPower - 2300.000
+	movementSpeed - 5
+	attackAnimF - 77
+	attackAnimS - 2.57
+	range - 551
+	respawnTimeF - 5046
+	respawnTimeS - 168.20
+	attackType - 範囲(Area Attack)
+	cost - 4,350
+
+
+True:
+Version: Ver7.0
+Jap Name: 覚醒のネコニャンダム
+En Name: Schoolbus Nyandam
+Jp Desc: 若返りが止まらないニャンダム「しょうらいのゆめはりっぱなていおうになること」たまに敵の動きを遅くする（範囲攻撃）
+En Desc: His nature won out and now he rules the kindergarten with an iron fist. ALL WILL KNEEL. Sometimes slows enemies (Area Attack)
+Abilities: All (w/o Metal/White):Slow,Immune to Curse
+Combos: 
+Stats: 	health - 4000.000
+	knockback - 2
+	attackRateF - 334
+	attackRateS - 11.13
+	attackPower - 3450.000
+	movementSpeed - 5
+	attackAnimF - 77
+	attackAnimS - 2.57
+	range - 551
+	respawnTimeF - 5046
+	respawnTimeS - 168.20
+	attackType - 範囲(Area Attack)
+	cost - 4,350
+
+

@@ -1,0 +1,71 @@
+121
+
+Normal:
+Version: 
+Jap Name: 癒術士
+En Name: Magical Healer
+Jp Desc: メルクストーリアコラボ
+En Desc: N/A
+Abilities: All (w/o Metal):Freeze
+Combos: 
+Stats: 	health - 450.000
+	knockback - 3
+	attackRateF - 139
+	attackRateS - 4.63
+	attackPower - 2.500
+	movementSpeed - 11
+	attackAnimF - 20
+	attackAnimS - 0.67
+	range - 160
+	respawnTimeF - 1706
+	respawnTimeS - 56.87
+	attackType - 単体(Single Attack)
+	cost - 300
+
+
+Evolved:
+Version: 
+Jap Name: 癒術士CC
+En Name: Magical Healer CC
+Jp Desc: メルクストーリアコラボ
+En Desc: N/A
+Abilities: All (w/o Metal):Freeze
+Combos: 
+Stats: 	health - 450.000
+	knockback - 3
+	attackRateF - 139
+	attackRateS - 4.63
+	attackPower - 2.500
+	movementSpeed - 11
+	attackAnimF - 20
+	attackAnimS - 0.67
+	range - 160
+	respawnTimeF - 1706
+	respawnTimeS - 56.87
+	attackType - 単体(Single Attack)
+	cost - 300
+
+
+True:
+Version: 
+Jap Name: にゃんこ化癒術士CC
+En Name: Nyanko Magical Healer CC
+Jp Desc: メルクストーリアコラボ
+En Desc: N/A
+Abilities: All (w/o Metal):Freeze
+Combos: 
+Stats: 	health - 450.000
+	knockback - 3
+	attackRateF - 139
+	attackRateS - 4.63
+	attackPower - 2.500
+	movementSpeed - 11
+	attackAnimF - 20
+	attackAnimS - 0.67
+	range - 160
+	respawnTimeF - 1706
+	respawnTimeS - 56.87
+	attackType - 範囲(Area Attack)
+	cost - 300
+
+

@@ -1,0 +1,59 @@
+229
+
+Normal:
+Version: Ver4.3
+Jap Name: ハロウィンねねこ
+En Name: Gloomy Neneko
+Jp Desc: ハロウィン限定スタイルの妹型にゃんこイタズラしたいのに勇気が出ない…憧れの人はもねこ（たまにクリティカル）
+En Desc: Everyone's favorite cutie, dressed up for Halloween but doesn't have the heart to pull any pranks on others. Might Critical.
+Abilities: None:Critical
+Combos: 
+Stats: 	health - 1250.000
+	knockback - 3
+	attackRateF - 127
+	attackRateS - 4.23
+	attackPower - 200.000
+	movementSpeed - 5
+	attackAnimF - 28
+	attackAnimS - 0.93
+	range - 310
+	respawnTimeF - 1744
+	respawnTimeS - 58.13
+	attackType - 単体(Single Attack)
+	cost - 148
+
+
+Evolved:
+Version: Ver4.3
+Jap Name: ハロウィン魔女ねねこ
+En Name: Witchy Neneko
+Jp Desc: 魔法が使えないのに魔女にさせられたねねこ少しの勇気という魔法で世界が変わる事をまだ知らない（たまにクリティカル）
+En Desc: No magic talent, but she seemed so excited they made her a witch anyhow. A little more confidence might make all the difference (Critical)
+Abilities: None:Critical
+Combos: 
+Stats: 	health - 2250.000
+	knockback - 3
+	attackRateF - 127
+	attackRateS - 4.23
+	attackPower - 300.000
+	movementSpeed - 5
+	attackAnimF - 28
+	attackAnimS - 0.93
+	range - 310
+	respawnTimeF - 1744
+	respawnTimeS - 58.13
+	attackType - 単体(Single Attack)
+	cost - 148
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

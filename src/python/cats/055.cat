@@ -1,0 +1,59 @@
+055
+
+Normal:
+Version: Ver2.0
+Jap Name: 10式戦車
+En Name: Type 10
+Jp Desc: ふるさと自衛隊コラボ
+En Desc: N/A
+Abilities: None:
+Combos: 
+Stats: 	health - 1905.147
+	knockback - 4
+	attackRateF - 31
+	attackRateS - 1.03
+	attackPower - 575.000
+	movementSpeed - 6
+	attackAnimF - 6
+	attackAnimS - 0.20
+	range - 140
+	respawnTimeF - 926
+	respawnTimeS - 30.87
+	attackType - 範囲(Area Attack)
+	cost - 1,413
+
+
+Evolved:
+Version: Ver2.0
+Jap Name: ネコ搭乗10式戦車
+En Name: Cat Transportation Type 10
+Jp Desc: ふるさと自衛隊コラボ
+En Desc: N/A
+Abilities: None:
+Combos: 
+Stats: 	health - 1905.147
+	knockback - 4
+	attackRateF - 31
+	attackRateS - 1.03
+	attackPower - 575.000
+	movementSpeed - 6
+	attackAnimF - 6
+	attackAnimS - 0.20
+	range - 140
+	respawnTimeF - 926
+	respawnTimeS - 30.87
+	attackType - 範囲(Area Attack)
+	cost - 1,413
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

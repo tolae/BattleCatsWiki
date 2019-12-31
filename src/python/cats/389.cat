@@ -1,0 +1,59 @@
+389
+
+Normal:
+Version: Ver6.8
+Jap Name: 片桐恋
+En Name: Ren Katagiri
+Jp Desc: 実況パワフルプロ野球コラボ
+En Desc: Dropping in from PowerPro Baseball! Eager manager who's always two steps behind the hero. Chance to knockback Zombies.
+Abilities: Zombie:Knockback,Zombie Killer
+Combos: 
+Stats: 	health - 1250.000
+	knockback - 3
+	attackRateF - 32
+	attackRateS - 1.07
+	attackPower - 150.000
+	movementSpeed - 8
+	attackAnimF - 17
+	attackAnimS - 0.57
+	range - 200
+	respawnTimeF - 506
+	respawnTimeS - 16.87
+	attackType - 単体(Single Attack)
+	cost - 525
+
+
+Evolved:
+Version: Ver6.8
+Jap Name: 片桐恋CC
+En Name: Ren Katagiri CC
+Jp Desc: 実況パワフルプロ野球コラボ
+En Desc: Dropping in from PowerPro Baseball! Her devotion is just a bit too much sometimes. Chance to knockback Zombies.
+Abilities: Zombie:Knockback,Zombie Killer
+Combos: 
+Stats: 	health - 1250.000
+	knockback - 3
+	attackRateF - 32
+	attackRateS - 1.07
+	attackPower - 150.000
+	movementSpeed - 8
+	attackAnimF - 17
+	attackAnimS - 0.57
+	range - 200
+	respawnTimeF - 506
+	respawnTimeS - 16.87
+	attackType - 単体(Single Attack)
+	cost - 525
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

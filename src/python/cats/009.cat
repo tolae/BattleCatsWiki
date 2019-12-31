@@ -1,0 +1,72 @@
+009
+
+Normal:
+Version: Ver1.0
+Jap Name: 巨神ネコ
+En Name: Titan Cat
+Jp Desc: 超絶破壊力＆強靭な体力を備えた最高級のキャラ（範囲攻撃）
+En Desc: Blessed with extreme attack power and ridiculous amounts of health. (Area Attack)
+Abilities: None:
+Combos: 	パンチパンチパンチ！|Punchpunchpunch! - ['009', '100', '101', '035']
+	腕自慢|Arm Day Everyday - ['009', '011', '010', '171']
+Stats: 	health - 2500.000
+	knockback - 1
+	attackRateF - 67
+	attackRateS - 2.23
+	attackPower - 700.000
+	movementSpeed - 8
+	attackAnimF - 18
+	attackAnimS - 0.60
+	range - 150
+	respawnTimeF - 556
+	respawnTimeS - 18.53
+	attackType - 範囲(Area Attack)
+	cost - 1,950
+
+
+Evolved:
+Version: Ver1.0
+Jap Name: ネコダラボッチ
+En Name: Mythical Titan Cat
+Jp Desc: 超絶破壊力＆強靭な体力を備えた破壊をつかさどるネコ神様（範囲攻撃）
+En Desc: Lord of Destruction (?) (Area Attack) Extreme attack power and health.
+Abilities: None:
+Combos: 	スタジオニャブリ|Jibbly Studio - ['006', '009', '056']
+Stats: 	health - 2500.000
+	knockback - 1
+	attackRateF - 67
+	attackRateS - 2.23
+	attackPower - 700.000
+	movementSpeed - 8
+	attackAnimF - 18
+	attackAnimS - 0.60
+	range - 150
+	respawnTimeF - 556
+	respawnTimeS - 18.53
+	attackType - 範囲(Area Attack)
+	cost - 1,950
+
+
+True:
+Version: 
+Jap Name: ネコジャラミ
+En Name: Jamiera Cat
+Jp Desc: ごくたまに敵をふっとばす破壊をつかさどる巨大ネコ（範囲攻撃）Tシャツが伸びるので良い子はマネしない方がいい
+En Desc: Might knock back enemies. (Area Attack) The Real Lord of Destruction? Don't stretch your shirt like this.
+Abilities: All (w/o Metal):Knockback
+Combos: 	首なしスタイル|Neckless Chic - ['009', '172']
+Stats: 	health - 5000.000
+	knockback - 1
+	attackRateF - 67
+	attackRateS - 2.23
+	attackPower - 1400.000
+	movementSpeed - 8
+	attackAnimF - 18
+	attackAnimS - 0.60
+	range - 150
+	respawnTimeF - 676
+	respawnTimeS - 22.53
+	attackType - 範囲(Area Attack)
+	cost - 1,950
+
+

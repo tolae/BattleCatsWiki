@@ -1,0 +1,71 @@
+023
+
+Normal:
+Version: Ver1.0
+Jap Name: ネコフィーバー
+En Name: Boogie Cat
+Jp Desc: みんなをハッピーな気分にさせるダンシングにゃんこ生産コストが安いので量産が可能
+En Desc: No one can stop the beats! Cheap to produce. Comes with bonus groove. It's boogie time! Go! Go! Cat!
+Abilities: None:
+Combos: 
+Stats: 	health - 500.000
+	knockback - 3
+	attackRateF - 43
+	attackRateS - 1.43
+	attackPower - 50.000
+	movementSpeed - 6
+	attackAnimF - 14
+	attackAnimS - 0.47
+	range - 140
+	respawnTimeF - 60
+	respawnTimeS - 2.00
+	attackType - 単体(Single Attack)
+	cost - 75
+
+
+Evolved:
+Version: Ver1.0
+Jap Name: ネコカーニバル
+En Name: Samba Cat
+Jp Desc: 世界中をハッピーな気分にさせるお祭りにゃんこ今日も激しく踊り狂う
+En Desc: Beats have brought this one to eleven! Cheap and fast to produce. Everybody dance! Dance to you drop! Sammmbaaaaa!!111one
+Abilities: None:
+Combos: 	ダンサーズ|Feel the Dance - ['023', '033', '011']
+Stats: 	health - 500.000
+	knockback - 3
+	attackRateF - 43
+	attackRateS - 1.43
+	attackPower - 50.000
+	movementSpeed - 6
+	attackAnimF - 14
+	attackAnimS - 0.47
+	range - 140
+	respawnTimeF - 60
+	respawnTimeS - 2.00
+	attackType - 単体(Single Attack)
+	cost - 75
+
+
+True:
+Version: 
+Jap Name: ネコアミーゴ
+En Name: Gato Amigo
+Jp Desc: 世界中のセニョリータをハッピーな気分にさせるメキシカンフェスタにゃんこごくたまに敵をふっとばす
+En Desc: Out to bring joy to the senoritas of the world. He's never been to Mexico, he's just a Mariachi nerd. Can send enemies flying!
+Abilities: All (w/o Metal):Knockback
+Combos: 
+Stats: 	health - 500.000
+	knockback - 3
+	attackRateF - 43
+	attackRateS - 1.43
+	attackPower - 50.000
+	movementSpeed - 6
+	attackAnimF - 14
+	attackAnimS - 0.47
+	range - 140
+	respawnTimeF - 60
+	respawnTimeS - 2.00
+	attackType - 単体(Single Attack)
+	cost - 75
+
+

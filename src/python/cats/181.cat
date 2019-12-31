@@ -1,0 +1,71 @@
+181
+
+Normal:
+Version: 
+Jap Name: 謎の少女ユキ
+En Name: 謎の少女ユキ
+Jp Desc: 消滅都市コラボ
+En Desc: This girl miraculously returned from an exile. She has wields a strange power... Massive damage to floating enemies (range attack).
+Abilities: Float:Massive Damage
+Combos: 
+Stats: 	health - 3050.000
+	knockback - 5
+	attackRateF - 320
+	attackRateS - 10.67
+	attackPower - 3162.500
+	movementSpeed - 9
+	attackAnimF - 43
+	attackAnimS - 1.43
+	range - 430
+	respawnTimeF - 3146
+	respawnTimeS - 104.87
+	attackType - 範囲(Area Attack)
+	cost - 4,320
+
+
+Evolved:
+Version: 
+Jap Name: 謎の少女ユキ＆ネコ
+En Name: Mysterious Girl Yuki and Cat
+Jp Desc: 消滅都市コラボ
+En Desc: A cat now accompanies her. She has a mysterious ability to invoke. Massive damage to floating enemies (range attack).
+Abilities: Float:Massive Damage
+Combos: 
+Stats: 	health - 6125.000
+	knockback - 5
+	attackRateF - 320
+	attackRateS - 10.67
+	attackPower - 6325.000
+	movementSpeed - 9
+	attackAnimF - 43
+	attackAnimS - 1.43
+	range - 430
+	respawnTimeF - 3146
+	respawnTimeS - 104.87
+	attackType - 範囲(Area Attack)
+	cost - 4,320
+
+
+True:
+Version: Ver7.1
+Jap Name: 謎のネコ耳少女ユキ
+En Name: Nekomimi Yuki
+Jp Desc: 消滅都市コラボ
+En Desc: Yuki who put a cat's ear to talk to a cat. Heart-warming Tamachii powers up and gives extra damage to Floating enemies (range attack).
+Abilities: Float:Massive Damage,Immune to Weaken
+Combos: 
+Stats: 	health - 6125.000
+	knockback - 5
+	attackRateF - 270
+	attackRateS - 9.00
+	attackPower - 6325.000
+	movementSpeed - 9
+	attackAnimF - 43
+	attackAnimS - 1.43
+	range - 460
+	respawnTimeF - 3146
+	respawnTimeS - 104.87
+	attackType - 範囲(Area Attack)
+	cost - 4,320
+
+

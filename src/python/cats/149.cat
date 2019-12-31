@@ -1,0 +1,73 @@
+149
+
+Normal:
+Version: Ver3.0
+Jap Name: ねこロッカー
+En Name: Rocker Cat
+Jp Desc: 音楽なんかやめて豆腐屋を継げと言われているが大豆アレルギーをカミングアウト出来ないでいるロッカー。天使に打たれ強い
+En Desc: A peanut farmer's son, became a rocker to avoid coming out about his nut allergies to his family. Resistant to Angelic Attacks.
+Abilities: Angel:Resistant
+Combos: 	チームヘッドバンギング|Headbanger's Ball - ['005', '096', '149']
+	デスロック|Deathrock  - ['020', '149']
+	デュエット|Duet - ['017', '149']
+Stats: 	health - 1125.000
+	knockback - 1
+	attackRateF - 10
+	attackRateS - 0.33
+	attackPower - 80.147
+	movementSpeed - 8
+	attackAnimF - 5
+	attackAnimS - 0.17
+	range - 120
+	respawnTimeF - 126
+	respawnTimeS - 4.20
+	attackType - 単体(Single Attack)
+	cost - 315
+
+
+Evolved:
+Version: Ver3.0
+Jap Name: ねこアーティスト
+En Name: Artist Cat
+Jp Desc: 曲が売れなくて試しに絵を描いてみたらそれも全然売れずムキになって描き続ける豆腐屋のロッカー。天使に打たれ強い
+En Desc: After album number 2 flopped, tried to get into fine art. Can only draw peanuts, so didn't sell. Resistant to Angelic Attacks.
+Abilities: Angel:Resistant
+Combos: 	美術教室|Art History - ['149', '061']
+Stats: 	health - 1875.000
+	knockback - 1
+	attackRateF - 10
+	attackRateS - 0.33
+	attackPower - 134.853
+	movementSpeed - 8
+	attackAnimF - 5
+	attackAnimS - 0.17
+	range - 120
+	respawnTimeF - 126
+	respawnTimeS - 4.20
+	attackType - 単体(Single Attack)
+	cost - 315
+
+
+True:
+Version: Ver5.9
+Jap Name: ねこラーメン道
+En Name: Ramen Cat
+Jp Desc: 特性「動きを遅くする耐性」追加
+En Desc: Noodles might seem like a simple dish, but they need an artist's touch to master. Flashy prep style also boosts defense vs Angels.
+Abilities: Angel:Resistant
+Combos: 
+Stats: 	health - 2625.000
+	knockback - 1
+	attackRateF - 10
+	attackRateS - 0.33
+	attackPower - 150.000
+	movementSpeed - 8
+	attackAnimF - 5
+	attackAnimS - 0.17
+	range - 120
+	respawnTimeF - 126
+	respawnTimeS - 4.20
+	attackType - 単体(Single Attack)
+	cost - 315
+
+

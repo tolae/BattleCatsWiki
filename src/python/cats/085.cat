@@ -1,0 +1,71 @@
+085
+
+Normal:
+Version: 
+Jap Name: 聖龍メギドラ
+En Name: Megidora
+Jp Desc: 世界浄化の為に生を受けた伝説の竜族圧倒的な破壊力で敵を攻撃する（範囲攻撃）たまに浮いてる敵をふっとばして移動を遅くする
+En Desc: An awakened Ancient Cat Dragon. Created to purify the world (Area Attack) Might knock back and slow Floating enemies.
+Abilities: Float:Knockback,Slow
+Combos: 	聖なる力|Blessed Strength - ['025', '085']
+Stats: 	health - 9500.000
+	knockback - 3
+	attackRateF - 144
+	attackRateS - 4.80
+	attackPower - 3744.853
+	movementSpeed - 15
+	attackAnimF - 55
+	attackAnimS - 1.83
+	range - 410
+	respawnTimeF - 4546
+	respawnTimeS - 151.53
+	attackType - 範囲(Area Attack)
+	cost - 5,700
+
+
+Evolved:
+Version: 
+Jap Name: 聖龍王メギドラ
+En Name: Holy Dragon Megidora
+Jp Desc: 怒りのパワーが暴走した伝説の竜族圧倒的な破壊力で敵を攻撃する（範囲攻撃）たまに浮いてる敵をふっとばして移動を遅くする
+En Desc: An awakened Ancient Cat Dragon. Megidora shifts to final Dragon form (Area Attack) Might knock back and slow Floating enemies.
+Abilities: Float:Knockback,Slow
+Combos: 
+Stats: 	health - 9500.000
+	knockback - 3
+	attackRateF - 144
+	attackRateS - 4.80
+	attackPower - 3744.853
+	movementSpeed - 15
+	attackAnimF - 55
+	attackAnimS - 1.83
+	range - 410
+	respawnTimeF - 4546
+	respawnTimeS - 151.53
+	attackType - 範囲(Area Attack)
+	cost - 5,700
+
+
+True:
+Version: Ver5.0
+Jap Name: 聖龍皇帝メギドラ
+En Name: God-Emperor Megidora
+Jp Desc: 特性「ふっとばす」強化
+En Desc: Possessor of the Divine Dragon Stone. Ready to devour all to maintain its imperial throne. Area Attacks might knockback and slow Floating enemies.
+Abilities: Float:Knockback,Slow
+Combos: 
+Stats: 	health - 12000.000
+	knockback - 3
+	attackRateF - 144
+	attackRateS - 4.80
+	attackPower - 4369.853
+	movementSpeed - 20
+	attackAnimF - 55
+	attackAnimS - 1.83
+	range - 425
+	respawnTimeF - 4546
+	respawnTimeS - 151.53
+	attackType - 範囲(Area Attack)
+	cost - 5,700
+
+

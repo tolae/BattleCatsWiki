@@ -1,0 +1,59 @@
+332
+
+Normal:
+Version: Ver5.10
+Jap Name: 道化師エッグダック
+En Name: Bunny & Canard
+Jp Desc: 純粋無垢な子供の魂をこよなく愛するパペットタマゴを見つけた子は夢の国へご招待（範囲攻撃）赤い敵と黒い敵しか攻撃できないが超破壊力を備える
+En Desc: A young mage found an easter egg that hatched a delightful duck-thing to be his new friend! (Area Atk) Only attacks Red/Black, with massive damage.
+Abilities: Red,Black:Attacks Only,Immune to Freeze,Immune to Slow
+Combos: 
+Stats: 	health - 17000.000
+	knockback - 2
+	attackRateF - 239
+	attackRateS - 7.97
+	attackPower - 16025.000
+	movementSpeed - 8
+	attackAnimF - 70
+	attackAnimS - 2.33
+	range - 430
+	respawnTimeF - 4746
+	respawnTimeS - 158.20
+	attackType - 範囲(Area Attack)
+	cost - 5,910
+
+
+Evolved:
+Version: Ver5.10
+Jap Name: 闇道化サイコダック
+En Name: Disciple Psychoduck
+Jp Desc: 子供が探し出したイースターエッグをピータンにすり替える極悪パペット（範囲攻撃）赤い敵とゾンビしか攻撃できないが超破壊力を備える
+En Desc: The magic egg this young wizard found seems to have been quite rotten after all... Only attacks Red/Zombie, with massive damage.
+Abilities: Red,Zombie:Attacks Only,Zombie Killer
+Combos: 
+Stats: 	health - 17000.000
+	knockback - 2
+	attackRateF - 239
+	attackRateS - 7.97
+	attackPower - 16025.000
+	movementSpeed - 8
+	attackAnimF - 70
+	attackAnimS - 2.33
+	range - 430
+	respawnTimeF - 4746
+	respawnTimeS - 158.20
+	attackType - 範囲(Area Attack)
+	cost - 5,910
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

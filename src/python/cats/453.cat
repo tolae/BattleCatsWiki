@@ -1,0 +1,63 @@
+453
+
+Normal:
+Version: Ver8.1
+Jap Name: 古代ネコ
+En Name: Primordial Cat
+Jp Desc: はるか古代に生息していたネコたちの祖先たくましい足とヒレ付きのしっぽがチャームポイントメタルな敵と古代種に打たれ強い
+En Desc: A primitive felinoid from an ancient time, with
+a charming finned tail and useful gills.
+Tough versus Metal and Relic enemies.
+Abilities: Metal,Ancient:Resistant,Immune to Curse
+Combos: 
+Stats: 	health - 1625.000
+	knockback - 1
+	attackRateF - 37
+	attackRateS - 1.23
+	attackPower - 19.853
+	movementSpeed - 10
+	attackAnimF - 8
+	attackAnimS - 0.27
+	range - 140
+	respawnTimeF - 166
+	respawnTimeS - 5.53
+	attackType - 単体(Single Attack)
+	cost - 105
+
+
+Evolved:
+Version: Ver8.1
+Jap Name: 現代ネコ
+En Name: Modern Cat
+Jp Desc: 気がつけば軒先で昼寝をしているネコ座布団やダンボールがすごくお気に入りメタルな敵と古代種に打たれ強い
+En Desc: This strange Cat(?) was found napping on the
+windowsill. What unusual proportions she has!
+Tough versus Metal and Relic enemies.
+Abilities: Metal,Ancient:Resistant,Immune to Curse
+Combos: 
+Stats: 	health - 1625.000
+	knockback - 1
+	attackRateF - 37
+	attackRateS - 1.23
+	attackPower - 19.853
+	movementSpeed - 10
+	attackAnimF - 8
+	attackAnimS - 0.27
+	range - 140
+	respawnTimeF - 166
+	respawnTimeS - 5.53
+	attackType - 単体(Single Attack)
+	cost - 105
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

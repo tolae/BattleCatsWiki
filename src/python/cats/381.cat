@@ -1,0 +1,59 @@
+381
+
+Normal:
+Version: Ver6.7
+Jap Name: 幼傑ダルターニャ
+En Name: D'artanyan
+Jp Desc: 己の力のみを信じるやんちゃな子供自分の中に眠っているチカラをまだ知る由もない属性を持つ敵に超ダメージを与える（遠方範囲攻撃）
+En Desc: A spunky young soldier with a lot to prove. But even he doesn't know his own strength. Extra damage to any traited enemy. (Long Range)
+Abilities: All (w/o White):Massive Damage,Long Distance (Area)
+Combos: 
+Stats: 	health - 2250.000
+	knockback - 4
+	attackRateF - 121
+	attackRateS - 4.03
+	attackPower - 1000.000
+	movementSpeed - 16
+	attackAnimF - 35
+	attackAnimS - 1.17
+	range - 250
+	respawnTimeF - 346
+	respawnTimeS - 11.53
+	attackType - 範囲(Area Attack)
+	cost - 810
+
+
+Evolved:
+Version: Ver6.7
+Jap Name: 英傑ダルターニャ
+En Name: Meow-sketeer
+Jp Desc: 仲間を救うために力を尽くす気高き銃士勇気を胸に突き進む。波動ダメージを無効にし属性を持つ敵に超ダメージを与える（遠方範囲攻撃）
+En Desc: With his razor-sharp blade and unbreakable spirit, he'll risk it all to protect his comrades. Extra damage to any traited enemy. (Long Range)
+Abilities: All (w/o White):Massive Damage,Long Distance (Area),Immune to Waves,Warp Blocker
+Combos: 
+Stats: 	health - 6750.000
+	knockback - 6
+	attackRateF - 121
+	attackRateS - 4.03
+	attackPower - 2000.000
+	movementSpeed - 24
+	attackAnimF - 45
+	attackAnimS - 1.50
+	range - 325
+	respawnTimeF - 2746
+	respawnTimeS - 91.53
+	attackType - 範囲(Area Attack)
+	cost - 4,350
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

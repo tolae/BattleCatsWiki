@@ -1,0 +1,59 @@
+223
+
+Normal:
+Version: Ver4.3
+Jap Name: ヒュージハーミット
+En Name: HUGE HERMIT
+Jp Desc: メタルスラッグディフェンスコラボ
+En Desc: Here from Metal Slug Defence to participate in the war! The investigating rank and file soldiers encountered this enormous hermit crab. Extremely strong against aliens. (Area Attack).
+Abilities: Alien:Strong
+Combos: 
+Stats: 	health - 6109.853
+	knockback - 1
+	attackRateF - 22
+	attackRateS - 0.73
+	attackPower - 750.000
+	movementSpeed - 9
+	attackAnimF - 9
+	attackAnimS - 0.30
+	range - 166
+	respawnTimeF - 1078
+	respawnTimeS - 35.93
+	attackType - 範囲(Area Attack)
+	cost - 3,750
+
+
+Evolved:
+Version: Ver4.3
+Jap Name: ヒュージハーミットCC
+En Name: HUGE HERMIT CC
+Jp Desc: メタルスラッグディフェンスコラボ
+En Desc: Here from Metal Slug Defence to participate in the war! Its giant claws tear through the sand. Extremely strong against aliens. (Area Attack).
+Abilities: Alien:Strong
+Combos: 
+Stats: 	health - 8332.353
+	knockback - 1
+	attackRateF - 22
+	attackRateS - 0.73
+	attackPower - 1125.000
+	movementSpeed - 9
+	attackAnimF - 9
+	attackAnimS - 0.30
+	range - 166
+	respawnTimeF - 1078
+	respawnTimeS - 35.93
+	attackType - 範囲(Area Attack)
+	cost - 3,750
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

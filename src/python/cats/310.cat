@@ -1,0 +1,59 @@
+310
+
+Normal:
+Version: Ver5.6
+Jap Name: ネコ博士
+En Name: Nekohakase
+Jp Desc: キャットバスターズコラボ
+En Desc: N/A
+Abilities: None:Critical
+Combos: 
+Stats: 	health - 1425.000
+	knockback - 3
+	attackRateF - 50
+	attackRateS - 1.67
+	attackPower - 225.000
+	movementSpeed - 14
+	attackAnimF - 11
+	attackAnimS - 0.37
+	range - 160
+	respawnTimeF - 246
+	respawnTimeS - 8.20
+	attackType - 単体(Single Attack)
+	cost - 540
+
+
+Evolved:
+Version: Ver5.6
+Jap Name: ネコ博士＆ネコ
+En Name: Neko Hakase and Cat
+Jp Desc: キャットバスターズコラボ
+En Desc: N/A
+Abilities: None:Critical
+Combos: 
+Stats: 	health - 1425.000
+	knockback - 3
+	attackRateF - 50
+	attackRateS - 1.67
+	attackPower - 225.000
+	movementSpeed - 14
+	attackAnimF - 11
+	attackAnimS - 0.37
+	range - 160
+	respawnTimeF - 246
+	respawnTimeS - 8.20
+	attackType - 単体(Single Attack)
+	cost - 540
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

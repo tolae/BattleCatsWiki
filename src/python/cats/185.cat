@@ -1,0 +1,59 @@
+185
+
+Normal:
+Version: Ver3.7
+Jap Name: ミスターニンジャ
+En Name: Mr.Ninja
+Jp Desc: Mr.Ninja!! Feverコラボ
+En Desc: "Mr. Ninja!!Fever" joins the fight! Leaps gracefully from planet to planet dicing up aliens. Deals uber damage to Alien enemies. (Area Attack)
+Abilities: Alien:Massive Damage
+Combos: 
+Stats: 	health - 875.000
+	knockback - 2
+	attackRateF - 149
+	attackRateS - 4.97
+	attackPower - 150.000
+	movementSpeed - 28
+	attackAnimF - 10
+	attackAnimS - 0.33
+	range - 440
+	respawnTimeF - 1046
+	respawnTimeS - 34.87
+	attackType - 範囲(Area Attack)
+	cost - 990
+
+
+Evolved:
+Version: Ver3.7
+Jap Name: タンタン
+En Name: Mint
+Jp Desc: Mr.Ninja!! Feverコラボ
+En Desc: A kunoichi from "Mr. Ninja!!Fever"! As bright and beautiful as her peerless swordplay. Deals uber damage to Alien enemies. (Area Attack)
+Abilities: Alien:Massive Damage
+Combos: 
+Stats: 	health - 875.000
+	knockback - 2
+	attackRateF - 149
+	attackRateS - 4.97
+	attackPower - 150.000
+	movementSpeed - 28
+	attackAnimF - 10
+	attackAnimS - 0.33
+	range - 440
+	respawnTimeF - 1046
+	respawnTimeS - 34.87
+	attackType - 範囲(Area Attack)
+	cost - 990
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

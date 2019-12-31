@@ -1,0 +1,59 @@
+222
+
+Normal:
+Version: Ver4.3
+Jap Name: マーズピープル
+En Name: MARS PEOPLE
+Jp Desc: メタルスラッグディフェンスコラボ
+En Desc: Recruited from Metal Slug Defense! Yep, they're actual Martians. Might weaken Aliens.
+Abilities: Alien:Weaken
+Combos: 
+Stats: 	health - 1137.500
+	knockback - 3
+	attackRateF - 76
+	attackRateS - 2.53
+	attackPower - 117.647
+	movementSpeed - 8
+	attackAnimF - 77
+	attackAnimS - 2.57
+	range - 310
+	respawnTimeF - 366
+	respawnTimeS - 12.20
+	attackType - 単体(Single Attack)
+	cost - 990
+
+
+Evolved:
+Version: Ver4.3
+Jap Name: マーズピープルCC
+En Name: MARS PEOPLE CC
+Jp Desc: メタルスラッグディフェンスコラボ
+En Desc: Recruited from Metal Slug Defense! Mastered warping. No motivation to try now, though. Might weaken Aliens.
+Abilities: Alien:Weaken
+Combos: 
+Stats: 	health - 1415.000
+	knockback - 3
+	attackRateF - 76
+	attackRateS - 2.53
+	attackPower - 150.000
+	movementSpeed - 8
+	attackAnimF - 77
+	attackAnimS - 2.57
+	range - 310
+	respawnTimeF - 366
+	respawnTimeS - 12.20
+	attackType - 単体(Single Attack)
+	cost - 990
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

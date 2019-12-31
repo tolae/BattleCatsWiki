@@ -1,0 +1,74 @@
+019
+
+Normal:
+Version: Ver1.0
+Jap Name: ネコ忍者
+En Name: Ninja Cat
+Jp Desc: 秘境の地で忍者を極めた戦闘向きキャラバトルネコよりも性能が高く｢赤い敵｣にめっぽう強い
+En Desc: One of the strongest fighters. Rivals with Axe Cat. 10 wins, 1 loss. Strong against Red enemies.
+Abilities: Red:Multi-Hit,Strong
+Combos: 	アイラブジャパン|Cool Japan  - ['019', '022', '021', '062']
+	ザ・ニンジャ|Enter the Ninja - ['019', '262']
+	スパイ活動|Secret Agency - ['019', '135']
+Stats: 	health - 600.000
+	knockback - 3
+	attackRateF - 21
+	attackRateS - 0.70
+	attackPower - 69.706
+	movementSpeed - 13
+	attackAnimF - 6
+	attackAnimS - 0.20
+	range - 150
+	respawnTimeF - 60
+	respawnTimeS - 2.00
+	attackType - 単体(Single Attack)
+	cost - 300
+
+
+Evolved:
+Version: Ver1.0
+Jap Name: ガマネコ忍者
+En Name: Ninja Frog Cat
+Jp Desc: 修業により忍術を会得した戦闘向きキャラバトルネコよりも性能が高く、｢赤い敵｣にめっぽう強い
+En Desc: Learned how to summon animals. Rides a frog for better mobility. Strong against Red enemies.
+Abilities: Red:Multi-Hit,Strong
+Combos: 	カエルの王子様|Frog Prince - ['151', '019']
+Stats: 	health - 600.000
+	knockback - 3
+	attackRateF - 21
+	attackRateS - 0.70
+	attackPower - 69.706
+	movementSpeed - 13
+	attackAnimF - 6
+	attackAnimS - 0.20
+	range - 150
+	respawnTimeF - 60
+	respawnTimeS - 2.00
+	attackType - 単体(Single Attack)
+	cost - 300
+
+
+True:
+Version: 
+Jap Name: ムササビネコ忍者
+En Name: Flying Ninja Cat
+Jp Desc: 新たに編み出した忍術で空を舞う戦闘向きキャラコストが安くなり量産型キャラに｢赤い敵｣にめっぽう強い
+En Desc: Dancing across the sky, assaulting enemies using advanced ninjutsu. Cheap to produce, very strong against Red enemies!
+Abilities: Red:Strong
+Combos: 	空への憧れ|Dreams of Flying - ['136', '019']
+	空中偵察部隊|Aerial Recon - ['006', '097', '019', '261']
+Stats: 	health - 600.000
+	knockback - 3
+	attackRateF - 21
+	attackRateS - 0.70
+	attackPower - 69.853
+	movementSpeed - 10
+	attackAnimF - 6
+	attackAnimS - 0.20
+	range - 150
+	respawnTimeF - 60
+	respawnTimeS - 2.00
+	attackType - 単体(Single Attack)
+	cost - 225
+
+

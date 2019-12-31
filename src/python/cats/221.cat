@@ -1,0 +1,59 @@
+221
+
+Normal:
+Version: Ver4.3
+Jap Name: アレン・オニール
+En Name: ALLEN O'NEIL
+Jp Desc: メタルスラッグディフェンスコラボ
+En Desc: Recruited from the Metal Slug Defense! Feared by allies and foes alike as the "demon Sergeant" Survives 1 lethal atk.
+Abilities: None:Survive
+Combos: 
+Stats: 	health - 2500.000
+	knockback - 2
+	attackRateF - 120
+	attackRateS - 4.00
+	attackPower - 750.000
+	movementSpeed - 10
+	attackAnimF - 1
+	attackAnimS - 0.03
+	range - 400
+	respawnTimeF - 516
+	respawnTimeS - 17.20
+	attackType - 単体(Single Attack)
+	cost - 1,575
+
+
+Evolved:
+Version: Ver4.3
+Jap Name: アレン・オニールCC
+En Name: ALLEN O'NEIL CC
+Jp Desc: メタルスラッグディフェンスコラボ
+En Desc: Recruited from the Metal Slug Defense! Shirtless even in subzero temperatures. Survives one lethal strike.
+Abilities: None:Survive
+Combos: 
+Stats: 	health - 2812.500
+	knockback - 2
+	attackRateF - 120
+	attackRateS - 4.00
+	attackPower - 855.147
+	movementSpeed - 10
+	attackAnimF - 1
+	attackAnimS - 0.03
+	range - 400
+	respawnTimeF - 516
+	respawnTimeS - 17.20
+	attackType - 単体(Single Attack)
+	cost - 1,575
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

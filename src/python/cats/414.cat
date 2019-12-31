@@ -1,0 +1,59 @@
+414
+
+Normal:
+Version: Ver6.10
+Jap Name: エヴァ初号機
+En Name: Eva Unit-01
+Jp Desc: エヴァンゲリオンコラボ
+En Desc: Recruited from Evangelion! A humanoid superweapon test-type. Strong vs. Aliens/Zombies (Area Attack)
+Abilities: Alien,Zombie,Apostle:Strong,Zombie Killer,Eva Angel Killer,Barrier Breaker,Strengthen
+Combos: 
+Stats: 	health - 11500.000
+	knockback - 4
+	attackRateF - 136
+	attackRateS - 4.53
+	attackPower - 2300.000
+	movementSpeed - 8
+	attackAnimF - 45
+	attackAnimS - 1.50
+	range - 460
+	respawnTimeF - 4746
+	respawnTimeS - 158.20
+	attackType - 範囲(Area Attack)
+	cost - 4,470
+
+
+Evolved:
+Version: Ver6.10
+Jap Name: エヴァ初号機＆ネコ
+En Name: Eva Unit-01 & Cat
+Jp Desc: エヴァンゲリオンコラボ
+En Desc: Recruited from Evangelion! Goes berserk when pilot is in danger. Strong vs. Aliens/Zombies (Area Attack)
+Abilities: Alien,Zombie,Apostle:Strong,Zombie Killer,Eva Angel Killer,Barrier Breaker,Strengthen
+Combos: 
+Stats: 	health - 11500.000
+	knockback - 4
+	attackRateF - 136
+	attackRateS - 4.53
+	attackPower - 2300.000
+	movementSpeed - 8
+	attackAnimF - 45
+	attackAnimS - 1.50
+	range - 460
+	respawnTimeF - 4746
+	respawnTimeS - 158.20
+	attackType - 範囲(Area Attack)
+	cost - 4,470
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

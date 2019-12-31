@@ -1,0 +1,59 @@
+272
+
+Normal:
+Version: Ver5.1
+Jap Name: 太陽神アマテラス
+En Name: Shining Amaterasu
+Jp Desc: 大いなる太陽と大地をつかさどる心優しき女神光の神器｢八尺鏡｣で荒れ狂う者達を清め鎮める属性を持つ敵に超ダメージを与える（範囲攻撃）
+En Desc: The might and beauty of the Sun personified. Subdues enemies using her sacred mirror. Massive area damage to any enemy with a trait.
+Abilities: All (w/o White):Massive Damage
+Combos: 	神へのお供え|Offering to the Gods - ['272', '075']
+Stats: 	health - 5450.000
+	knockback - 4
+	attackRateF - 199
+	attackRateS - 6.63
+	attackPower - 1875.000
+	movementSpeed - 10
+	attackAnimF - 60
+	attackAnimS - 2.00
+	range - 455
+	respawnTimeF - 3746
+	respawnTimeS - 124.87
+	attackType - 範囲(Area Attack)
+	cost - 4,740
+
+
+Evolved:
+Version: Ver5.1
+Jap Name: テラアマテラス
+En Name: Glorious Amaterasu
+Jp Desc: 大いなる太陽と大地をつかさどる心優しき女神暁の神器｢八尺ノ神鏡｣で悪しき魂を黄泉へと送る属性を持つ敵に超ダメージを与える（範囲攻撃）
+En Desc: No one can stand against the radiance of this goddess. Dark souls kneel before her holy mirror! Massive area damage to any enemy with a trait.
+Abilities: All (w/o White):Massive Damage
+Combos: 
+Stats: 	health - 7450.000
+	knockback - 4
+	attackRateF - 199
+	attackRateS - 6.63
+	attackPower - 2500.000
+	movementSpeed - 10
+	attackAnimF - 60
+	attackAnimS - 2.00
+	range - 455
+	respawnTimeF - 3746
+	respawnTimeS - 124.87
+	attackType - 範囲(Area Attack)
+	cost - 4,740
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

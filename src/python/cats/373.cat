@@ -1,0 +1,63 @@
+373
+
+Normal:
+Version: Ver6.6
+Jap Name: ネコイリヤ
+En Name: Illya the Cat
+Jp Desc: 劇場版 Fate stay nightコラボ
+En Desc: An uncanny Cat with silver hair and red eyes.
+Once tried to care for a small bird.
+Might Slow Red enemies.
+Abilities: Red:Slow
+Combos: 
+Stats: 	health - 1375.000
+	knockback - 3
+	attackRateF - 85
+	attackRateS - 2.83
+	attackPower - 247.353
+	movementSpeed - 9
+	attackAnimF - 22
+	attackAnimS - 0.73
+	range - 200
+	respawnTimeF - 146
+	respawnTimeS - 4.87
+	attackType - 単体(Single Attack)
+	cost - 510
+
+
+Evolved:
+Version: Ver6.6
+Jap Name: 雪の妖精ネコイリヤ
+En Name: Snow Faerie Illya
+Jp Desc: 劇場版 Fate stay nightコラボ
+En Desc: Inheritor of the blood of a venerable House.
+Recently purchased new winter clothes.
+Might Slow Red enemies.
+Abilities: Red:Slow
+Combos: 
+Stats: 	health - 1375.000
+	knockback - 3
+	attackRateF - 85
+	attackRateS - 2.83
+	attackPower - 247.353
+	movementSpeed - 9
+	attackAnimF - 20
+	attackAnimS - 0.67
+	range - 250
+	respawnTimeF - 146
+	respawnTimeS - 4.87
+	attackType - 単体(Single Attack)
+	cost - 510
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

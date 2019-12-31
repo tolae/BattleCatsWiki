@@ -1,0 +1,71 @@
+397
+
+Normal:
+Version: Ver6.8
+Jap Name: 古龍ガングリオン
+En Name: Ganglion
+Jp Desc: 全てのドラゴンの始祖とされている伝説の古龍圧倒的な破壊力で敵を攻撃するエイリアンとゾンビにめっぽう強い（遠方範囲攻撃）
+En Desc: First Emperor and founder of the Dragon Dynasty. Who knows what overwhelming power he holds? Long-range attacks, strong vs Aliens and Zombies.
+Abilities: Alien,Zombie:Strong,Zombie Killer,Long Distance (Area)
+Combos: 	古龍と子竜|Dragons Old and Young - ['397', '313']
+Stats: 	health - 10000.000
+	knockback - 4
+	attackRateF - 301
+	attackRateS - 10.03
+	attackPower - 7500.000
+	movementSpeed - 40
+	attackAnimF - 84
+	attackAnimS - 2.80
+	range - 300
+	respawnTimeF - 3946
+	respawnTimeS - 131.53
+	attackType - 範囲(Area Attack)
+	cost - 5,400
+
+
+Evolved:
+Version: Ver6.8
+Jap Name: 古龍王ガングリオン
+En Name: Ganglion the Ancient
+Jp Desc: いにしえの力を極限まで高めた古龍王圧倒的な破壊力で敵を攻撃するエイリアンとゾンビにめっぽう強い（遠方範囲攻撃）
+En Desc: Has cultivated strength for millennia, only growing more powerful in his old age. Long-range attacks, strong vs Aliens and Zombies.
+Abilities: Alien,Zombie:Strong,Zombie Killer,Long Distance (Area)
+Combos: 
+Stats: 	health - 10000.000
+	knockback - 4
+	attackRateF - 301
+	attackRateS - 10.03
+	attackPower - 7500.000
+	movementSpeed - 40
+	attackAnimF - 84
+	attackAnimS - 2.80
+	range - 300
+	respawnTimeF - 3946
+	respawnTimeS - 131.53
+	attackType - 範囲(Area Attack)
+	cost - 5,400
+
+
+True:
+Version: Ver8.7
+Jap Name: 古龍皇帝ガングリオン
+En Name: Ganglion the Unleashed
+Jp Desc: 古龍石の力により真の姿へと変貌を遂げた古龍皇帝解き放たれる光の一撃で道を阻む者を葬り去るエイリアンとゾンビにめっぽう強い（遠方範囲攻撃）
+En Desc: An unholy relic has undone the seals that kept his true might in check. Resist and meet your doom. Longe-range attacks, strong vs Aliens and Zombies.
+Abilities: Alien,Zombie:Strong,Zombie Killer,Long Distance (Area)
+Combos: 
+Stats: 	health - 15000.000
+	knockback - 6
+	attackRateF - 301
+	attackRateS - 10.03
+	attackPower - 7500.000
+	movementSpeed - 40
+	attackAnimF - 84
+	attackAnimS - 2.80
+	range - 300
+	respawnTimeF - 3946
+	respawnTimeS - 131.53
+	attackType - 範囲(Area Attack)
+	cost - 5,400
+
+

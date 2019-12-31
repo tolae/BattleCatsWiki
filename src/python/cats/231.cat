@@ -1,0 +1,59 @@
+231
+
+Normal:
+Version: Ver4.3
+Jap Name: デビルサンディア
+En Name: Spooky Thundia
+Jp Desc: ハロウィン限定スタイルの雷のチカラを操る電脳ギャル遠距離から放たれる強烈なイカヅチは黒い敵に超ダメージを与える（範囲攻撃）
+En Desc: The thunder queen really gets into Halloween each year. Shocks baddies with volleys of spectral lightning. Huge damage against Black enemies from range.
+Abilities: Black:Massive Damage
+Combos: 
+Stats: 	health - 2875.000
+	knockback - 5
+	attackRateF - 397
+	attackRateS - 13.23
+	attackPower - 4637.500
+	movementSpeed - 8
+	attackAnimF - 90
+	attackAnimS - 3.00
+	range - 425
+	respawnTimeF - 2866
+	respawnTimeS - 95.53
+	attackType - 範囲(Area Attack)
+	cost - 4,410
+
+
+Evolved:
+Version: Ver4.3
+Jap Name: デビルサンディアβ
+En Name: Spooky Thundia β
+Jp Desc: ピュアな男子にいけないイタズラをする電脳ギャル遠距離から放たれる強烈なイカヅチは黒い敵に超ダメージを与える（範囲攻撃）
+En Desc: Halloween is the best chance to tease nice boys. Shocks baddies with volleys of spectral lightning. Huge damage against Black enemies from range.
+Abilities: Black:Massive Damage
+Combos: 
+Stats: 	health - 5625.000
+	knockback - 5
+	attackRateF - 397
+	attackRateS - 13.23
+	attackPower - 8137.500
+	movementSpeed - 8
+	attackAnimF - 90
+	attackAnimS - 3.00
+	range - 425
+	respawnTimeF - 2866
+	respawnTimeS - 95.53
+	attackType - 範囲(Area Attack)
+	cost - 4,410
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

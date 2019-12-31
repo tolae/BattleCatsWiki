@@ -1,0 +1,71 @@
+041
+
+Normal:
+Version: Ver2.0
+Jap Name: ネコバスたぶ
+En Name: Bath Cat
+Jp Desc: いつもキレイ好きな遠距離型キャラクター赤い敵に超ダメージを与える
+En Desc: Likes to keep clean. All. The. Time.Deals massive damage to Red enemies.
+Abilities: Red:Massive Damage
+Combos: 
+Stats: 	health - 1000.000
+	knockback - 3
+	attackRateF - 194
+	attackRateS - 6.47
+	attackPower - 1000.000
+	movementSpeed - 9
+	attackAnimF - 35
+	attackAnimS - 1.17
+	range - 400
+	respawnTimeF - 946
+	respawnTimeS - 31.53
+	attackType - 単体(Single Attack)
+	cost - 750
+
+
+Evolved:
+Version: Ver2.0
+Jap Name: セクシーネコバスたぶ
+En Name: Sexy Bath Cat
+Jp Desc: いつもキレイ好きな遠距離型キャラクタームダ毛の処理はかかさない赤い敵に超ダメージを与える
+En Desc: Likes to keep clean. All. The. Time.Enjoys a quiet bath. Do Not Disturb.Deals massive damage to Red enemies.
+Abilities: Red:Massive Damage
+Combos: 
+Stats: 	health - 1750.000
+	knockback - 3
+	attackRateF - 194
+	attackRateS - 6.47
+	attackPower - 1500.000
+	movementSpeed - 9
+	attackAnimF - 35
+	attackAnimS - 1.17
+	range - 400
+	respawnTimeF - 946
+	respawnTimeS - 31.53
+	attackType - 単体(Single Attack)
+	cost - 750
+
+
+True:
+Version: Ver5.0
+Jap Name: ネコバスたぶゴールデン
+En Name: Luxury Bath Cat
+Jp Desc: 特性「ふっとばす」追加
+En Desc: Bubbles and gold leaf make for an extra decadent bathtime.Extra-powerful jets do massive damage against dirty Red enemies.
+Abilities: Red:Massive Damage
+Combos: 
+Stats: 	health - 3000.000
+	knockback - 3
+	attackRateF - 144
+	attackRateS - 4.80
+	attackPower - 1500.000
+	movementSpeed - 9
+	attackAnimF - 35
+	attackAnimS - 1.17
+	range - 400
+	respawnTimeF - 946
+	respawnTimeS - 31.53
+	attackType - 単体(Single Attack)
+	cost - 750
+
+

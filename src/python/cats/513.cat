@@ -1,0 +1,63 @@
+513
+
+Normal:
+Version: Ver8.10.5
+Jap Name: 春麗
+En Name: Chun-Li
+Jp Desc: ストリートファイターV AEコラボ
+En Desc: Joining the fight from Street Fighter V AE!
+ICPO agent searching for her lost father. 
+Might Knockback Red, Black and Aliens.
+Abilities: Red,Black,Alien:Multi-Hit,Knockback
+Combos: 
+Stats: 	health - 11250.000
+	knockback - 4
+	attackRateF - 35
+	attackRateS - 1.17
+	attackPower - 3750.000
+	movementSpeed - 25
+	attackAnimF - 8
+	attackAnimS - 0.27
+	range - 300
+	respawnTimeF - 2746
+	respawnTimeS - 91.53
+	attackType - 単体(Single Attack)
+	cost - 3,450
+
+
+Evolved:
+Version: Ver8.10.5
+Jap Name: 春麗CC
+En Name: Chun-Li CC
+Jp Desc: ストリートファイターV AEコラボ
+En Desc: Joining the fight from Street Fighter V AE!
+Can you withstand her lightning kicks? 
+Might Knockback Red, Black and Aliens.
+Abilities: Red,Black,Alien:Multi-Hit,Knockback
+Combos: 
+Stats: 	health - 11250.000
+	knockback - 4
+	attackRateF - 35
+	attackRateS - 1.17
+	attackPower - 3750.000
+	movementSpeed - 25
+	attackAnimF - 8
+	attackAnimS - 0.27
+	range - 300
+	respawnTimeF - 2746
+	respawnTimeS - 91.53
+	attackType - 単体(Single Attack)
+	cost - 3,450
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

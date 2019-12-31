@@ -1,0 +1,77 @@
+038
+
+Normal:
+Version: Ver2.0
+Jap Name: ネコホッピング
+En Name: Pogo Cat
+Jp Desc: おもちゃ量販店で最高にテンションが上がる乗物をゲットしたキャラクター生産コストが安く量産が可能で、まれに生き残る
+En Desc: Sucked in to the recent (?) trend of toys.
+Still, looks pretty fun.
+Cheap to produce, might survive being broken.
+Abilities: None:Survive
+Combos: 
+Stats: 	health - 750.000
+	knockback - 3
+	attackRateF - 49
+	attackRateS - 1.63
+	attackPower - 162.500
+	movementSpeed - 10
+	attackAnimF - 16
+	attackAnimS - 0.53
+	range - 150
+	respawnTimeF - 60
+	respawnTimeS - 2.00
+	attackType - 単体(Single Attack)
+	cost - 360
+
+
+Evolved:
+Version: Ver2.0
+Jap Name: ネコマサイ
+En Name: Masai Cat
+Jp Desc: 異国の文化に触れ、異国の文化を取り入れた新手のコスプレイヤー生産コストが安く量産が可能で、まれに生き残る
+En Desc: Volunteered overseas and experienced cultural exchange.
+Took home a costume.
+Cheap to produce, might survive lethal strikes.
+Abilities: None:Survive
+Combos: 
+Stats: 	health - 1000.000
+	knockback - 3
+	attackRateF - 49
+	attackRateS - 1.63
+	attackPower - 187.500
+	movementSpeed - 10
+	attackAnimF - 16
+	attackAnimS - 0.53
+	range - 150
+	respawnTimeF - 60
+	respawnTimeS - 2.00
+	attackType - 単体(Single Attack)
+	cost - 360
+
+
+True:
+Version: Ver5.2
+Jap Name: ネコキョンシー
+En Name: Jiangshi Cat
+Jp Desc: 異国のホラー映画に影響されたコスプレイヤー額のお札が現在の全財産生産コストが安く量産が可能で、必ず生き残る
+En Desc: Horror movie maniac, or real g-g-ghost?
+Mystic seal is just this month's gas bill...
+Cheap to produce, 100% survives once!
+Abilities: None:Survive
+Combos: 
+Stats: 	health - 1000.000
+	knockback - 3
+	attackRateF - 49
+	attackRateS - 1.63
+	attackPower - 262.500
+	movementSpeed - 10
+	attackAnimF - 16
+	attackAnimS - 0.53
+	range - 150
+	respawnTimeF - 60
+	respawnTimeS - 2.00
+	attackType - 単体(Single Attack)
+	cost - 240
+
+

@@ -1,0 +1,59 @@
+287
+
+Normal:
+Version: Ver5.4
+Jap Name: 閃雷機兵レイ
+En Name: Strike Unit R.E.I.
+Jp Desc: 禁じられた技術により秘密裏に製造された心を持つ対空特化型兵器NE-KO、通称レイ浮いてる敵に打たれ強く、超ダメージを与える（範囲攻撃）
+En Desc: Cheerful young mech, built for anti-air warfare using future tech forbidden by international law. Resistant to/Massive area damage vs Floating.
+Abilities: Float:Massive Damage,Resistant,Immune to Slow
+Combos: 	人工知能|Cutting Edge - ['287', '261']
+Stats: 	health - 6250.000
+	knockback - 5
+	attackRateF - 210
+	attackRateS - 7.00
+	attackPower - 5000.000
+	movementSpeed - 24
+	attackAnimF - 71
+	attackAnimS - 2.37
+	range - 400
+	respawnTimeF - 2746
+	respawnTimeS - 91.53
+	attackType - 範囲(Area Attack)
+	cost - 4,110
+
+
+Evolved:
+Version: Ver5.4
+Jap Name: 閃雷機兵プラズマレイ
+En Name: Assault Unit R.E.I.
+Jp Desc: 国家機密の技術を集結した対空特化ネコ型兵器誰よりも気高い心が一閃の雷となって戦場を裂く浮いてる敵に打たれ強く、超ダメージを与える（範囲攻撃）
+En Desc: After an upgrade, escaped from govt. Custody to use her powerful arsenal to help the innocent. Resistant to/Massive area damage vs Floating.
+Abilities: Float:Massive Damage,Resistant,Immune to Slow
+Combos: 
+Stats: 	health - 6250.000
+	knockback - 5
+	attackRateF - 210
+	attackRateS - 7.00
+	attackPower - 5000.000
+	movementSpeed - 24
+	attackAnimF - 71
+	attackAnimS - 2.37
+	range - 400
+	respawnTimeF - 2746
+	respawnTimeS - 91.53
+	attackType - 範囲(Area Attack)
+	cost - 4,110
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

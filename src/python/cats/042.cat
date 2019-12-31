@@ -1,0 +1,71 @@
+042
+
+Normal:
+Version: Ver2.0
+Jap Name: ネコエステ
+En Name: Salon Cat
+Jp Desc: 自分みがきの為なら投資を惜しまない美しい脚を持ったキャラとのコラボは美の極み遠距離型で範囲攻撃を持った貴重なキャラ
+En Desc: Has no limit when it comes to beauty care.Works very well with Sexy Legs Cat Exceptional Range Attack (Area Attack)
+Abilities: None:
+Combos: 
+Stats: 	health - 1200.000
+	knockback - 3
+	attackRateF - 126
+	attackRateS - 4.20
+	attackPower - 450.000
+	movementSpeed - 10
+	attackAnimF - 7
+	attackAnimS - 0.23
+	range - 350
+	respawnTimeF - 76
+	respawnTimeS - 2.53
+	attackType - 範囲(Area Attack)
+	cost - 900
+
+
+Evolved:
+Version: Ver2.0
+Jap Name: ネコジェンヌ
+En Name: Paris Cat
+Jp Desc: ファンからはジェンヌさんと呼ばれいつでも注目のマトのオシャレキャラクター遠距離型で範囲攻撃を持った貴重なキャラ
+En Desc: A very stylish cat that earned the nameJeanne. Might be French, not sure.Exceptional Range Attack (Area Attack)
+Abilities: None:
+Combos: 	舞台の上では平気なの|No Stage Fright - ['010', '042']
+Stats: 	health - 1450.000
+	knockback - 3
+	attackRateF - 126
+	attackRateS - 4.20
+	attackPower - 625.000
+	movementSpeed - 10
+	attackAnimF - 7
+	attackAnimS - 0.23
+	range - 350
+	respawnTimeF - 76
+	respawnTimeS - 2.53
+	attackType - 範囲(Area Attack)
+	cost - 900
+
+
+True:
+Version: Ver6.9
+Jap Name: ネコパーフェクト
+En Name: Cyborg Cat
+Jp Desc: 自分みがきを極めサイボーグ化したネコそのパーフェクトボディは世界中の女性の憧れ遠距離型で範囲攻撃を持った貴重なキャラ
+En Desc: The ultimate bionic battle angel.Perfect both aesthetically and technically.Long distance Area Attack specialist.
+Abilities: None:Immune to Weaken
+Combos: 
+Stats: 	health - 1450.000
+	knockback - 3
+	attackRateF - 126
+	attackRateS - 4.20
+	attackPower - 800.000
+	movementSpeed - 10
+	attackAnimF - 7
+	attackAnimS - 0.23
+	range - 350
+	respawnTimeF - 76
+	respawnTimeS - 2.53
+	attackType - 範囲(Area Attack)
+	cost - 900
+
+

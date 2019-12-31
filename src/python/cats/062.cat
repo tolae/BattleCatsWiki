@@ -1,0 +1,78 @@
+062
+
+Normal:
+Version: Ver2.0
+Jap Name: ねこ寿司
+En Name: Sushi Cat
+Jp Desc: 自ら回転しながら素早く移動できる鮮度抜群の高級盾キャラクター（範囲攻撃）赤い敵に打たれ強く、まれに攻撃力を下げる
+En Desc: A Cat that moves fast by spinning.
+The fresh meat can take a beating. (Area attack)
+Reduced damage from Red, might decrease Atk.
+Abilities: Red:Resistant,Weaken
+Combos: 	アイラブジャパン|Cool Japan  - ['019', '022', '021', '062']
+	和定食|Bento Special - ['075', '062']
+Stats: 	health - 3750.000
+	knockback - 2
+	attackRateF - 71
+	attackRateS - 2.37
+	attackPower - 200.000
+	movementSpeed - 16
+	attackAnimF - 12
+	attackAnimS - 0.40
+	range - 130
+	respawnTimeF - 306
+	respawnTimeS - 10.20
+	attackType - 範囲(Area Attack)
+	cost - 1,425
+
+
+Evolved:
+Version: Ver2.0
+Jap Name: ねこリーゼント
+En Name: Fried Shrimp Cat
+Jp Desc: 自ら回転しながら素早く移動できるつっぱり感が…ッパねぇ高級盾キャラ（範囲攻撃）赤い敵に打たれ強く、まれに攻撃力を下げる
+En Desc: A Cat that moves fast by spinning.
+Also got into Rock 'n' Roll. (Area attack)
+Reduced damage from Red, might decrease Atk.
+Abilities: Red:Resistant,Weaken
+Combos: 
+Stats: 	health - 4750.000
+	knockback - 2
+	attackRateF - 71
+	attackRateS - 2.37
+	attackPower - 450.000
+	movementSpeed - 16
+	attackAnimF - 12
+	attackAnimS - 0.40
+	range - 130
+	respawnTimeF - 306
+	respawnTimeS - 10.20
+	attackType - 範囲(Area Attack)
+	cost - 1,425
+
+
+True:
+Version: Ver6.4
+Jap Name: ネコ極上
+En Name: Roe Cat
+Jp Desc: 特性「動きを止める耐性」追加
+En Desc: Don't get all salty just because you'll lose!
+Eggs-elent defense and Area Attack.
+Resistant to red, might weaken enemies.
+Abilities: Red:Resistant,Weaken
+Combos: 
+Stats: 	health - 9500.000
+	knockback - 2
+	attackRateF - 71
+	attackRateS - 2.37
+	attackPower - 450.000
+	movementSpeed - 16
+	attackAnimF - 12
+	attackAnimS - 0.40
+	range - 130
+	respawnTimeF - 306
+	respawnTimeS - 10.20
+	attackType - 範囲(Area Attack)
+	cost - 1,425
+
+

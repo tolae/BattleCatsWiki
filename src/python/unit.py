@@ -51,6 +51,7 @@ class UnitDetailsDB(object):
 		self.jpName = ""
 		self.enName = ""
 		self.version = ""
+		self.img = ""
 		self.jpDescription = ""
 		self.enDescription = ""
 		self.combos = {}
@@ -85,6 +86,7 @@ class UnitDetailsDB(object):
 		return textwrap.dedent(
 			"""\
 			Version: {version}
+			Image: {img}
 			Jap Name: {jpName}
 			En Name: {enName}
 			Jp Desc: {jpDesc}
@@ -95,6 +97,7 @@ class UnitDetailsDB(object):
 			"""
 		).format(
 			version = self.version,
+			img = self.img,
 			jpName = self.jpName,
 			enName = self.enName,
 			jpDesc = self.jpDescription,

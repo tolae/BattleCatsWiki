@@ -1,0 +1,59 @@
+448
+
+Normal:
+Version: Ver8.0
+Jap Name: 戦隊チャッソ
+En Name: Miter Saw Cat
+Jp Desc: 地底戦隊グランドンの電ノコ担当たびたびつまらない物を切ってしまうエイリアンに打たれ強く、超ダメージを与える
+En Desc: The sawmaster-in-residence of Grandon. Hates it when things aren't cut in half. Massive Damage and Tough vs. Aliens!
+Abilities: Alien:Massive Damage,Resistant,Warp Blocker
+Combos: 
+Stats: 	health - 2000.000
+	knockback - 1
+	attackRateF - 9
+	attackRateS - 0.30
+	attackPower - 150.000
+	movementSpeed - 12
+	attackAnimF - 1
+	attackAnimS - 0.03
+	range - 180
+	respawnTimeF - 746
+	respawnTimeS - 24.87
+	attackType - 単体(Single Attack)
+	cost - 1,200
+
+
+Evolved:
+Version: Ver8.0
+Jap Name: 戦隊パワーチャッソ
+En Name: Power Saw Cat
+Jp Desc: 地底戦隊グランドンの電ノコ担当コンテナの中身はお母さんが送ってくれた野菜と米エイリアンに打たれ強く、超ダメージを与える
+En Desc: It's so boring when there's nothing to cut... The box has groceries for mommy in it. Massive Damage and Tough vs. Aliens!
+Abilities: Alien:Massive Damage,Resistant,Warp Blocker
+Combos: 
+Stats: 	health - 2500.000
+	knockback - 1
+	attackRateF - 9
+	attackRateS - 0.30
+	attackPower - 175.000
+	movementSpeed - 12
+	attackAnimF - 1
+	attackAnimS - 0.03
+	range - 180
+	respawnTimeF - 746
+	respawnTimeS - 24.87
+	attackType - 単体(Single Attack)
+	cost - 1,200
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

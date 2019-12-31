@@ -1,0 +1,59 @@
+351
+
+Normal:
+Version: Ver6.2
+Jap Name: ニセたま軍団
+En Name: Nisetama Army
+Jp Desc: 倒された時、独自グラフィック（アニメーション）
+En Desc: ?
+Abilities: Red,Alien:Knockback
+Combos: 
+Stats: 	health - 6750.000
+	knockback - 5
+	attackRateF - 129
+	attackRateS - 4.30
+	attackPower - 3497.353
+	movementSpeed - 24
+	attackAnimF - 58
+	attackAnimS - 1.93
+	range - 410
+	respawnTimeF - 3546
+	respawnTimeS - 118.20
+	attackType - 範囲(Area Attack)
+	cost - 4,050
+
+
+Evolved:
+Version: Ver6.2
+Jap Name: ネコニセたま軍団
+En Name: Nisetama Cat Army
+Jp Desc: 倒された時、独自グラフィック（アニメーション）
+En Desc: ?
+Abilities: Red,Alien:Knockback
+Combos: 
+Stats: 	health - 6750.000
+	knockback - 5
+	attackRateF - 129
+	attackRateS - 4.30
+	attackPower - 3497.353
+	movementSpeed - 24
+	attackAnimF - 58
+	attackAnimS - 1.93
+	range - 410
+	respawnTimeF - 3546
+	respawnTimeS - 118.20
+	attackType - 範囲(Area Attack)
+	cost - 4,050
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

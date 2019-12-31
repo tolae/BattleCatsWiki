@@ -1,0 +1,63 @@
+237
+
+Normal:
+Version: Ver4.4
+Jap Name: 軍神オーディン
+En Name: Gunshin Odin , 軍神オーディン , Battle god - Odin
+Jp Desc: ゆるドラシルコラボ
+En Desc: Joined the war from Yuru Dora!
+The All-father which unites gods of the Val abdomen, which stood on the battlefield.
+When struck,remains strong, super-damage is given to an angel (area attack).
+Abilities: Angel:Massive Damage,Resistant
+Combos: 
+Stats: 	health - 3425.000
+	knockback - 4
+	attackRateF - 253
+	attackRateS - 8.43
+	attackPower - 3000.000
+	movementSpeed - 8
+	attackAnimF - 54
+	attackAnimS - 1.80
+	range - 425
+	respawnTimeF - 2246
+	respawnTimeS - 74.87
+	attackType - 範囲(Area Attack)
+	cost - 4,200
+
+
+Evolved:
+Version: Ver4.4
+Jap Name: 軍神オーディンCC
+En Name: Gunshin Odin CC
+Jp Desc: ゆるドラシルコラボ
+En Desc: Joined the war from Yuru Dora!
+Serious God. There are no future for the person who stared at the one eye.
+When struck,remains strong, super-damage is given to an angel (area attack).
+Abilities: Angel:Massive Damage,Resistant
+Combos: 
+Stats: 	health - 5975.000
+	knockback - 4
+	attackRateF - 253
+	attackRateS - 8.43
+	attackPower - 4875.000
+	movementSpeed - 8
+	attackAnimF - 54
+	attackAnimS - 1.80
+	range - 425
+	respawnTimeF - 2246
+	respawnTimeS - 74.87
+	attackType - 範囲(Area Attack)
+	cost - 4,200
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

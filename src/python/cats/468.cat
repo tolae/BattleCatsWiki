@@ -1,0 +1,59 @@
+468
+
+Normal:
+Version: Ver8.5
+Jap Name: スーパーゼウス
+En Name: Super Zeus
+Jp Desc: ビックリマンコラボ
+En Desc: ?
+Abilities: All (w/o White):Resistant,Weaken,Immune to Knockback,Immune to Freeze,Immune to Slow,Immune to Weaken
+Combos: 
+Stats: 	health - 3000.000
+	knockback - 5
+	attackRateF - 239
+	attackRateS - 7.97
+	attackPower - 4500.000
+	movementSpeed - 9
+	attackAnimF - 78
+	attackAnimS - 2.60
+	range - 425
+	respawnTimeF - 4746
+	respawnTimeS - 158.20
+	attackType - 範囲(Area Attack)
+	cost - 4,800
+
+
+Evolved:
+Version: Ver8.5
+Jap Name: 全能神スーパーゼウス
+En Name: Almighty God Super Zeus
+Jp Desc: ビックリマンコラボ
+En Desc: ?
+Abilities: All (w/o White):Resistant,Weaken,Immune to Knockback,Immune to Freeze,Immune to Slow,Immune to Weaken
+Combos: 
+Stats: 	health - 3750.000
+	knockback - 5
+	attackRateF - 239
+	attackRateS - 7.97
+	attackPower - 6000.000
+	movementSpeed - 9
+	attackAnimF - 78
+	attackAnimS - 2.60
+	range - 425
+	respawnTimeF - 4746
+	respawnTimeS - 158.20
+	attackType - 範囲(Area Attack)
+	cost - 4,800
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

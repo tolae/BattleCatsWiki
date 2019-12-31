@@ -1,0 +1,59 @@
+207
+
+Normal:
+Version: Ver4.2
+Jap Name: リオレウス
+En Name: Rathalos
+Jp Desc: モンハン大狩猟クエストコラボ
+En Desc: N/A
+Abilities: None:
+Combos: 
+Stats: 	health - 3637.500
+	knockback - 3
+	attackRateF - 209
+	attackRateS - 6.97
+	attackPower - 1887.500
+	movementSpeed - 8
+	attackAnimF - 74
+	attackAnimS - 2.47
+	range - 405
+	respawnTimeF - 3346
+	respawnTimeS - 111.53
+	attackType - 範囲(Area Attack)
+	cost - 3,825
+
+
+Evolved:
+Version: Ver4.2
+Jap Name: リオレウス＆にゃんこ
+En Name: Rathalos & Cat
+Jp Desc: モンハン大狩猟クエストコラボ
+En Desc: N/A
+Abilities: None:
+Combos: 
+Stats: 	health - 4637.500
+	knockback - 3
+	attackRateF - 209
+	attackRateS - 6.97
+	attackPower - 2387.500
+	movementSpeed - 8
+	attackAnimF - 74
+	attackAnimS - 2.47
+	range - 405
+	respawnTimeF - 3346
+	respawnTimeS - 111.53
+	attackType - 範囲(Area Attack)
+	cost - 3,825
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

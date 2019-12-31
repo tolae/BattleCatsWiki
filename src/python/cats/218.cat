@@ -1,0 +1,59 @@
+218
+
+Normal:
+Version: Ver4.3
+Jap Name: エリ
+En Name: ERI
+Jp Desc: メタルスラッグディフェンスコラボ
+En Desc: Recruited from Metal Slug Defense! Staff sergeant in the Intel division. Massive damage to Aliens (Area Atk)
+Abilities: Alien:Massive Damage
+Combos: 
+Stats: 	health - 1250.000
+	knockback - 3
+	attackRateF - 29
+	attackRateS - 0.97
+	attackPower - 240.000
+	movementSpeed - 10
+	attackAnimF - 6
+	attackAnimS - 0.20
+	range - 170
+	respawnTimeF - 346
+	respawnTimeS - 11.53
+	attackType - 範囲(Area Attack)
+	cost - 997
+
+
+Evolved:
+Version: Ver4.3
+Jap Name: エリCC
+En Name: ERI CC
+Jp Desc: メタルスラッグディフェンスコラボ
+En Desc: Recruited from Metal Slug Defense! Demolitions, survival, spying - she's mastered it all! Might cause massive damage to Aliens (Area Atk)
+Abilities: Alien:Massive Damage
+Combos: 
+Stats: 	health - 1625.000
+	knockback - 3
+	attackRateF - 29
+	attackRateS - 0.97
+	attackPower - 350.000
+	movementSpeed - 10
+	attackAnimF - 6
+	attackAnimS - 0.20
+	range - 170
+	respawnTimeF - 346
+	respawnTimeS - 11.53
+	attackType - 範囲(Area Attack)
+	cost - 997
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

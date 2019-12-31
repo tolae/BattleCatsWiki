@@ -1,0 +1,59 @@
+066
+
+Normal:
+Version: Ver2.1
+Jap Name: ウシ姫
+En Name: Cow Princess
+Jp Desc: ケリ姫スイーツコラボ
+En Desc: N/A
+Abilities: Black:Massive Damage
+Combos: 
+Stats: 	health - 1250.000
+	knockback - 5
+	attackRateF - 10
+	attackRateS - 0.33
+	attackPower - 75.000
+	movementSpeed - 30
+	attackAnimF - 6
+	attackAnimS - 0.20
+	range - 161
+	respawnTimeF - 60
+	respawnTimeS - 2.00
+	attackType - 単体(Single Attack)
+	cost - 750
+
+
+Evolved:
+Version: Ver2.1
+Jap Name: キリン姫
+En Name: Giraffe Princess
+Jp Desc: ケリ姫スイーツコラボ
+En Desc: N/A
+Abilities: Black:Massive Damage
+Combos: 
+Stats: 	health - 1250.000
+	knockback - 5
+	attackRateF - 10
+	attackRateS - 0.33
+	attackPower - 75.000
+	movementSpeed - 30
+	attackAnimF - 6
+	attackAnimS - 0.20
+	range - 161
+	respawnTimeF - 60
+	respawnTimeS - 2.00
+	attackType - 単体(Single Attack)
+	cost - 750
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

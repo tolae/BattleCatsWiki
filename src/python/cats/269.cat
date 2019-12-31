@@ -1,0 +1,75 @@
+269
+
+Normal:
+Version: Ver5.0
+Jap Name: ネコずきんミーニャ
+En Name: Red Riding Mina
+Jp Desc: ｢ネコ好き女子のほうがモテる！｣とクマ先生に告げまんまとにゃんこ軍団に寝返った森ガール系暗殺者バズーカは故障したがヤる気は全開（遠方範囲攻撃）
+En Desc: Teacher Bear said "Girls are most cute with a Cat in hand!" So now she changed allegiance. Her Bazooka broke, though... (Long distance)
+Abilities: None:Long Distance (Area)
+Combos: 	Wバズーカ|Bazooka Bros - ['012', '269']
+	ライバル宣言|Rivalry - ['269', '025']
+	昨日の敵は今日の友|Yesterday's Enemy - ['131', '173', '269']
+	暗殺者コンビ|Gang of Killers - ['213', '269']
+	猫耳は正義| - ['497', '269', '017']
+Stats: 	health - 3000.000
+	knockback - 4
+	attackRateF - 195
+	attackRateS - 6.50
+	attackPower - 1500.000
+	movementSpeed - 10
+	attackAnimF - 76
+	attackAnimS - 2.53
+	range - 435
+	respawnTimeF - 2946
+	respawnTimeS - 98.20
+	attackType - 範囲(Area Attack)
+	cost - 3,900
+
+
+Evolved:
+Version: Ver5.0
+Jap Name: ラブリィずきんミーニャ
+En Name: Crimson Mina
+Jp Desc: 自分が人気急上昇中だと確信している猫かぶり暗殺者目下のライバルはネコヴァルキリー※本人談壊れたバズーカでもヤル気全開（遠方範囲攻撃）
+En Desc: Mina is actually more popular since she joined the Cats! Not quite to Valkyrie's level, though. Bazooka still isn't fixed... (Long distance)
+Abilities: None:Long Distance (Area)
+Combos: 
+Stats: 	health - 3000.000
+	knockback - 4
+	attackRateF - 195
+	attackRateS - 6.50
+	attackPower - 1500.000
+	movementSpeed - 10
+	attackAnimF - 76
+	attackAnimS - 2.53
+	range - 435
+	respawnTimeF - 2946
+	respawnTimeS - 98.20
+	attackType - 範囲(Area Attack)
+	cost - 3,900
+
+
+True:
+Version: Ver7.0
+Jap Name: 覚醒ラブずきんミーニャ
+En Name: Awakened Mina
+Jp Desc: 動物たちに命の大切さを教えられた暗殺者森の仲間に手を出すやつはみんなぶっ◯◯すたまに古代種の攻撃力を下げる（遠方範囲攻撃）
+En Desc: A sweet killer who defends the cute creatures of the woods. Don't touch her babies or you're dead. Might weaken Relics with Long Range Area Attacks.
+Abilities: Ancient:Weaken,Long Distance (Area),Immune to Curse
+Combos: 
+Stats: 	health - 4500.000
+	knockback - 4
+	attackRateF - 195
+	attackRateS - 6.50
+	attackPower - 3000.000
+	movementSpeed - 10
+	attackAnimF - 76
+	attackAnimS - 2.53
+	range - 435
+	respawnTimeF - 2946
+	respawnTimeS - 98.20
+	attackType - 範囲(Area Attack)
+	cost - 3,900
+
+

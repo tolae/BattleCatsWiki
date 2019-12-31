@@ -1,0 +1,63 @@
+452
+
+Normal:
+Version: Ver8.1
+Jap Name: うしわか丸
+En Name: Ushiwakamaru
+Jp Desc: 倒された時、独自グラフィック（アニメーション）
+En Desc: A celestial hero who has vowed to avenge his father.
+His magic flute can track the evil H.E.I.K.E. corps.
+Tough vs Angels with Insane Area Damage.
+Abilities: Angel:Insane Damage,Resistant
+Combos: 
+Stats: 	health - 2475.000
+	knockback - 2
+	attackRateF - 108
+	attackRateS - 3.60
+	attackPower - 1425.000
+	movementSpeed - 12
+	attackAnimF - 23
+	attackAnimS - 0.77
+	range - 250
+	respawnTimeF - 186
+	respawnTimeS - 6.20
+	attackType - 範囲(Area Attack)
+	cost - 825
+
+
+Evolved:
+Version: Ver8.1
+Jap Name: 巨大神兵ベンケイ
+En Name: Colossal Benkei
+Jp Desc: 倒された時、独自グラフィック（アニメーション）
+En Desc: Ushi unearthed an invincible mecha ally during his
+travels. Now victory over H.E.I.K.E. is all but certain.
+Tough vs Angels with Insane Area Damage.
+Abilities: Angel:Insane Damage,Resistant
+Combos: 
+Stats: 	health - 18750.000
+	knockback - 3
+	attackRateF - 250
+	attackRateS - 8.33
+	attackPower - 7750.000
+	movementSpeed - 7
+	attackAnimF - 65
+	attackAnimS - 2.17
+	range - 450
+	respawnTimeF - 4746
+	respawnTimeS - 158.20
+	attackType - 範囲(Area Attack)
+	cost - 6,000
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

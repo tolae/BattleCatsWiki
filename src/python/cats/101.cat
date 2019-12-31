@@ -1,0 +1,75 @@
+101
+
+Normal:
+Version: 
+Jap Name: ネコ乙女
+En Name: Maiden Cat
+Jp Desc: 乙女の純情な心によって愛のこもったパンチを放つ赤い敵にめっぽう強い（範囲攻撃）
+En Desc: Her punches are messages to convey to the pure emotions in her heart. Strong against Red Enemies (Area Attack).
+Abilities: Red:Strong
+Combos: 	にゃんこ学園|Cat High - ['202', '032', '101']
+	パンチパンチパンチ！|Punchpunchpunch! - ['009', '100', '101', '035']
+	乙女|Girlish Innocents - ['101', '151']
+	恋の季節|Seasons of Love - ['101', '105', '110']
+	愛に生きる者|Living in Love - ['101', '260']
+Stats: 	health - 2484.853
+	knockback - 1
+	attackRateF - 69
+	attackRateS - 2.30
+	attackPower - 692.647
+	movementSpeed - 9
+	attackAnimF - 18
+	attackAnimS - 0.60
+	range - 152
+	respawnTimeF - 606
+	respawnTimeS - 20.20
+	attackType - 範囲(Area Attack)
+	cost - 1,935
+
+
+Evolved:
+Version: 
+Jap Name: モトコ
+En Name: Sportsgirl Cat
+Jp Desc: 恋愛から卒業した乙女はスポーツに没頭放たれるアタックは誰にも止められない赤い敵にめっぽう強い（範囲攻撃）
+En Desc: Finished with matters of the heart, she turned to sports, now no one can stop her. Strong against Red Enemies (Area Attack).
+Abilities: Red:Strong
+Combos: 	スポーツ女子|Sportswoman - ['101', '037']
+Stats: 	health - 2484.853
+	knockback - 1
+	attackRateF - 69
+	attackRateS - 2.30
+	attackPower - 692.647
+	movementSpeed - 9
+	attackAnimF - 18
+	attackAnimS - 0.60
+	range - 152
+	respawnTimeF - 606
+	respawnTimeS - 20.20
+	attackType - 範囲(Area Attack)
+	cost - 1,935
+
+
+True:
+Version: Ver4.7
+Jap Name: サホリ
+En Name: Wrestling Cat
+Jp Desc: 青春をスポーツにささげた乙女はついに国際大会22連覇を達成。大幅に体力アップし赤い敵にめっぽう強い（範囲攻撃）
+En Desc: She's dedicated her life to sports. Her unmatched physical power has earned her 22 gold medals for crushing Red Enemies (Area Atk).
+Abilities: Red:Strong,Immune to Freeze
+Combos: 	最強格闘技決定戦|Contest of Champs - ['326', '022', '011', '101']
+Stats: 	health - 4969.853
+	knockback - 1
+	attackRateF - 69
+	attackRateS - 2.30
+	attackPower - 692.647
+	movementSpeed - 9
+	attackAnimF - 18
+	attackAnimS - 0.60
+	range - 152
+	respawnTimeF - 606
+	respawnTimeS - 20.20
+	attackType - 範囲(Area Attack)
+	cost - 1,935
+
+

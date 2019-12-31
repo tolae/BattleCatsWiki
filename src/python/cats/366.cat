@@ -1,0 +1,59 @@
+366
+
+Normal:
+Version: Ver6.6
+Jap Name: アーチャー
+En Name: Archer
+Jp Desc: 劇場版 Fate stay nightコラボ
+En Desc: ?
+Abilities: None:Long Distance (Area),Immune to Waves
+Combos: 
+Stats: 	health - 4975.000
+	knockback - 3
+	attackRateF - 242
+	attackRateS - 8.07
+	attackPower - 3300.000
+	movementSpeed - 15
+	attackAnimF - 65
+	attackAnimS - 2.17
+	range - 500
+	respawnTimeF - 4046
+	respawnTimeS - 134.87
+	attackType - 範囲(Area Attack)
+	cost - 4,620
+
+
+Evolved:
+Version: Ver6.6
+Jap Name: アーチャーCC
+En Name: Archer CC
+Jp Desc: 劇場版 Fate stay nightコラボ
+En Desc: ?
+Abilities: None:Long Distance (Area),Immune to Waves
+Combos: 
+Stats: 	health - 7125.000
+	knockback - 3
+	attackRateF - 242
+	attackRateS - 8.07
+	attackPower - 4750.000
+	movementSpeed - 15
+	attackAnimF - 65
+	attackAnimS - 2.17
+	range - 500
+	respawnTimeF - 4046
+	respawnTimeS - 134.87
+	attackType - 範囲(Area Attack)
+	cost - 4,620
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

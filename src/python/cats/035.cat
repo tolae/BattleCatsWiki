@@ -1,0 +1,71 @@
+035
+
+Normal:
+Version: Ver2.0
+Jap Name: ネコルガ
+En Name: Nekoluga
+Jp Desc: ネコなのか何なのか、まったく正体不明の謎のキャラクター進化させると…
+En Desc: Not sure if this is a Cat... Maybe if you evolve him...
+Abilities: None:
+Combos: 
+Stats: 	health - 1250.000
+	knockback - 5
+	attackRateF - 82
+	attackRateS - 2.73
+	attackPower - 375.000
+	movementSpeed - 4
+	attackAnimF - 13
+	attackAnimS - 0.43
+	range - 140
+	respawnTimeF - 746
+	respawnTimeS - 24.87
+	attackType - 単体(Single Attack)
+	cost - 4,500
+
+
+Evolved:
+Version: Ver2.0
+Jap Name: ケサランパサラン
+En Name: Unknown Cat
+Jp Desc: ネコなのか何なのか、まったく正体不明の謎のキャラクターメタルな敵以外の敵を後方へふっとばす（範囲攻撃）
+En Desc: God, I don't know if this is a Cat anymore. Seriously, I give up. Knockbacks enemies.
+Abilities: All (w/o Metal):Knockback
+Combos: 	パンチパンチパンチ！|Punchpunchpunch! - ['009', '100', '101', '035']
+Stats: 	health - 3000.000
+	knockback - 1
+	attackRateF - 568
+	attackRateS - 18.93
+	attackPower - 2500.000
+	movementSpeed - 4
+	attackAnimF - 89
+	attackAnimS - 2.97
+	range - 650
+	respawnTimeF - 9746
+	respawnTimeS - 324.87
+	attackType - 範囲(Area Attack)
+	cost - 4,500
+
+
+True:
+Version: Ver5.0
+Jap Name: ウルトラケサラン
+En Name: Ultralan Pasalan
+Jp Desc: 特性「動きを止める」強化
+En Desc: Tired of scaring children, Luga decided to reinvent himself as that famous masked hero. Freezes and knocks back non-Metal enemies (Area Atk).
+Abilities: All (w/o Metal):Knockback,Freeze
+Combos: 
+Stats: 	health - 3000.000
+	knockback - 1
+	attackRateF - 568
+	attackRateS - 18.93
+	attackPower - 5000.000
+	movementSpeed - 4
+	attackAnimF - 89
+	attackAnimS - 2.97
+	range - 650
+	respawnTimeF - 9746
+	respawnTimeS - 324.87
+	attackType - 範囲(Area Attack)
+	cost - 4,500
+
+

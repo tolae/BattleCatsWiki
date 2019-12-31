@@ -1,0 +1,72 @@
+285
+
+Normal:
+Version: Ver5.3
+Jap Name: ネコ特急
+En Name: Express Cat
+Jp Desc: 最高時速222km 1両編成 全席グリーン席本日の乗車率は120％敵を倒したときにお金を多くもらえる
+En Desc: 1-car train with a max speed of 222kph. 120% of seats were filled today. Extra money when defeating enemies!
+Abilities: None:Extra Money
+Combos: 	出張辞令|Commuter Life - ['071', '285']
+	撮り鉄|Trainspotting - ['285', '150']
+Stats: 	health - 1500.000
+	knockback - 1
+	attackRateF - 201
+	attackRateS - 6.70
+	attackPower - 2500.000
+	movementSpeed - 60
+	attackAnimF - 1
+	attackAnimS - 0.03
+	range - 140
+	respawnTimeF - 586
+	respawnTimeS - 19.53
+	attackType - 単体(Single Attack)
+	cost - 750
+
+
+Evolved:
+Version: Ver5.3
+Jap Name: ネコ超特急
+En Name: Maglev Cat
+Jp Desc: 最高時速2222km 最新のテクノロジーと222匹のネコを乗せたネコ型運搬装置敵を倒したときにお金を多くもらえる
+En Desc: 222-Cat seater with a max speed of 2222kph, a blessing for all Cat commuters. Extra money when defeating enemies!
+Abilities: None:Extra Money
+Combos: 
+Stats: 	health - 2250.000
+	knockback - 1
+	attackRateF - 201
+	attackRateS - 6.70
+	attackPower - 3750.000
+	movementSpeed - 75
+	attackAnimF - 1
+	attackAnimS - 0.03
+	range - 140
+	respawnTimeF - 586
+	respawnTimeS - 19.53
+	attackType - 単体(Single Attack)
+	cost - 750
+
+
+True:
+Version: Ver8.5
+Jap Name: ネコエクスプレス
+En Name: Bullet Train Cat
+Jp Desc: 最高速度2億kmで地球を飛び出せるスーパー電車訓練を受けた乗客2222人が搭乗可能敵を倒したときにお金を多くもらえる
+En Desc: Can take a maximum of 2222 passengers on a round-the-world journey at 20,000,000 km/h Extra money when defeating enemies!
+Abilities: None:Extra Money
+Combos: 
+Stats: 	health - 3000.000
+	knockback - 1
+	attackRateF - 201
+	attackRateS - 6.70
+	attackPower - 4375.000
+	movementSpeed - 85
+	attackAnimF - 1
+	attackAnimS - 0.03
+	range - 140
+	respawnTimeF - 586
+	respawnTimeS - 19.53
+	attackType - 単体(Single Attack)
+	cost - 750
+
+

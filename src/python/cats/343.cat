@@ -1,0 +1,63 @@
+343
+
+Normal:
+Version: Ver6.1
+Jap Name: ネコまねき
+En Name: Maneki-Neko
+Jp Desc: 日頃のご愛顧に感謝を込めるネコ持ち主にささやかな福を招くという敵を倒したときにお金を多くもらえる
+En Desc: For this small-business Cat, the customer is king.
+Always invests its profits back in the store.
+Get more money when defeating enemies!
+Abilities: None:Extra Money
+Combos: 	感謝御礼| - ['343']
+Stats: 	health - 1125.000
+	knockback - 3
+	attackRateF - 103
+	attackRateS - 3.43
+	attackPower - 247.353
+	movementSpeed - 8
+	attackAnimF - 34
+	attackAnimS - 1.13
+	range - 200
+	respawnTimeF - 386
+	respawnTimeS - 12.87
+	attackType - 単体(Single Attack)
+	cost - 540
+
+
+Evolved:
+Version: Ver6.1
+Jap Name: ネコまねき・寿
+En Name: Longlife Meneki-Neko
+Jp Desc: みなさまの愛で立派に育ったネコお礼に満腹の幸せをお届け敵を倒したときにお金を多くもらえる
+En Desc: This Cat is thankful for you supporting it's business!
+He'll thank you by fighting any enemy that troubles you.
+Get more money when defeating enemies!
+Abilities: None:Extra Money
+Combos: 
+Stats: 	health - 1125.000
+	knockback - 3
+	attackRateF - 103
+	attackRateS - 3.43
+	attackPower - 247.353
+	movementSpeed - 8
+	attackAnimF - 34
+	attackAnimS - 1.13
+	range - 200
+	respawnTimeF - 386
+	respawnTimeS - 12.87
+	attackType - 単体(Single Attack)
+	cost - 540
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

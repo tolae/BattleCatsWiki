@@ -1,0 +1,59 @@
+477
+
+Normal:
+Version: Ver8.5
+Jap Name: ネコデビル
+En Name: Devil Cat
+Jp Desc: ビックリマンコラボ
+En Desc: N/A
+Abilities: Angel:Strong
+Combos: 
+Stats: 	health - 4963.235
+	knockback - 3
+	attackRateF - 116
+	attackRateS - 3.87
+	attackPower - 2163.971
+	movementSpeed - 10
+	attackAnimF - 45
+	attackAnimS - 1.50
+	range - 250
+	respawnTimeF - 716
+	respawnTimeS - 23.87
+	attackType - 範囲(Area Attack)
+	cost - 1,260
+
+
+Evolved:
+Version: Ver8.5
+Jap Name: ネコ邪神
+En Name: Evil God Cat
+Jp Desc: ビックリマンコラボ
+En Desc: N/A
+Abilities: Angel:Strong
+Combos: 
+Stats: 	health - 4963.235
+	knockback - 3
+	attackRateF - 116
+	attackRateS - 3.87
+	attackPower - 2163.971
+	movementSpeed - 10
+	attackAnimF - 45
+	attackAnimS - 1.50
+	range - 250
+	respawnTimeF - 716
+	respawnTimeS - 23.87
+	attackType - 範囲(Area Attack)
+	cost - 1,260
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

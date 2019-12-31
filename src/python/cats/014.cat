@@ -1,0 +1,72 @@
+014
+
+Normal:
+Version: Ver1.0
+Jap Name: 女王猫
+En Name: Dom Cat
+Jp Desc: 普段はOLをしている中距離型キャラ猫縛りとはアフター5でよく出会う攻撃スピードが速く、｢赤い敵｣に強い
+En Desc: A very caring office worker during the day. Bondage Cat is her after hours regular. A quick attacker and strong against red enemies.
+Abilities: Red:Multi-Hit,Strong
+Combos: 	ムチ使い|Watch Me Whip - ['014', '123']
+Stats: 	health - 1750.000
+	knockback - 1
+	attackRateF - 45
+	attackRateS - 1.50
+	attackPower - 329.559
+	movementSpeed - 5
+	attackAnimF - 6
+	attackAnimS - 0.20
+	range - 210
+	respawnTimeF - 186
+	respawnTimeS - 6.20
+	attackType - 単体(Single Attack)
+	cost - 1,440
+
+
+Evolved:
+Version: Ver1.0
+Jap Name: 処刑人
+En Name: Executioner
+Jp Desc: ネコのふりをした恐ろしい中距離型キャラ攻撃スピードが速く、｢赤い敵｣に強い
+En Desc: Might not be a Cat, loves violence. A quick attack and strong against red enemies.
+Abilities: Red:Multi-Hit,Strong
+Combos: 	仮面舞踏会|Masquerade - ['131', '014', '081']
+	斧の達人|Choppers  - ['014', '003', '073']
+Stats: 	health - 1750.000
+	knockback - 1
+	attackRateF - 45
+	attackRateS - 1.50
+	attackPower - 329.559
+	movementSpeed - 5
+	attackAnimF - 6
+	attackAnimS - 0.20
+	range - 210
+	respawnTimeF - 186
+	respawnTimeS - 6.20
+	attackType - 単体(Single Attack)
+	cost - 1,440
+
+
+True:
+Version: 
+Jap Name: 暗黒嬢
+En Name: Dark Lazer
+Jp Desc: 蛍光灯を振り回す危険極まりないキャラアフター5には映画ばかり見ている攻撃スピードが速く｢赤い敵」と「黒い敵」に強い
+En Desc: Ruthlessly striking down enemies with a fluorescent bulb, this Dark Lord's quick attacks are more than a match for any Red or Black.
+Abilities: Red,Black:Strong
+Combos: 	暗黒の力|Power of Darkness - ['003', '014']
+Stats: 	health - 1750.000
+	knockback - 1
+	attackRateF - 12
+	attackRateS - 0.40
+	attackPower - 330.147
+	movementSpeed - 5
+	attackAnimF - 6
+	attackAnimS - 0.20
+	range - 210
+	respawnTimeF - 186
+	respawnTimeS - 6.20
+	attackType - 単体(Single Attack)
+	cost - 1,440
+
+

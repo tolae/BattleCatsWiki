@@ -1,0 +1,73 @@
+052
+
+Normal:
+Version: Ver2.0
+Jap Name: ねこ占い師
+En Name: Fortune Teller Cat
+Jp Desc: 未来を予言する大物占い師の本を愛読するキャラクターごくたまに浮いてる敵をふっとばす
+En Desc: A Cat that loves the idea of fortune telling. Has read one too many astrology books. Might knockback Floating enemies.
+Abilities: Float:Knockback
+Combos: 
+Stats: 	health - 812.500
+	knockback - 3
+	attackRateF - 40
+	attackRateS - 1.33
+	attackPower - 90.000
+	movementSpeed - 9
+	attackAnimF - 11
+	attackAnimS - 0.37
+	range - 240
+	respawnTimeF - 166
+	respawnTimeS - 5.53
+	attackType - 単体(Single Attack)
+	cost - 510
+
+
+Evolved:
+Version: Ver2.0
+Jap Name: ねこふんど師
+En Name: Fisherman Cat
+Jp Desc: 巨大マグロを追い求める漁師一家の長男船酔いが激しいので船には乗らないごくたまに浮いてる敵をふっとばす
+En Desc: Eldest son of prominent Tuna fisherman. Gets seasick. Might knockback Floating enemies.
+Abilities: Float:Knockback
+Combos: 	ふんどし祭|Immodest Modesty - ['024', '052']
+	ホゲー|Cap'n Ahab  - ['052', '007']
+	ホゲーー|Moby Dick - ['052', '007', '098']
+Stats: 	health - 944.853
+	knockback - 3
+	attackRateF - 40
+	attackRateS - 1.33
+	attackPower - 115.000
+	movementSpeed - 9
+	attackAnimF - 11
+	attackAnimS - 0.37
+	range - 240
+	respawnTimeF - 166
+	respawnTimeS - 5.53
+	attackType - 単体(Single Attack)
+	cost - 510
+
+
+True:
+Version: Ver5.0
+Jap Name: ねこ医師
+En Name: Doctor Cat
+Jp Desc: 特性「ふっとばし耐性」追加
+En Desc: His medical philosophy is "Hair of the Dog". If it doesn't kill ya, it must be working, right?! Might knockback Floating enemies.
+Abilities: Float:Knockback
+Combos: 
+Stats: 	health - 1890.000
+	knockback - 3
+	attackRateF - 40
+	attackRateS - 1.33
+	attackPower - 115.000
+	movementSpeed - 9
+	attackAnimF - 11
+	attackAnimS - 0.37
+	range - 240
+	respawnTimeF - 166
+	respawnTimeS - 5.53
+	attackType - 単体(Single Attack)
+	cost - 510
+
+

@@ -1,0 +1,71 @@
+013
+
+Normal:
+Version: Ver1.0
+Jap Name: 猫縛り
+En Name: Bondage Cat
+Jp Desc: 自分から喜んで盾となる盾用キャラ体力には自信がある｢赤い敵｣にめっぽう強い
+En Desc: Has extremely high stamina. Will happily take a beating from anyone. Strong against Red enemies.
+Abilities: Red:Strong
+Combos: 
+Stats: 	health - 1750.000
+	knockback - 1
+	attackRateF - 45
+	attackRateS - 1.50
+	attackPower - 250.000
+	movementSpeed - 5
+	attackAnimF - 6
+	attackAnimS - 0.20
+	range - 120
+	respawnTimeF - 186
+	respawnTimeS - 6.20
+	attackType - 単体(Single Attack)
+	cost - 1,035
+
+
+Evolved:
+Version: Ver1.0
+Jap Name: 猫縛りNEO
+En Name: Bondage CatNEO
+Jp Desc: さらなる刺激を求める盾用キャラ体力には自信がある｢赤い敵｣にめっぽう強い
+En Desc: Wants more pain. Will happily take a beating from anyone. Strong against Red enemies.
+Abilities: Red:Strong
+Combos: 
+Stats: 	health - 1750.000
+	knockback - 1
+	attackRateF - 45
+	attackRateS - 1.50
+	attackPower - 250.000
+	movementSpeed - 5
+	attackAnimF - 6
+	attackAnimS - 0.20
+	range - 120
+	respawnTimeF - 186
+	respawnTimeS - 6.20
+	attackType - 単体(Single Attack)
+	cost - 1,035
+
+
+True:
+Version: 
+Jap Name: 猫縛り極上
+En Name: Ultimate Bondage Cat
+Jp Desc: 究極の刺激を求めた盾用キャラ体力には絶対的な自信を得た｢赤い敵｣にめっぽう強く、まれに生き残る
+En Desc: Offers himself up as a shield to achieve transcendant pleasure (?). Strong against Red, might survive a lethal attack.
+Abilities: Red:Strong,Survive,Warp Blocker
+Combos: 
+Stats: 	health - 3500.000
+	knockback - 1
+	attackRateF - 45
+	attackRateS - 1.50
+	attackPower - 250.000
+	movementSpeed - 5
+	attackAnimF - 6
+	attackAnimS - 0.20
+	range - 120
+	respawnTimeF - 186
+	respawnTimeS - 6.20
+	attackType - 単体(Single Attack)
+	cost - 1,035
+
+

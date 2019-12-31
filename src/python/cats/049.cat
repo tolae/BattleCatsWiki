@@ -1,0 +1,77 @@
+049
+
+Normal:
+Version: Ver2.0
+Jap Name: ねこ海賊
+En Name: Pirate Cat
+Jp Desc: 某マンガに影響されて海賊王を夢見るキャラクターごくたまに赤い敵をふっとばす
+En Desc: Influenced by a certain pirate cartoon, and dreams of being a Pirate King.
+Can't swim.
+Might knockback Red enemies..
+Abilities: Red:Knockback
+Combos: 
+Stats: 	health - 762.500
+	knockback - 3
+	attackRateF - 45
+	attackRateS - 1.50
+	attackPower - 82.353
+	movementSpeed - 8
+	attackAnimF - 10
+	attackAnimS - 0.33
+	range - 270
+	respawnTimeF - 186
+	respawnTimeS - 6.20
+	attackType - 単体(Single Attack)
+	cost - 510
+
+
+Evolved:
+Version: Ver2.0
+Jap Name: ニャーコック船長
+En Name: Captain Cat
+Jp Desc: 海賊＝かっこいいの思想がいまだに消えない能力者では無いがカナヅチでもあるごくたまに赤い敵をふっとばす
+En Desc: Still thinks Pirates are cool.
+Still can't swim.
+Doesn't get along with Ninja Cat anymore. Might knockback Red enemies.
+Abilities: Red:Knockback
+Combos: 
+Stats: 	health - 875.000
+	knockback - 3
+	attackRateF - 45
+	attackRateS - 1.50
+	attackPower - 107.353
+	movementSpeed - 8
+	attackAnimF - 10
+	attackAnimS - 0.33
+	range - 270
+	respawnTimeF - 186
+	respawnTimeS - 6.20
+	attackType - 単体(Single Attack)
+	cost - 510
+
+
+True:
+Version: Ver5.0
+Jap Name: ニャック・スパロウ
+En Name: Dread Pirate Catley
+Jp Desc: ある海賊映画を観て鞍替えしたにわか海賊マニア一緒に海へ出てくれる仲間を探しているたまに赤い敵をふっとばす
+En Desc: Just learned that there are movies about pirates too!
+Inspired him to upgrade his boat.
+Might knockback Red enemies.
+Abilities: Red:Knockback
+Combos: 
+Stats: 	health - 2250.000
+	knockback - 3
+	attackRateF - 45
+	attackRateS - 1.50
+	attackPower - 107.353
+	movementSpeed - 8
+	attackAnimF - 10
+	attackAnimS - 0.33
+	range - 300
+	respawnTimeF - 186
+	respawnTimeS - 6.20
+	attackType - 単体(Single Attack)
+	cost - 510
+
+

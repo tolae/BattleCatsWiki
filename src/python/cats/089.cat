@@ -1,0 +1,73 @@
+089
+
+Normal:
+Version: 
+Jap Name: ネコなわとび
+En Name: Rope Jump Cat
+Jp Desc: 英語で言うとジャンピングロープ生産コストが安めで比較的量産がしやすいごくたまにクリティカル攻撃を放つ
+En Desc: In Japanese, it's Nawatobi. This cat is cheap to produce, with added fun. Might perform critical attacks.
+Abilities: None:Critical
+Combos: 	ぐるぐる大回転|Like a Record, Baby - ['125', '268', '089']
+	心がぴょんぴょん|Heart Beat - ['213', '089']
+	暴風一家|Eye of the Storm - ['061', '089', '079', '127', '155']
+Stats: 	health - 750.000
+	knockback - 3
+	attackRateF - 38
+	attackRateS - 1.27
+	attackPower - 162.500
+	movementSpeed - 10
+	attackAnimF - 9
+	attackAnimS - 0.30
+	range - 170
+	respawnTimeF - 60
+	respawnTimeS - 2.00
+	attackType - 単体(Single Attack)
+	cost - 360
+
+
+Evolved:
+Version: 
+Jap Name: ネコネコなわとび
+En Name: Pair Rope Jump Cat
+Jp Desc: 一人でやるよりも二人が楽しいよね生産コストが安めで比較的量産がしやすいごくたまにクリティカル攻撃を放つ
+En Desc: Well, Rope jump is more fun with two people. Still cheap and effective, with twice more fun. Might perform critical attacks.
+Abilities: None:Critical
+Combos: 	二人一組|Team of Two - ['153', '082', '124', '105', '089']
+Stats: 	health - 1000.000
+	knockback - 3
+	attackRateF - 38
+	attackRateS - 1.27
+	attackPower - 187.500
+	movementSpeed - 10
+	attackAnimF - 9
+	attackAnimS - 0.30
+	range - 170
+	respawnTimeF - 60
+	respawnTimeS - 2.00
+	attackType - 単体(Single Attack)
+	cost - 360
+
+
+True:
+Version: Ver7.5
+Jap Name: ネコ蕎麦屋
+En Name: Noodle Cats
+Jp Desc: 速い！安い！美味い！がモットーのお蕎麦屋さん生産コストが安めで比較的量産しやすい。メタルな敵に打たれ強くごくたまにクリティカル攻撃を放つ
+En Desc: Always fast, cheap and delicious! This describes both the Cats and their noodles. Tough defence and chance of Critical Strikes.
+Abilities: Metal:Resistant,Critical
+Combos: 
+Stats: 	health - 1000.000
+	knockback - 3
+	attackRateF - 38
+	attackRateS - 1.27
+	attackPower - 187.500
+	movementSpeed - 10
+	attackAnimF - 9
+	attackAnimS - 0.30
+	range - 170
+	respawnTimeF - 60
+	respawnTimeS - 2.00
+	attackType - 単体(Single Attack)
+	cost - 360
+
+

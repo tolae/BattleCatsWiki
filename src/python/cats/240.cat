@@ -1,0 +1,59 @@
+240
+
+Normal:
+Version: Ver4.4
+Jap Name: 見習いスニャイパー
+En Name: Sniper the Recruit
+Jp Desc: 立派なスニャイパーになるため、狙撃修業に励む弟子にゃんこ。弾丸が豆なので威力は期待出来ない遠距離からメタルな敵以外をふっとばす
+En Desc: Before the battlefield, boot camp. Only given a potato gun, so don't expect TOO much knockback from his super long-distance attack.
+Abilities: All (w/o Metal):Knockback
+Combos: 
+Stats: 	health - 250.000
+	knockback - 1
+	attackRateF - 321
+	attackRateS - 10.70
+	attackPower - 25.000
+	movementSpeed - 2
+	attackAnimF - 22
+	attackAnimS - 0.73
+	range - 1,000
+	respawnTimeF - 4746
+	respawnTimeS - 158.20
+	attackType - 単体(Single Attack)
+	cost - 900
+
+
+Evolved:
+Version: Ver4.4
+Jap Name: ネゴルゴ
+En Name: Sniper the Heavy
+Jp Desc: 依頼者の約束は必ず守るプロスニャイパープロ仕様の武器も難なく扱うが弾丸は相変わらず豆遠距離からメタルな敵以外をふっとばす
+En Desc: A grim assassin who never fails a contract. Still uses potato guns for the extra challenge. Long distance atk. with non-metal knockback.
+Abilities: All (w/o Metal):Knockback
+Combos: 	サーティーン|Thirteen - ['240']
+Stats: 	health - 312.500
+	knockback - 1
+	attackRateF - 321
+	attackRateS - 10.70
+	attackPower - 50.000
+	movementSpeed - 2
+	attackAnimF - 22
+	attackAnimS - 0.73
+	range - 1,000
+	respawnTimeF - 4746
+	respawnTimeS - 158.20
+	attackType - 単体(Single Attack)
+	cost - 900
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

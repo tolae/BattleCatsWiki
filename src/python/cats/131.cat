@@ -1,0 +1,77 @@
+131
+
+Normal:
+Version: 
+Jap Name: ウルフとウルルン
+En Name: Ururun Wolf
+Jp Desc: ケンカで負けたら忠誠を誓うのが我がオキテ！と、勝手な妄想でにゃんこ軍団に加入したたまに敵をふっとばす（範囲攻撃）
+En Desc: "I swear allegiance to those who defeated me!" No one asked. Joined the Cat Army anyway. Might knock back enemies. (Area Attack)
+Abilities: All (w/o Metal):Knockback
+Combos: 	にゃんこサーカス|Cat Circus - ['005', '131', '227']
+	中二病|Troubled Youth - ['131', '195']
+	仮面舞踏会|Masquerade - ['131', '014', '081']
+	戦闘狂の集い|Lust for Battle - ['003', '131', '045']
+	昨日の敵は今日の友|Yesterday's Enemy - ['131', '173', '269']
+	犬猿の仲|Jungle Women - ['131', '106']
+	犬神様|Dog Gods - ['131', '259']
+Stats: 	health - 3500.000
+	knockback - 4
+	attackRateF - 107
+	attackRateS - 3.57
+	attackPower - 2250.000
+	movementSpeed - 8
+	attackAnimF - 68
+	attackAnimS - 2.27
+	range - 440
+	respawnTimeF - 4846
+	respawnTimeS - 161.53
+	attackType - 範囲(Area Attack)
+	cost - 4,950
+
+
+Evolved:
+Version: 
+Jap Name: タマとウルルン
+En Name: Ururun Cat
+Jp Desc: 憧れのにゃんこっぽいケモノを手に入れた、夢見がちな中学二年生。父親は学校の先生。たまに敵をふっとばす（範囲攻撃）
+En Desc: A delusional young girl who finally got hold of a Cat-like creature. Dad's a school teacher. Might knock back enemies. (Area Attack)
+Abilities: All (w/o Metal):Knockback
+Combos: 
+Stats: 	health - 3500.000
+	knockback - 4
+	attackRateF - 107
+	attackRateS - 3.57
+	attackPower - 2250.000
+	movementSpeed - 8
+	attackAnimF - 68
+	attackAnimS - 2.27
+	range - 440
+	respawnTimeF - 4846
+	respawnTimeS - 161.53
+	attackType - 範囲(Area Attack)
+	cost - 4,950
+
+
+True:
+Version: Ver7.0
+Jap Name: 覚醒のタマとウルルン
+En Name: Awakened Ururun
+Jp Desc: オシャレに目覚めた恋する中学二年生おめかしするけど別にアイツのためじゃない！たまに敵をふっとばす（範囲攻撃）
+En Desc: Now feeling the stirrings of a first crush. It's not like she's doing it for you! B-baka! Might knockback enemies. (Area Attack)
+Abilities: All (w/o Metal):Knockback,Immune to Curse
+Combos: 
+Stats: 	health - 5250.000
+	knockback - 4
+	attackRateF - 107
+	attackRateS - 3.57
+	attackPower - 3375.000
+	movementSpeed - 8
+	attackAnimF - 68
+	attackAnimS - 2.27
+	range - 450
+	respawnTimeF - 4846
+	respawnTimeS - 161.53
+	attackType - 範囲(Area Attack)
+	cost - 4,950
+
+

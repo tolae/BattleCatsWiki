@@ -1,0 +1,73 @@
+428
+
+Normal:
+Version: Ver7.0
+Jap Name: ネコクエスト
+En Name: Cat Clan Heroes
+Jp Desc: 魔王討伐のため結成されたネコに導かれし仲間たちごくたまにクリティカル攻撃を放ち、赤い敵と黒い敵と浮いてる敵の攻撃力を必ず下げる（遠方範囲攻撃）
+En Desc: A brave band of cats out to defeat the King of Evil. Long-Range Area strikes have chance of Critical. 100% chance to weaken Red, Black, and Floating.
+Abilities: Red,Black,Float:Weaken,Critical,Long Distance (Area)
+Combos: 	数の暴力|Power in Numbers - ['428', '064']
+Stats: 	health - 3500.000
+	knockback - 3
+	attackRateF - 271
+	attackRateS - 9.03
+	attackPower - 2500.000
+	movementSpeed - 15
+	attackAnimF - 63
+	attackAnimS - 2.10
+	range - 350
+	respawnTimeF - 2146
+	respawnTimeS - 71.53
+	attackType - 範囲(Area Attack)
+	cost - 3,450
+
+
+Evolved:
+Version: Ver7.0
+Jap Name: ネコクエストXI
+En Name: Cat Guild Heroes
+Jp Desc: 運命に導かれたネコと11人くらいの仲間たちごくたまにクリティカル攻撃を放ち、赤い敵と黒い敵と浮いてる敵の攻撃力を必ず下げる（遠方範囲攻撃）
+En Desc: The Chosen One and 11 courageous adventurers. Long-Range Area strikes have chance of Critical. 100% chance to weaken Red, Black, and Floating.
+Abilities: Red,Black,Float:Weaken,Critical,Long Distance (Area)
+Combos: 
+Stats: 	health - 5250.000
+	knockback - 3
+	attackRateF - 271
+	attackRateS - 9.03
+	attackPower - 3750.000
+	movementSpeed - 15
+	attackAnimF - 63
+	attackAnimS - 2.10
+	range - 350
+	respawnTimeF - 2146
+	respawnTimeS - 71.53
+	attackType - 範囲(Area Attack)
+	cost - 3,450
+
+
+True:
+Version: Ver9.1
+Jap Name: ネコクエストXI-2
+En Name: Cat Quest Heroes
+Jp Desc: 苦難と犠牲を乗り越え、空へ導かれたネコと仲間たちごくたまにクリティカル攻撃を放ち、赤、黒、浮き、古代種の攻撃力を必ず下げる（遠方範囲攻撃）
+En Desc: Our adventurers take their quest to the skies!
+Long-range Area strikes have chance of Critical.
+100% Weaken vs Red, Black, Floating, Relics.
+Abilities: Red,Black,Float,Ancient:Weaken,Critical,Long Distance (Area),Immune to Curse
+Combos: 
+Stats: 	health - 10500.000
+	knockback - 3
+	attackRateF - 271
+	attackRateS - 9.03
+	attackPower - 3750.000
+	movementSpeed - 15
+	attackAnimF - 63
+	attackAnimS - 2.10
+	range - 350
+	respawnTimeF - 2146
+	respawnTimeS - 71.53
+	attackType - 範囲(Area Attack)
+	cost - 3,450
+
+

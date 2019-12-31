@@ -1,0 +1,59 @@
+464
+
+Normal:
+Version: Ver8.4
+Jap Name: 終末兵器ムー
+En Name: Mighty Kristul Muu
+Jp Desc: 倒された時、独自グラフィック（アニメーション）
+En Desc: A pulsing gem focuses mystic powers into an unstable but insanely powerful blast. Omnistrike, Wave shield, and High Def./Atk. vs. Zombies!
+Abilities: Zombie:Insane Damage,Resistant,Zombie Killer,Long Distance (Omni),Wave Shield
+Combos: 
+Stats: 	health - 22500.000
+	knockback - 1
+	attackRateF - 144
+	attackRateS - 4.80
+	attackPower - 4500.000
+	movementSpeed - 1
+	attackAnimF - 51
+	attackAnimS - 1.70
+	range - 400
+	respawnTimeF - 5246
+	respawnTimeS - 174.87
+	attackType - 範囲(Area Attack)
+	cost - 4,650
+
+
+Evolved:
+Version: Ver8.4
+Jap Name: 極秘研究機関パンドラ
+En Name: Doom Engine Pandora
+Jp Desc: 倒された時、独自グラフィック（アニメーション）
+En Desc: All the Cats' tech genius can't guarantee that those extra dimensional energies won't destroy the world. Omnistrike, Wave Shield , High Def./Atk. vs. Zombies
+Abilities: Zombie:Insane Damage,Resistant,Zombie Killer,Long Distance (Omni),Wave Shield
+Combos: 
+Stats: 	health - 22500.000
+	knockback - 1
+	attackRateF - 144
+	attackRateS - 4.80
+	attackPower - 4500.000
+	movementSpeed - 1
+	attackAnimF - 51
+	attackAnimS - 1.70
+	range - 400
+	respawnTimeF - 5246
+	respawnTimeS - 174.87
+	attackType - 範囲(Area Attack)
+	cost - 4,650
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

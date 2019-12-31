@@ -1,0 +1,59 @@
+174
+
+Normal:
+Version: 
+Jap Name: 厨房マンボウ
+En Name: Baby Mola（JP name: 厨房マンボウ, Chūbōmanbou, kitchen sunfish )
+Jp Desc: 生きろ！マンボウ！コラボ
+En Desc: Dropping in from "Survive! Mola Mola!" The lone survivor of 300,000,000 brothers - the ocean's a harsh realm, man.
+Abilities: None:
+Combos: 
+Stats: 	health - 2.500
+	knockback - 1
+	attackRateF - 91
+	attackRateS - 3.03
+	attackPower - 1219.853
+	movementSpeed - 7
+	attackAnimF - 11
+	attackAnimS - 0.37
+	range - 401
+	respawnTimeF - 446
+	respawnTimeS - 14.87
+	attackType - 単体(Single Attack)
+	cost - 1,140
+
+
+Evolved:
+Version: 
+Jap Name: 工房マンボウ
+En Name: Young Man Mola
+Jp Desc: 生きろ！マンボウ！コラボ
+En Desc: Playing life in Hard Mode, a Mola Mola s always within sight of paradise. Attacks from range by screaming... then dying.
+Abilities: None:
+Combos: 
+Stats: 	health - 5.147
+	knockback - 1
+	attackRateF - 91
+	attackRateS - 3.03
+	attackPower - 1719.853
+	movementSpeed - 7
+	attackAnimF - 11
+	attackAnimS - 0.37
+	range - 401
+	respawnTimeF - 446
+	respawnTimeS - 14.87
+	attackType - 単体(Single Attack)
+	cost - 1,140
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

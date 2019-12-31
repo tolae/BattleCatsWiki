@@ -1,0 +1,59 @@
+234
+
+Normal:
+Version: Ver4.4
+Jap Name: 神徒ブリュンヒルデ
+En Name: Kamito Buryunhirude , 神徒ブリュンヒルデ , God's disciple - Brynhildr
+Jp Desc: ゆるドラシルコラボ
+En Desc: N/A
+Abilities: Float:Strong
+Combos: 
+Stats: 	health - 1400.000
+	knockback - 4
+	attackRateF - 28
+	attackRateS - 0.93
+	attackPower - 175.000
+	movementSpeed - 12
+	attackAnimF - 9
+	attackAnimS - 0.30
+	range - 215
+	respawnTimeF - 226
+	respawnTimeS - 7.53
+	attackType - 単体(Single Attack)
+	cost - 540
+
+
+Evolved:
+Version: Ver4.4
+Jap Name: 神徒ブリュンヒルデCC
+En Name: Kamito Buryunhirude CC
+Jp Desc: ゆるドラシルコラボ
+En Desc: N/A
+Abilities: Float:Strong
+Combos: 
+Stats: 	health - 1800.000
+	knockback - 4
+	attackRateF - 28
+	attackRateS - 0.93
+	attackPower - 225.000
+	movementSpeed - 12
+	attackAnimF - 9
+	attackAnimS - 0.30
+	range - 215
+	respawnTimeF - 226
+	respawnTimeS - 7.53
+	attackType - 単体(Single Attack)
+	cost - 540
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

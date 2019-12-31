@@ -1,0 +1,59 @@
+203
+
+Normal:
+Version: Ver4.0
+Jap Name: 小籠包にゃんこ
+En Name: Baozi Cat
+Jp Desc: にゃんこ大戦争台湾版リリース記念キャラクター蒸し器の中で怠けていたら小籠包になってしまったネコ熱い志とスープをうちに秘め、いざ出陣！
+En Desc: Celebrating The Battle Cats' Taiwan version, this Cat got too excited and steamed itself in a basket. Is that meat inside, or PURE PASSION?!
+Abilities: None:
+Combos: 
+Stats: 	health - 275.000
+	knockback - 3
+	attackRateF - 39
+	attackRateS - 1.30
+	attackPower - 19.853
+	movementSpeed - 9
+	attackAnimF - 10
+	attackAnimS - 0.33
+	range - 140
+	respawnTimeF - 60
+	respawnTimeS - 2.00
+	attackType - 単体(Single Attack)
+	cost - 75
+
+
+Evolved:
+Version: Ver4.0
+Jap Name: 大籠包にゃんこ
+En Name: Big Baozi
+Jp Desc: にゃんこ大戦争台湾版リリース記念キャラクターもっとまとめて食べたいという願いを叶えた職人の自信作肉まんなのでは？という噂は絶えない（範囲攻撃）
+En Desc: Celebrating The Battle Cats' Taiwan version, grew bigger to satisfy more hungry people. There's no basis to rumors he's got pizza filling inside.
+Abilities: None:
+Combos: 
+Stats: 	health - 1125.000
+	knockback - 3
+	attackRateF - 59
+	attackRateS - 1.97
+	attackPower - 162.500
+	movementSpeed - 6
+	attackAnimF - 20
+	attackAnimS - 0.67
+	range - 300
+	respawnTimeF - 226
+	respawnTimeS - 7.53
+	attackType - 範囲(Area Attack)
+	cost - 750
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

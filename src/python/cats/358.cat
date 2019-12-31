@@ -1,0 +1,59 @@
+358
+
+Normal:
+Version: Ver6.4
+Jap Name: 狼娘ディル
+En Name: Wolfchild Deale
+Jp Desc: ガルズモンズコラボ
+En Desc: A lost cub from a mighty werewolf pack who found her calling in show business. Might knockback Angels & Aliens (Area Atk)
+Abilities: Angel,Alien:Multi-Hit,Knockback
+Combos: 
+Stats: 	health - 4375.000
+	knockback - 5
+	attackRateF - 165
+	attackRateS - 5.50
+	attackPower - 3082.500
+	movementSpeed - 12
+	attackAnimF - 30
+	attackAnimS - 1.00
+	range - 415
+	respawnTimeF - 3546
+	respawnTimeS - 118.20
+	attackType - 範囲(Area Attack)
+	cost - 4,620
+
+
+Evolved:
+Version: Ver6.4
+Jap Name: 虚飾の狼姫ディル
+En Name: Wolf Princess Deale
+Jp Desc: ガルズモンズコラボ
+En Desc: The one-wolf show has revealed her true colors to universal acclaim. Are you not entertained?? Might knockback Angels & Aliens (Area Atk)
+Abilities: Angel,Alien:Multi-Hit,Knockback
+Combos: 
+Stats: 	health - 6250.000
+	knockback - 5
+	attackRateF - 165
+	attackRateS - 5.50
+	attackPower - 4409.559
+	movementSpeed - 12
+	attackAnimF - 30
+	attackAnimS - 1.00
+	range - 415
+	respawnTimeF - 3546
+	respawnTimeS - 118.20
+	attackType - 範囲(Area Attack)
+	cost - 4,620
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

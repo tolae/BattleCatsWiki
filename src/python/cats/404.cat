@@ -1,0 +1,59 @@
+404
+
+Normal:
+Version: Ver6.10
+Jap Name: ネコゲンドウ＆ネコ冬月
+En Name: Gendo & Fuyutsuki Cats
+Jp Desc: エヴァンゲリオンコラボ
+En Desc: Leader and deputy commander of NERV. Out to complete their goal by any means. (Area Attack)
+Abilities: None:
+Combos: 
+Stats: 	health - 1500.000
+	knockback - 2
+	attackRateF - 77
+	attackRateS - 2.57
+	attackPower - 75.000
+	movementSpeed - 8
+	attackAnimF - 39
+	attackAnimS - 1.30
+	range - 110
+	respawnTimeF - 60
+	respawnTimeS - 2.00
+	attackType - 範囲(Area Attack)
+	cost - 225
+
+
+Evolved:
+Version: Ver6.10
+Jap Name: 月のネコゲンドウ＆ネコ冬月
+En Name: Moon Gendo & Fuyutsuki Cats
+Jp Desc: エヴァンゲリオンコラボ
+En Desc: On the moon for the final stage of their plan. They trust each other fully. (Area Attack)
+Abilities: None:
+Combos: 
+Stats: 	health - 1500.000
+	knockback - 2
+	attackRateF - 77
+	attackRateS - 2.57
+	attackPower - 75.000
+	movementSpeed - 8
+	attackAnimF - 39
+	attackAnimS - 1.30
+	range - 110
+	respawnTimeF - 60
+	respawnTimeS - 2.00
+	attackType - 範囲(Area Attack)
+	cost - 225
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

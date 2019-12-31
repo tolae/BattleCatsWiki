@@ -1,0 +1,71 @@
+198
+
+Normal:
+Version: Ver4.0
+Jap Name: サイキックネコ
+En Name: Psychocat
+Jp Desc: テンションが上がると周りの金属が曲がってしまうネコカレーを目の前に冷静さを保つ方法を探しているエイリアンの動きをたまに遅くする
+En Desc: Bends metal when excited. Loves cereal, but always ends up with a useless spoon before he can eat. Sometimes slows Alien movement.
+Abilities: Alien:Slow
+Combos: 
+Stats: 	health - 950.000
+	knockback - 3
+	attackRateF - 105
+	attackRateS - 3.50
+	attackPower - 125.000
+	movementSpeed - 6
+	attackAnimF - 66
+	attackAnimS - 2.20
+	range - 365
+	respawnTimeF - 246
+	respawnTimeS - 8.20
+	attackType - 単体(Single Attack)
+	cost - 525
+
+
+Evolved:
+Version: Ver4.0
+Jap Name: ネオサイキックネコ
+En Name: Neo Psychocat
+Jp Desc: 近づくものすべてが異変を起こす超常現象ネコキャッチボール中に消えた友達を探しているエイリアンの動きをたまに遅くする
+En Desc: His happiness opens up extradimensional portals. Don't accept his invitation to play catch-ball. Sometimes slows Alien movement.
+Abilities: Alien:Slow
+Combos: 	サイエンスフィクション|X-Files - ['198', '006']
+Stats: 	health - 1100.000
+	knockback - 3
+	attackRateF - 105
+	attackRateS - 3.50
+	attackPower - 150.000
+	movementSpeed - 6
+	attackAnimF - 66
+	attackAnimS - 2.20
+	range - 365
+	respawnTimeF - 246
+	respawnTimeS - 8.20
+	attackType - 単体(Single Attack)
+	cost - 525
+
+
+True:
+Version: Ver6.5
+Jap Name: デビルサイキックネコ
+En Name: Corrupted Psychocat
+Jp Desc: 特性「攻撃力低下」追加
+En Desc: All will be consumed by the portals he creates. Soon he himself will be sucked into the dark realms. Sometimes slows Alien movement.
+Abilities: Alien:Slow
+Combos: 
+Stats: 	health - 1400.000
+	knockback - 3
+	attackRateF - 71
+	attackRateS - 2.37
+	attackPower - 150.000
+	movementSpeed - 12
+	attackAnimF - 42
+	attackAnimS - 1.40
+	range - 365
+	respawnTimeF - 246
+	respawnTimeS - 8.20
+	attackType - 単体(Single Attack)
+	cost - 525
+
+

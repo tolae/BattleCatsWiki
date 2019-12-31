@@ -1,0 +1,71 @@
+314
+
+Normal:
+Version: Ver5.7
+Jap Name: ちび巨神ネコ
+En Name: Li'l Titan Cat
+Jp Desc: 超絶破壊力＆強靭な体力を備えた最高級のキャラを目指して成長中のちびにゃんこ（範囲攻撃）
+En Desc: A tiny guy with dreams of becoming that Cat blessed with extreme attack power and ridiculous amounts of health (Area Attack).
+Abilities: None:
+Combos: 
+Stats: 	health - 2176.471
+	knockback - 1
+	attackRateF - 67
+	attackRateS - 2.23
+	attackPower - 1523.529
+	movementSpeed - 6
+	attackAnimF - 18
+	attackAnimS - 0.60
+	range - 140
+	respawnTimeF - 556
+	respawnTimeS - 18.53
+	attackType - 範囲(Area Attack)
+	cost - 1,950
+
+
+Evolved:
+Version: Ver5.7
+Jap Name: ちびネコダラボッチ
+En Name: Li'l Mythical Titan
+Jp Desc: 超絶破壊力＆強靭な体力を備えた破壊をつかさどるネコ神様を目指して成長中のちびにゃんこ（範囲攻撃）
+En Desc: A tiny guy with dreams of becoming that Lord of Destruction (?) (Area Attack) Extreme attack power and health.
+Abilities: None:
+Combos: 
+Stats: 	health - 2176.471
+	knockback - 1
+	attackRateF - 67
+	attackRateS - 2.23
+	attackPower - 1523.529
+	movementSpeed - 6
+	attackAnimF - 18
+	attackAnimS - 0.60
+	range - 140
+	respawnTimeF - 556
+	respawnTimeS - 18.53
+	attackType - 範囲(Area Attack)
+	cost - 1,950
+
+
+True:
+Version: Ver5.10
+Jap Name: ちびネコジャラミ
+En Name: Li'l Jamiera Cat
+Jp Desc: ごくたまに敵をふっとばす、破壊をつかさどる巨大ネコに成長したちびにゃんこ（範囲攻撃）いつまでも無邪気な心は忘れない
+En Desc: A tiny guy with dreams of becoming that Lord of destruction with the stretched shirt. Extreme area attack, might knockback.
+Abilities: All (w/o Metal):Knockback
+Combos: 
+Stats: 	health - 8705.882
+	knockback - 1
+	attackRateF - 57
+	attackRateS - 1.90
+	attackPower - 2502.941
+	movementSpeed - 6
+	attackAnimF - 18
+	attackAnimS - 0.60
+	range - 140
+	respawnTimeF - 676
+	respawnTimeS - 22.53
+	attackType - 範囲(Area Attack)
+	cost - 1,950
+
+

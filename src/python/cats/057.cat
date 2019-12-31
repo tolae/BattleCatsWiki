@@ -1,0 +1,76 @@
+057
+
+Normal:
+Version: Ver2.0
+Jap Name: ネコアーチャー
+En Name: Archer Cat
+Jp Desc: 遠距離から攻撃できる支援型ねこ体力はあまり無い浮いてる敵に超ダメージを与える
+En Desc: Elite ranged Cat that can provide useful supporting fire.
+Bruises likes a Tomato.
+Deals massive damage to Floating enemies.
+Abilities: Float:Massive Damage
+Combos: 
+Stats: 	health - 450.000
+	knockback - 3
+	attackRateF - 72
+	attackRateS - 2.40
+	attackPower - 244.853
+	movementSpeed - 10
+	attackAnimF - 43
+	attackAnimS - 1.43
+	range - 340
+	respawnTimeF - 346
+	respawnTimeS - 11.53
+	attackType - 単体(Single Attack)
+	cost - 1,230
+
+
+Evolved:
+Version: Ver2.0
+Jap Name: ネコキューピット
+En Name: Cupid Cat
+Jp Desc: 遠距離から攻撃できる支援型ねこ体力はあまり無い浮いてる敵に超ダメージを与える
+En Desc: Fire arrows of love to unsuspecting enemies.
+Does not like to get hurt.
+Deals massive damage to Floating enemies.
+Abilities: Float:Massive Damage
+Combos: 	パタパタ|Sound of Wings  - ['057', '006']
+	フォーリンラヴ|Fall in Love - ['057', '110']
+Stats: 	health - 600.000
+	knockback - 3
+	attackRateF - 72
+	attackRateS - 2.40
+	attackPower - 244.853
+	movementSpeed - 10
+	attackAnimF - 43
+	attackAnimS - 1.43
+	range - 340
+	respawnTimeF - 346
+	respawnTimeS - 11.53
+	attackType - 単体(Single Attack)
+	cost - 1,230
+
+
+True:
+Version: Ver5.2
+Jap Name: ネコいて座
+En Name: Cataur
+Jp Desc: 特性「ゾンビキラー」追加
+En Desc: Once a glittering constellation, this demi-god hides from heaven, firing powerful arrows at Floating enemies for massive damage.
+Abilities: Float:Massive Damage
+Combos: 
+Stats: 	health - 900.000
+	knockback - 3
+	attackRateF - 72
+	attackRateS - 2.40
+	attackPower - 367.647
+	movementSpeed - 16
+	attackAnimF - 43
+	attackAnimS - 1.43
+	range - 390
+	respawnTimeF - 346
+	respawnTimeS - 11.53
+	attackType - 単体(Single Attack)
+	cost - 1,230
+
+

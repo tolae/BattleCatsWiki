@@ -1,0 +1,59 @@
+245
+
+Normal:
+Version: Ver4.5
+Jap Name: ネコのプレゼント
+En Name: A Gift of Cats
+Jp Desc: サンタさんからのクリスマスプレゼント何が入っているかはお楽しみ♪ごくたまに天使の動きを一瞬止める
+En Desc: A lovely holiday gift from Santa. can you guess what's inside? Occasionally Stops Angelic enemies.
+Abilities: Angel:Freeze
+Combos: 	トナカイのプレゼント|Reindeer's Gift - ['075', '245']
+Stats: 	health - 1750.000
+	knockback - 3
+	attackRateF - 101
+	attackRateS - 3.37
+	attackPower - 437.500
+	movementSpeed - 30
+	attackAnimF - 8
+	attackAnimS - 0.27
+	range - 160
+	respawnTimeF - 206
+	respawnTimeS - 6.87
+	attackType - 単体(Single Attack)
+	cost - 825
+
+
+Evolved:
+Version: Ver4.5
+Jap Name: ネコプレゼント
+En Name: Cat's Gift
+Jp Desc: にゃんこ軍団からのクリスマスプレゼント何が入っているかはお楽しみ♪ごくたまに天使の動きを一瞬止める
+En Desc: A lovely holiday gift from the Cat Army. Something is bumping around inside... Occasionally Stops Angelic enemies.
+Abilities: Angel:Freeze
+Combos: 
+Stats: 	health - 2000.000
+	knockback - 3
+	attackRateF - 96
+	attackRateS - 3.20
+	attackPower - 437.500
+	movementSpeed - 30
+	attackAnimF - 6
+	attackAnimS - 0.20
+	range - 160
+	respawnTimeF - 206
+	respawnTimeS - 6.87
+	attackType - 単体(Single Attack)
+	cost - 825
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

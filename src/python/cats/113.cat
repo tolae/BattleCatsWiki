@@ -1,0 +1,59 @@
+113
+
+Normal:
+Version: 
+Jap Name: オルガ
+En Name: Oruga
+Jp Desc: メルクストーリアコラボ
+En Desc: N/A
+Abilities: Red:Knockback
+Combos: 
+Stats: 	health - 675.000
+	knockback - 3
+	attackRateF - 45
+	attackRateS - 1.50
+	attackPower - 59.853
+	movementSpeed - 9
+	attackAnimF - 20
+	attackAnimS - 0.67
+	range - 265
+	respawnTimeF - 186
+	respawnTimeS - 6.20
+	attackType - 単体(Single Attack)
+	cost - 480
+
+
+Evolved:
+Version: 
+Jap Name: オルガCC
+En Name: OrugaCC
+Jp Desc: メルクストーリアコラボ
+En Desc: N/A
+Abilities: Red:Knockback
+Combos: 
+Stats: 	health - 800.000
+	knockback - 3
+	attackRateF - 45
+	attackRateS - 1.50
+	attackPower - 84.853
+	movementSpeed - 9
+	attackAnimF - 20
+	attackAnimS - 0.67
+	range - 265
+	respawnTimeF - 186
+	respawnTimeS - 6.20
+	attackType - 単体(Single Attack)
+	cost - 480
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

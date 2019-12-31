@@ -1,0 +1,59 @@
+282
+
+Normal:
+Version: Ver5.3
+Jap Name: ふてニャン
+En Name: Futenyan
+Jp Desc: ワイモバイルコラボ
+En Desc: N/A
+Abilities: Red:Strong
+Combos: 
+Stats: 	health - 750.000
+	knockback - 2
+	attackRateF - 66
+	attackRateS - 2.20
+	attackPower - 217.647
+	movementSpeed - 6
+	attackAnimF - 27
+	attackAnimS - 0.90
+	range - 150
+	respawnTimeF - 106
+	respawnTimeS - 3.53
+	attackType - 単体(Single Attack)
+	cost - 450
+
+
+Evolved:
+Version: Ver5.3
+Jap Name: モミモミふてニャン
+En Name: Massaging Futenyan
+Jp Desc: ワイモバイルコラボ
+En Desc: N/A
+Abilities: Red:Strong
+Combos: 
+Stats: 	health - 750.000
+	knockback - 2
+	attackRateF - 66
+	attackRateS - 2.20
+	attackPower - 147.353
+	movementSpeed - 12
+	attackAnimF - 27
+	attackAnimS - 0.90
+	range - 150
+	respawnTimeF - 106
+	respawnTimeS - 3.53
+	attackType - 単体(Single Attack)
+	cost - 450
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

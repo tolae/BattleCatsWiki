@@ -1,0 +1,63 @@
+512
+
+Normal:
+Version: Ver8.10.5
+Jap Name: リュウ
+En Name: Ryu
+Jp Desc: ストリートファイターV AEコラボ
+En Desc: Joining the fight from Street Fighter V AE!
+A hero walking the path of a true fighter. 
+Chance to deliver a Savage Blow (Area Attack)
+Abilities: None:
+Combos: 
+Stats: 	health - 7500.000
+	knockback - 5
+	attackRateF - 55
+	attackRateS - 1.83
+	attackPower - 1200.000
+	movementSpeed - 18
+	attackAnimF - 16
+	attackAnimS - 0.53
+	range - 480
+	respawnTimeF - 4746
+	respawnTimeS - 158.20
+	attackType - 範囲(Area Attack)
+	cost - 3,750
+
+
+Evolved:
+Version: Ver8.10.5
+Jap Name: リュウCC
+En Name: Ryu CC
+Jp Desc: ストリートファイターV AEコラボ
+En Desc: Joining the fight from Street Fighter V AE!
+Seeking a rival who will finally test his skills. 
+Chance to deliver a Savage Blow (Area Attack)
+Abilities: None:
+Combos: 
+Stats: 	health - 7500.000
+	knockback - 5
+	attackRateF - 55
+	attackRateS - 1.83
+	attackPower - 1200.000
+	movementSpeed - 18
+	attackAnimF - 16
+	attackAnimS - 0.53
+	range - 480
+	respawnTimeF - 4746
+	respawnTimeS - 158.20
+	attackType - 範囲(Area Attack)
+	cost - 3,750
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

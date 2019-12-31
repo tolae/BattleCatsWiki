@@ -1,0 +1,71 @@
+188
+
+Normal:
+Version: Ver3.8
+Jap Name: ユーヴェンス
+En Name: Juvens
+Jp Desc: メルクストーリアコラボ
+En Desc: N/A
+Abilities: Angel:Resistant
+Combos: 
+Stats: 	health - 11500.000
+	knockback - 2
+	attackRateF - 101
+	attackRateS - 3.37
+	attackPower - 4500.000
+	movementSpeed - 10
+	attackAnimF - 22
+	attackAnimS - 0.73
+	range - 210
+	respawnTimeF - 1146
+	respawnTimeS - 38.20
+	attackType - 単体(Single Attack)
+	cost - 2,850
+
+
+Evolved:
+Version: Ver3.8
+Jap Name: ユーヴェンスCC
+En Name: JuvensCC
+Jp Desc: メルクストーリアコラボ
+En Desc: N/A
+Abilities: Angel:Resistant
+Combos: 
+Stats: 	health - 16750.000
+	knockback - 2
+	attackRateF - 101
+	attackRateS - 3.37
+	attackPower - 5375.000
+	movementSpeed - 10
+	attackAnimF - 22
+	attackAnimS - 0.73
+	range - 210
+	respawnTimeF - 1146
+	respawnTimeS - 38.20
+	attackType - 単体(Single Attack)
+	cost - 2,850
+
+
+True:
+Version: Ver8.10
+Jap Name: 休日の騎士様ユーヴェンスCC
+En Name: Holiday Knight Juvens CC
+Jp Desc: メルクストーリアコラボ
+En Desc: N/A
+Abilities: Angel:Multi-Hit,Resistant,Multi-Hit
+Combos: 
+Stats: 	health - 19500.000
+	knockback - 2
+	attackRateF - 101
+	attackRateS - 3.37
+	attackPower - 5375.000
+	movementSpeed - 10
+	attackAnimF - 22
+	attackAnimS - 0.73
+	range - 210
+	respawnTimeF - 1146
+	respawnTimeS - 38.20
+	attackType - 単体(Single Attack)
+	cost - 2,850
+
+

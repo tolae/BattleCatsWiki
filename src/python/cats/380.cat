@@ -1,0 +1,71 @@
+380
+
+Normal:
+Version: Ver6.6
+Jap Name: ネコバレー
+En Name: Volley Cat
+Jp Desc: 「市営体育館の魔女」と恐れられた名選手会心のスパイクで相手をノックアウトごくたまにクリティカル攻撃を放つ（遠方攻撃）
+En Desc: Feared as the Queen of the Community Center. Her spikes routinely knock her rivals unconscious. Long Distance attacks might unleash a critical!
+Abilities: None:Critical,Long Distance (Single)
+Combos: 
+Stats: 	health - 900.000
+	knockback - 3
+	attackRateF - 81
+	attackRateS - 2.70
+	attackPower - 400.000
+	movementSpeed - 10
+	attackAnimF - 45
+	attackAnimS - 1.50
+	range - 375
+	respawnTimeF - 246
+	respawnTimeS - 8.20
+	attackType - 単体(Single Attack)
+	cost - 720
+
+
+Evolved:
+Version: Ver6.6
+Jap Name: ネコバレエ
+En Name: Ballet Cat
+Jp Desc: 「市民ホールのバラ」と恐れられたプリマにゃんこ空高く舞い上がりトウシューズを観客に突き刺すごくたまにクリティカル攻撃を放つ（遠方攻撃）
+En Desc: Primadonna called the Rose of the Repertory. Soars through the sky and lands like a javelin. Long Range attacks might unleash a critical!
+Abilities: None:Critical,Long Distance (Single)
+Combos: 
+Stats: 	health - 1125.000
+	knockback - 3
+	attackRateF - 81
+	attackRateS - 2.70
+	attackPower - 500.000
+	movementSpeed - 10
+	attackAnimF - 45
+	attackAnimS - 1.50
+	range - 375
+	respawnTimeF - 246
+	respawnTimeS - 8.20
+	attackType - 単体(Single Attack)
+	cost - 720
+
+
+True:
+Version: Ver8.7
+Jap Name: ネコカレー
+En Name: Curry Cat
+Jp Desc: 「インドカレーの王子さま」と呼ばれる人気シェフ香辛料の効いた一撃はメタルな敵の動きを一瞬遅くしごくたまにクリティカルを放つ（遠方攻撃）
+En Desc: Masterful chef called the Prince of Spices. Metal enemies can't stand the powerful flavor. Long Range attacks might unleash a critical!
+Abilities: Metal:Slow,Critical,Long Distance (Single)
+Combos: 
+Stats: 	health - 1350.000
+	knockback - 3
+	attackRateF - 81
+	attackRateS - 2.70
+	attackPower - 500.000
+	movementSpeed - 10
+	attackAnimF - 45
+	attackAnimS - 1.50
+	range - 375
+	respawnTimeF - 246
+	respawnTimeS - 8.20
+	attackType - 単体(Single Attack)
+	cost - 720
+
+

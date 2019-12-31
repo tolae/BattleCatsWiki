@@ -1,0 +1,71 @@
+378
+
+Normal:
+Version: Ver6.6
+Jap Name: ネコフェンシング
+En Name: Fencer Cat
+Jp Desc: 400戦無敗のフェンシングチャンピオン余りの強さで挑戦者がいなくなり転向を考えている必ずバリアを貫く
+En Desc: Invincible swordscat unbeaten in 400 matches. Has to use his left hand to actually feel challenged. 100% chance of breaking Barriers.
+Abilities: None:Barrier Breaker
+Combos: 
+Stats: 	health - 1500.000
+	knockback - 1
+	attackRateF - 142
+	attackRateS - 4.73
+	attackPower - 1500.000
+	movementSpeed - 10
+	attackAnimF - 51
+	attackAnimS - 1.70
+	range - 320
+	respawnTimeF - 286
+	respawnTimeS - 9.53
+	attackType - 単体(Single Attack)
+	cost - 825
+
+
+Evolved:
+Version: Ver6.6
+Jap Name: ネコ剣道
+En Name: Kendo Cat
+Jp Desc: なかなか剣道の世界に馴染めないネコ華々しい過去を引きずって試合に挑む必ずバリアを貫く
+En Desc: Decided to try a new form of swordplay, but can't quite make the switch from his original specialty. 100% chance of breaking Barriers.
+Abilities: None:Barrier Breaker
+Combos: 
+Stats: 	health - 2250.000
+	knockback - 1
+	attackRateF - 142
+	attackRateS - 4.73
+	attackPower - 2250.000
+	movementSpeed - 10
+	attackAnimF - 51
+	attackAnimS - 1.70
+	range - 320
+	respawnTimeF - 286
+	respawnTimeS - 9.53
+	attackType - 単体(Single Attack)
+	cost - 825
+
+
+True:
+Version: Ver8.2
+Jap Name: 自由のネコ
+En Name: The Kitty of Liberty
+Jp Desc: 現役スポーツ選手の一線を退いて観光業を始めた最近やっと待ち合わせ場所に使われるようになった必ずバリアを貫く
+En Desc: Retired from competition to enter the tourism industry. Everyone uses him as a meeting spot. 100% chance of breaking Barriers.
+Abilities: None:Barrier Breaker
+Combos: 
+Stats: 	health - 2625.000
+	knockback - 1
+	attackRateF - 142
+	attackRateS - 4.73
+	attackPower - 2625.000
+	movementSpeed - 10
+	attackAnimF - 21
+	attackAnimS - 0.70
+	range - 320
+	respawnTimeF - 286
+	respawnTimeS - 9.53
+	attackType - 単体(Single Attack)
+	cost - 825
+
+

@@ -1,0 +1,77 @@
+361
+
+Normal:
+Version: Ver6.5
+Jap Name: 水の精霊ミズリィ
+En Name: Mizli
+Jp Desc: 宇宙の果てからやって来た水の精霊降り立った星に水の源を宿すと言われているたまにエイリアンをふっとばして動きを遅くする
+En Desc: Cosmic water spirit, brought to life!
+This nymph spirit controls waves
+that knocks Aliens far back!
+Abilities: Alien:Knockback,Slow,Warp Blocker
+Combos: 	土砂降りに唄えば|Meowin' in the Rain - ['361', '344']
+Stats: 	health - 2950.000
+	knockback - 4
+	attackRateF - 292
+	attackRateS - 9.73
+	attackPower - 3000.000
+	movementSpeed - 12
+	attackAnimF - 87
+	attackAnimS - 2.90
+	range - 325
+	respawnTimeF - 526
+	respawnTimeS - 17.53
+	attackType - 範囲(Area Attack)
+	cost - 1,140
+
+
+Evolved:
+Version: Ver6.5
+Jap Name: 流水の精霊ミズマリン
+En Name: Marinmizu
+Jp Desc: 大地を削るほどの流水を操る精霊清く荒々しい水柱はバリアをも貫く力を持つエイリアンに打たれ強く、ふっとばして動きを遅くする
+En Desc: With waves that can split the Earth, its
+attacks wash away enemy Barriers. Tough
+anti-Alien defense and knockback attacks.
+Abilities: Alien:Resistant,Knockback,Slow,Barrier Breaker,Warp Blocker
+Combos: 
+Stats: 	health - 6150.000
+	knockback - 4
+	attackRateF - 292
+	attackRateS - 9.73
+	attackPower - 5800.000
+	movementSpeed - 10
+	attackAnimF - 87
+	attackAnimS - 2.90
+	range - 400
+	respawnTimeF - 2546
+	respawnTimeS - 84.87
+	attackType - 範囲(Area Attack)
+	cost - 3,720
+
+
+True:
+Version: Ver8.5
+Jap Name: 流水の精霊王ミズマリリン
+En Name: Mizuririn
+Jp Desc: 特性「動きを遅くする」強化
+En Desc: Master of water, sends cleansing waves to purify
+mortal realms of evil, washing away Barriers.
+Tough Anti-Alien defense and knockback attacks.
+Abilities: Alien:Resistant,Knockback,Slow,Barrier Breaker,Warp Blocker
+Combos: 
+Stats: 	health - 7525.000
+	knockback - 4
+	attackRateF - 292
+	attackRateS - 9.73
+	attackPower - 7175.000
+	movementSpeed - 10
+	attackAnimF - 87
+	attackAnimS - 2.90
+	range - 400
+	respawnTimeF - 2546
+	respawnTimeS - 84.87
+	attackType - 範囲(Area Attack)
+	cost - 3,720
+
+

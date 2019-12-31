@@ -1,0 +1,72 @@
+227
+
+Normal:
+Version: Ver4.3
+Jap Name: 呪術師デスピエロ
+En Name: Warlock and Pierre
+Jp Desc: 極悪非道な悪魔の魂をパペットに封じ込めた凄腕呪術師エイリアンと浮いてる敵しか攻撃できないが超破壊力を備え、城を破壊するのが得意（範囲攻撃）
+En Desc: A precocious young sorcerer who has enslaved a nightmare. Its infernal powers deliver massive damage only to Aliens, Floating and enemy bases.
+Abilities: Float,Alien:Attacks Only,Base Destroyer
+Combos: 	にゃんこサーカス|Cat Circus - ['005', '131', '227']
+	人形師協会会員|Puppeteers Guild - ['227', '127']
+Stats: 	health - 15500.000
+	knockback - 2
+	attackRateF - 239
+	attackRateS - 7.97
+	attackPower - 16025.000
+	movementSpeed - 8
+	attackAnimF - 70
+	attackAnimS - 2.33
+	range - 430
+	respawnTimeF - 4946
+	respawnTimeS - 164.87
+	attackType - 範囲(Area Attack)
+	cost - 6,135
+
+
+Evolved:
+Version: Ver4.3
+Jap Name: 闇商人バビル
+En Name: Dark Merchant Babil
+Jp Desc: 魔物を操り罪人の魂を集めて売りさばく地獄の商人エイリアンと天使しか攻撃できないが超破壊力を備え、敵を倒したときにお金を多くもらえる（範囲攻撃）
+En Desc: With his nightmare's true form revealed, they now journey collecting wicked souls. Huge damage only to Angel/Alien, gets big money for each enemy defeat.
+Abilities: Angel,Alien:Attacks Only,Extra Money
+Combos: 
+Stats: 	health - 15500.000
+	knockback - 2
+	attackRateF - 239
+	attackRateS - 7.97
+	attackPower - 16025.000
+	movementSpeed - 8
+	attackAnimF - 70
+	attackAnimS - 2.33
+	range - 430
+	respawnTimeF - 4946
+	respawnTimeS - 164.87
+	attackType - 範囲(Area Attack)
+	cost - 6,135
+
+
+True:
+Version: Ver6.3
+Jap Name: 奇術科学者クレイG
+En Name: Mad Doctor Klay
+Jp Desc: 特性「古代の呪い無効」追加
+En Desc: Picked up an online degree in occult anatomy. 1st attempt at a soul transplant: GREAT SUCCESS!(?) Delivers extreme damage, but only to Aliens/bases!
+Abilities: Alien:Attacks Only,Immune to Knockback,Immune to Freeze,Immune to Slow,Immune to Weaken
+Combos: 
+Stats: 	health - 23250.000
+	knockback - 2
+	attackRateF - 239
+	attackRateS - 7.97
+	attackPower - 24037.500
+	movementSpeed - 8
+	attackAnimF - 70
+	attackAnimS - 2.33
+	range - 430
+	respawnTimeF - 4946
+	respawnTimeS - 164.87
+	attackType - 範囲(Area Attack)
+	cost - 6,135
+
+

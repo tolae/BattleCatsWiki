@@ -1,0 +1,59 @@
+327
+
+Normal:
+Version: Ver5.10
+Jap Name: メビウス
+En Name: Mobius
+Jp Desc: クラッシュフィーバーコラボ
+En Desc: Earnest lady scholar with a strong heart, dropping in from Crash Fever (Area Atk) Huge/100% knockback vs Red.
+Abilities: Red:Massive Damage,Knockback
+Combos: 
+Stats: 	health - 4700.000
+	knockback - 4
+	attackRateF - 190
+	attackRateS - 6.33
+	attackPower - 3200.000
+	movementSpeed - 8
+	attackAnimF - 71
+	attackAnimS - 2.37
+	range - 445
+	respawnTimeF - 3706
+	respawnTimeS - 123.53
+	attackType - 範囲(Area Attack)
+	cost - 4,470
+
+
+Evolved:
+Version: Ver5.10
+Jap Name: 奇跡の調和メビウス
+En Name: Miraculous Mobius
+Jp Desc: クラッシュフィーバーコラボ
+En Desc: Through dedicated effort she has perfected her skills. A guest from Crash Fever. Huge damage/100% knockback vs Red (Area Atk)
+Abilities: Red:Massive Damage,Knockback
+Combos: 
+Stats: 	health - 6200.000
+	knockback - 4
+	attackRateF - 190
+	attackRateS - 6.33
+	attackPower - 4200.000
+	movementSpeed - 8
+	attackAnimF - 71
+	attackAnimS - 2.37
+	range - 445
+	respawnTimeF - 3706
+	respawnTimeS - 123.53
+	attackType - 範囲(Area Attack)
+	cost - 4,470
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

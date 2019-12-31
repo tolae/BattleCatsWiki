@@ -1,0 +1,59 @@
+483
+
+Normal:
+Version: Ver8.6
+Jap Name: 幸せを願った少年ソウマ
+En Name: Souma the Boy Who Desires Happiness
+Jp Desc: 消滅都市コラボ
+En Desc: N/A
+Abilities: Angel,Alien:Slow,Weaken
+Combos: 
+Stats: 	health - 4000.000
+	knockback - 6
+	attackRateF - 259
+	attackRateS - 8.63
+	attackPower - 5625.000
+	movementSpeed - 8
+	attackAnimF - 43
+	attackAnimS - 1.43
+	range - 440
+	respawnTimeF - 3346
+	respawnTimeS - 111.53
+	attackType - 範囲(Area Attack)
+	cost - 4,200
+
+
+Evolved:
+Version: Ver8.6
+Jap Name: 幸せを願った少年ソウマ＆ネコ
+En Name: Souma the Boy Who Desires Happiness, and Cat
+Jp Desc: 消滅都市コラボ
+En Desc: N/A
+Abilities: Angel,Alien:Slow,Weaken
+Combos: 
+Stats: 	health - 5000.000
+	knockback - 6
+	attackRateF - 259
+	attackRateS - 8.63
+	attackPower - 6875.000
+	movementSpeed - 8
+	attackAnimF - 43
+	attackAnimS - 1.43
+	range - 440
+	respawnTimeF - 3346
+	respawnTimeS - 111.53
+	attackType - 範囲(Area Attack)
+	cost - 4,200
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

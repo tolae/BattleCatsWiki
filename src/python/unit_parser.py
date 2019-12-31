@@ -1,4 +1,5 @@
 import re
+import wget
 
 import requests
 from bs4 import BeautifulSoup
@@ -307,9 +308,14 @@ def _parse_cat_unit_en_description(eng_data, unit):
 	for i, tag in enumerate(unit_en_table[1].children):
 		# There are 2 different forms of tables on the english wiki.
 		if "Description" in str(tag):
+			# Images
+			_parse_cat_unit_thumbnail(list(unit_en_table[1].children)[i].img, unit, "Normal")
+			_parse_cat_unit_thumbnail(list(unit_en_table[1].children)[i+6].img, unit, "Evolved")
+			# Description
 			unit["Normal"].enDescription = MASSAGE(list(unit_en_table[1].children)[i + 2]).strip()
 			unit["Evolved"].enDescription = MASSAGE(list(unit_en_table[1].children)[i + 8]).strip()
 			if unit["True"]:
+				_parse_cat_unit_thumbnail(list(unit_en_table[1].children)[i+12].img, unit, "True")
 				unit["True"].enDescription = MASSAGE(list(unit_en_table[1].children)[i + 14]).strip()
 			return
 		if "description" in str(tag):
@@ -322,16 +328,21 @@ def _parse_cat_unit_en_description(eng_data, unit):
 		# For with additional text boxes above indicating incompleteness for
 		# cats that also include a combo box.
 		if "Description" in str(tag):
+			# Images
+			_parse_cat_unit_thumbnail(list(unit_en_table[2].children)[i].img, unit, "Normal")
+			_parse_cat_unit_thumbnail(list(unit_en_table[2].children)[i+6].img, unit, "Evolved")
+			# Description
 			unit["Normal"].enDescription = MASSAGE(list(unit_en_table[2].children)[i + 2]).strip()
 			unit["Evolved"].enDescription = MASSAGE(list(unit_en_table[2].children)[i + 8]).strip()
 			if unit["True"]:
+				_parse_cat_unit_thumbnail(list(unit_en_table[2].children)[i+12].img, unit, "True")
 				unit["True"].enDescription = MASSAGE(list(unit_en_table[2].children)[i + 14]).strip()
 			return
 		if "description" in str(tag):
-			unit["Normal"].enDescription = MASSAGE(list(unit_en_table[1].children)[i].find_all('td')[1]).strip()
-			unit["Evolved"].enDescription = MASSAGE(list(unit_en_table[1].children)[i+2].find_all('td')[1]).strip()
+			unit["Normal"].enDescription = MASSAGE(list(unit_en_table[2].children)[i].find_all('td')[1]).strip()
+			unit["Evolved"].enDescription = MASSAGE(list(unit_en_table[2].children)[i+2].find_all('td')[1]).strip()
 			if unit["True"]:
-				unit["True"].enDescription = MASSAGE(list(unit_en_table[1].children)[i+4].find_all('td')[1]).strip()
+				unit["True"].enDescription = MASSAGE(list(unit_en_table[2].children)[i+4].find_all('td')[1]).strip()
 			return
 
 def _parse_cat_unit_obtain_condition(raw_data, eng_data, unit, form):
@@ -375,7 +386,28 @@ def _parse_cat_unit_combos(raw_data, eng_data, unit, form):
 
 		unit[form].combos[jp_name + "|" + en_name] = unit_list
 
+def _parse_cat_unit_thumbnail(img_tag, unit, form):
+	"""Parses a cat unit's image and downloads it.
+
+	Arguments:
+		img_tag {bs4.Tag} -- The tag containing the URL for the image.
+	"""
+	try:
+		unit[form].img = str(img_tag['data-src'])
+		return
+	except KeyError:
+		pass
+	unit[form].img = str(img_tag['src'])
+
 def _remove_illegal_chars(string):
+	"""Removes Firebase illegal characters.
+
+	Arguments:
+		string {str} -- The string to remove the characters from
+
+	Returns:
+		str -- The same string with the removed characters.
+	"""
 	for char in ILLEGAL_CHARS:
 		string = string.replace(char, '')
 	return string

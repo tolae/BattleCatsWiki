@@ -1,0 +1,71 @@
+247
+
+Normal:
+Version: Ver4.5
+Jap Name: ちびウシネコ
+En Name: Li'l Cow Cat
+Jp Desc: 俊敏な動きで移動力に優れたキャラを目指して成長中のちびにゃんこ
+En Desc: A tiny guy with dreams of becoming that Cat who thinks quick and uses his head!
+Abilities: None:
+Combos: 	進撃のちびネコ|Attack of the Li'ls - ['210', '211', '212', '246', '247']
+Stats: 	health - 1088.235
+	knockback - 5
+	attackRateF - 10
+	attackRateS - 0.33
+	attackPower - 70.588
+	movementSpeed - 20
+	attackAnimF - 6
+	attackAnimS - 0.20
+	range - 130
+	respawnTimeF - 60
+	respawnTimeS - 2.00
+	attackType - 単体(Single Attack)
+	cost - 750
+
+
+Evolved:
+Version: Ver4.5
+Jap Name: ちびネコキリン
+En Name: Li'l Giraffe Cat
+Jp Desc: 俊敏な動きで移動力に優れたキャラを目指して成長中のちびにゃんこ
+En Desc: A tiny guy with dreams of becoming that Cat who headbangs only to Rock'n'Roll!
+Abilities: None:
+Combos: 
+Stats: 	health - 1088.235
+	knockback - 5
+	attackRateF - 10
+	attackRateS - 0.33
+	attackPower - 70.588
+	movementSpeed - 20
+	attackAnimF - 6
+	attackAnimS - 0.20
+	range - 130
+	respawnTimeF - 60
+	respawnTimeS - 2.00
+	attackType - 単体(Single Attack)
+	cost - 750
+
+
+True:
+Version: Ver5.10
+Jap Name: ちびネコライオン
+En Name: Li'l Lion Cat
+Jp Desc: 俊敏で移動力に優れたキャラに成長したちびにゃんこ頭のタテガミは集めたポイントで貰った波動によるダメージを無効にする
+En Desc: A tiny guy with dreams of becoming that Cat who uses his mane to clean the house. Immune to wave damage.
+Abilities: None:Immune to Waves
+Combos: 
+Stats: 	health - 4352.941
+	knockback - 5
+	attackRateF - 10
+	attackRateS - 0.33
+	attackPower - 141.471
+	movementSpeed - 20
+	attackAnimF - 6
+	attackAnimS - 0.20
+	range - 130
+	respawnTimeF - 136
+	respawnTimeS - 4.53
+	attackType - 単体(Single Attack)
+	cost - 750
+
+

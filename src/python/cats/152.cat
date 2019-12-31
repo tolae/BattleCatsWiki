@@ -1,0 +1,71 @@
+152
+
+Normal:
+Version: Ver3.0
+Jap Name: ネコバーベル
+En Name: Weightlifter Cat
+Jp Desc: 重いものを軽々と持ち上げるのが男だと言って11人の子供達と7人の妻とその両親を支える大黒柱黒い敵に超ダメージを与える（範囲攻撃）
+En Desc: Lifting heavy things is the height of manliness. Supports 11 children, 7 wives and their parents. Massive damage to Black enemies (Area Attack)
+Abilities: Black:Massive Damage
+Combos: 
+Stats: 	health - 3375.000
+	knockback - 2
+	attackRateF - 121
+	attackRateS - 4.03
+	attackPower - 1262.500
+	movementSpeed - 6
+	attackAnimF - 18
+	attackAnimS - 0.60
+	range - 220
+	respawnTimeF - 586
+	respawnTimeS - 19.53
+	attackType - 範囲(Area Attack)
+	cost - 1,365
+
+
+Evolved:
+Version: Ver3.0
+Jap Name: ネコRG
+En Name: Ring Girl Cat
+Jp Desc: とうとう人生の12ラウンド目に到達新たな生きがいを見つけたタフなにゃんこ黒い敵に超ダメージを与える（範囲攻撃）
+En Desc: Made it to the 12th round of life using her own toughness and wits. Girl can't be stopped! Massive damage to Black enemies (Area Attack)
+Abilities: Black:Massive Damage
+Combos: 
+Stats: 	health - 3875.000
+	knockback - 2
+	attackRateF - 121
+	attackRateS - 4.03
+	attackPower - 1787.500
+	movementSpeed - 6
+	attackAnimF - 18
+	attackAnimS - 0.60
+	range - 220
+	respawnTimeF - 586
+	respawnTimeS - 19.53
+	attackType - 範囲(Area Attack)
+	cost - 1,365
+
+
+True:
+Version: Ver7.3
+Jap Name: ネコデリバリー
+En Name: Pizza Cat
+Jp Desc: 特性「動きを遅くする」追加
+En Desc: World's biggest junk-food fan who's about to get a nasty surprise when he sees they forgot the extra anchovies. Massive Area damage to Black.
+Abilities: Black:Massive Damage
+Combos: 
+Stats: 	health - 4875.000
+	knockback - 4
+	attackRateF - 121
+	attackRateS - 4.03
+	attackPower - 2312.500
+	movementSpeed - 6
+	attackAnimF - 18
+	attackAnimS - 0.60
+	range - 270
+	respawnTimeF - 586
+	respawnTimeS - 19.53
+	attackType - 範囲(Area Attack)
+	cost - 1,365
+
+

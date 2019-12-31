@@ -1,0 +1,71 @@
+092
+
+Normal:
+Version: 
+Jap Name: 狂乱のネコ
+En Name: Crazed Cat
+Jp Desc: 安価で生産できる基本キャラ狂乱となることで神速を入手しかし足が短いので思ったよりは遅い
+En Desc: The Basic Cat. Crazed version obtains godspeed. But his legs are too short...
+Abilities: None:
+Combos: 	進撃の狂乱ネコ|Crazy Hearts - ['092', '093', '094', '095', '096']
+Stats: 	health - 900.000
+	knockback - 3
+	attackRateF - 37
+	attackRateS - 1.23
+	attackPower - 69.828
+	movementSpeed - 20
+	attackAnimF - 8
+	attackAnimS - 0.27
+	range - 140
+	respawnTimeF - 60
+	respawnTimeS - 2.00
+	attackType - 単体(Single Attack)
+	cost - 75
+
+
+Evolved:
+Version: 
+Jap Name: 狂乱のネコビルダー
+En Name: Crazed Macho Cat
+Jp Desc: 狂おしいほどの鍛えぬいた腕筋がチャームポイントの基本キャラしかし腕は使わない
+En Desc: Charm Point: Muscle Definition. Crazed version obtains godspeed...and a little more definition?
+Abilities: None:
+Combos: 
+Stats: 	health - 900.000
+	knockback - 3
+	attackRateF - 37
+	attackRateS - 1.23
+	attackPower - 69.828
+	movementSpeed - 20
+	attackAnimF - 8
+	attackAnimS - 0.27
+	range - 140
+	respawnTimeF - 60
+	respawnTimeS - 2.00
+	attackType - 単体(Single Attack)
+	cost - 75
+
+
+True:
+Version: Ver5.0
+Jap Name: 大狂乱のネコモヒカン
+En Name: Manic Mohawk Cat
+Jp Desc: 鍛えぬいた筋肉に男前なタテガミのフサフサが萌えポイントの基本キャラ大狂乱となることでさらなる神速を入手
+En Desc: His lovely 'do has driven him a bit crazy, but he makes it work. Manic version obtains godspeed.
+Abilities: None:
+Combos: 
+Stats: 	health - 1100.000
+	knockback - 3
+	attackRateF - 37
+	attackRateS - 1.23
+	attackPower - 84.828
+	movementSpeed - 28
+	attackAnimF - 8
+	attackAnimS - 0.27
+	range - 140
+	respawnTimeF - 60
+	respawnTimeS - 2.00
+	attackType - 単体(Single Attack)
+	cost - 75
+
+

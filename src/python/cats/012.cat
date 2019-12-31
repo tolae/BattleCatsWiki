@@ -1,0 +1,71 @@
+012
+
+Normal:
+Version: Ver1.0
+Jap Name: Mr.
+En Name: Mr.
+Jp Desc: Mr.コラボ
+En Desc: "Mr." is here from the popular "Mr." series. The series has trained his legs for speed, and he can shoot down all the enemies.
+Abilities: None:
+Combos: 
+Stats: 	health - 1250.000
+	knockback - 5
+	attackRateF - 18
+	attackRateS - 0.60
+	attackPower - 87.500
+	movementSpeed - 31
+	attackAnimF - 2
+	attackAnimS - 0.07
+	range - 140
+	respawnTimeF - 226
+	respawnTimeS - 7.53
+	attackType - 範囲(Area Attack)
+	cost - 825
+
+
+Evolved:
+Version: Ver1.0
+Jap Name: Super Mr.
+En Name: Super Mr.
+Jp Desc: Mr.コラボ
+En Desc: "Mr." is here from the popular "Mr." series. The series has trained his legs for speed, and now he has a bazooka. BAM.
+Abilities: None:
+Combos: 
+Stats: 	health - 1250.000
+	knockback - 5
+	attackRateF - 17
+	attackRateS - 0.57
+	attackPower - 87.500
+	movementSpeed - 31
+	attackAnimF - 2
+	attackAnimS - 0.07
+	range - 140
+	respawnTimeF - 226
+	respawnTimeS - 7.53
+	attackType - 範囲(Area Attack)
+	cost - 825
+
+
+True:
+Version: 
+Jap Name: Hyper Mr.
+En Name: Hyper Mr.
+Jp Desc: Mr.コラボ
+En Desc: "Mr." from the world-famous "Mr." games! He surges towards enemies, beating them down with a homemade boxing glove gun.
+Abilities: Zombie:Zombie Killer
+Combos: 
+Stats: 	health - 1250.000
+	knockback - 5
+	attackRateF - 17
+	attackRateS - 0.57
+	attackPower - 87.500
+	movementSpeed - 47
+	attackAnimF - 2
+	attackAnimS - 0.07
+	range - 140
+	respawnTimeF - 226
+	respawnTimeS - 7.53
+	attackType - 範囲(Area Attack)
+	cost - 825
+
+

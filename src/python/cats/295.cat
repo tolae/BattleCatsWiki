@@ -1,0 +1,63 @@
+295
+
+Normal:
+Version: Ver5.5
+Jap Name: ネコまどか
+En Name: Madoka Cat
+Jp Desc: 魔法少女まどか☆マギカコラボ
+En Desc: A kind-hearted Cat who admires Magical Girls.
+She will do anything to help her friends.
+Might Slow Floating enemies.
+Abilities: Float:Slow
+Combos: 
+Stats: 	health - 2125.000
+	knockback - 4
+	attackRateF - 94
+	attackRateS - 3.13
+	attackPower - 625.000
+	movementSpeed - 9
+	attackAnimF - 23
+	attackAnimS - 0.77
+	range - 120
+	respawnTimeF - 206
+	respawnTimeS - 6.87
+	attackType - 単体(Single Attack)
+	cost - 630
+
+
+Evolved:
+Version: Ver5.5
+Jap Name: 魔法少女ネコまどか
+En Name: Magical Girl Madoka Cat
+Jp Desc: 魔法少女まどか☆マギカコラボ
+En Desc: This Magical Cat made a contract with a suspicious
+white creature. Uses her powers only to help others.
+Might Slow Floating enemies.
+Abilities: Float:Slow
+Combos: 
+Stats: 	health - 2125.000
+	knockback - 4
+	attackRateF - 94
+	attackRateS - 3.13
+	attackPower - 625.000
+	movementSpeed - 9
+	attackAnimF - 25
+	attackAnimS - 0.83
+	range - 250
+	respawnTimeF - 206
+	respawnTimeS - 6.87
+	attackType - 単体(Single Attack)
+	cost - 630
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

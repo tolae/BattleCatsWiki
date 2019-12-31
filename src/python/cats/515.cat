@@ -1,0 +1,63 @@
+515
+
+Normal:
+Version: Ver8.10.5
+Jap Name: ザンギエフ
+En Name: Zangief
+Jp Desc: ストリートファイターV AEコラボ
+En Desc: Joining the fight from Street Fighter V AE!
+A towering wrestler called "Red Cyclone". 
+Omnistrike, might avoid Zombie damage
+Abilities: Zombie:Multi-Hit,Multi-Hit,Zombie Killer,Long Distance (Omni),Immune to Knockback,Immune to Slow
+Combos: 
+Stats: 	health - 20000.000
+	knockback - 2
+	attackRateF - 103
+	attackRateS - 3.43
+	attackPower - 5000.000
+	movementSpeed - 9
+	attackAnimF - 3
+	attackAnimS - 0.10
+	range - 210
+	respawnTimeF - 3346
+	respawnTimeS - 111.53
+	attackType - 範囲(Area Attack)
+	cost - 4,200
+
+
+Evolved:
+Version: Ver8.10.5
+Jap Name: ザンギエフCC
+En Name: Zangief CC
+Jp Desc: ストリートファイターV AEコラボ
+En Desc: Joining the fight from Street Fighter V AE!
+Submit to the force of his Cyclone Lariat! 
+Omnistrike, might avoid Zombie damage
+Abilities: Zombie:Multi-Hit,Multi-Hit,Zombie Killer,Long Distance (Omni),Immune to Knockback,Immune to Slow
+Combos: 
+Stats: 	health - 20000.000
+	knockback - 2
+	attackRateF - 103
+	attackRateS - 3.43
+	attackPower - 5000.000
+	movementSpeed - 9
+	attackAnimF - 3
+	attackAnimS - 0.10
+	range - 210
+	respawnTimeF - 3346
+	respawnTimeS - 111.53
+	attackType - 範囲(Area Attack)
+	cost - 4,200
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

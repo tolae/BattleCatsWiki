@@ -1,0 +1,59 @@
+114
+
+Normal:
+Version: 
+Jap Name: ノルン
+En Name: Norun
+Jp Desc: メルクストーリアコラボ
+En Desc: N/A
+Abilities: Red:Freeze
+Combos: 
+Stats: 	health - 1200.000
+	knockback - 3
+	attackRateF - 93
+	attackRateS - 3.10
+	attackPower - 487.500
+	movementSpeed - 10
+	attackAnimF - 30
+	attackAnimS - 1.00
+	range - 155
+	respawnTimeF - 146
+	respawnTimeS - 4.87
+	attackType - 単体(Single Attack)
+	cost - 645
+
+
+Evolved:
+Version: 
+Jap Name: ノルンCC
+En Name: NorunCC
+Jp Desc: メルクストーリアコラボ
+En Desc: N/A
+Abilities: Red:Freeze
+Combos: 
+Stats: 	health - 1450.000
+	knockback - 3
+	attackRateF - 93
+	attackRateS - 3.10
+	attackPower - 637.500
+	movementSpeed - 10
+	attackAnimF - 30
+	attackAnimS - 1.00
+	range - 155
+	respawnTimeF - 146
+	respawnTimeS - 4.87
+	attackType - 単体(Single Attack)
+	cost - 645
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

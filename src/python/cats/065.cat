@@ -1,0 +1,59 @@
+065
+
+Normal:
+Version: Ver2.1
+Jap Name: 剣士
+En Name: Swordsman
+Jp Desc: ケリ姫スイーツコラボ
+En Desc: N/A
+Abilities: None:
+Combos: 
+Stats: 	health - 700.000
+	knockback - 3
+	attackRateF - 136
+	attackRateS - 4.53
+	attackPower - 100.000
+	movementSpeed - 6
+	attackAnimF - 27
+	attackAnimS - 0.90
+	range - 170
+	respawnTimeF - 126
+	respawnTimeS - 4.20
+	attackType - 単体(Single Attack)
+	cost - 240
+
+
+Evolved:
+Version: Ver2.1
+Jap Name: 剣士ジョニー
+En Name: Swordsman Johnny
+Jp Desc: ケリ姫スイーツコラボ
+En Desc: N/A
+Abilities: None:
+Combos: 
+Stats: 	health - 1400.000
+	knockback - 3
+	attackRateF - 136
+	attackRateS - 4.53
+	attackPower - 225.000
+	movementSpeed - 6
+	attackAnimF - 27
+	attackAnimS - 0.90
+	range - 170
+	respawnTimeF - 126
+	respawnTimeS - 4.20
+	attackType - 単体(Single Attack)
+	cost - 240
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

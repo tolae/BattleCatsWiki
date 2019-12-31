@@ -1,0 +1,71 @@
+469
+
+Normal:
+Version: Ver8.5
+Jap Name: 聖フェニックス
+En Name: Saint Pheonix
+Jp Desc: ビックリマンコラボ
+En Desc: ?
+Abilities: Black,Float,Alien:Freeze
+Combos: 
+Stats: 	health - 3000.000
+	knockback - 4
+	attackRateF - 260
+	attackRateS - 8.67
+	attackPower - 2500.000
+	movementSpeed - 6
+	attackAnimF - 31
+	attackAnimS - 1.03
+	range - 325
+	respawnTimeF - 746
+	respawnTimeS - 24.87
+	attackType - 範囲(Area Attack)
+	cost - 1,200
+
+
+Evolved:
+Version: Ver8.5
+Jap Name: 聖戦衣化聖フェニックス
+En Name: Holy Saint Pheonix
+Jp Desc: ビックリマンコラボ
+En Desc: ?
+Abilities: Black,Float,Alien:Freeze
+Combos: 
+Stats: 	health - 3000.000
+	knockback - 4
+	attackRateF - 260
+	attackRateS - 8.67
+	attackPower - 2500.000
+	movementSpeed - 12
+	attackAnimF - 31
+	attackAnimS - 1.03
+	range - 325
+	respawnTimeF - 746
+	respawnTimeS - 24.87
+	attackType - 範囲(Area Attack)
+	cost - 1,200
+
+
+True:
+Version: Ver8.5
+Jap Name: ヘッドロココ
+En Name: Head Rokoko
+Jp Desc: ビックリマンコラボ
+En Desc: ?
+Abilities: Black,Float,Alien:Strong,Freeze
+Combos: 
+Stats: 	health - 7500.000
+	knockback - 4
+	attackRateF - 260
+	attackRateS - 8.67
+	attackPower - 4500.000
+	movementSpeed - 18
+	attackAnimF - 31
+	attackAnimS - 1.03
+	range - 400
+	respawnTimeF - 2746
+	respawnTimeS - 91.53
+	attackType - 範囲(Area Attack)
+	cost - 3,600
+
+

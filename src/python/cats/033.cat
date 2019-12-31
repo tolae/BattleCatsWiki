@@ -1,0 +1,72 @@
+033
+
+Normal:
+Version: Ver2.0
+Jap Name: ネコザイル
+En Name: Hip Hop Cat
+Jp Desc: 某ダンススクールでトップダンサーを目指す量産がしやすく使い勝手の良いキャラ赤い敵の移動をごくたまに遅くする
+En Desc: Flunking student from a certain dance school. Can be produced in masses. Flash Mob! Might slow Red enemies.
+Abilities: Red:Slow
+Combos: 	ダンサーズ|Feel the Dance - ['023', '033', '011']
+Stats: 	health - 1875.000
+	knockback - 5
+	attackRateF - 195
+	attackRateS - 6.50
+	attackPower - 1875.000
+	movementSpeed - 11
+	attackAnimF - 36
+	attackAnimS - 1.20
+	range - 220
+	respawnTimeF - 386
+	respawnTimeS - 12.87
+	attackType - 単体(Single Attack)
+	cost - 675
+
+
+Evolved:
+Version: Ver2.0
+Jap Name: ネコ裸踊り
+En Name: Dancing Flasher Cat
+Jp Desc: 某ダンススクールでトップダンサーを目指すがライバルの多さに方向転換を余儀なくされたキャラ赤い敵の移動をごくたまに遅くする
+En Desc: Someone you don't want to see on the street. Dances skillfully to keep the game kid-friendly. Might slow Red enemies.
+Abilities: Red:Slow
+Combos: 	宴会部長|Life of the Party - ['129', '033']
+	露出狂|Flash in the Pan - ['033', '081']
+Stats: 	health - 3750.000
+	knockback - 5
+	attackRateF - 195
+	attackRateS - 6.50
+	attackPower - 3750.000
+	movementSpeed - 11
+	attackAnimF - 36
+	attackAnimS - 1.20
+	range - 220
+	respawnTimeF - 386
+	respawnTimeS - 12.87
+	attackType - 単体(Single Attack)
+	cost - 675
+
+
+True:
+Version: Ver5.5
+Jap Name: ネコカンカン
+En Name: Can Can Cat
+Jp Desc: 特性「撃破時お金x2」追加
+En Desc: Kicked out of dance school for improvising performances too provocative for family shows. Sometimes slows movements of Red enemies.
+Abilities: Red:Slow,Warp Blocker
+Combos: 
+Stats: 	health - 5625.000
+	knockback - 5
+	attackRateF - 195
+	attackRateS - 6.50
+	attackPower - 5625.000
+	movementSpeed - 11
+	attackAnimF - 36
+	attackAnimS - 1.20
+	range - 220
+	respawnTimeF - 386
+	respawnTimeS - 12.87
+	attackType - 単体(Single Attack)
+	cost - 675
+
+

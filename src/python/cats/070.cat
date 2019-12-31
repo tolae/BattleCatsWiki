@@ -1,0 +1,71 @@
+070
+
+Normal:
+Version: Ver2.1
+Jap Name: 眠れるケリの美女
+En Name: Sleeping Beauty
+Jp Desc: ケリ姫スイーツコラボ
+En Desc: N/A
+Abilities: None:
+Combos: 
+Stats: 	health - 2500.000
+	knockback - 1
+	attackRateF - 61
+	attackRateS - 2.03
+	attackPower - 700.000
+	movementSpeed - 6
+	attackAnimF - 12
+	attackAnimS - 0.40
+	range - 160
+	respawnTimeF - 556
+	respawnTimeS - 18.53
+	attackType - 範囲(Area Attack)
+	cost - 1,950
+
+
+Evolved:
+Version: Ver2.1
+Jap Name: 眠れるケリの美女Ⅱ
+En Name: Sleeping Beauty II
+Jp Desc: ケリ姫スイーツコラボ
+En Desc: N/A
+Abilities: None:
+Combos: 
+Stats: 	health - 2500.000
+	knockback - 1
+	attackRateF - 61
+	attackRateS - 2.03
+	attackPower - 700.000
+	movementSpeed - 6
+	attackAnimF - 12
+	attackAnimS - 0.40
+	range - 160
+	respawnTimeF - 556
+	respawnTimeS - 18.53
+	attackType - 範囲(Area Attack)
+	cost - 1,950
+
+
+True:
+Version: Ver6.0
+Jap Name: ひたすら眠れるケリの美女
+En Name: Sleeping Beauty III
+Jp Desc: ケリ姫スイーツコラボ
+En Desc: N/A
+Abilities: None:Immune to Slow
+Combos: 
+Stats: 	health - 3750.000
+	knockback - 1
+	attackRateF - 61
+	attackRateS - 2.03
+	attackPower - 875.000
+	movementSpeed - 6
+	attackAnimF - 12
+	attackAnimS - 0.40
+	range - 160
+	respawnTimeF - 556
+	respawnTimeS - 18.53
+	attackType - 範囲(Area Attack)
+	cost - 1,950
+
+

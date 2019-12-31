@@ -1,0 +1,63 @@
+091
+
+Normal:
+Version: 
+Jap Name: 猿王
+En Name: Monkey King
+Jp Desc: ドラゴンポーカーコラボ
+En Desc: Limited time character from a collaboration event.
+Has single attack and tough body.
+Universal character that has high attack power.
+Abilities: None:
+Combos: 
+Stats: 	health - 5450.000
+	knockback - 3
+	attackRateF - 67
+	attackRateS - 2.23
+	attackPower - 4100.000
+	movementSpeed - 12
+	attackAnimF - 30
+	attackAnimS - 1.00
+	range - 177
+	respawnTimeF - 856
+	respawnTimeS - 28.53
+	attackType - 単体(Single Attack)
+	cost - 2,985
+
+
+Evolved:
+Version: 
+Jap Name: SSS猿王
+En Name: SSS Monkey King
+Jp Desc: ドラゴンポーカーコラボ
+En Desc: The advance in SSS of great power.
+Has single attack and tough body.
+Universal character that has high attack power.
+Abilities: None:
+Combos: 
+Stats: 	health - 7125.000
+	knockback - 3
+	attackRateF - 67
+	attackRateS - 2.23
+	attackPower - 5530.147
+	movementSpeed - 12
+	attackAnimF - 30
+	attackAnimS - 1.00
+	range - 177
+	respawnTimeF - 856
+	respawnTimeS - 28.53
+	attackType - 単体(Single Attack)
+	cost - 2,985
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

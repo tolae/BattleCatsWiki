@@ -1,0 +1,71 @@
+262
+
+Normal:
+Version: Ver4.7
+Jap Name: 天誅ハヤブサ
+En Name: Hayabusa
+Jp Desc: 一族に伝わる退魔の刀で悪事を裁くニンジャ胸のエネルギーコアによる超移動で敵をなぎ払うたまにクリティカル（遠方範囲攻撃）
+En Desc: Seals away evil with his clan's mystic blade. The way of the Ninja knows no mercy. Long Distance, Area Attacks, Critical Attacks.
+Abilities: None:Critical,Long Distance (Area),Immune to Slow
+Combos: 	ザ・ニンジャ|Enter the Ninja - ['019', '262']
+Stats: 	health - 6875.000
+	knockback - 7
+	attackRateF - 149
+	attackRateS - 4.97
+	attackPower - 1500.000
+	movementSpeed - 25
+	attackAnimF - 32
+	attackAnimS - 1.07
+	range - 365
+	respawnTimeF - 3246
+	respawnTimeS - 108.20
+	attackType - 範囲(Area Attack)
+	cost - 4,275
+
+
+Evolved:
+Version: Ver4.7
+Jap Name: 斬魔ハヤブサ
+En Name: Oni Hayabusa
+Jp Desc: エネルギーコアの暴走により自我を失ったニンジャは自らの魂を燃えあがらせ闇を斬る。たまにエイリアンをふっとばして動きを遅くする（遠方範囲攻撃）
+En Desc: The otherworldly power in his chest now threatens to consume him. To destroy evil, will he lose his soul? Long Distance, Area Attacks, Knockback, Slow.
+Abilities: Alien:Knockback,Slow,Long Distance (Area),Immune to Slow
+Combos: 
+Stats: 	health - 6875.000
+	knockback - 7
+	attackRateF - 149
+	attackRateS - 4.97
+	attackPower - 3000.000
+	movementSpeed - 25
+	attackAnimF - 32
+	attackAnimS - 1.07
+	range - 365
+	respawnTimeF - 3246
+	respawnTimeS - 108.20
+	attackType - 範囲(Area Attack)
+	cost - 4,275
+
+
+True:
+Version: Ver8.0
+Jap Name: 滅殺ハヤブサ
+En Name: Akuma Hayabusa
+Jp Desc: エネルギーコアの力を極限解放したニンジャは黒曜の鎧を身に纏い、闇夜を疾る。たまにゾンビをふっとばして動きを遅くする（遠方範囲攻撃）
+En Desc: Cybernetically enhanced his demon's power with an experimental Inferno Engine replacing his heart. Long Area Attacks, Knockback & Slow vs Zombies.
+Abilities: Zombie:Knockback,Slow,Zombie Killer,Long Distance (Area),Immune to Slow
+Combos: 
+Stats: 	health - 6875.000
+	knockback - 7
+	attackRateF - 149
+	attackRateS - 4.97
+	attackPower - 3000.000
+	movementSpeed - 25
+	attackAnimF - 32
+	attackAnimS - 1.07
+	range - 365
+	respawnTimeF - 3246
+	respawnTimeS - 108.20
+	attackType - 範囲(Area Attack)
+	cost - 4,275
+
+

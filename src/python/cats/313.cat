@@ -1,0 +1,71 @@
+313
+
+Normal:
+Version: Ver5.7
+Jap Name: ちびネコトカゲ
+En Name: Li'l Lizard Cat
+Jp Desc: 遠くの敵を攻撃できる遠距離型キャラ単発だけなら攻撃力はピカイチ、なキャラを目指して成長中のちびにゃんこ
+En Desc: A tiny guy with dreams of becoming that Cat able to attack enemies from a distance. Powerful single shot long range attack.
+Abilities: None:
+Combos: 
+Stats: 	health - 1741.176
+	knockback - 3
+	attackRateF - 127
+	attackRateS - 4.23
+	attackPower - 1904.412
+	movementSpeed - 8
+	attackAnimF - 8
+	attackAnimS - 0.27
+	range - 320
+	respawnTimeF - 316
+	respawnTimeS - 10.53
+	attackType - 単体(Single Attack)
+	cost - 1,500
+
+
+Evolved:
+Version: Ver5.7
+Jap Name: ちびネコドラゴン
+En Name: Li'l Dragon Cat
+Jp Desc: 幻想世界から降臨した遠距離型キャラ単発だけなら攻撃力はピカイチ、なキャラを目指して成長中のちびにゃんこ
+En Desc: A tiny guy with dreams of becoming that Cat that arrived here from a fantasy world. Powerful single shot long range attack.
+Abilities: None:
+Combos: 	古龍と子竜|Dragons Old and Young - ['397', '313']
+Stats: 	health - 1741.176
+	knockback - 3
+	attackRateF - 127
+	attackRateS - 4.23
+	attackPower - 1904.412
+	movementSpeed - 8
+	attackAnimF - 8
+	attackAnimS - 0.27
+	range - 320
+	respawnTimeF - 316
+	respawnTimeS - 10.53
+	attackType - 単体(Single Attack)
+	cost - 1,500
+
+
+True:
+Version: Ver5.10
+Jap Name: ちびネコキングドラゴン
+En Name: Li'l King Dragon Cat
+Jp Desc: ドラゴン界のエリートまで成長した遠距離型ちびにゃんこ単発の攻撃力と垂れツノのキュートさはピカイチ
+En Desc: A tiny guy with dreams of becoming that Cat that makes it in the Dragon Elite. Powerful single shot long range attack.
+Abilities: None:
+Combos: 
+Stats: 	health - 4897.059
+	knockback - 3
+	attackRateF - 127
+	attackRateS - 4.23
+	attackPower - 2176.471
+	movementSpeed - 10
+	attackAnimF - 8
+	attackAnimS - 0.27
+	range - 400
+	respawnTimeF - 516
+	respawnTimeS - 17.20
+	attackType - 単体(Single Attack)
+	cost - 1,500
+
+

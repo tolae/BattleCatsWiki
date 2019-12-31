@@ -1,0 +1,59 @@
+484
+
+Normal:
+Version: Ver8.6
+Jap Name: カノとソウマ
+En Name: Kano and Souma
+Jp Desc: 消滅都市コラボ
+En Desc: N/A
+Abilities: Alien:Resistant
+Combos: 
+Stats: 	health - 1250.000
+	knockback - 2
+	attackRateF - 101
+	attackRateS - 3.37
+	attackPower - 175.000
+	movementSpeed - 25
+	attackAnimF - 22
+	attackAnimS - 0.73
+	range - 190
+	respawnTimeF - 136
+	respawnTimeS - 4.53
+	attackType - 範囲(Area Attack)
+	cost - 420
+
+
+Evolved:
+Version: Ver8.6
+Jap Name: カノとソウマとネコ
+En Name: Kano and Souma and Cat
+Jp Desc: 消滅都市コラボ
+En Desc: N/A
+Abilities: Alien:Resistant
+Combos: 
+Stats: 	health - 1250.000
+	knockback - 2
+	attackRateF - 101
+	attackRateS - 3.37
+	attackPower - 175.000
+	movementSpeed - 25
+	attackAnimF - 22
+	attackAnimS - 0.73
+	range - 190
+	respawnTimeF - 136
+	respawnTimeS - 4.53
+	attackType - 範囲(Area Attack)
+	cost - 420
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

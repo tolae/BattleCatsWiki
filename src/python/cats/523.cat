@@ -1,0 +1,63 @@
+523
+
+Normal:
+Version: Ver9.0
+Jap Name: 泉のネコ女神
+En Name: Nymph Cat
+Jp Desc: 斧を落としたものにチャンスを与える泉のネコ嘘をつく敵には容赦なくその斧をぶん投げる（遠方範囲攻撃）
+En Desc: Some rude “hero” dropped his axes right in her pond.
+No time for litterbugs, no matter how handsome they
+might be! Long Range Area attacks.
+Abilities: None:Multi-Hit,Long Distance (Area)
+Combos: 
+Stats: 	health - 900.000
+	knockback - 4
+	attackRateF - 145
+	attackRateS - 4.83
+	attackPower - 1375.000
+	movementSpeed - 16
+	attackAnimF - 35
+	attackAnimS - 1.17
+	range - 300
+	respawnTimeF - 546
+	respawnTimeS - 18.20
+	attackType - 範囲(Area Attack)
+	cost - 975
+
+
+Evolved:
+Version: Ver9.0
+Jap Name: ネコメダリスト
+En Name: Medalist Cat
+Jp Desc: 代理で出場した何かの大会でマグレ優勝したネコたち思い入れのないメダルはお客さんにプレゼント（遠方範囲攻撃）
+En Desc: Somehow this Cat qualified for the tournament...
+Somehow she won Gold. An investigation is
+underway. Long-range Area attacks.
+Abilities: None:Multi-Hit,Long Distance (Area)
+Combos: 
+Stats: 	health - 1200.000
+	knockback - 4
+	attackRateF - 145
+	attackRateS - 4.83
+	attackPower - 1875.000
+	movementSpeed - 16
+	attackAnimF - 35
+	attackAnimS - 1.17
+	range - 300
+	respawnTimeF - 546
+	respawnTimeS - 18.20
+	attackType - 範囲(Area Attack)
+	cost - 975
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

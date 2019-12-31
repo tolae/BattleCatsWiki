@@ -1,0 +1,59 @@
+179
+
+Normal:
+Version: 
+Jap Name: 極道にゃんこ
+En Name: Mob Cat
+Jp Desc: 極道大戦争コラボ
+En Desc: N/A
+Abilities: None:
+Combos: 
+Stats: 	health - 250.000
+	knockback - 1
+	attackRateF - 37
+	attackRateS - 1.23
+	attackPower - 19.853
+	movementSpeed - 8
+	attackAnimF - 8
+	attackAnimS - 0.27
+	range - 140
+	respawnTimeF - 60
+	respawnTimeS - 2.00
+	attackType - 単体(Single Attack)
+	cost - 105
+
+
+Evolved:
+Version: 
+Jap Name: ヤクザヴァンパイア
+En Name: Yakuza Vampire
+Jp Desc: 極道大戦争コラボ
+En Desc: N/A
+Abilities: None:
+Combos: 
+Stats: 	health - 2575.000
+	knockback - 1
+	attackRateF - 71
+	attackRateS - 2.37
+	attackPower - 700.000
+	movementSpeed - 7
+	attackAnimF - 18
+	attackAnimS - 0.60
+	range - 155
+	respawnTimeF - 576
+	respawnTimeS - 19.20
+	attackType - 範囲(Area Attack)
+	cost - 1,875
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

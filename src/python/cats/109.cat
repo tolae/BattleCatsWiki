@@ -1,0 +1,59 @@
+109
+
+Normal:
+Version: 
+Jap Name: にゃんこ3兄弟
+En Name: Cat Bros
+Jp Desc: プラスチック製のガシャポンカプセルに入った仲良しにゃんこ3兄弟（範囲攻撃）良い子はマネしちゃダメ！絶対！
+En Desc: Living happily in a plastic bubble. No need for the outside world!!! (Don't make them a role model, kids...)
+Abilities: None:
+Combos: 
+Stats: 	health - 800.000
+	knockback - 4
+	attackRateF - 91
+	attackRateS - 3.03
+	attackPower - 657.353
+	movementSpeed - 10
+	attackAnimF - 32
+	attackAnimS - 1.07
+	range - 170
+	respawnTimeF - 60
+	respawnTimeS - 2.00
+	attackType - 範囲(Area Attack)
+	cost - 1,020
+
+
+Evolved:
+Version: 
+Jap Name: 秘密要塞ネコロス
+En Name: Secret Base
+Jp Desc: 3兄弟の英知を結集して作られた秘密要塞ネコロス（範囲攻撃）メイン装甲がダンボールなので湿気に弱い
+En Desc: A homemade fortress as resilient at the $0.75 budget allows. Tough against various attacks, except moisture... a bit weak against that.
+Abilities: None:
+Combos: 
+Stats: 	health - 800.000
+	knockback - 4
+	attackRateF - 91
+	attackRateS - 3.03
+	attackPower - 657.353
+	movementSpeed - 10
+	attackAnimF - 32
+	attackAnimS - 1.07
+	range - 170
+	respawnTimeF - 60
+	respawnTimeS - 2.00
+	attackType - 範囲(Area Attack)
+	cost - 1,020
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

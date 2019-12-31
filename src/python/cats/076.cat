@@ -1,0 +1,71 @@
+076
+
+Normal:
+Version: Ver2.1
+Jap Name: 風神のウィンディ
+En Name: Windy
+Jp Desc: 風のチカラを操るハイパー少女遠距離から放たれるバキュームキャノンは浮いてる敵に超ダメージを与える（範囲攻撃）
+En Desc: A galaxy girl who manipulates wind. Her vacuum cannon cleans enemies from a distance. Massive damage to Floating enemies (Area Attack).
+Abilities: Float:Massive Damage
+Combos: 	ダブルタイフーン|Double Typhoon - ['076', '268']
+Stats: 	health - 2000.000
+	knockback - 6
+	attackRateF - 408
+	attackRateS - 13.60
+	attackPower - 3137.500
+	movementSpeed - 6
+	attackAnimF - 81
+	attackAnimS - 2.70
+	range - 420
+	respawnTimeF - 3078
+	respawnTimeS - 102.60
+	attackType - 範囲(Area Attack)
+	cost - 4,425
+
+
+Evolved:
+Version: Ver2.1
+Jap Name: 風神のウィンディα
+En Name: Windy, type α
+Jp Desc: たまに風の痛みが聞こえる不思議ちゃん遠距離から放たれるバキュームキャノンは浮いてる敵に超ダメージを与える（範囲攻撃）
+En Desc: This strange girl can hear the wind whispering. The wind tells her that it is in pain... Massive damage to Floating enemies (Area Attack).
+Abilities: Float:Massive Damage
+Combos: 
+Stats: 	health - 3750.000
+	knockback - 6
+	attackRateF - 408
+	attackRateS - 13.60
+	attackPower - 6387.500
+	movementSpeed - 6
+	attackAnimF - 81
+	attackAnimS - 2.70
+	range - 420
+	respawnTimeF - 3078
+	respawnTimeS - 102.60
+	attackType - 範囲(Area Attack)
+	cost - 4,425
+
+
+True:
+Version: Ver5.0
+Jap Name: 疾風神のウィンディα
+En Name: Divine Windy
+Jp Desc: 特性「動きを止める」追加
+En Desc: Has a bad habit of impulse buying the latest mechas. Neo-Vacuum Cannon blasts from long-distance. Massive damage to Floating enemies (Area Attack).
+Abilities: Float:Massive Damage
+Combos: 
+Stats: 	health - 7500.000
+	knockback - 6
+	attackRateF - 408
+	attackRateS - 13.60
+	attackPower - 10137.500
+	movementSpeed - 12
+	attackAnimF - 81
+	attackAnimS - 2.70
+	range - 450
+	respawnTimeF - 3078
+	respawnTimeS - 102.60
+	attackType - 範囲(Area Attack)
+	cost - 4,425
+
+

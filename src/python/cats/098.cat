@@ -1,0 +1,71 @@
+098
+
+Normal:
+Version: 
+Jap Name: 狂乱のネコフィッシュ
+En Name: Crazed Fish Cat
+Jp Desc: ｢赤い敵｣にはめっぽう強く狂乱となることで生産性が向上したごくたまにクリティカル攻撃を放つ
+En Desc: Strong against Red enemies. Crazed version decreases production time. Might perform critical attacks.
+Abilities: Red:Strong,Critical
+Combos: 	お魚天国|Back to School - ['007', '098', '075']
+Stats: 	health - 6300.000
+	knockback - 3
+	attackRateF - 53
+	attackRateS - 1.77
+	attackPower - 1619.828
+	movementSpeed - 13
+	attackAnimF - 10
+	attackAnimS - 0.33
+	range - 150
+	respawnTimeF - 256
+	respawnTimeS - 8.53
+	attackType - 単体(Single Attack)
+	cost - 735
+
+
+Evolved:
+Version: 
+Jap Name: 狂乱のネコクジラ
+En Name: Crazed Whale Cat
+Jp Desc: 肉食クジラに進化した高級戦闘キャラ｢赤い敵｣にはめっぽう強いごくたまにクリティカル攻撃を放つ
+En Desc: Managed to become a carnivorous whale. Strong against Red enemies. Might perform critical attacks.
+Abilities: Red:Strong,Critical
+Combos: 	ホゲーー|Moby Dick - ['052', '007', '098']
+Stats: 	health - 6300.000
+	knockback - 3
+	attackRateF - 53
+	attackRateS - 1.77
+	attackPower - 1619.828
+	movementSpeed - 13
+	attackAnimF - 10
+	attackAnimS - 0.33
+	range - 150
+	respawnTimeF - 256
+	respawnTimeS - 8.53
+	attackType - 単体(Single Attack)
+	cost - 735
+
+
+True:
+Version: Ver5.0
+Jap Name: 大狂乱のネコ島
+En Name: Manic Island Cat
+Jp Desc: 鬼が住むと噂のあるにゃんこ向け温泉リゾート赤い敵にめっぽう強く、ごくたまにクリティカルを放つ大狂乱となることで体力と攻撃力がアップ
+En Desc: Demons are rumored to live on this manic island. Strong against Red, might critical. Mania gives it extra offense and defense!
+Abilities: Red:Strong,Critical
+Combos: 	風林火山|Volcanic Fury - ['126', '098']
+Stats: 	health - 7650.000
+	knockback - 3
+	attackRateF - 53
+	attackRateS - 1.77
+	attackPower - 1969.828
+	movementSpeed - 13
+	attackAnimF - 10
+	attackAnimS - 0.33
+	range - 150
+	respawnTimeF - 256
+	respawnTimeS - 8.53
+	attackType - 単体(Single Attack)
+	cost - 735
+
+

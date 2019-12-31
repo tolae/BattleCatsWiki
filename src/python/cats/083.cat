@@ -1,0 +1,59 @@
+083
+
+Normal:
+Version: 
+Jap Name: ネコ忍者～青～
+En Name: Blue Shinobi
+Jp Desc: 漫画の力で忍者を極めた限定キャラバトルネコよりも性能が高く｢赤い敵｣にめっぽう強い
+En Desc: Studied ninjutsu with manga. Stronger than Axe Cat - YES! Wanna fight, Red Enemies?
+Abilities: Red:Multi-Hit,Strong
+Combos: 
+Stats: 	health - 637.500
+	knockback - 3
+	attackRateF - 21
+	attackRateS - 0.70
+	attackPower - 75.000
+	movementSpeed - 13
+	attackAnimF - 6
+	attackAnimS - 0.20
+	range - 154
+	respawnTimeF - 60
+	respawnTimeS - 2.00
+	attackType - 単体(Single Attack)
+	cost - 300
+
+
+Evolved:
+Version: 
+Jap Name: ネコ忍者～橙～
+En Name: Orange Shinobi
+Jp Desc: アニメの力で忍者を極めた限定キャラバトルネコよりも性能が高く｢赤い敵｣にめっぽう強い
+En Desc: Deepened studies with anime. Stronger than Axe Cat - YES! Wanna fight, Red Enemies?
+Abilities: Red:Multi-Hit,Strong
+Combos: 
+Stats: 	health - 637.500
+	knockback - 3
+	attackRateF - 21
+	attackRateS - 0.70
+	attackPower - 75.000
+	movementSpeed - 13
+	attackAnimF - 6
+	attackAnimS - 0.20
+	range - 154
+	respawnTimeF - 60
+	respawnTimeS - 2.00
+	attackType - 単体(Single Attack)
+	cost - 300
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

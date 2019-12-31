@@ -1,0 +1,59 @@
+492
+
+Normal:
+Version: Ver8.7.5
+Jap Name: ちびアヤナミレイ（仮称）
+En Name: Rei Ayanami
+Jp Desc: エヴァンゲリオンコラボ
+En Desc: Recruited from Evangelion! But it seems she has no memory of Shinji...? Tough vs Black, Area attacks might Weaken.
+Abilities: Black,Apostle:Resistant,Weaken,Eva Angel Killer,Immune to Knockback
+Combos: 
+Stats: 	health - 6750.000
+	knockback - 2
+	attackRateF - 118
+	attackRateS - 3.93
+	attackPower - 750.000
+	movementSpeed - 8
+	attackAnimF - 35
+	attackAnimS - 1.17
+	range - 180
+	respawnTimeF - 546
+	respawnTimeS - 18.20
+	attackType - 範囲(Area Attack)
+	cost - 1,185
+
+
+Evolved:
+Version: Ver8.7.5
+Jap Name: 目覚めのちびアヤナミ
+En Name: Awakened Ayanami
+Jp Desc: エヴァンゲリオンコラボ
+En Desc: Recruited from Evangelion! Beginning to wonder about her true identity... Tough vs Black, Area attacks might Weaken
+Abilities: Black,Apostle:Resistant,Weaken,Eva Angel Killer,Immune to Knockback
+Combos: 
+Stats: 	health - 6750.000
+	knockback - 2
+	attackRateF - 118
+	attackRateS - 3.93
+	attackPower - 750.000
+	movementSpeed - 8
+	attackAnimF - 35
+	attackAnimS - 1.17
+	range - 180
+	respawnTimeF - 546
+	respawnTimeS - 18.20
+	attackType - 範囲(Area Attack)
+	cost - 1,185
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

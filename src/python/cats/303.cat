@@ -1,0 +1,59 @@
+303
+
+Normal:
+Version: Ver5.5
+Jap Name: ネコアイスゴースト
+En Name: Lilith Cat
+Jp Desc: 氷の世界より降り立ったハロウィン限定スタイルの少女背筋が凍るほどのかわいさにみんなの視線は釘づけ天使の動きをたまにしばらく止める（範囲攻撃）
+En Desc: Snow is in short supply before November, so Ice Cat changes to a more mischievous & spooky look. Might Freeze Angels with terror (Area Attack)
+Abilities: Angel:Freeze
+Combos: 
+Stats: 	health - 3500.000
+	knockback - 3
+	attackRateF - 183
+	attackRateS - 6.10
+	attackPower - 2750.000
+	movementSpeed - 8
+	attackAnimF - 54
+	attackAnimS - 1.80
+	range - 375
+	respawnTimeF - 1746
+	respawnTimeS - 58.20
+	attackType - 範囲(Area Attack)
+	cost - 3,300
+
+
+Evolved:
+Version: Ver5.5
+Jap Name: ネコアイスファントム
+En Name: Succubus Cat
+Jp Desc: イタズラ心にそっと火をつけては姿をくらます氷の世界の小悪魔少女天使の動きをたまにしばらく止める（範囲攻撃）
+En Desc: Ice Cat has been overtaken by her love for Halloween pranks... Will winter revive her cold but gentle heart? Might freeze Angels (Area Atk)
+Abilities: Angel:Freeze
+Combos: 
+Stats: 	health - 5000.000
+	knockback - 3
+	attackRateF - 183
+	attackRateS - 6.10
+	attackPower - 3875.000
+	movementSpeed - 8
+	attackAnimF - 54
+	attackAnimS - 1.80
+	range - 375
+	respawnTimeF - 1746
+	respawnTimeS - 58.20
+	attackType - 範囲(Area Attack)
+	cost - 3,300
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

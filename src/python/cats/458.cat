@@ -1,0 +1,59 @@
+458
+
+Normal:
+Version: Ver8.2
+Jap Name: ネコ士郎
+En Name: Shirou the Cat
+Jp Desc: 劇場版 Fate stay nightコラボ
+En Desc: A Cat who strives to be a defender of justice. Spent months in his room trying to summon a Heroic Spirit. Strong vs. Black enemies.
+Abilities: Black:Strong
+Combos: 
+Stats: 	health - 1875.000
+	knockback - 3
+	attackRateF - 58
+	attackRateS - 1.93
+	attackPower - 325.000
+	movementSpeed - 10
+	attackAnimF - 36
+	attackAnimS - 1.20
+	range - 170
+	respawnTimeF - 276
+	respawnTimeS - 9.20
+	attackType - 単体(Single Attack)
+	cost - 540
+
+
+Evolved:
+Version: Ver8.2
+Jap Name: 魔術師見習いネコ士郎
+En Name: Novice Mage Shirou cat
+Jp Desc: 劇場版 Fate stay nightコラボ
+En Desc: Still hasn't succeeded at Heroic Cat summoning. Now leaves his room sometimes to do night patrols. Strong vs. Black enemies.
+Abilities: Black:Strong
+Combos: 
+Stats: 	health - 1875.000
+	knockback - 3
+	attackRateF - 58
+	attackRateS - 1.93
+	attackPower - 325.000
+	movementSpeed - 10
+	attackAnimF - 36
+	attackAnimS - 1.20
+	range - 170
+	respawnTimeF - 276
+	respawnTimeS - 9.20
+	attackType - 単体(Single Attack)
+	cost - 540
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

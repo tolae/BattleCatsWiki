@@ -1,0 +1,63 @@
+145
+
+Normal:
+Version: 
+Jap Name: にゃんこ城Mini
+En Name: Cat Base Mini
+Jp Desc: 誰が吹き込んだのかは知らないが立派なにゃんこ城になるため修行中のにゃんこ気合だけで波動を放つ努力家
+En Desc: Who can say why, but this Cat has undergone
+rigorous training to become a splendid fort.
+His wave attack is actually just loud yelling.
+Abilities: None:Wave Attack
+Combos: 
+Stats: 	health - 2500.000
+	knockback - 2
+	attackRateF - 135
+	attackRateS - 4.50
+	attackPower - 159.853
+	movementSpeed - 5
+	attackAnimF - 56
+	attackAnimS - 1.87
+	range - 350
+	respawnTimeF - 786
+	respawnTimeS - 26.20
+	attackType - 単体(Single Attack)
+	cost - 990
+
+
+Evolved:
+Version: 
+Jap Name: にゃんこ城Jr
+En Name: Cat Base Jr.
+Jp Desc: 通販でヘルメットを買い、より本物に近づいた城のふりをして色々なものをのぞき見するのが日課興奮すると波動が出てしまう
+En Desc: Bought a cosplay helmet by mail order.
+Likes to stalk strangers while pretending to be
+a tower; his wave fires if he gets too excited.
+Abilities: None:Wave Attack
+Combos: 
+Stats: 	health - 2500.000
+	knockback - 2
+	attackRateF - 135
+	attackRateS - 4.50
+	attackPower - 159.853
+	movementSpeed - 5
+	attackAnimF - 56
+	attackAnimS - 1.87
+	range - 350
+	respawnTimeF - 786
+	respawnTimeS - 26.20
+	attackType - 単体(Single Attack)
+	cost - 990
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

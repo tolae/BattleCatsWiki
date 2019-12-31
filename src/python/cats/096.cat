@@ -1,0 +1,72 @@
+096
+
+Normal:
+Version: 
+Jap Name: 狂乱のウシネコ
+En Name: Crazed Cow Cat
+Jp Desc: 俊敏な動きで移動力に優れたキャラ攻撃回数と移動スピードはハンパない狂乱となることで範囲攻撃をマスター
+En Desc: Thinks quick, acts quick, and uses his head. Runs like the wind! Crazed version grants area attack.
+Abilities: None:
+Combos: 	チームヘッドバンギング|Headbanger's Ball - ['005', '096', '149']
+	進撃の狂乱ネコ|Crazy Hearts - ['092', '093', '094', '095', '096']
+Stats: 	health - 4500.000
+	knockback - 5
+	attackRateF - 10
+	attackRateS - 0.33
+	attackPower - 117.586
+	movementSpeed - 50
+	attackAnimF - 6
+	attackAnimS - 0.20
+	range - 140
+	respawnTimeF - 136
+	respawnTimeS - 4.53
+	attackType - 範囲(Area Attack)
+	cost - 750
+
+
+Evolved:
+Version: 
+Jap Name: 狂乱のキリンネコ
+En Name: Crazed Giraffe Cat
+Jp Desc: 俊敏な動きで移動力に優れたキャラ長い首でのヘッドバンギングが笑える狂乱となることで範囲攻撃をマスター
+En Desc: Thinks quick, acts quick, and uses his head. Headbangs only to Rock'n'Roll! Crazed version grants area attack.
+Abilities: None:
+Combos: 
+Stats: 	health - 4500.000
+	knockback - 5
+	attackRateF - 10
+	attackRateS - 0.33
+	attackPower - 117.586
+	movementSpeed - 50
+	attackAnimF - 6
+	attackAnimS - 0.20
+	range - 140
+	respawnTimeF - 136
+	respawnTimeS - 4.53
+	attackType - 範囲(Area Attack)
+	cost - 750
+
+
+True:
+Version: Ver5.0
+Jap Name: 大狂乱のネコライオン
+En Name: Manic Lion Cat
+Jp Desc: 俊敏な動きで移動力に優れたキャラ神々しいタテガミは何かご利益があると噂される大狂乱となることで更なる神速をゲット（範囲攻撃）
+En Desc: An excellent, agile character. Though Manic, his magnificent mane somehow grants him godspeed (Area Atk).
+Abilities: None:
+Combos: 	韋駄天トリオ|Heavenly Kings - ['072', '026', '096']
+Stats: 	health - 4500.000
+	knockback - 5
+	attackRateF - 10
+	attackRateS - 0.33
+	attackPower - 117.586
+	movementSpeed - 66
+	attackAnimF - 6
+	attackAnimS - 0.20
+	range - 140
+	respawnTimeF - 136
+	respawnTimeS - 4.53
+	attackType - 範囲(Area Attack)
+	cost - 750
+
+

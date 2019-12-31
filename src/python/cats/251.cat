@@ -1,0 +1,71 @@
+251
+
+Normal:
+Version: Ver4.6
+Jap Name: 騎馬兵
+En Name: Horsemen Cavalry
+Jp Desc: 城とドラゴンコラボ
+En Desc: N/A
+Abilities: None:
+Combos: 
+Stats: 	health - 1125.000
+	knockback - 5
+	attackRateF - 39
+	attackRateS - 1.30
+	attackPower - 144.853
+	movementSpeed - 25
+	attackAnimF - 20
+	attackAnimS - 0.67
+	range - 140
+	respawnTimeF - 60
+	respawnTimeS - 2.00
+	attackType - 単体(Single Attack)
+	cost - 750
+
+
+Evolved:
+Version: Ver4.6
+Jap Name: 森の騎馬兵
+En Name: Cavalry Soldiers of Forest
+Jp Desc: 城とドラゴンコラボ
+En Desc: N/A
+Abilities: None:
+Combos: 
+Stats: 	health - 1125.000
+	knockback - 5
+	attackRateF - 39
+	attackRateS - 1.30
+	attackPower - 144.853
+	movementSpeed - 25
+	attackAnimF - 20
+	attackAnimS - 0.67
+	range - 140
+	respawnTimeF - 60
+	respawnTimeS - 2.00
+	attackType - 単体(Single Attack)
+	cost - 750
+
+
+True:
+Version: Ver4.6
+Jap Name: 迅雷の黒騎馬兵
+En Name: Black Cavalry Soldiers of The Thunderclap
+Jp Desc: 城とドラゴンコラボ
+En Desc: N/A
+Abilities: None:
+Combos: 
+Stats: 	health - 1125.000
+	knockback - 5
+	attackRateF - 39
+	attackRateS - 1.30
+	attackPower - 144.853
+	movementSpeed - 35
+	attackAnimF - 20
+	attackAnimS - 0.67
+	range - 140
+	respawnTimeF - 60
+	respawnTimeS - 2.00
+	attackType - 単体(Single Attack)
+	cost - 750
+
+

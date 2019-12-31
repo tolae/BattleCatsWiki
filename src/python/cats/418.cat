@@ -1,0 +1,71 @@
+418
+
+Normal:
+Version: Ver6.10
+Jap Name: 温泉天国テルマエ
+En Name: Mighty Thermae D-Lux
+Jp Desc: 世界に名だたる移動式のテルマエこの世のすべての源泉を求めて旅路を行く（全方位攻撃）ゾンビにめっぽう強く、必ず動きを一瞬止める
+En Desc: World-famous mobile hot springs. Travel in comfort and style. Omni-strikes slow and cause massive damage to Zombies.
+Abilities: Zombie:Multi-Hit,Strong,Freeze,Zombie Killer,Long Distance (Omni)
+Combos: 	温泉卵|Boiled Egg - ['418', '330']
+Stats: 	health - 12500.000
+	knockback - 5
+	attackRateF - 196
+	attackRateS - 6.53
+	attackPower - 5250.000
+	movementSpeed - 4
+	attackAnimF - 59
+	attackAnimS - 1.97
+	range - 425
+	respawnTimeF - 5246
+	respawnTimeS - 174.87
+	attackType - 範囲(Area Attack)
+	cost - 4,650
+
+
+Evolved:
+Version: Ver6.10
+Jap Name: 地底戦隊グランドン
+En Name: Subterra Guardians
+Jp Desc: 地底侵略をたくらむ魔の手から平和を守る組織個性豊かなメカを操り悪の組織を粉砕する（全方位攻撃）ゾンビにめっぽう強く、必ず動きを一瞬止める
+En Desc: A secret organization defending the Cat army from Doge sneak attacks from below. Omni-attacks freeze + massive damage to Zombies.
+Abilities: Zombie:Multi-Hit,Strong,Freeze,Zombie Killer,Long Distance (Omni)
+Combos: 
+Stats: 	health - 12500.000
+	knockback - 5
+	attackRateF - 196
+	attackRateS - 6.53
+	attackPower - 5250.000
+	movementSpeed - 4
+	attackAnimF - 59
+	attackAnimS - 1.97
+	range - 425
+	respawnTimeF - 5246
+	respawnTimeS - 174.87
+	attackType - 範囲(Area Attack)
+	cost - 4,650
+
+
+True:
+Version: Ver8.4
+Jap Name: 超地底戦隊グランドン
+En Name: Subterra Sentinels
+Jp Desc: 地底から地上の平和を守る正義の組織噴き上げるマグマと共に悪を粉砕する（全方位攻撃）ゾンビにめっぽう強く、必ず動きを一瞬止める
+En Desc: At the frontlines of the Cat campaign to seek and destroy underground Doge bases. Omni-strikes freeze and deliver massive damage to Zombies.
+Abilities: Zombie:Multi-Hit,Strong,Freeze,Zombie Killer,Long Distance (Omni)
+Combos: 
+Stats: 	health - 12500.000
+	knockback - 5
+	attackRateF - 196
+	attackRateS - 6.53
+	attackPower - 5775.000
+	movementSpeed - 4
+	attackAnimF - 59
+	attackAnimS - 1.97
+	range - 425
+	respawnTimeF - 5246
+	respawnTimeS - 174.87
+	attackType - 範囲(Area Attack)
+	cost - 4,650
+
+

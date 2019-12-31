@@ -1,0 +1,59 @@
+219
+
+Normal:
+Version: Ver4.3
+Jap Name: フィオ
+En Name: FIO
+Jp Desc: メタルスラッグディフェンスコラボ
+En Desc: Recruited from Metal Slug Defense! A demure yet naïve Sgt. Major in the intel division. Might slow down Aliens.
+Abilities: Alien:Slow
+Combos: 
+Stats: 	health - 447.353
+	knockback - 3
+	attackRateF - 55
+	attackRateS - 1.83
+	attackPower - 150.000
+	movementSpeed - 10
+	attackAnimF - 4
+	attackAnimS - 0.13
+	range - 330
+	respawnTimeF - 346
+	respawnTimeS - 11.53
+	attackType - 単体(Single Attack)
+	cost - 990
+
+
+Evolved:
+Version: Ver4.3
+Jap Name: フィオCC
+En Name: FIO CC
+Jp Desc: メタルスラッグディフェンスコラボ
+En Desc: Recruited from Metal Slug Defense! Easygoing and genuine, a crackshot with handguns. Might slow down Aliens.
+Abilities: Alien:Slow
+Combos: 
+Stats: 	health - 575.000
+	knockback - 3
+	attackRateF - 55
+	attackRateS - 1.83
+	attackPower - 212.500
+	movementSpeed - 10
+	attackAnimF - 4
+	attackAnimS - 0.13
+	range - 330
+	respawnTimeF - 346
+	respawnTimeS - 11.53
+	attackType - 単体(Single Attack)
+	cost - 990
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

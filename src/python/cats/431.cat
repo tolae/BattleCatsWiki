@@ -1,0 +1,59 @@
+431
+
+Normal:
+Version: Ver7.1
+Jap Name: ぐでネコマシン
+En Name: Gudenekomashin
+Jp Desc: 倒された時、独自グラフィック（アニメーション）
+En Desc: N/A
+Abilities: Float,Metal:Resistant,Freeze
+Combos: 
+Stats: 	health - 20000.000
+	knockback - 1
+	attackRateF - 213
+	attackRateS - 7.10
+	attackPower - 10000.000
+	movementSpeed - 9
+	attackAnimF - 92
+	attackAnimS - 3.07
+	range - 190
+	respawnTimeF - 2146
+	respawnTimeS - 71.53
+	attackType - 範囲(Area Attack)
+	cost - 3,450
+
+
+Evolved:
+Version: Ver7.1
+Jap Name: ぐでネコマシン・卵
+En Name: Gudenekomashin - Tamago
+Jp Desc: 倒された時、独自グラフィック（アニメーション）
+En Desc: N/A
+Abilities: Float,Metal:Resistant,Freeze
+Combos: 
+Stats: 	health - 20000.000
+	knockback - 1
+	attackRateF - 213
+	attackRateS - 7.10
+	attackPower - 10000.000
+	movementSpeed - 9
+	attackAnimF - 92
+	attackAnimS - 3.07
+	range - 190
+	respawnTimeF - 2146
+	respawnTimeS - 71.53
+	attackType - 範囲(Area Attack)
+	cost - 3,450
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

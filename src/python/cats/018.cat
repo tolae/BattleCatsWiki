@@ -1,0 +1,74 @@
+018
+
+Normal:
+Version: Ver1.0
+Jap Name: ネコリンリン
+En Name: Tricycle Cat
+Jp Desc: 世界最高峰の三輪車を乗り回すキャラクター敵をまとめて攻撃できる（範囲攻撃）
+En Desc: The coolest Cat on the block (Area Attack) Can't ride a real bike - parents said no.
+Abilities: None:
+Combos: 	ペダリング|Pedal Powered - ['307', '018']
+	運命の車輪（ロンド）|Wheels of Fate - ['440', '018', '015']
+	風車|Spinners - ['018', '105']
+Stats: 	health - 1000.000
+	knockback - 4
+	attackRateF - 59
+	attackRateS - 1.97
+	attackPower - 450.000
+	movementSpeed - 10
+	attackAnimF - 20
+	attackAnimS - 0.67
+	range - 170
+	respawnTimeF - 60
+	respawnTimeS - 2.00
+	attackType - 範囲(Area Attack)
+	cost - 1,050
+
+
+Evolved:
+Version: Ver1.0
+Jap Name: ネコワイルド
+En Name: Biker Cat
+Jp Desc: ワイルドにバイクを乗り回すワイルドにゃんこ敵をまとめて攻撃できる（範囲攻撃）
+En Desc: Born to be wild! (Area Attack) Moved out and finally got his motorcycle!
+Abilities: None:
+Combos: 	バイクツーリング|Hecks Angels  - ['018', '159']
+	終末世界|Post-Apocalypse - ['323', '018', '015']
+Stats: 	health - 1000.000
+	knockback - 4
+	attackRateF - 59
+	attackRateS - 1.97
+	attackPower - 450.000
+	movementSpeed - 10
+	attackAnimF - 16
+	attackAnimS - 0.53
+	range - 170
+	respawnTimeF - 60
+	respawnTimeS - 2.00
+	attackType - 範囲(Area Attack)
+	cost - 1,050
+
+
+True:
+Version: 
+Jap Name: イチリンリン
+En Name: Unicycle Cat
+Jp Desc: 曲芸用一輪車を自由自在に乗り回すにゃんこ車輪数を削りコストダウンを実現敵をまとめて攻撃できる（範囲攻撃）
+En Desc: Was forced to scale down the number of wheels thanks to a recession, but still stays positive. Attacks groups of enemies (Area attack)
+Abilities: None:
+Combos: 	大道芸猫|Showoffs - ['018', '155']
+Stats: 	health - 1000.000
+	knockback - 4
+	attackRateF - 59
+	attackRateS - 1.97
+	attackPower - 450.000
+	movementSpeed - 10
+	attackAnimF - 16
+	attackAnimS - 0.53
+	range - 170
+	respawnTimeF - 60
+	respawnTimeS - 2.00
+	attackType - 範囲(Area Attack)
+	cost - 525
+
+

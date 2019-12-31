@@ -1,0 +1,59 @@
+317
+
+Normal:
+Version: Ver5.7
+Jap Name: 海王神ポセイドン
+En Name: Wrathful Poseidon
+Jp Desc: 海洋の全てを支配するオリンポス十二神の一人嵐の神器「三叉の矛」でこの世の万物を打ち砕くゾンビとメタルな敵の動きを必ず止める（範囲攻撃）
+En Desc: Master of storms and seas, one of the 12 supreme Olympian gods. Sacred Trident's area attack 100% freezes Zombie/Metal foes.
+Abilities: Metal,Zombie:Freeze,Zombie Killer
+Combos: 	海底財宝発掘命令|Royal Submariner - ['317', '110']
+Stats: 	health - 5625.000
+	knockback - 5
+	attackRateF - 221
+	attackRateS - 7.37
+	attackPower - 4625.000
+	movementSpeed - 30
+	attackAnimF - 53
+	attackAnimS - 1.77
+	range - 350
+	respawnTimeF - 2546
+	respawnTimeS - 84.87
+	attackType - 範囲(Area Attack)
+	cost - 3,900
+
+
+Evolved:
+Version: Ver5.7
+Jap Name: ポセイドラグーン
+En Name: Valiant Poseidon
+Jp Desc: 海に浮かぶ大陸までも支配する驚異的な神地嵐の神器「三叉の神矛」で海底から世界を揺るがすゾンビとメタルな敵の動きを必ず止める（範囲攻撃）
+En Desc: Undisputed lord of the waters. Can command sea serpents to obliterate those who defy him. Area attack 100% freezes Zombies/Metal foes.
+Abilities: Metal,Zombie:Freeze,Zombie Killer
+Combos: 
+Stats: 	health - 7500.000
+	knockback - 5
+	attackRateF - 221
+	attackRateS - 7.37
+	attackPower - 6250.000
+	movementSpeed - 30
+	attackAnimF - 53
+	attackAnimS - 1.77
+	range - 350
+	respawnTimeF - 2546
+	respawnTimeS - 84.87
+	attackType - 範囲(Area Attack)
+	cost - 3,900
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

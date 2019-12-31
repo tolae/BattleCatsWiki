@@ -1,0 +1,59 @@
+275
+
+Normal:
+Version: Ver5.2
+Jap Name: トロピカルカリファ
+En Name: Tropical Kalisa
+Jp Desc: 浮かれたカップルたちを片っ端から冥界に送り海の家を壊滅寸前に追い込んだ伝説の少女赤い敵に超ダメージを与える（範囲攻撃）
+En Desc: Spends lazy summer days cursing couples on the beach from the deck of her vacation house. Massive area damage to Red enemies.
+Abilities: Red:Massive Damage
+Combos: 
+Stats: 	health - 3800.000
+	knockback - 5
+	attackRateF - 151
+	attackRateS - 5.03
+	attackPower - 3125.000
+	movementSpeed - 27
+	attackAnimF - 37
+	attackAnimS - 1.23
+	range - 340
+	respawnTimeF - 1946
+	respawnTimeS - 64.87
+	attackType - 範囲(Area Attack)
+	cost - 3,900
+
+
+Evolved:
+Version: Ver5.2
+Jap Name: トロピカルXカリファ
+En Name: Tropical Kalisa X
+Jp Desc: ときめきとか2歳の春に冥界へ封印した伝説の少女夏の開放感が本当の自分を目覚めさせようとする赤い敵に超ダメージを与える（範囲攻撃）
+En Desc: Slipped into the netherworld when she was two, but summer days almost make her feel human again. Massive area damage to Red enemies.
+Abilities: Red:Massive Damage
+Combos: 
+Stats: 	health - 6350.000
+	knockback - 5
+	attackRateF - 151
+	attackRateS - 5.03
+	attackPower - 5000.000
+	movementSpeed - 27
+	attackAnimF - 37
+	attackAnimS - 1.23
+	range - 340
+	respawnTimeF - 1946
+	respawnTimeS - 64.87
+	attackType - 範囲(Area Attack)
+	cost - 3,900
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

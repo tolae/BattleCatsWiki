@@ -1,0 +1,59 @@
+461
+
+Normal:
+Version: Ver8.2
+Jap Name: ネコ言峰＆ネコギルガメッシュ
+En Name: Kotomine & Gilgamesh Cats
+Jp Desc: 劇場版 Fate stay nightコラボ
+En Desc: A Cat-priest with a taste for extra-spicy mapo tofu, and a Cat Spirit with flawless tactical sense. Might weaken Black, stronger after damage.
+Abilities: Black:Weaken,Strengthen
+Combos: 
+Stats: 	health - 3000.000
+	knockback - 4
+	attackRateF - 139
+	attackRateS - 4.63
+	attackPower - 1650.000
+	movementSpeed - 8
+	attackAnimF - 66
+	attackAnimS - 2.20
+	range - 300
+	respawnTimeF - 506
+	respawnTimeS - 16.87
+	attackType - 範囲(Area Attack)
+	cost - 1,170
+
+
+Evolved:
+Version: Ver8.2
+Jap Name: ネコギルガメッシュ＆ネコ言峰
+En Name: Gilgamesh & Kotomine Cats
+Jp Desc: 劇場版 Fate stay nightコラボ
+En Desc: One Cat has begun to tire of the game of battle, but the other sill can't get enough mapo tofu. Might weaken Zombies, stronger after damage.
+Abilities: Zombie:Weaken,Zombie Killer,Strengthen
+Combos: 
+Stats: 	health - 3000.000
+	knockback - 4
+	attackRateF - 139
+	attackRateS - 4.63
+	attackPower - 1650.000
+	movementSpeed - 8
+	attackAnimF - 66
+	attackAnimS - 2.20
+	range - 300
+	respawnTimeF - 506
+	respawnTimeS - 16.87
+	attackType - 範囲(Area Attack)
+	cost - 1,170
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

@@ -1,0 +1,59 @@
+182
+
+Normal:
+Version: 
+Jap Name: ゆきにゃん
+En Name: ゆきにゃん
+Jp Desc: 消滅都市コラボ
+En Desc: N/A
+Abilities: Float:Freeze
+Combos: 
+Stats: 	health - 450.000
+	knockback - 3
+	attackRateF - 81
+	attackRateS - 2.70
+	attackPower - 100.000
+	movementSpeed - 8
+	attackAnimF - 41
+	attackAnimS - 1.37
+	range - 340
+	respawnTimeF - 236
+	respawnTimeS - 7.87
+	attackType - 単体(Single Attack)
+	cost - 600
+
+
+Evolved:
+Version: 
+Jap Name: ビューティゆきにゃん
+En Name: Beauty Snow Cat
+Jp Desc: 消滅都市コラボ
+En Desc: N/A
+Abilities: Float:Freeze
+Combos: 
+Stats: 	health - 450.000
+	knockback - 3
+	attackRateF - 81
+	attackRateS - 2.70
+	attackPower - 100.000
+	movementSpeed - 8
+	attackAnimF - 41
+	attackAnimS - 1.37
+	range - 340
+	respawnTimeF - 236
+	respawnTimeS - 7.87
+	attackType - 単体(Single Attack)
+	cost - 600
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

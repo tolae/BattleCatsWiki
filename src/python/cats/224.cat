@@ -1,0 +1,65 @@
+224
+
+Normal:
+Version: Ver4.3
+Jap Name: ジュピターキング
+En Name: JUPITER KING
+Jp Desc: メタルスラッグディフェンスコラボ
+En Desc: Rough Translation:
+Joined the war from Metal Slug Defense!
+An extraordinarily large robot,who is guarding a secret factory.(area attack)
+Occasionally blows away aliens and stops their movement.
+Abilities: Alien:Knockback,Slow
+Combos: 
+Stats: 	health - 9000.000
+	knockback - 2
+	attackRateF - 287
+	attackRateS - 9.57
+	attackPower - 5415.000
+	movementSpeed - 5
+	attackAnimF - 38
+	attackAnimS - 1.27
+	range - 460
+	respawnTimeF - 4546
+	respawnTimeS - 151.53
+	attackType - 範囲(Area Attack)
+	cost - 6,300
+
+
+Evolved:
+Version: Ver4.3
+Jap Name: ジュピターキングCC
+En Name: JUPITER KING CC
+Jp Desc: メタルスラッグディフェンスコラボ
+En Desc: Rough Translation:
+Joined  the war from Metal Slug Defense!
+Now has a strong laser  (area attack) which makes everything  vaporized.
+Occasionally blows away aliens and stops their movement.
+Abilities: Alien:Knockback,Slow
+Combos: 
+Stats: 	health - 11250.000
+	knockback - 2
+	attackRateF - 287
+	attackRateS - 9.57
+	attackPower - 6665.000
+	movementSpeed - 5
+	attackAnimF - 38
+	attackAnimS - 1.27
+	range - 460
+	respawnTimeF - 4546
+	respawnTimeS - 151.53
+	attackType - 範囲(Area Attack)
+	cost - 6,300
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

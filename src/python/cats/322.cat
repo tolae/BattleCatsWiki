@@ -1,0 +1,59 @@
+322
+
+Normal:
+Version: Ver5.8
+Jap Name: ナゾウサギ
+En Name: Nazousagi
+Jp Desc: ナゾウサギコラボ
+En Desc: N/A
+Abilities: None:
+Combos: 
+Stats: 	health - 1000.000
+	knockback - 3
+	attackRateF - 124
+	attackRateS - 4.13
+	attackPower - 200.000
+	movementSpeed - 8
+	attackAnimF - 21
+	attackAnimS - 0.70
+	range - 340
+	respawnTimeF - 166
+	respawnTimeS - 5.53
+	attackType - 単体(Single Attack)
+	cost - 600
+
+
+Evolved:
+Version: Ver5.8
+Jap Name: 兎宮王道
+En Name: Miya Ōdō Rabbit
+Jp Desc: ナゾウサギコラボ
+En Desc: N/A
+Abilities: Black:Massive Damage
+Combos: 
+Stats: 	health - 1000.000
+	knockback - 3
+	attackRateF - 124
+	attackRateS - 4.13
+	attackPower - 200.000
+	movementSpeed - 8
+	attackAnimF - 21
+	attackAnimS - 0.70
+	range - 340
+	respawnTimeF - 166
+	respawnTimeS - 5.53
+	attackType - 単体(Single Attack)
+	cost - 600
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

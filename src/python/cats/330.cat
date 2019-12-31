@@ -1,0 +1,59 @@
+330
+
+Normal:
+Version: Ver5.10
+Jap Name: ネコエッグ
+En Name: Eggy Cat
+Jp Desc: イースターを全身で満喫するネコ正直なところ何をするのかイマイチわかっていない天使の動きを一瞬遅くする
+En Desc: Dressed to the nines for Spring! Didn't think about ease of movement when choosing a look. Attacks slow Angel movement for a moment.
+Abilities: Angel:Slow
+Combos: 	温泉卵|Boiled Egg - ['418', '330']
+Stats: 	health - 950.000
+	knockback - 3
+	attackRateF - 60
+	attackRateS - 2.00
+	attackPower - 94.853
+	movementSpeed - 7
+	attackAnimF - 15
+	attackAnimS - 0.50
+	range - 150
+	respawnTimeF - 226
+	respawnTimeS - 7.53
+	attackType - 単体(Single Attack)
+	cost - 570
+
+
+Evolved:
+Version: Ver5.10
+Jap Name: ネコエッグ2
+En Name: Easter Cat
+Jp Desc: 自分のカラを破ったネコ新しい自分に出会えた気がしている天使の動きを一瞬遅くする
+En Desc: Determined to be reborn for Spring, he sheds his shell to reveal a whole new self-hiding inside. Attacks slow Angel movement for a moment.
+Abilities: Angel:Slow
+Combos: 
+Stats: 	health - 950.000
+	knockback - 3
+	attackRateF - 60
+	attackRateS - 2.00
+	attackPower - 94.853
+	movementSpeed - 7
+	attackAnimF - 15
+	attackAnimS - 0.50
+	range - 250
+	respawnTimeF - 226
+	respawnTimeS - 7.53
+	attackType - 単体(Single Attack)
+	cost - 570
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

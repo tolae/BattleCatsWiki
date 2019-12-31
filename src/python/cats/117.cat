@@ -1,0 +1,59 @@
+117
+
+Normal:
+Version: 
+Jap Name: フウ
+En Name: Fuu
+Jp Desc: メルクストーリアコラボ
+En Desc: N/A
+Abilities: Black:Freeze
+Combos: 
+Stats: 	health - 737.500
+	knockback - 3
+	attackRateF - 63
+	attackRateS - 2.10
+	attackPower - 119.853
+	movementSpeed - 10
+	attackAnimF - 31
+	attackAnimS - 1.03
+	range - 244
+	respawnTimeF - 186
+	respawnTimeS - 6.20
+	attackType - 単体(Single Attack)
+	cost - 450
+
+
+Evolved:
+Version: 
+Jap Name: フウCC
+En Name: FuuCC
+Jp Desc: メルクストーリアコラボ
+En Desc: N/A
+Abilities: Black:Freeze
+Combos: 
+Stats: 	health - 912.500
+	knockback - 3
+	attackRateF - 63
+	attackRateS - 2.10
+	attackPower - 194.853
+	movementSpeed - 10
+	attackAnimF - 31
+	attackAnimS - 1.03
+	range - 244
+	respawnTimeF - 186
+	respawnTimeS - 6.20
+	attackType - 単体(Single Attack)
+	cost - 450
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

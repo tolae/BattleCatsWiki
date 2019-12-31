@@ -1,0 +1,71 @@
+346
+
+Normal:
+Version: Ver6.2
+Jap Name: ミシェリア
+En Name: Misheria
+Jp Desc: メルクストーリアコラボ
+En Desc: ?
+Abilities: Float:Strong,Freeze
+Combos: 
+Stats: 	health - 5625.000
+	knockback - 4
+	attackRateF - 244
+	attackRateS - 8.13
+	attackPower - 4125.000
+	movementSpeed - 8
+	attackAnimF - 29
+	attackAnimS - 0.97
+	range - 415
+	respawnTimeF - 4046
+	respawnTimeS - 134.87
+	attackType - 範囲(Area Attack)
+	cost - 4,500
+
+
+Evolved:
+Version: Ver6.2
+Jap Name: ミシェリアCC
+En Name: MisheriaCC
+Jp Desc: メルクストーリアコラボ
+En Desc: ?
+Abilities: Float:Strong,Freeze
+Combos: 
+Stats: 	health - 7500.000
+	knockback - 4
+	attackRateF - 244
+	attackRateS - 8.13
+	attackPower - 5625.000
+	movementSpeed - 8
+	attackAnimF - 29
+	attackAnimS - 0.97
+	range - 415
+	respawnTimeF - 4046
+	respawnTimeS - 134.87
+	attackType - 範囲(Area Attack)
+	cost - 4,500
+
+
+True:
+Version: Ver7.5
+Jap Name: 午睡のミシェリアCC
+En Name: 345-3
+Jp Desc: メルクストーリアコラボ
+En Desc: ?
+Abilities: Float:Strong,Freeze
+Combos: 
+Stats: 	health - 9375.000
+	knockback - 4
+	attackRateF - 262
+	attackRateS - 8.73
+	attackPower - 7125.000
+	movementSpeed - 8
+	attackAnimF - 29
+	attackAnimS - 0.97
+	range - 415
+	respawnTimeF - 4046
+	respawnTimeS - 134.87
+	attackType - 範囲(Area Attack)
+	cost - 4,500
+
+

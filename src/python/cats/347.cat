@@ -1,0 +1,59 @@
+347
+
+Normal:
+Version: Ver6.2
+Jap Name: とどめき
+En Name: Todomeki
+Jp Desc: メルクストーリアコラボ
+En Desc: ?
+Abilities: Alien,Zombie:Slow,Zombie Killer
+Combos: 
+Stats: 	health - 4250.000
+	knockback - 4
+	attackRateF - 197
+	attackRateS - 6.57
+	attackPower - 3450.000
+	movementSpeed - 11
+	attackAnimF - 22
+	attackAnimS - 0.73
+	range - 440
+	respawnTimeF - 3746
+	respawnTimeS - 124.87
+	attackType - 範囲(Area Attack)
+	cost - 3,900
+
+
+Evolved:
+Version: Ver6.2
+Jap Name: とどめきCC
+En Name: TodomekiCC
+Jp Desc: メルクストーリアコラボ
+En Desc: ?
+Abilities: Alien,Zombie:Slow,Zombie Killer
+Combos: 
+Stats: 	health - 6000.000
+	knockback - 4
+	attackRateF - 197
+	attackRateS - 6.57
+	attackPower - 4950.000
+	movementSpeed - 11
+	attackAnimF - 22
+	attackAnimS - 0.73
+	range - 440
+	respawnTimeF - 3746
+	respawnTimeS - 124.87
+	attackType - 範囲(Area Attack)
+	cost - 3,900
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

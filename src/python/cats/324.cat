@@ -1,0 +1,71 @@
+324
+
+Normal:
+Version: Ver5.9
+Jap Name: 宮木武蔵
+En Name: Miyamoku Musashi
+Jp Desc: 呪われた舞台「猫の怨返し」に出演したために落ち武者ネコに憑りつかれた貧乏役者波動によるダメージを無効にする（範囲攻撃）
+En Desc: Appearing in a cursed play, a handsome actor became possessed by ghostly samurai cat. Unharmed by wave attacks. (Area Attack)
+Abilities: None:Immune to Waves
+Combos: 	大剣両断|Greatswords - ['324', '126']
+Stats: 	health - 4750.000
+	knockback - 3
+	attackRateF - 269
+	attackRateS - 8.97
+	attackPower - 4750.000
+	movementSpeed - 5
+	attackAnimF - 42
+	attackAnimS - 1.40
+	range - 400
+	respawnTimeF - 4546
+	respawnTimeS - 151.53
+	attackType - 範囲(Area Attack)
+	cost - 4,800
+
+
+Evolved:
+Version: Ver5.9
+Jap Name: 主演 宮木武蔵
+En Name: Heroic Musashi
+Jp Desc: 初主演を果たした映画ですべてのカットに心霊現象が映り込み、作品がお蔵入りした不幸な貧乏役者波動によるダメージを無効にする（範囲攻撃）
+En Desc: Powerful psychic energy overexposes any film near him; his movie career is officially over. Unharmed by wave attacks. (Area Attack)
+Abilities: None:Immune to Waves
+Combos: 
+Stats: 	health - 4750.000
+	knockback - 3
+	attackRateF - 269
+	attackRateS - 8.97
+	attackPower - 4750.000
+	movementSpeed - 5
+	attackAnimF - 42
+	attackAnimS - 1.40
+	range - 400
+	respawnTimeF - 4546
+	respawnTimeS - 151.53
+	attackType - 範囲(Area Attack)
+	cost - 4,800
+
+
+True:
+Version: Ver7.0
+Jap Name: 覚醒 宮木武蔵
+En Name: Awakened Musashi
+Jp Desc: 悪霊と共に事件を解決するドラマ「仏滅ポリス」で大ブレイクした役者。稼ぎの9割はネコの懐に入る波動ダメージを無効にし、たまに古代種の動きを止める
+En Desc: Made his big break as a cop with a ghost partner on the hit drama Karma Police (produced by Cat). Unharmed by wave attacks, might Freeze Relics.
+Abilities: Ancient,Zombie:Freeze,Zombie Killer,Immune to Waves,Immune to Curse
+Combos: 
+Stats: 	health - 6250.000
+	knockback - 3
+	attackRateF - 269
+	attackRateS - 8.97
+	attackPower - 6250.000
+	movementSpeed - 5
+	attackAnimF - 42
+	attackAnimS - 1.40
+	range - 400
+	respawnTimeF - 4546
+	respawnTimeS - 151.53
+	attackType - 範囲(Area Attack)
+	cost - 4,800
+
+

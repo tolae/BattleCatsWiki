@@ -1,0 +1,59 @@
+191
+
+Normal:
+Version: Ver3.8
+Jap Name: シトルイユ
+En Name: Shitoruiyu
+Jp Desc: メルクストーリアコラボ
+En Desc: N/A
+Abilities: Red,Black:Knockback,Slow
+Combos: 
+Stats: 	health - 800.000
+	knockback - 2
+	attackRateF - 194
+	attackRateS - 6.47
+	attackPower - 375.000
+	movementSpeed - 10
+	attackAnimF - 35
+	attackAnimS - 1.17
+	range - 360
+	respawnTimeF - 486
+	respawnTimeS - 16.20
+	attackType - 範囲(Area Attack)
+	cost - 810
+
+
+Evolved:
+Version: Ver3.8
+Jap Name: シトルイユCC
+En Name: ShitoruiyuCC
+Jp Desc: メルクストーリアコラボ
+En Desc: N/A
+Abilities: Red,Black:Knockback,Slow
+Combos: 
+Stats: 	health - 1175.000
+	knockback - 2
+	attackRateF - 194
+	attackRateS - 6.47
+	attackPower - 500.000
+	movementSpeed - 10
+	attackAnimF - 35
+	attackAnimS - 1.17
+	range - 360
+	respawnTimeF - 486
+	respawnTimeS - 16.20
+	attackType - 範囲(Area Attack)
+	cost - 810
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

@@ -1,0 +1,71 @@
+047
+
+Normal:
+Version: Ver2.0
+Jap Name: ねこジュラ
+En Name: Jurassic Cat
+Jp Desc: ジュラ紀から存在する古代ネコの末裔ごくたまにクリティカル攻撃を出す
+En Desc: Descendant of an Ancient Cat Race that existed during the Jurassic age. Might perform Critical attacks.
+Abilities: None:Critical
+Combos: 	恐竜時代|Age of Dinosaurs - ['008', '047']
+Stats: 	health - 1425.000
+	knockback - 3
+	attackRateF - 31
+	attackRateS - 1.03
+	attackPower - 182.353
+	movementSpeed - 12
+	attackAnimF - 16
+	attackAnimS - 0.53
+	range - 150
+	respawnTimeF - 226
+	respawnTimeS - 7.53
+	attackType - 単体(Single Attack)
+	cost - 525
+
+
+Evolved:
+Version: Ver2.0
+Jap Name: ねこジュラシッター
+En Name: Jurassic Cat Sitter
+Jp Desc: 赤ちゃんのお世話が大好きなジュラ紀から存在する古代ネコの末裔ごくたまにクリティカル攻撃を出す
+En Desc: Descendant of an Ancient Cat Race that takes care of the young during the Jurassic Era. Might perform Critical attacks.
+Abilities: None:Critical
+Combos: 
+Stats: 	health - 1675.000
+	knockback - 3
+	attackRateF - 31
+	attackRateS - 1.03
+	attackPower - 207.353
+	movementSpeed - 12
+	attackAnimF - 16
+	attackAnimS - 0.53
+	range - 150
+	respawnTimeF - 226
+	respawnTimeS - 7.53
+	attackType - 単体(Single Attack)
+	cost - 525
+
+
+True:
+Version: Ver5.1
+Jap Name: ねこジュラザウルス
+En Name: Catasaurus
+Jp Desc: 特性「クリティカル」強化
+En Desc: Discovered a cute dinosaur in a magical land of fungi. Features extra seating for the kids! Might perform Critical attacks.
+Abilities: None:Critical
+Combos: 
+Stats: 	health - 2425.000
+	knockback - 3
+	attackRateF - 31
+	attackRateS - 1.03
+	attackPower - 269.853
+	movementSpeed - 12
+	attackAnimF - 16
+	attackAnimS - 0.53
+	range - 180
+	respawnTimeF - 226
+	respawnTimeS - 7.53
+	attackType - 単体(Single Attack)
+	cost - 525
+
+

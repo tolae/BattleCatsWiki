@@ -1,0 +1,59 @@
+236
+
+Normal:
+Version: Ver4.4
+Jap Name: 豊穣の女神フレイヤ
+En Name: Hojo no Megami Fureiya , 豊穣の女神フレイヤ , Goddess of richness
+Jp Desc: ゆるドラシルコラボ
+En Desc: N/A
+Abilities: Black,Angel:Slow
+Combos: 
+Stats: 	health - 1175.000
+	knockback - 3
+	attackRateF - 199
+	attackRateS - 6.63
+	attackPower - 162.500
+	movementSpeed - 7
+	attackAnimF - 40
+	attackAnimS - 1.33
+	range - 400
+	respawnTimeF - 506
+	respawnTimeS - 16.87
+	attackType - 範囲(Area Attack)
+	cost - 825
+
+
+Evolved:
+Version: Ver4.4
+Jap Name: 豊穣の女神フレイヤCC
+En Name: Hojo no Megami Fureiya CC
+Jp Desc: ゆるドラシルコラボ
+En Desc: N/A
+Abilities: Black,Angel:Slow
+Combos: 
+Stats: 	health - 1675.000
+	knockback - 3
+	attackRateF - 199
+	attackRateS - 6.63
+	attackPower - 225.000
+	movementSpeed - 7
+	attackAnimF - 40
+	attackAnimS - 1.33
+	range - 400
+	respawnTimeF - 506
+	respawnTimeS - 16.87
+	attackType - 範囲(Area Attack)
+	cost - 825
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

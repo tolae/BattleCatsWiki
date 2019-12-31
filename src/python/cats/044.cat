@@ -1,0 +1,71 @@
+044
+
+Normal:
+Version: Ver2.0
+Jap Name: ネコマシン
+En Name: Cat Machine
+Jp Desc: 連邦政府から破壊兵器の製造を依頼され製作したMSシリーズ試作機1号である（範囲攻撃）赤い敵とエイリアンに打たれ強い
+En Desc: Series 1 Weaponized Machine System (MS) developed by the government (Area Attack) Greatly reduced damage from Red & Aliens.
+Abilities: Red,Alien:Resistant
+Combos: 	鋼の救世主|Steel Saviors - ['082', '044']
+Stats: 	health - 12000.000
+	knockback - 1
+	attackRateF - 367
+	attackRateS - 12.23
+	attackPower - 8750.000
+	movementSpeed - 9
+	attackAnimF - 168
+	attackAnimS - 5.60
+	range - 140
+	respawnTimeF - 1946
+	respawnTimeS - 64.87
+	attackType - 範囲(Area Attack)
+	cost - 3,600
+
+
+Evolved:
+Version: Ver2.0
+Jap Name: ネコマシン・破
+En Name: Cat Machine Mk 2
+Jp Desc: 破壊兵器としての利用を阻止する為研究施設から脱出した実戦型MS:RX-13（範囲攻撃）赤い敵とエイリアンに打たれ強い
+En Desc: A battle-tested revision MS that managed to escape from the research facility (Area Attack) Greatly reduced damage from Red & Aliens.
+Abilities: Red,Alien:Resistant
+Combos: 
+Stats: 	health - 15000.000
+	knockback - 1
+	attackRateF - 367
+	attackRateS - 12.23
+	attackPower - 13887.500
+	movementSpeed - 9
+	attackAnimF - 168
+	attackAnimS - 5.60
+	range - 140
+	respawnTimeF - 1946
+	respawnTimeS - 64.87
+	attackType - 範囲(Area Attack)
+	cost - 3,600
+
+
+True:
+Version: Ver5.6
+Jap Name: ネコマシン・滅
+En Name: Cat Machine Mk 3
+Jp Desc: 破壊兵器MSシリーズの量産を始めた連邦政府に決戦型へと化したMS:RX-Ωが阻止に乗り込む（範囲攻撃）赤い敵とエイリアンに打たれ強く、波動を打ち消す
+En Desc: The next generation of battle tech, MS:RX-Ω has slipped into the hands of the Cat Army! Resists Red/Alien attacks, immune to Waves.
+Abilities: Red,Alien:Resistant,Wave Shield
+Combos: 
+Stats: 	health - 22500.000
+	knockback - 1
+	attackRateF - 267
+	attackRateS - 8.90
+	attackPower - 13887.500
+	movementSpeed - 15
+	attackAnimF - 168
+	attackAnimS - 5.60
+	range - 190
+	respawnTimeF - 1946
+	respawnTimeS - 64.87
+	attackType - 範囲(Area Attack)
+	cost - 3,600
+
+

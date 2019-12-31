@@ -1,0 +1,74 @@
+001
+
+Normal:
+Version: Ver1.0
+Jap Name: ネコ
+En Name: Cat
+Jp Desc: 安価で生産できる基本キャラ
+En Desc: The Basic Cat.
+Abilities: None:
+Combos: 	にゃんこ軍団|Cat Army - ['001', '002', '003', '004', '005']
+	ネコの前で見せる笑顔|Smiles at Cats - ['001', '108']
+	ブラック＆ホワイト|Black & White - ['320', '001']
+	庶民と金持ち|Rich and Poor - ['001', '130']
+Stats: 	health - 250.000
+	knockback - 3
+	attackRateF - 37
+	attackRateS - 1.23
+	attackPower - 19.940
+	movementSpeed - 10
+	attackAnimF - 8
+	attackAnimS - 0.27
+	range - 140
+	respawnTimeF - 60
+	respawnTimeS - 2.00
+	attackType - 単体(Single Attack)
+	cost - 75
+
+
+Evolved:
+Version: Ver1.0
+Jap Name: ネコビルダー
+En Name: Macho Cat
+Jp Desc: 鍛えぬいた筋肉がチャームポイントの基本キャラ
+En Desc: Charm point: muscle definition. Basic Cat.
+Abilities: None:
+Combos: 
+Stats: 	health - 250.000
+	knockback - 3
+	attackRateF - 37
+	attackRateS - 1.23
+	attackPower - 19.940
+	movementSpeed - 10
+	attackAnimF - 8
+	attackAnimS - 0.27
+	range - 140
+	respawnTimeF - 60
+	respawnTimeS - 2.00
+	attackType - 単体(Single Attack)
+	cost - 75
+
+
+True:
+Version: 
+Jap Name: ネコモヒカン
+En Name: Mohawk Cat
+Jp Desc: 鍛えぬいた筋肉に男前なタテガミがチャームポイントの基本キャラ
+En Desc: Charm point: muscle definition. Added charm point: beautiful hair.
+Abilities: None:
+Combos: 	モヒカン愛好家|Mo' Hawks - ['001', '099']
+Stats: 	health - 500.000
+	knockback - 3
+	attackRateF - 37
+	attackRateS - 1.23
+	attackPower - 40.000
+	movementSpeed - 10
+	attackAnimF - 8
+	attackAnimS - 0.27
+	range - 140
+	respawnTimeF - 60
+	respawnTimeS - 2.00
+	attackType - 単体(Single Attack)
+	cost - 75
+
+

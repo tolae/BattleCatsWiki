@@ -1,0 +1,59 @@
+239
+
+Normal:
+Version: Ver4.4
+Jap Name: ボンボンネコ
+En Name: Rich Cat III
+Jp Desc: 伝説の働きネコ「ネコボン」のいとこボンボンのくせに大金を持つと冷や汗が止まらない敵を倒したときにお金を多くもらえる
+En Desc: Heir of the legendary Rich Cat. Born wealthy, still pinches every penny. Goes through the pockets of defeated enemies for extra cash.
+Abilities: None:Multi-Hit,Extra Money
+Combos: 
+Stats: 	health - 300.000
+	knockback - 2
+	attackRateF - 121
+	attackRateS - 4.03
+	attackPower - 1239.706
+	movementSpeed - 3
+	attackAnimF - 32
+	attackAnimS - 1.07
+	range - 250
+	respawnTimeF - 4746
+	respawnTimeS - 158.20
+	attackType - 単体(Single Attack)
+	cost - 600
+
+
+Evolved:
+Version: Ver4.4
+Jap Name: ネコボンのパパ
+En Name: Rich Cat Sr.
+Jp Desc: 伝説の働きネコ「ネコボン」のお父さん「ネコボン」の反面教師となった働かないパパなーのだ敵を倒したときにお金を多くもらえる
+En Desc: Father of the legendary Rich Cat. Got rich by never spending profits from his small business. Lives off of defeated enemies' pocket money.
+Abilities: None:Multi-Hit,Extra Money
+Combos: 	ネーーーコボンボン|Itchy Riches - ['239']
+Stats: 	health - 375.000
+	knockback - 2
+	attackRateF - 121
+	attackRateS - 4.03
+	attackPower - 1444.706
+	movementSpeed - 3
+	attackAnimF - 32
+	attackAnimS - 1.07
+	range - 250
+	respawnTimeF - 4746
+	respawnTimeS - 158.20
+	attackType - 単体(Single Attack)
+	cost - 600
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

@@ -1,0 +1,71 @@
+255
+
+Normal:
+Version: Ver4.6
+Jap Name: プリティキャット
+En Name: Pretty Cat
+Jp Desc: 城とドラゴンコラボ
+En Desc: N/A
+Abilities: All (w/o Metal):Freeze
+Combos: 
+Stats: 	health - 1450.000
+	knockback - 4
+	attackRateF - 47
+	attackRateS - 1.57
+	attackPower - 375.000
+	movementSpeed - 9
+	attackAnimF - 22
+	attackAnimS - 0.73
+	range - 180
+	respawnTimeF - 186
+	respawnTimeS - 6.20
+	attackType - 単体(Single Attack)
+	cost - 990
+
+
+Evolved:
+Version: Ver4.6
+Jap Name: ラブリープリティキャット
+En Name: Lovely Pretty Cat
+Jp Desc: 城とドラゴンコラボ
+En Desc: N/A
+Abilities: All (w/o Metal):Freeze
+Combos: 
+Stats: 	health - 1450.000
+	knockback - 4
+	attackRateF - 47
+	attackRateS - 1.57
+	attackPower - 375.000
+	movementSpeed - 9
+	attackAnimF - 22
+	attackAnimS - 0.73
+	range - 180
+	respawnTimeF - 186
+	respawnTimeS - 6.20
+	attackType - 単体(Single Attack)
+	cost - 990
+
+
+True:
+Version: Ver4.6
+Jap Name: サイバープリティキャット
+En Name: Cyber Pretty Cat
+Jp Desc: 城とドラゴンコラボ
+En Desc: N/A
+Abilities: All (w/o Metal):Freeze
+Combos: 
+Stats: 	health - 1450.000
+	knockback - 4
+	attackRateF - 47
+	attackRateS - 1.57
+	attackPower - 375.000
+	movementSpeed - 9
+	attackAnimF - 22
+	attackAnimS - 0.73
+	range - 180
+	respawnTimeF - 186
+	respawnTimeS - 6.20
+	attackType - 単体(Single Attack)
+	cost - 990
+
+

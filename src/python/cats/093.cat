@@ -1,0 +1,71 @@
+093
+
+Normal:
+Version: 
+Jap Name: 狂乱のタンクネコ
+En Name: Crazed Tank Cat
+Jp Desc: 体力を多く備えた盾用のキャラ攻撃力はスズメの涙ほど（範囲攻撃）狂乱となることで神速を入手
+En Desc: Tough. High Health. (Area Attack) Strong enough to move a pebble. Crazed version grants godspeed.
+Abilities: None:
+Combos: 	進撃の狂乱ネコ|Crazy Hearts - ['092', '093', '094', '095', '096']
+Stats: 	health - 2700.000
+	knockback - 1
+	attackRateF - 67
+	attackRateS - 2.23
+	attackPower - 17.586
+	movementSpeed - 16
+	attackAnimF - 8
+	attackAnimS - 0.27
+	range - 110
+	respawnTimeF - 60
+	respawnTimeS - 2.00
+	attackType - 範囲(Area Attack)
+	cost - 150
+
+
+Evolved:
+Version: 
+Jap Name: 狂乱のネコカベ
+En Name: Crazed Wall Cat
+Jp Desc: まさにカベに徹する為の盾専用キャラ攻撃力はあいかわらず（範囲攻撃）狂乱となることで神速を入手
+En Desc: Rigid defense. Now with corners. (Area Attack) Strong enough to move a small rock. Crazed version grants godspeed.
+Abilities: None:
+Combos: 
+Stats: 	health - 2700.000
+	knockback - 1
+	attackRateF - 67
+	attackRateS - 2.23
+	attackPower - 17.586
+	movementSpeed - 16
+	attackAnimF - 8
+	attackAnimS - 0.27
+	range - 110
+	respawnTimeF - 60
+	respawnTimeS - 2.00
+	attackType - 範囲(Area Attack)
+	cost - 150
+
+
+True:
+Version: Ver5.0
+Jap Name: 大狂乱のゴムネコ
+En Name: Manic Eraser Cat
+Jp Desc: まさにカベに徹する為の盾専用キャラ大狂乱となることで超弾力を取得し超体力も入手攻撃力はあいかわらず（範囲攻撃）
+En Desc: Can take a beating thanks to elasticity. Manic version grants even more Really Good™ Defense (Area Attack).
+Abilities: None:
+Combos: 
+Stats: 	health - 3275.000
+	knockback - 1
+	attackRateF - 67
+	attackRateS - 2.23
+	attackPower - 17.586
+	movementSpeed - 20
+	attackAnimF - 8
+	attackAnimS - 0.27
+	range - 110
+	respawnTimeF - 60
+	respawnTimeS - 2.00
+	attackType - 範囲(Area Attack)
+	cost - 150
+
+

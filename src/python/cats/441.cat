@@ -1,0 +1,61 @@
+441
+
+Normal:
+Version: Ver7.4
+Jap Name: ベベ
+En Name: Bebe
+Jp Desc: 魔法少女まどか☆マギカコラボ
+En Desc: Participation from the magical girl Madoka ☆ Magica!
+Cheese is a favorite, and Mami's partner presents the alien and zombie's attack power down for a moment (range attack)
+Abilities: Alien,Zombie,Witch:Weaken,Zombie Killer,Witch Killer,Warp Blocker
+Combos: 
+Stats: 	health - 2600.000
+	knockback - 4
+	attackRateF - 124
+	attackRateS - 4.13
+	attackPower - 1275.000
+	movementSpeed - 9
+	attackAnimF - 25
+	attackAnimS - 0.83
+	range - 350
+	respawnTimeF - 546
+	respawnTimeS - 18.20
+	attackType - 範囲(Area Attack)
+	cost - 1,200
+
+
+Evolved:
+Version: Ver7.4
+Jap Name: なぎさ&ネコ
+En Name: Nagisa & Cat
+Jp Desc: 魔法少女まどか☆マギカコラボ
+En Desc: Participation from the magical girl Madoka ☆ Magica!
+A new magical girl who appeared in front of the Madokas: Reduce the attack power of aliens and zombies (range attack)
+Abilities: Alien,Zombie,Witch:Weaken,Zombie Killer,Witch Killer,Warp Blocker
+Combos: 
+Stats: 	health - 6300.000
+	knockback - 6
+	attackRateF - 203
+	attackRateS - 6.77
+	attackPower - 5100.000
+	movementSpeed - 12
+	attackAnimF - 72
+	attackAnimS - 2.40
+	range - 450
+	respawnTimeF - 2946
+	respawnTimeS - 98.20
+	attackType - 範囲(Area Attack)
+	cost - 3,900
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

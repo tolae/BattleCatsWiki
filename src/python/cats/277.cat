@@ -1,0 +1,59 @@
+277
+
+Normal:
+Version: Ver5.2
+Jap Name: 夏色ねねこ
+En Name: Sunny Neneko
+Jp Desc: 夏限定スタイルの妹型にゃんこ怖くて飛び込み台から飛ぶことができない…憧れの人はもねこ（必ずクリティカル）
+En Desc: This year, she'll definitely take the gold medal at the swim tournament, even though she won't take the gloves off. 100% Critical attack chance.
+Abilities: None:Critical
+Combos: 
+Stats: 	health - 1250.000
+	knockback - 3
+	attackRateF - 627
+	attackRateS - 20.90
+	attackPower - 250.000
+	movementSpeed - 5
+	attackAnimF - 28
+	attackAnimS - 0.93
+	range - 310
+	respawnTimeF - 1744
+	respawnTimeS - 58.13
+	attackType - 単体(Single Attack)
+	cost - 148
+
+
+Evolved:
+Version: Ver5.2
+Jap Name: 海辺のねねこ
+En Name: Seaside Neneko
+Jp Desc: はじめて海水浴に連れてこられたねねこかがやく夏の太陽が、踏み出す勇気をくれる気がする（必ずクリティカル）
+En Desc: Everyone's favorite pure idol is ready to overcome her anxiety of being seen in a swimsuit. You can do it, Neneko! 100% Critical attack chance.
+Abilities: None:Critical
+Combos: 
+Stats: 	health - 2250.000
+	knockback - 3
+	attackRateF - 627
+	attackRateS - 20.90
+	attackPower - 375.000
+	movementSpeed - 5
+	attackAnimF - 28
+	attackAnimS - 0.93
+	range - 310
+	respawnTimeF - 1744
+	respawnTimeS - 58.13
+	attackType - 単体(Single Attack)
+	cost - 148
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

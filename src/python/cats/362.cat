@@ -1,0 +1,77 @@
+362
+
+Normal:
+Version: Ver6.5
+Jap Name: 風の精霊エアル
+En Name: Aer
+Jp Desc: 宇宙の果てからやって来た風の精霊降り立った星に風の源を宿すと言われている（遠方範囲攻撃）
+En Desc: Cosmic storms, brought to life!
+This sylph spirit summons winds
+for long distance area attacks!
+Abilities: None:Long Distance (Area),Warp Blocker
+Combos: 	爆風ときどき竜巻|Chance of Tornado - ['362', '268']
+Stats: 	health - 3000.000
+	knockback - 2
+	attackRateF - 141
+	attackRateS - 4.70
+	attackPower - 1187.500
+	movementSpeed - 16
+	attackAnimF - 50
+	attackAnimS - 1.67
+	range - 300
+	respawnTimeF - 546
+	respawnTimeS - 18.20
+	attackType - 範囲(Area Attack)
+	cost - 1,080
+
+
+Evolved:
+Version: Ver6.5
+Jap Name: 嵐の精霊エアフワン
+En Name: Erphuan
+Jp Desc: 大陸を吹き飛ばすほどの嵐を操る精霊凄まじい突風はバリアをも貫く力を持つエイリアンに打たれ強い（遠方範囲攻撃）
+En Desc: With winds that blast away the mountains,
+no Barrier can stand against its assaults.
+Tough, with long-range area attacks vs Aliens.
+Abilities: Alien:Resistant,Barrier Breaker,Long Distance (Area),Warp Blocker
+Combos: 
+Stats: 	health - 6700.000
+	knockback - 2
+	attackRateF - 141
+	attackRateS - 4.70
+	attackPower - 2562.500
+	movementSpeed - 14
+	attackAnimF - 50
+	attackAnimS - 1.67
+	range - 375
+	respawnTimeF - 2646
+	respawnTimeS - 88.20
+	attackType - 範囲(Area Attack)
+	cost - 3,930
+
+
+True:
+Version: Ver8.6
+Jap Name: 嵐の精霊王エアフワンテ
+En Name: Aervanta
+Jp Desc: 星雲をも消し飛ばす強大な力を手にした嵐の精霊王宇宙を荒らす大嵐はバリアを貫く力を持ちエイリアンに打たれ強い（遠方範囲攻撃）
+En Desc: Calling forth raging solar winds, can annihilate
+even a mighty nebula with the slightest of efforts.
+Tough, with long-range area attacks vs. Aliens.
+Abilities: Alien:Resistant,Barrier Breaker,Long Distance (Area),Warp Blocker
+Combos: 
+Stats: 	health - 8575.000
+	knockback - 2
+	attackRateF - 141
+	attackRateS - 4.70
+	attackPower - 3187.500
+	movementSpeed - 14
+	attackAnimF - 50
+	attackAnimS - 1.67
+	range - 375
+	respawnTimeF - 2646
+	respawnTimeS - 88.20
+	attackType - 範囲(Area Attack)
+	cost - 3,930
+
+

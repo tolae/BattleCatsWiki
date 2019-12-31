@@ -1,0 +1,59 @@
+157
+
+Normal:
+Version: 
+Jap Name: ドラリー剣士
+En Name: Drury Swordsman
+Jp Desc: ドラゴンリーグコラボ
+En Desc: N/A
+Abilities: Black:Strong
+Combos: 
+Stats: 	health - 450.000
+	knockback - 3
+	attackRateF - 13
+	attackRateS - 0.43
+	attackPower - 37.500
+	movementSpeed - 9
+	attackAnimF - 4
+	attackAnimS - 0.13
+	range - 150
+	respawnTimeF - 60
+	respawnTimeS - 2.00
+	attackType - 単体(Single Attack)
+	cost - 330
+
+
+Evolved:
+Version: 
+Jap Name: ドラリー魔法使い
+En Name: Drury Witch
+Jp Desc: ドラゴンリーグコラボ
+En Desc: N/A
+Abilities: Black:Strong
+Combos: 
+Stats: 	health - 575.000
+	knockback - 2
+	attackRateF - 108
+	attackRateS - 3.60
+	attackPower - 387.500
+	movementSpeed - 4
+	attackAnimF - 29
+	attackAnimS - 0.97
+	range - 210
+	respawnTimeF - 126
+	respawnTimeS - 4.20
+	attackType - 範囲(Area Attack)
+	cost - 1,125
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

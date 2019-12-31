@@ -1,0 +1,71 @@
+160
+
+Normal:
+Version: 
+Jap Name: 冥界のカリファ
+En Name: Kalisa
+Jp Desc: 入学式に学校を壊滅寸前に追い込んだ伝説の少女生まれたときからの相棒「ニャクスカリバー」で天使に超ダメージを与える（範囲攻撃）
+En Desc: Almost obliterated her school on the first day of class with her sword's dark magic. Extreme damage against Angels (Area Attack)
+Abilities: Angel:Massive Damage
+Combos: 
+Stats: 	health - 3800.000
+	knockback - 5
+	attackRateF - 151
+	attackRateS - 5.03
+	attackPower - 2750.000
+	movementSpeed - 27
+	attackAnimF - 40
+	attackAnimS - 1.33
+	range - 325
+	respawnTimeF - 1946
+	respawnTimeS - 64.87
+	attackType - 範囲(Area Attack)
+	cost - 4,125
+
+
+Evolved:
+Version: 
+Jap Name: 冥界のXカリファ
+En Name: Kalisa, type χ
+Jp Desc: 1学期終了時に校長を冥界へ封じ込めた伝説の少女本当の自分をわかってくれる友達を探している天使に超ダメージを与える（範囲攻撃）
+En Desc: Banished her principal to the netherworld at the graduation ceremony. Things never change. Extreme damage against Angels (Area Attack)
+Abilities: Angel:Massive Damage
+Combos: 	チェックのスカート|Checkered Skirt - ['024', '160']
+Stats: 	health - 6350.000
+	knockback - 5
+	attackRateF - 151
+	attackRateS - 5.03
+	attackPower - 4500.000
+	movementSpeed - 27
+	attackAnimF - 40
+	attackAnimS - 1.33
+	range - 325
+	respawnTimeF - 1946
+	respawnTimeS - 64.87
+	attackType - 範囲(Area Attack)
+	cost - 4,125
+
+
+True:
+Version: Ver6.5
+Jap Name: 冥界のXXカリファ
+En Name: Divine Kalisa
+Jp Desc: 特性「動きを遅くする」追加
+En Desc: All of the nice boys who confess their love to her soon find themselves “graduated” to the next world. Massive damage against Angels (Area Attack).
+Abilities: Angel:Massive Damage
+Combos: 
+Stats: 	health - 6350.000
+	knockback - 5
+	attackRateF - 151
+	attackRateS - 5.03
+	attackPower - 6250.000
+	movementSpeed - 27
+	attackAnimF - 40
+	attackAnimS - 1.33
+	range - 355
+	respawnTimeF - 1946
+	respawnTimeS - 64.87
+	attackType - 範囲(Area Attack)
+	cost - 4,125
+
+

@@ -1,0 +1,63 @@
+516
+
+Normal:
+Version: Ver8.10.5
+Jap Name: ブランカ
+En Name: Blanka
+Jp Desc: ストリートファイターV AEコラボ
+En Desc: Joining the fight from Street Fighter V AE!
+Gentle defender of the Amazon forests. 
+Massive Omnistrike damage vs Aliens
+Abilities: Alien:Massive Damage,Barrier Breaker,Long Distance (Omni)
+Combos: 
+Stats: 	health - 6000.000
+	knockback - 8
+	attackRateF - 93
+	attackRateS - 3.10
+	attackPower - 3750.000
+	movementSpeed - 55
+	attackAnimF - 5
+	attackAnimS - 0.17
+	range - 150
+	respawnTimeF - 1746
+	respawnTimeS - 58.20
+	attackType - 範囲(Area Attack)
+	cost - 3,300
+
+
+Evolved:
+Version: Ver8.10.5
+Jap Name: ブランカCC
+En Name: Blanka CC
+Jp Desc: ストリートファイターV AEコラボ
+En Desc: Joining the fight from Street Fighter V AE!
+Strikes with a chaotic Rolling Attack!
+Massive Omnistrike damage vs Aliens
+Abilities: Alien:Massive Damage,Barrier Breaker,Long Distance (Omni)
+Combos: 
+Stats: 	health - 6000.000
+	knockback - 8
+	attackRateF - 93
+	attackRateS - 3.10
+	attackPower - 3750.000
+	movementSpeed - 55
+	attackAnimF - 5
+	attackAnimS - 0.17
+	range - 150
+	respawnTimeF - 1746
+	respawnTimeS - 58.20
+	attackType - 範囲(Area Attack)
+	cost - 3,300
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

@@ -1,0 +1,59 @@
+442
+
+Normal:
+Version: Ver7.4
+Jap Name: 影傑ダークダルターニャ
+En Name: D'arktanyan
+Jp Desc: 貫けなかった正義を追い求め彷徨うもう一匹のダルターニャの姿。属性を持たない敵に超ダメージを与え、体力減少で攻撃力大幅上昇（遠方範囲攻撃）
+En Desc: Wandering warrior pursuing true justice, resembles a certain Meowsketeer. Gains attack power when damaged, effective vs all traitless enemies!
+Abilities: White:Massive Damage,Strengthen,Long Distance (Area),Immune to Waves,Warp Blocker
+Combos: 
+Stats: 	health - 9000.000
+	knockback - 5
+	attackRateF - 121
+	attackRateS - 4.03
+	attackPower - 2000.000
+	movementSpeed - 24
+	attackAnimF - 45
+	attackAnimS - 1.50
+	range - 340
+	respawnTimeF - 2746
+	respawnTimeS - 91.53
+	attackType - 範囲(Area Attack)
+	cost - 4,350
+
+
+Evolved:
+Version: Ver7.4
+Jap Name: 黒傑ダークダルターニャ
+En Name: Valiant D'arktanyan
+Jp Desc: 正義のためには犠牲もいとわない冷徹な銃士属性を持たない敵に超ダメージを与え体力減少で攻撃力大幅上昇（遠方範囲攻撃）
+En Desc: He values nothing more than justice and will happily sacrifice it all for his cause! Gains attack power when damaged, effective vs all traitless enemies!
+Abilities: White:Massive Damage,Strengthen,Long Distance (Area),Immune to Waves,Warp Blocker
+Combos: 
+Stats: 	health - 13500.000
+	knockback - 5
+	attackRateF - 111
+	attackRateS - 3.70
+	attackPower - 2750.000
+	movementSpeed - 30
+	attackAnimF - 35
+	attackAnimS - 1.17
+	range - 340
+	respawnTimeF - 2746
+	respawnTimeS - 91.53
+	attackType - 範囲(Area Attack)
+	cost - 4,350
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

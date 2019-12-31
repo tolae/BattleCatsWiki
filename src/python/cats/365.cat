@@ -1,0 +1,59 @@
+365
+
+Normal:
+Version: Ver6.6
+Jap Name: イリヤスフィール
+En Name: Illyasviel
+Jp Desc: 劇場版 Fate stay nightコラボ
+En Desc: Joining the fight from Fate/stay night [HF]! With Berserker at her command, she is ready for battle. Chance to Slow Red/Metal, with Area Attack!
+Abilities: Red,Metal:Multi-Hit,Slow
+Combos: 
+Stats: 	health - 4475.000
+	knockback - 4
+	attackRateF - 278
+	attackRateS - 9.27
+	attackPower - 4650.000
+	movementSpeed - 9
+	attackAnimF - 71
+	attackAnimS - 2.37
+	range - 460
+	respawnTimeF - 3646
+	respawnTimeS - 121.53
+	attackType - 範囲(Area Attack)
+	cost - 4,440
+
+
+Evolved:
+Version: Ver6.6
+Jap Name: イリヤスフィールCC
+En Name: Illyasviel CC
+Jp Desc: 劇場版 Fate stay nightコラボ
+En Desc: Joining the fight from Fate/stay night [HF]! Guardian of the Einzbern family's honorable name. Chance to Slow Red/Metal, with Area Attack!
+Abilities: Red,Metal:Multi-Hit,Slow
+Combos: 
+Stats: 	health - 6400.000
+	knockback - 4
+	attackRateF - 278
+	attackRateS - 9.27
+	attackPower - 6700.000
+	movementSpeed - 9
+	attackAnimF - 71
+	attackAnimS - 2.37
+	range - 460
+	respawnTimeF - 3646
+	respawnTimeS - 121.53
+	attackType - 範囲(Area Attack)
+	cost - 4,440
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

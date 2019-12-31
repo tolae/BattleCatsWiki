@@ -1,0 +1,71 @@
+136
+
+Normal:
+Version: 
+Jap Name: ツルの恩返し
+En Name: The Grateful Crane
+Jp Desc: 毎年湖の上で開催される鳥になるコンテストで最長飛行距離をたたきだした脅威のにゃんこ天使と浮いてる敵をたまにふっとばす（範囲攻撃）
+En Desc: Champion of this year's Bird-Cat contest held at the lake every year. (Area Attack) Knocks back Floating/Angel enemies.
+Abilities: Float,Angel:Knockback
+Combos: 	空への憧れ|Dreams of Flying - ['136', '019']
+Stats: 	health - 1387.500
+	knockback - 3
+	attackRateF - 24
+	attackRateS - 0.80
+	attackPower - 600.000
+	movementSpeed - 4
+	attackAnimF - 5
+	attackAnimS - 0.17
+	range - 200
+	respawnTimeF - 206
+	respawnTimeS - 6.87
+	attackType - 範囲(Area Attack)
+	cost - 832
+
+
+Evolved:
+Version: 
+Jap Name: 銀河戦士コスモ
+En Name: Super Galaxy Cosmo
+Jp Desc: 最長飛行記録は宇宙にまで到達星座の力を手に入れたにゃんこは超進化を遂げる天使と浮いてる敵を必ずふっとばす（範囲攻撃）
+En Desc: Pushed its limits further to reach space. Evolved by collecting Star Energy. Always knocks back Floating/Angel enemies.
+Abilities: Float,Angel:Knockback
+Combos: 	銀河を駆ける|Galactic Travel - ['079', '136']
+Stats: 	health - 4000.000
+	knockback - 4
+	attackRateF - 620
+	attackRateS - 20.67
+	attackPower - 5875.000
+	movementSpeed - 54
+	attackAnimF - 321
+	attackAnimS - 10.70
+	range - 850
+	respawnTimeF - 3946
+	respawnTimeS - 131.53
+	attackType - 範囲(Area Attack)
+	cost - 5,850
+
+
+True:
+Version: Ver7.1
+Jap Name: 究極戦士コズミックコスモ
+En Name: Ultima Galaxy Cosmo
+Jp Desc: ついに銀河の果てまでたどり着いたにゃんこその栄光は都市伝説として語り継がれた（範囲攻撃）天使と浮いてる敵を必ずふっとばして動きを止める
+En Desc: He has reached the edge of the universe and seen the truth. Area attacks have 100% chance of knockback & freeze vs Floating/Angels.
+Abilities: Float,Angel:Knockback,Freeze
+Combos: 
+Stats: 	health - 4000.000
+	knockback - 4
+	attackRateF - 620
+	attackRateS - 20.67
+	attackPower - 8375.000
+	movementSpeed - 54
+	attackAnimF - 321
+	attackAnimS - 10.70
+	range - 850
+	respawnTimeF - 3946
+	respawnTimeS - 131.53
+	attackType - 範囲(Area Attack)
+	cost - 5,850
+
+

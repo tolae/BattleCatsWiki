@@ -1,0 +1,59 @@
+168
+
+Normal:
+Version: 
+Jap Name: ネコヤンキー
+En Name: Yankee Cat
+Jp Desc: 氣志團コラボ
+En Desc: N/A
+Abilities: None:
+Combos: 
+Stats: 	health - 375.000
+	knockback - 3
+	attackRateF - 37
+	attackRateS - 1.23
+	attackPower - 30.147
+	movementSpeed - 5
+	attackAnimF - 8
+	attackAnimS - 0.27
+	range - 150
+	respawnTimeF - 60
+	respawnTimeS - 2.00
+	attackType - 単体(Single Attack)
+	cost - 120
+
+
+Evolved:
+Version: 
+Jap Name: ネコスケバン
+En Name: Sukeban Cat
+Jp Desc: 氣志團コラボ
+En Desc: N/A
+Abilities: None:
+Combos: 
+Stats: 	health - 1000.000
+	knockback - 1
+	attackRateF - 67
+	attackRateS - 2.23
+	attackPower - 15.000
+	movementSpeed - 5
+	attackAnimF - 8
+	attackAnimS - 0.27
+	range - 120
+	respawnTimeF - 60
+	respawnTimeS - 2.00
+	attackType - 範囲(Area Attack)
+	cost - 225
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

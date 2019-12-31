@@ -1,0 +1,71 @@
+300
+
+Normal:
+Version: Ver5.5
+Jap Name: ちびまどか
+En Name: Li'l Madoka
+Jp Desc: 魔法少女まどか☆マギカコラボ
+En Desc: From Madoka Magica The Movie -Rebellion-! A girl with vast potential hiding in her tiny body.
+Abilities: Witch:Witch Killer
+Combos: 
+Stats: 	health - 1250.000
+	knockback - 2
+	attackRateF - 131
+	attackRateS - 4.37
+	attackPower - 250.000
+	movementSpeed - 10
+	attackAnimF - 42
+	attackAnimS - 1.40
+	range - 120
+	respawnTimeF - 746
+	respawnTimeS - 24.87
+	attackType - 単体(Single Attack)
+	cost - 450
+
+
+Evolved:
+Version: Ver5.5
+Jap Name: ちび魔法少女まどか
+En Name: Li'l Magical Girl Madoka
+Jp Desc: 魔法少女まどか☆マギカコラボ
+En Desc: From Madoka Magica The Movie -Rebellion-! Bears the true power of a Magical Girl within her. Massive Long-range damage vs. Floating.
+Abilities: Float,Witch:Massive Damage,Witch Killer,Long Distance (Single)
+Combos: 
+Stats: 	health - 1250.000
+	knockback - 2
+	attackRateF - 131
+	attackRateS - 4.37
+	attackPower - 250.000
+	movementSpeed - 10
+	attackAnimF - 42
+	attackAnimS - 1.40
+	range - 400
+	respawnTimeF - 746
+	respawnTimeS - 24.87
+	attackType - 単体(Single Attack)
+	cost - 450
+
+
+True:
+Version: Ver5.5
+Jap Name: ちびアルティメットまどか
+En Name: Li'l Ultimate Madoka
+Jp Desc: 魔法少女まどか☆マギカコラボ
+En Desc: From Madoka Magica The Movie -Rebellion-! Can alter the laws of time and space with her gift! Massive Long-range damage vs. Floating.
+Abilities: Float,Witch:Massive Damage,Witch Killer,Long Distance (Area)
+Combos: 
+Stats: 	health - 1250.000
+	knockback - 2
+	attackRateF - 131
+	attackRateS - 4.37
+	attackPower - 250.000
+	movementSpeed - 10
+	attackAnimF - 42
+	attackAnimS - 1.40
+	range - 425
+	respawnTimeF - 746
+	respawnTimeS - 24.87
+	attackType - 範囲(Area Attack)
+	cost - 450
+
+

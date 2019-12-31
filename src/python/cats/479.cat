@@ -1,0 +1,59 @@
+479
+
+Normal:
+Version: Ver8.5
+Jap Name: 幻の精霊ルミナ
+En Name: Lumina
+Jp Desc: 倒された時、独自グラフィック（アニメーション）
+En Desc: The ultimate elemental manifestation, projected from a dying star at the end of the universe. Insanely tough, might Weaken, Barrier Breaker.
+Abilities: Alien:Insanely Tough,Weaken,Barrier Breaker,Immune to Slow,Warp Blocker
+Combos: 
+Stats: 	health - 3125.000
+	knockback - 3
+	attackRateF - 136
+	attackRateS - 4.53
+	attackPower - 1250.000
+	movementSpeed - 32
+	attackAnimF - 41
+	attackAnimS - 1.37
+	range - 330
+	respawnTimeF - 446
+	respawnTimeS - 14.87
+	attackType - 範囲(Area Attack)
+	cost - 1,110
+
+
+Evolved:
+Version: Ver8.5
+Jap Name: 夢幻の精霊ルミナリア
+En Name: Luminalia
+Jp Desc: 倒された時、独自グラフィック（アニメーション）
+En Desc: Omniscient cosmic visionary from the future, mastery of all elements allow it to ignore Barriers. Insanely tough, 100% Weaken, Barrier Breaker.
+Abilities: Alien:Insanely Tough,Weaken,Barrier Breaker,Immune to Slow,Warp Blocker
+Combos: 
+Stats: 	health - 20000.000
+	knockback - 3
+	attackRateF - 136
+	attackRateS - 4.53
+	attackPower - 4587.500
+	movementSpeed - 30
+	attackAnimF - 41
+	attackAnimS - 1.37
+	range - 375
+	respawnTimeF - 2246
+	respawnTimeS - 74.87
+	attackType - 範囲(Area Attack)
+	cost - 3,675
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+

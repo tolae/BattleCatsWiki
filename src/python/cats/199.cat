@@ -1,0 +1,71 @@
+199
+
+Normal:
+Version: Ver4.0
+Jap Name: ねこ陰陽師
+En Name: Onmyoji Cat
+Jp Desc: 自称過去からタイムスリップしてきた妖術使いにゃんこ悪霊退治の依頼あればスポーツカーで瞬時に駆けつけるたまにメタルな敵以外の攻撃力をダウンさせる
+En Desc: Exorcist who time traveled from the past. Always trying to purge sportscars of evil. Sometimes weakens non-Metal enemies.
+Abilities: All (w/o Metal):Weaken,Zombie Killer
+Combos: 
+Stats: 	health - 875.000
+	knockback - 3
+	attackRateF - 121
+	attackRateS - 4.03
+	attackPower - 75.000
+	movementSpeed - 8
+	attackAnimF - 93
+	attackAnimS - 3.10
+	range - 310
+	respawnTimeF - 366
+	respawnTimeS - 12.20
+	attackType - 単体(Single Attack)
+	cost - 510
+
+
+Evolved:
+Version: Ver4.0
+Jap Name: 魔法少女ねこ
+En Name: Magica Cat
+Jp Desc: 遭遇した宇宙人に契約を迫られ魔法少女に転身乗り換え契約特典で付いてきた光る杖でたまにメタルな敵以外の攻撃力をダウンさせる
+En Desc: Magical Girl by alien contract - the shiny staff came as a signing bonus. Sometimes weakens non-Metal enemies.
+Abilities: All (w/o Metal):Weaken,Zombie Killer
+Combos: 
+Stats: 	health - 1025.000
+	knockback - 3
+	attackRateF - 121
+	attackRateS - 4.03
+	attackPower - 94.853
+	movementSpeed - 8
+	attackAnimF - 93
+	attackAnimS - 3.10
+	range - 310
+	respawnTimeF - 366
+	respawnTimeS - 12.20
+	attackType - 単体(Single Attack)
+	cost - 510
+
+
+True:
+Version: Ver6.2
+Jap Name: ねこ大魔王
+En Name: Thaumaturge Cat
+Jp Desc: 契約期間満了で転職したにゃんこテーマパークの悪役もなかなか待遇がいい必ずメタルな敵以外の攻撃力をダウンさせる
+En Desc: The contract has been fulfilled. Ultimate power is within her grasp. But now she just works as a theme park villain. 100% weakens non-Metal.
+Abilities: All (w/o Metal):Weaken,Zombie Killer
+Combos: 
+Stats: 	health - 1325.000
+	knockback - 3
+	attackRateF - 131
+	attackRateS - 4.37
+	attackPower - 115.000
+	movementSpeed - 8
+	attackAnimF - 93
+	attackAnimS - 3.10
+	range - 310
+	respawnTimeF - 366
+	respawnTimeS - 12.20
+	attackType - 単体(Single Attack)
+	cost - 510
+
+

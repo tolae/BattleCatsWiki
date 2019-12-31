@@ -1,0 +1,71 @@
+212
+
+Normal:
+Version: Ver4.2
+Jap Name: ちびバトルネコ
+En Name: Li'l Axe Cat
+Jp Desc: 戦闘向きのキャラを目指して成長中のちびにゃんこ｢赤い敵｣にめっぽう強い
+En Desc: A tiny guy with dreams of becoming that combat maniac who's strong against Red.
+Abilities: Red:Strong
+Combos: 	進撃のちびネコ|Attack of the Li'ls - ['210', '211', '212', '246', '247']
+Stats: 	health - 435.294
+	knockback - 3
+	attackRateF - 27
+	attackRateS - 0.90
+	attackPower - 136.029
+	movementSpeed - 10
+	attackAnimF - 8
+	attackAnimS - 0.27
+	range - 140
+	respawnTimeF - 60
+	respawnTimeS - 2.00
+	attackType - 単体(Single Attack)
+	cost - 300
+
+
+Evolved:
+Version: Ver4.2
+Jap Name: ちび勇者ネコ
+En Name: Li'l Brave Cat
+Jp Desc: 勇者にあこがれる戦闘向きのキャラを目指して成長中のちびにゃんこ｢赤い敵｣にめっぽう強い
+En Desc: A tiny guy with dreams of becoming that hero wannabe who's strong against Red.
+Abilities: Red:Strong
+Combos: 
+Stats: 	health - 435.294
+	knockback - 3
+	attackRateF - 27
+	attackRateS - 0.90
+	attackPower - 136.029
+	movementSpeed - 10
+	attackAnimF - 8
+	attackAnimS - 0.27
+	range - 140
+	respawnTimeF - 60
+	respawnTimeS - 2.00
+	attackType - 単体(Single Attack)
+	cost - 300
+
+
+True:
+Version: Ver5.10
+Jap Name: ちび暗黒ネコ
+En Name: Li'l Dark Cat
+Jp Desc: 成長してモンスターハントに憧れるようになった戦闘向きのちびにゃんこ天使にめっぽう強い
+En Desc: A tiny guy with dreams of becoming that decent dark knight wannabe Cat. Mighty power against Angels.
+Abilities: Angel:Strong
+Combos: 
+Stats: 	health - 2176.471
+	knockback - 3
+	attackRateF - 27
+	attackRateS - 0.90
+	attackPower - 272.059
+	movementSpeed - 10
+	attackAnimF - 8
+	attackAnimS - 0.27
+	range - 150
+	respawnTimeF - 60
+	respawnTimeS - 2.00
+	attackType - 単体(Single Attack)
+	cost - 300
+
+

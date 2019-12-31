@@ -1,0 +1,59 @@
+281
+
+Normal:
+Version: Ver5.2
+Jap Name: 要塞なめこ
+En Name: Fortressy
+Jp Desc: NEOなめこ栽培キットコラボ
+En Desc: A mobile fortress able to defend against attacks from any direction. Tough unit able to withstand siege.
+Abilities: None:
+Combos: 
+Stats: 	health - 1125.000
+	knockback - 1
+	attackRateF - 126
+	attackRateS - 4.20
+	attackPower - 25.000
+	movementSpeed - 7
+	attackAnimF - 52
+	attackAnimS - 1.73
+	range - 130
+	respawnTimeF - 60
+	respawnTimeS - 2.00
+	attackType - 単体(Single Attack)
+	cost - 180
+
+
+Evolved:
+Version: Ver5.2
+Jap Name: なめこ＆要塞にゃんこ
+En Name: Castley
+Jp Desc: NEOなめこ栽培キットコラボ
+En Desc: The fortress has been redesigned for extra appeal to the Internet. Tough unit able to withstand siege.
+Abilities: None:
+Combos: 
+Stats: 	health - 1125.000
+	knockback - 1
+	attackRateF - 126
+	attackRateS - 4.20
+	attackPower - 25.000
+	movementSpeed - 7
+	attackAnimF - 52
+	attackAnimS - 1.73
+	range - 130
+	respawnTimeF - 60
+	respawnTimeS - 2.00
+	attackType - 単体(Single Attack)
+	cost - 180
+
+
+True:
+Version: 
+Jap Name: 
+En Name: 
+Jp Desc: 
+En Desc: 
+Abilities: None:
+Combos: 
+Stats: 
+
+
