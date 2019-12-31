@@ -23,7 +23,7 @@
             android:layout_height="wrap_content" />
 
         <TextView
-            android:id="@+id/unit_txt"
+            android:id="@+id/unit_name_txt"
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
             android:text="Unit X Name" />

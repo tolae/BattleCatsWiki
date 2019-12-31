@@ -1,14 +1,15 @@
 package com.spitfirex2.battlecatsmasterwiki.activities;
 
-import android.content.Intent;
 import android.os.Bundle;
-import android.view.View;
-import android.widget.LinearLayout;
-import android.widget.TableRow;
 
 import androidx.appcompat.app.AppCompatActivity;
+import androidx.recyclerview.widget.DefaultItemAnimator;
+import androidx.recyclerview.widget.LinearLayoutManager;
+import androidx.recyclerview.widget.RecyclerView;
 
 import com.spitfirex2.battlecatsmasterwiki.R;
+import com.spitfirex2.battlecatsmasterwiki.database.FirebaseDB;
+import com.spitfirex2.battlecatsmasterwiki.fragments.Adapters.UnitRecycleViewAdapter;
 
 public class ListUnitActivity extends AppCompatActivity {
 
@@ -17,17 +18,12 @@ public class ListUnitActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.list_unit_layout);
 
-        LinearLayout table = findViewById(R.id.list_unit_linear_container);
+        RecyclerView recyclerView = findViewById(R.id.list_unit_scroll_container);
+        UnitRecycleViewAdapter adapter = new UnitRecycleViewAdapter(FirebaseDB.mFirebaseUnitDB);
 
-        for (int child_index = 0; child_index < table.getChildCount(); child_index++) {
-            TableRow row = (TableRow) table.getChildAt(child_index);
-            row.setOnClickListener(new View.OnClickListener() {
-                @Override
-                public void onClick(View view) {
-                    Intent intent = new Intent(ListUnitActivity.this, SpecUnitActivity.class);
-                    ListUnitActivity.this.startActivity(intent);
-                }
-            });
-        }
+        RecyclerView.LayoutManager mLayoutManager = new LinearLayoutManager(getApplicationContext());
+        recyclerView.setLayoutManager(mLayoutManager);
+        recyclerView.setItemAnimator(new DefaultItemAnimator());
+        recyclerView.setAdapter(adapter);
     }
 }

@@ -19,6 +19,9 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+        FirebaseDB firebaseDB = new FirebaseDB();
+        firebaseDB.loadAllUnits();
+
         Button cat_unit_btn = findViewById(R.id.cat_unit_btn);
         cat_unit_btn.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -28,6 +31,5 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-        FirebaseDB firebaseDB = new FirebaseDB();
     }
 }

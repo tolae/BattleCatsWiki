@@ -1,6 +1,7 @@
 package com.spitfirex2.battlecatsmasterwiki.database.unit;
 
-import androidx.annotation.NonNull;
+import java.util.HashMap;
+import java.util.List;
 
 public class Unit {
 
@@ -19,27 +20,47 @@ public class Unit {
         CRAZED
     }
 
-    public String unitNumber;
+    public String enDescription;
     public String enName;
-    public String jpName;
-    public String version;
-    public String rarity;
     public String img;
+    public String jpDescription;
+    public String jpName;
+    public String rarity;
+    public String version;
     public UnitStats stats;
-    public String unitForm;
+    public HashMap<String, List<String>> combos;
+
+    public String unitNumber;
+    public UnitForm unitForm;
 
     public Unit() {
         // Blank for Firebase
     }
 
+    public Unit(final String unitNumber, final UnitForm unitForm) {
+        this.unitNumber = unitNumber;
+        this.unitForm = unitForm;
+
+        this.enDescription = "";
+        this.enName = "";
+        this.img = "";
+        this.jpDescription = "";
+        this.jpName = "";
+        this.rarity = "";
+        this.version = "";
+        this.stats = new UnitStats();
+        this.combos = new HashMap<>();
+    }
+
     public static void copyUnit(Unit dest, Unit src) {
-        dest.unitNumber = src.unitNumber;
         dest.enName = src.enName;
         dest.jpName = src.jpName;
+        dest.jpDescription = src.jpDescription;
+        dest.enDescription = src.enDescription;
         dest.version = src.version;
         dest.rarity = src.rarity;
         dest.img = src.img;
-        dest.unitForm = src.unitForm;
+        dest.combos = src.combos;
         UnitStats.copyStats(dest.stats, src.stats);
     }
 
@@ -56,8 +77,8 @@ public class Unit {
                 "\n\tversion='" + version + '\'' +
                 "\n\trarity='" + rarity + '\'' +
                 "\n\timg='" + img + '\'' +
-                "\n\tstats=" + stats +
                 "\n\tunitForm='" + unitForm + '\'' +
+                "\n\tstats=" + stats +
                 "\n}";
     }
 }
