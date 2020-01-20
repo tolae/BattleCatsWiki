@@ -1,4 +1,4 @@
-package com.spitfirex2.battlecatsmasterwiki;
+package com.spitfirex2.battlecatsmasterwiki.activities;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -7,7 +7,7 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 
-import com.spitfirex2.battlecatsmasterwiki.activities.ListUnitActivity;
+import com.spitfirex2.battlecatsmasterwiki.R;
 import com.spitfirex2.battlecatsmasterwiki.database.FirebaseDB;
 
 public class MainActivity extends AppCompatActivity {

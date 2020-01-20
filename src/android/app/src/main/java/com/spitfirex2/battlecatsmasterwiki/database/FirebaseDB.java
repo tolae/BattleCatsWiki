@@ -14,7 +14,7 @@ import com.spitfirex2.battlecatsmasterwiki.database.unit.UnitDB;
 import java.util.ArrayList;
 import java.util.List;
 
-import static com.spitfirex2.battlecatsmasterwiki.MainActivity.TAG;
+import static com.spitfirex2.battlecatsmasterwiki.activities.MainActivity.TAG;
 
 public class FirebaseDB {
 
