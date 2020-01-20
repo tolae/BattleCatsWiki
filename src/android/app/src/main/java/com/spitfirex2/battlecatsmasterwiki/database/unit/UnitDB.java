@@ -18,7 +18,7 @@ public class UnitDB {
             this.Evolved.unitNumber = unitNumber;
             this.Evolved.unitForm = Unit.UnitForm.EVOLVED;
         }
-        if  (this.True != null) {
+        if (hasTrueForm()) {
             this.True.unitNumber = unitNumber;
             this.True.unitForm = Unit.UnitForm.TRUE;
         }
@@ -28,6 +28,10 @@ public class UnitDB {
         Unit.copyUnit(dest.Normal, src.Normal);
         Unit.copyUnit(dest.Evolved, src.Evolved);
         Unit.copyUnit(dest.True, src.True);
+    }
+
+    public boolean hasTrueForm() {
+        return this.True != null;
     }
 
     @Override

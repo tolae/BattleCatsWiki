@@ -14,8 +14,7 @@
             android:id="@+id/unit_img"
             android:layout_width="72dp"
             android:layout_height="72dp"
-            android:contentDescription="Sample image"
-            android:src="@mipmap/colors" />
+            android:contentDescription="Sample image" />
 
         <Space
             android:id="@+id/small_space"

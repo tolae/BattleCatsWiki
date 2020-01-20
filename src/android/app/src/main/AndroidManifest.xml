@@ -21,6 +21,7 @@
 
         <activity android:name=".activities.ListUnitActivity"></activity>
         <activity android:name=".activities.SpecUnitActivity"></activity>
+        <activity android:name=".activities.SplashActivity"></activity>
     </application>
 
 </manifest>

@@ -1,5 +1,7 @@
 package com.spitfirex2.battlecatsmasterwiki.database.unit;
 
+import android.graphics.drawable.Drawable;
+
 import java.util.HashMap;
 import java.util.List;
 
@@ -33,6 +35,8 @@ public class Unit {
     public String unitNumber;
     public UnitForm unitForm;
 
+    public Drawable imgDrawable;
+
     public Unit() {
         // Blank for Firebase
     }
@@ -50,6 +54,7 @@ public class Unit {
         this.version = "";
         this.stats = new UnitStats();
         this.combos = new HashMap<>();
+        this.imgDrawable = null;
     }
 
     public static void copyUnit(Unit dest, Unit src) {
@@ -61,6 +66,7 @@ public class Unit {
         dest.rarity = src.rarity;
         dest.img = src.img;
         dest.combos = src.combos;
+        dest.imgDrawable = src.imgDrawable;
         UnitStats.copyStats(dest.stats, src.stats);
     }
 

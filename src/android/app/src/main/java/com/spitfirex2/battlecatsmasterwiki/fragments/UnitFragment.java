@@ -23,11 +23,9 @@ public class UnitFragment extends Fragment {
 
     private Integer level;
     private Unit unit;
-    private Unit.UnitForm form;
 
     public UnitFragment(Unit unit) {
         this.unit = unit;
-        this.form = Unit.UnitForm.NORMAL;
         this.level = null;
     }
 
@@ -35,7 +33,7 @@ public class UnitFragment extends Fragment {
     public View onCreateView(@NonNull LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
         final View layout = inflater.inflate(R.layout.unit_fragment_layout, container, false);
         ImageView cat_img = layout.findViewById(R.id.unit_fragment_img);
-        switch (form) {
+        switch (this.unit.unitForm) {
             case NORMAL:
                 cat_img.setImageResource(R.mipmap.colors);
                 break;
