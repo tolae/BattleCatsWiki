@@ -2,6 +2,7 @@
 
 Normal:
 Version: 
+Image: https://vignette.wikia.nocookie.net/battle-cats/images/d/d2/Uni092_f00.png/revision/latest?cb=20190923165739
 Jap Name: 狂乱のタンクネコ
 En Name: Crazed Tank Cat
 Jp Desc: 体力を多く備えた盾用のキャラ攻撃力はスズメの涙ほど（範囲攻撃）狂乱となることで神速を入手
@@ -25,6 +26,7 @@ Stats: 	health - 2700.000
 
 Evolved:
 Version: 
+Image: https://vignette.wikia.nocookie.net/battle-cats/images/5/5c/Uni092_c002.png/revision/latest?cb=20190923165727
 Jap Name: 狂乱のネコカベ
 En Name: Crazed Wall Cat
 Jp Desc: まさにカベに徹する為の盾専用キャラ攻撃力はあいかわらず（範囲攻撃）狂乱となることで神速を入手
@@ -48,6 +50,7 @@ Stats: 	health - 2700.000
 
 True:
 Version: Ver5.0
+Image: https://vignette.wikia.nocookie.net/battle-cats/images/6/60/Uni092_s00.png/revision/latest?cb=20190923165710
 Jap Name: 大狂乱のゴムネコ
 En Name: Manic Eraser Cat
 Jp Desc: まさにカベに徹する為の盾専用キャラ大狂乱となることで超弾力を取得し超体力も入手攻撃力はあいかわらず（範囲攻撃）

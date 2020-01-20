@@ -2,6 +2,7 @@
 
 Normal:
 Version: 
+Image: https://vignette.wikia.nocookie.net/battle-cats/images/7/7b/Uni098_f00.png/revision/latest?cb=20190923173241
 Jap Name: 狂乱のネコトカゲ
 En Name: Crazed Lizard Cat
 Jp Desc: 遠くの敵を攻撃できる遠距離型キャラ単発だけなら攻撃力はピカイチ狂乱となることでグラフィックが向上した
@@ -25,6 +26,7 @@ Stats: 	health - 4050.000
 
 Evolved:
 Version: 
+Image: https://vignette.wikia.nocookie.net/battle-cats/images/c/c4/Uni098_c002.png/revision/latest?cb=20190923173211
 Jap Name: 狂乱のネコドラゴン
 En Name: Crazed Dragon Cat
 Jp Desc: 幻想世界から降臨した遠距離型キャラ単発だけなら攻撃力はピカイチ狂乱となることでグラフィックが向上した
@@ -48,6 +50,7 @@ Stats: 	health - 4050.000
 
 True:
 Version: Ver5.0
+Image: https://vignette.wikia.nocookie.net/battle-cats/images/3/3f/Uni098_s00.png/revision/latest?cb=20190923173224
 Jap Name: 大狂乱のネコキングドラゴン
 En Name: Manic King Dragon
 Jp Desc: ドラゴン界のエリートまで上り詰めた遠距離型キャラ単発だけなら攻撃力はピカイチ。大狂乱となることでさらにグラフィックが向上し、能力もアップした

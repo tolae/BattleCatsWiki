@@ -10,6 +10,8 @@ import android.widget.Button;
 import com.spitfirex2.battlecatsmasterwiki.R;
 import com.spitfirex2.battlecatsmasterwiki.database.FirebaseDB;
 
+import static com.spitfirex2.battlecatsmasterwiki.activities.SplashActivity.EXPECTED_UNIT_SIZE;
+
 public class MainActivity extends AppCompatActivity {
 
     public static final String TAG = "FIREBASE_DATABASE_TESTER";
@@ -19,8 +21,10 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        FirebaseDB firebaseDB = new FirebaseDB();
-        firebaseDB.loadAllUnits();
+        if (FirebaseDB.mFirebaseUnitDB.size() < EXPECTED_UNIT_SIZE) {
+            Intent intent = new Intent(MainActivity.this, SplashActivity.class);
+            MainActivity.this.startActivity(intent);
+        }
 
         Button cat_unit_btn = findViewById(R.id.cat_unit_btn);
         cat_unit_btn.setOnClickListener(new View.OnClickListener() {

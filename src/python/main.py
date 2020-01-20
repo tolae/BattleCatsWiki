@@ -38,7 +38,7 @@ if __name__ == "__main__":
 	try:
 		start_time = time.time()
 		pools = Pool(processes=cpu_count())
-		unit_arr = list(filter(None, pools.map(parse_cat_unit, range(1, 540))))
+		unit_arr = list(filter(None, pools.map(parse_cat_unit, range(92, 101))))
 
 		print("Done! Total cat processed: %d in %.03f" % (len(unit_arr), time.time() - start_time))
 		upload(unit_arr)

@@ -182,7 +182,7 @@ def _parse_cat_unit_stats_1(raw_data, eng_data, unit, form):
 		unit {UnitDB} -- A reference to cat UnitDB object.
 		form {string} -- A key detailing which form to fill.
 	"""
-	unit[form].rarity = raw_data[0].a.text
+	unit[form].rarity = "狂乱" if "Crazed" in unit[form].enName or "Manic" in unit[form].enName or "狂乱" in unit[form].jpName else raw_data[0].a.text
 	unit[form].img = raw_data[1].img.attrs['src']
 	unit[form].stats['health'] = _get_base_stat(unit.unitNumber, MASSAGE(list(raw_data[3].children)[0]))
 	unit[form].stats['knockback'] = MASSAGE(raw_data[5])

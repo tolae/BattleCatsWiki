@@ -13,6 +13,7 @@ import com.spitfirex2.battlecatsmasterwiki.database.FirebaseDB;
 import com.spitfirex2.battlecatsmasterwiki.database.unit.Unit;
 import com.spitfirex2.battlecatsmasterwiki.database.unit.UnitDB;
 import com.spitfirex2.battlecatsmasterwiki.fragments.Adapters.UnitFragmentAdapter;
+import com.spitfirex2.battlecatsmasterwiki.util.Utility;
 
 public class SpecUnitActivity extends AppCompatActivity {
     @Override
@@ -25,6 +26,7 @@ public class SpecUnitActivity extends AppCompatActivity {
             // TODO: Crash
         }
         UnitDB unit = FirebaseDB.mFirebaseUnitDB.get(unit_pos);
+        unit.loadUnitDrawables();
 
         TabLayout tabLayout = findViewById(R.id.unit_tabs);
         if (!unit.hasTrueForm())

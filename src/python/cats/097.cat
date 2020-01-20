@@ -2,6 +2,7 @@
 
 Normal:
 Version: 
+Image: https://vignette.wikia.nocookie.net/battle-cats/images/a/a4/Uni096_f00.png/revision/latest?cb=20190923172014
 Jap Name: 狂乱のネコノトリ
 En Name: Crazed Bird Cat
 Jp Desc: 体力は少ないが敵をまとめて一掃する超破壊力を持ったキャラ（範囲攻撃）狂乱となることでリーチが伸びている
@@ -25,6 +26,7 @@ Stats: 	health - 2700.000
 
 Evolved:
 Version: 
+Image: https://vignette.wikia.nocookie.net/battle-cats/images/3/3b/Uni096_c002.png/revision/latest?cb=20190923171959
 Jap Name: 狂乱のネコUFO
 En Name: Crazed UFO Cat
 Jp Desc: 重力を超越した改造にゃんこ敵をまとめてお仕置き可能（範囲攻撃）狂乱となることでリーチが伸びている
@@ -48,6 +50,7 @@ Stats: 	health - 2700.000
 
 True:
 Version: Ver5.0
+Image: https://vignette.wikia.nocookie.net/battle-cats/images/7/75/Uni096_s00.png/revision/latest?cb=20190923172028
 Jap Name: 大狂乱の天空のネコ
 En Name: Manic Flying Cat
 Jp Desc: 放たれる光弾は巨大都市を一瞬で焼き払ったと伝えられる空中都市型にゃんこ（範囲攻撃）大狂乱となることで攻撃力と射程がアップ

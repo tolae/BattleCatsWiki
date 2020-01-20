@@ -2,6 +2,7 @@
 
 Normal:
 Version: 
+Image: https://vignette.wikia.nocookie.net/battle-cats/images/d/d4/Uni099_f00.png/revision/latest?cb=20190923173604
 Jap Name: 狂乱の巨神ネコ
 En Name: Crazed Titan Cat
 Jp Desc: 超絶破壊力＆強靭な体力を備えた最高級のキャラ（範囲攻撃）ごくたまに超遠距離の波動を放つ
@@ -25,6 +26,7 @@ Stats: 	health - 9000.000
 
 Evolved:
 Version: 
+Image: https://vignette.wikia.nocookie.net/battle-cats/images/3/35/Uni099_c002.png/revision/latest?cb=20190923173615
 Jap Name: 狂乱のネコダラボッチ
 En Name: Crazed Mythical Titan
 Jp Desc: 超絶破壊力＆強靭な体力を備えた破壊をつかさどるネコ神様（範囲攻撃）ごくたまに超遠距離の波動を放つ
@@ -48,6 +50,7 @@ Stats: 	health - 9000.000
 
 True:
 Version: Ver5.0
+Image: https://vignette.wikia.nocookie.net/battle-cats/images/b/b6/Uni099_s00.png/revision/latest?cb=20190923173546
 Jap Name: 大狂乱のネコジャラミ
 En Name: Manic Jamiera Cat
 Jp Desc: 超絶破壊力＆強靭な体力を備えた破壊をつかさどる巨大ネコの暴走（範囲攻撃）大狂乱となることで体力と波動の発生確率アップ

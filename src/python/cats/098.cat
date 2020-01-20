@@ -2,6 +2,7 @@
 
 Normal:
 Version: 
+Image: https://vignette.wikia.nocookie.net/battle-cats/images/1/11/Uni097_f00.png/revision/latest?cb=20190923172521
 Jap Name: 狂乱のネコフィッシュ
 En Name: Crazed Fish Cat
 Jp Desc: ｢赤い敵｣にはめっぽう強く狂乱となることで生産性が向上したごくたまにクリティカル攻撃を放つ
@@ -25,6 +26,7 @@ Stats: 	health - 6300.000
 
 Evolved:
 Version: 
+Image: https://vignette.wikia.nocookie.net/battle-cats/images/3/33/Uni097_c002.png/revision/latest?cb=20190923172510
 Jap Name: 狂乱のネコクジラ
 En Name: Crazed Whale Cat
 Jp Desc: 肉食クジラに進化した高級戦闘キャラ｢赤い敵｣にはめっぽう強いごくたまにクリティカル攻撃を放つ
@@ -48,6 +50,7 @@ Stats: 	health - 6300.000
 
 True:
 Version: Ver5.0
+Image: https://vignette.wikia.nocookie.net/battle-cats/images/7/7a/Uni097_s00.png/revision/latest?cb=20190923172458
 Jap Name: 大狂乱のネコ島
 En Name: Manic Island Cat
 Jp Desc: 鬼が住むと噂のあるにゃんこ向け温泉リゾート赤い敵にめっぽう強く、ごくたまにクリティカルを放つ大狂乱となることで体力と攻撃力がアップ

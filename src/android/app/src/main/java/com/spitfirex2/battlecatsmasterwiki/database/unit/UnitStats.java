@@ -9,6 +9,25 @@ public class UnitStats {
         // For Firebase
     }
 
+    public String getHealthAtLevel(int level, Unit.Rarity rarity) {
+        if (level <= 0)
+            return this.health;
+        return String.valueOf(getStatAtLevel(level, Double.parseDouble(this.health), rarity));
+    }
+
+    public String getAttackPowerAtLevel(int level, Unit.Rarity rarity) {
+        if (level <= 0)
+            return this.attackPower;
+        return String.valueOf(getStatAtLevel(level, Double.parseDouble(this.attackPower), rarity));
+    }
+
+    private static int getStatAtLevel(int level, double initialStat, Unit.Rarity rarity) {
+        return (int) (initialStat * (1 +
+                0.2 * Math.min(level - 1, Unit.Rarity.getFirstRedPoint(rarity)) +
+                0.1 * Math.max(Math.min(level - Unit.Rarity.getFirstRedPoint(rarity), Unit.Rarity.getSecondRedPoint(rarity)), 0) +
+                0.05 * Math.max(level - Unit.Rarity.getSecondRedPoint(rarity), 0)));
+    }
+
     public static void copyStats(UnitStats dest, UnitStats src) {
         dest.health = src.health;
         dest.knockback = src.knockback;
@@ -42,9 +61,5 @@ public class UnitStats {
                 "\n\tcost='" + cost + '\'' +
                 "\n\tattackType='" + attackType + '\'' +
                 "\n}";
-    }
-
-    private int calculate_stat(int level, int base_stat) {
-        return -1;
     }
 }

@@ -19,7 +19,64 @@ public class Unit {
         RARE,
         SUPER_RARE,
         UBER_RARE,
-        CRAZED
+        CRAZED,
+        LEGEND,
+        UNDEFINED;
+
+        public static Rarity getRarity(String rarity) {
+            switch (rarity) {
+                case "基本":
+                    return NORMAL;
+                case "EX":
+                    return SPECIAL;
+                case "レア":
+                    return RARE;
+                case "激レア":
+                    return SUPER_RARE;
+                case "狂乱":
+                    return CRAZED;
+                case "超激レア":
+                    return UBER_RARE;
+                case "伝説レア":
+                    return LEGEND;
+                default:
+                    return UNDEFINED;
+            }
+        }
+
+        public static int getFirstRedPoint(Rarity rarity) {
+            switch (rarity) {
+                case NORMAL:
+                case SPECIAL:
+                case SUPER_RARE:
+                case UBER_RARE:
+                case LEGEND:
+                    return 60;
+                case RARE:
+                    return 70;
+                case CRAZED:
+                    return 20;
+                default:
+                    return 0;
+            }
+        }
+
+        public static int getSecondRedPoint(Rarity rarity) {
+            switch (rarity) {
+                case NORMAL:
+                case SPECIAL:
+                case CRAZED:
+                    return Integer.MAX_VALUE;
+                case RARE:
+                    return 90;
+                case SUPER_RARE:
+                case UBER_RARE:
+                case LEGEND:
+                    return 80;
+                default:
+                    return 0;
+            }
+        }
     }
 
     public String enDescription;
@@ -68,10 +125,6 @@ public class Unit {
         dest.combos = src.combos;
         dest.imgDrawable = src.imgDrawable;
         UnitStats.copyStats(dest.stats, src.stats);
-    }
-
-    public UnitStats getUnitStats(int something) {
-        return null;
     }
 
     @Override

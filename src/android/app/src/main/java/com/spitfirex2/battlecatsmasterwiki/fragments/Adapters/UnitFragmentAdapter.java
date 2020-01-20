@@ -1,9 +1,12 @@
 package com.spitfirex2.battlecatsmasterwiki.fragments.Adapters;
 
+import android.util.Log;
+
 import androidx.fragment.app.Fragment;
 import androidx.fragment.app.FragmentManager;
 import androidx.fragment.app.FragmentStatePagerAdapter;
 
+import com.spitfirex2.battlecatsmasterwiki.activities.MainActivity;
 import com.spitfirex2.battlecatsmasterwiki.database.unit.UnitDB;
 import com.spitfirex2.battlecatsmasterwiki.fragments.UnitFragment;
 
@@ -33,6 +36,7 @@ public class UnitFragmentAdapter extends FragmentStatePagerAdapter {
             case 2:
                 return new UnitFragment(unit.True);
             default:
+                Log.d(MainActivity.TAG, "Rut ro");
                 return null;
         }
     }
