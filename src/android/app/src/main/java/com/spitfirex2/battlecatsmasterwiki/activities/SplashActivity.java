@@ -1,11 +1,10 @@
 package com.spitfirex2.battlecatsmasterwiki.activities;
 
 import android.content.Intent;
-import android.content.res.ColorStateList;
-import android.graphics.Color;
 import android.os.Bundle;
 import android.util.Log;
 import android.widget.ProgressBar;
+import android.widget.TextView;
 
 import androidx.annotation.Nullable;
 import androidx.appcompat.app.AppCompatActivity;
@@ -21,26 +20,32 @@ public class SplashActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.splash_layout);
 
-        FirebaseDB firebaseDB = new FirebaseDB();
-        firebaseDB.loadAllUnits();
+        final FirebaseDB firebaseDB = new FirebaseDB();
 
         final ProgressBar loadingBar = findViewById(R.id.loadingProgressBar);
-        loadingBar.setSecondaryProgressTintList(ColorStateList.valueOf(Color.BLACK));
-        loadingBar.setProgressBackgroundTintList(ColorStateList.valueOf(Color.RED));
-        loadingBar.setMax(100);
+        loadingBar.setMax(EXPECTED_UNIT_SIZE);
         loadingBar.setMin(0);
 
+        final TextView loadingText = findViewById(R.id.loadingProgressText);
         Thread loadingThread = new Thread() {
             @Override
             public void run() {
                 try {
                     super.run();
+                    // Load cat units
+                    firebaseDB.loadAllUnits();
                     while (FirebaseDB.mFirebaseUnitDB.size() < EXPECTED_UNIT_SIZE) {
-                        loadingBar.setProgress(FirebaseDB.mFirebaseUnitDB.size() / EXPECTED_UNIT_SIZE);
-                        sleep(50);
+                        loadingBar.setProgress(FirebaseDB.mFirebaseUnitDB.size());
+                        runOnUiThread(new Runnable() {
+                            @Override
+                            public void run() {
+                                loadingText.setText(loadingBar.getProgress() + " / " + EXPECTED_UNIT_SIZE);
+                            }
+                        });
+                        sleep(100);
                     }
                 } catch (Exception e) {
-
+                    Log.e(MainActivity.TAG, "Error with loading progress bar.");
                 } finally {
                     Intent intent = new Intent(SplashActivity.this, MainActivity.class);
                     SplashActivity.this.startActivity(intent);
