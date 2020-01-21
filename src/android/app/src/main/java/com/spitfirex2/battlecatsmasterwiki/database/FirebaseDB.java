@@ -44,4 +44,28 @@ public class FirebaseDB {
             }
         });
     }
+
+    public static List<UnitDB> search(String query) {
+        ArrayList<UnitDB> found = new ArrayList<>();
+        int unitNumber;
+        try {
+            unitNumber = Integer.parseInt(query);
+            found.add(mFirebaseUnitDB.get(unitNumber));
+        } catch (NumberFormatException e) { /* Do nothing */ }
+
+        for (UnitDB unit : mFirebaseUnitDB) {
+            if (unit.hasTrueForm()) {
+                if (unit.Normal.enName.toLowerCase().contains(query.toLowerCase()) ||
+                        unit.Evolved.enName.toLowerCase().contains(query.toLowerCase()) ||
+                        unit.True.enName.toLowerCase().contains(query.toLowerCase()))
+                    found.add(unit);
+            } else {
+                if (unit.Normal.enName.toLowerCase().contains(query.toLowerCase()) ||
+                        unit.Evolved.enName.toLowerCase().contains(query.toLowerCase()))
+                    found.add(unit);
+            }
+        }
+
+        return found;
+    }
 }

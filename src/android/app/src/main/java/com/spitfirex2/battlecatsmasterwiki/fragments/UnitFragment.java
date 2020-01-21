@@ -31,7 +31,6 @@ public class UnitFragment extends Fragment {
     @Override
     public View onCreateView(@NonNull LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
         final View layout = inflater.inflate(R.layout.unit_fragment_layout, container, false);
-        Toast.makeText(getContext(), "Level must be greater than 0.", Toast.LENGTH_SHORT).show();
 
         // Level Independent Stats
         setLevelViews(layout);
